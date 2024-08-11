@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MELVIN/Arvo_Greeting 0_Response_003_000">Que tengas un buen día.</string>
+    <string name="MELVIN/Arvo_Greeting 0_Intro_000">Buenas tardes, &lt;PlayerName&gt;!</string>
+    <string name="MELVIN/Low_Friendship_Greeting 0_Intro_000">Buen día.</string>
+    <string name="MELVIN/Arvo_Greeting 1_Intro_000">¿Qué te trae a mí esta tarde?</string>
+    <string name="MELVIN/BugComp_Greeting 000_Intro_000">Buen día.</string>
+</resources>

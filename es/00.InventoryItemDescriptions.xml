@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="InventoryItemDescriptions/InvDesc_1">Un voucher por valor de 10,000 Dinks</string>
+    <string name="InventoryItemDescriptions/InvDesc_10">Transporta agua del punto A al punto B</string>
+    <string name="InventoryItemDescriptions/InvDesc_0">Corta arboles y plantas.</string>
+    <string name="InventoryItemDescriptions/InvDesc_168">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1374">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1419">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_100">Una mosca común</string>
+    <string name="InventoryItemDescriptions/InvDesc_1355">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1361">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_170">Lavadero de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1356">Lavadero de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1357">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1358">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1360">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1375">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1376">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_1420">Mueble de Cocina</string>
+    <string name="InventoryItemDescriptions/InvDesc_112">Ponlo en la tierra!</string>
+    <string name="InventoryItemDescriptions/InvDesc_102">Una Flor amarilla.</string>
+    <string name="InventoryItemDescriptions/InvDesc_104">Una Gema Brillante.</string>
+    <string name="InventoryItemDescriptions/InvDesc_108">Una linda y pequeña araña.</string>
+    <string name="InventoryItemDescriptions/InvDesc_109">No puede volar.</string>
+    <string name="InventoryItemDescriptions/InvDesc_110">Una Luz muy fuerte.</string>
+    <string name="InventoryItemDescriptions/InvDesc_113">Una barra de acero</string>
+    <string name="InventoryItemDescriptions/InvDesc_114">Una barra de cobre</string>
+    <string name="InventoryItemDescriptions/InvDesc_115">Un Horno moderno puede fundir el acero</string>
+</resources>

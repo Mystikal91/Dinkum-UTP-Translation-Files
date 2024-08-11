@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="THEODORE/AllItemsAlreadyDonated_Intro_000">Oh my! It seems our museum has a &lt;donationName&gt; on exhibit already!</string>
+  <string name="THEODORE/AllItemsAlreadyDonated_Intro_001">I'll just return this to you.</string>
+  <string name="THEODORE/Ask if has Another donation_Intro_000">Is there anything else I can help you with?</string>
+  <string name="THEODORE/Ask if has Another donation_Option_000">I have another donation.</string>
+  <string name="THEODORE/Ask if has Another donation_Option_001">Thats all!</string>
+  <string name="THEODORE/Ask if has Another donation_Response_000_000">Oh? What else have you got?</string>
+  <string name="THEODORE/Ask if has Another donation_Response_001_000">Thank you again, &lt;PlayerName&gt;. </string>
+  <string name="THEODORE/CompleteBirthday_000_Intro_000">Many thanks, &lt;PlayerName&gt;.</string>
+  <string name="THEODORE/CompleteRequest_000_Intro_000">Thank you, &lt;PlayerName&gt;.</string>
+  <string name="THEODORE/CompleteRequest_000_Intro_001">&lt;shy&gt;I would shake your hand in thanks, but that might be inappropriate.</string>
+  <string name="THEODORE/CompleteRequest_000_Intro_002">Instead, I will give you this.</string>
+  <string name="THEODORE/EmptyNoPhoto_Intro_000">That's one of our empty frames. It's a shame no one has donated a photo to place in it.</string>
+  <string name="THEODORE/EmptyWithPhoto_Intro_000">That's one of our empty frames.</string>
+  <string name="THEODORE/EmptyWithPhoto_Intro_001">Oh! Do you have a photo we could put here?</string>
+  <string name="THEODORE/EmptyWithPhoto_Option_000">Yes!</string>
+  <string name="THEODORE/EmptyWithPhoto_Option_001">No.</string>
+  <string name="THEODORE/EmptyWithPhoto_Response_000_000">Great! Show me what you want to place here.</string>
+  <string name="THEODORE/EmptyWithPhoto_Response_001_000">Well, if you take a great photo you want to show off. Please bring it in!</string>
+  <string name="THEODORE/FullPhotoNoPhoto_Intro_000">Oh! What a wonderful photo that is!</string>
+  <string name="THEODORE/FullPhotoNoPhoto_Intro_002">I'm quite fond of it to be honest! &lt;haha&gt;</string>
+  <string name="THEODORE/FullPhotoWithPhoto_Intro_000">Oh! What a wonderful photo that is!</string>
+  <string name="THEODORE/FullPhotoWithPhoto_Intro_002">If you have another photo to you want to place here let me know!</string>
+  <string name="THEODORE/FullPhotoWithPhoto_Option_000">I have a different photo!</string>
+  <string name="THEODORE/FullPhotoWithPhoto_Option_001">No thanks.</string>
+  <string name="THEODORE/FullPhotoWithPhoto_Response_000_000">Great! We're always looking for new exhibits.</string>
+  <string name="THEODORE/FullPhotoWithPhoto_Response_001_000">Phew. I'm quite fond of this one.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/Introduction_009_Intro_000">&lt;worried&gt;Oh, sorry.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/Introduction_009_Intro_001">&lt;shy&gt;I don't think I introduced myself... I get a bit carried away sometimes.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/Introduction_009_Intro_002">&lt;proud&gt;I’m &lt;myName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/Introduction_009_Intro_003">&lt;glee&gt;I'd love to open a museum here on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/Introduction_009_Intro_004">We could fill it with all the interesting things found here on &lt;IslandName&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/Introduction_009_Intro_005">So please speak to &lt;NPCName&gt; about building the museum as soon as possible!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_AfterNoon_009_Intro_000">I think I’m going to write a paper about &lt;IslandDay&gt; and why it’s so good.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_AfterNoon_009_Intro_001">&lt;thinking&gt;Maybe that’s the surprise &lt;NPCName&gt; has for us tonight!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_AfterNoon_009_Intro_002">&lt;glee&gt;Everyone gets to write an essay!</string>
+  <string name="THEODORE/IslandDayGreeting_Morning_009_Intro_000">Oh, G’day &lt;PlayerName&gt;.</string>
+  <string name="THEODORE/IslandDayGreeting_Morning_009_Intro_001">&lt;no&gt;I’m not even going to step foot into the Museum today.</string>
+  <string name="THEODORE/IslandDayGreeting_Morning_009_Intro_002">&lt;shy&gt;I’ve been told to relax and take it easy for &lt;IslandDay&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Night_009_Intro_000">Oh my!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Night_009_Intro_001">The sky!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Night_009_Intro_002">&lt;yes&gt;It’s absolutely incredible.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Night_009_Intro_003">I’ve never seen something so amazing.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Night_009_Intro_004">Are you seeing this, &lt;PlayerName&gt;?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Noon_009_Intro_000">&lt;NPCName&gt; has outdone herself.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Noon_009_Intro_001">&lt;yes&gt;This is the best &lt;Snag&gt; I’ve ever had.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Noon_009_Intro_002">Part of me wants to put what’s left of my &lt;Snag&gt; into an exhibit, just to save it for later.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/IslandDayGreeting_Noon_009_Intro_003">&lt;haha&gt;But it’s too tasty.</string>
+  <string name="THEODORE/ItemNotNeeded_Intro_000">Hmmmm... The museum isn't really looking for this kind of thing.</string>
+  <string name="THEODORE/ItemNotNeeded_Intro_001">Our collection include, fish, bugs and relics. If there are any other items you don't want, maybe consider selling them?</string>
+  <string name="THEODORE/ItemNotNeeded_Intro_002">Thanks!</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Intro_000">&lt;shocked&gt;Oh my!</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Intro_001">&lt;shy&gt;I see you have quite a few new amazing specimens not yet in our museum!</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Intro_002">Would you be willing to donate all of these?</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Option_000">Take them!</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Option_001">Actually...</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Response_000_000">&lt;glee&gt;Your generosity is outstanding!</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Response_000_001">Please accept &lt;donationReward&gt; as a small token of our gratitude!</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Response_001_000">Oh, I'll give these back then.</string>
+  <string name="THEODORE/MultipleDonateNoDoubles_Response_001_001">If you change your mind, don't hesitate to come back.</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Intro_000">&lt;shocked&gt;Oh my!</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Intro_001">&lt;shy&gt;I see you have quite a few new amazing specimens not yet in our museum!</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Intro_002">Would you be willing to donate all of these?</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Option_000">Take them!</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Option_001">Actually...</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Response_000_000">&lt;glee&gt;Your generosity is outstanding!</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Response_000_001">I only require one of each specimen, so I’ll return these other ones to you.</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Response_000_002">Please accept &lt;donationReward&gt; as a small token of our gratitude!</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Response_001_000">Oh, I'll give these back then.</string>
+  <string name="THEODORE/MultipleDonateWithDoubles_Response_001_001">If you change your mind, don't hesitate to come back.</string>
+  <string name="THEODORE/MuseumKeeperConvo_Intro_000">Welcome to the museum!</string>
+  <string name="THEODORE/MuseumKeeperConvo_Intro_001">What can I do for you?</string>
+  <string name="THEODORE/MuseumKeeperConvo_Option_000">I have a donation.</string>
+  <string name="THEODORE/MuseumKeeperConvo_Option_001">I want to chat.</string>
+  <string name="THEODORE/MuseumKeeperConvo_Option_002">Nevermind.</string>
+  <string name="THEODORE/MuseumKeeperConvo_Response_000_000">OH! What have you brought me?</string>
+  <string name="THEODORE/MuseumKeeperConvo_Response_002_000">Please, have a look around.</string>
+  <string name="THEODORE/NoItemsGiven_Intro_000">Oh, nothing to donate then? That's fine!</string>
+  <string name="THEODORE/NoItemsGiven_Intro_001">&lt;sigh&gt;Although you did get my hopes up...</string>
+  <string name="THEODORE/NonLocalEmpty_Intro_000">Oh, that's an empty frame.</string>
+  <string name="THEODORE/NonLocalEmpty_Intro_001">&lt;glee&gt;We actually encourage locals to donate their own photos to display here!</string>
+  <string name="THEODORE/NonLocalPicture_Intro_000">Oh! What a wonderful photo that is!</string>
+  <string name="THEODORE/NonLocalPicture_Intro_002">The photographer is very talented!</string>
+  <string name="THEODORE/RandomConvo_000_Intro_000">&lt;thinking&gt;Museums are very important for society.</string>
+  <string name="THEODORE/RandomConvo_000_Intro_001">Imagine if we just kept all the old stuff where we found it?</string>
+  <string name="THEODORE/RandomConvo_000_Intro_002">&lt;worried&gt;It would be all over the place!</string>
+  <string name="THEODORE/RandomConvo_000_Intro_003">&lt;shocked&gt;Chaos!</string>
+  <string name="THEODORE/RandomConvo_001_Intro_000">&lt;yes&gt;I’ve really been enjoying documenting all the new species on this island.</string>
+  <string name="THEODORE/RandomConvo_001_Intro_001">&lt;glee&gt;To tell you the truth though, filing the documentation is nearly as enjoyable!</string>
+  <string name="THEODORE/RandomConvo_002_Intro_000">&lt;worried&gt;Fish and bugs are very interesting, but I really don't like touching either...</string>
+  <string name="THEODORE/RandomConvo_002_Intro_001">&lt;yes&gt;That’s fine though.</string>
+  <string name="THEODORE/RandomConvo_002_Intro_002">&lt;proud&gt;After all, things in a museum are for looking at, not touching.</string>
+  <string name="THEODORE/RandomConvo_003_Intro_000">&lt;thinking&gt;I’ve been wondering if there could be a way to catalogue air?</string>
+  <string name="THEODORE/RandomConvo_003_Intro_001">Would you be interested in seeing an air exhibit, &lt;PlayerName&gt;? </string>
+  <string name="THEODORE/RandomConvo_003_Option_000">Oh yeah!</string>
+  <string name="THEODORE/RandomConvo_003_Option_001">Not Really</string>
+  <string name="THEODORE/RandomConvo_003_Response_000_000">&lt;glee&gt; See, I had a feeling you were a fellow air-head!</string>
+  <string name="THEODORE/RandomConvo_003_Response_000_001">I’ll ask around town and see if I can find some more people who are interested! &lt;glee&gt;</string>
+  <string name="THEODORE/RandomConvo_003_Response_001_000">&lt;sigh&gt;Ah, that’s a shame. I’ve already collected a bunch of specimens in some jars...</string>
+  <string name="THEODORE/RandomConvo_004_Intro_000">&lt;thinking&gt;Paperwork can be very time consuming.</string>
+  <string name="THEODORE/RandomConvo_004_Intro_001">&lt;haha&gt;But they say time flies when you are having fun!</string>
+  <string name="THEODORE/RandomConvo_005_Intro_000">&lt;yes&gt;If you ever take a great photo and you want to show it off, please come and display it in the museum.</string>
+  <string name="THEODORE/RandomConvo_005_Intro_001">&lt;yes&gt;Don't worry, I will fill out the required forms for you!</string>
+  <string name="THEODORE/RandomConvo_005_Intro_002">&lt;glee&gt;It would be my absolute pleasure!</string>
+  <string name="THEODORE/RandomConvo_006_Intro_000">&lt;proud&gt;It’s so great to have a one stop shop to look at all the interesting stuff around here.</string>
+  <string name="THEODORE/RandomConvo_006_Intro_001">What?</string>
+  <string name="THEODORE/RandomConvo_006_Intro_002">&lt;shocked&gt;John’s Goods?</string>
+  <string name="THEODORE/RandomConvo_006_Intro_003">&lt;no&gt;No, no, no.</string>
+  <string name="THEODORE/RandomConvo_006_Intro_004">&lt;angry&gt;I meant the museum!</string>
+  <string name="THEODORE/RandomConvo_007_Intro_000">&lt;glee&gt;There are so many new species to study here on &lt;IslandName&gt;!</string>
+  <string name="THEODORE/RandomConvo_007_Intro_001">&lt;worried&gt; Oh no!</string>
+  <string name="THEODORE/RandomConvo_007_Intro_002">&lt;no&gt;I don’t mean I’m going to cut them open!</string>
+  <string name="THEODORE/RandomConvo_007_Intro_003">&lt;proud&gt;Here at the &lt;IslandName&gt; museum we only study by observing!</string>
+  <string name="THEODORE/RandomConvo_008_Intro_000"> &lt;thinking&gt;Imagine if we could take everything on &lt;IslandName&gt; and put it in a museum!</string>
+  <string name="THEODORE/RandomConvo_008_Intro_001">&lt;proud&gt;That way, when people wanted to see a certain thing, they could just make their way to that wing!</string>
+  <string name="THEODORE/RandomConvo_009_Intro_000">Studying things is just my job.</string>
+  <string name="THEODORE/RandomConvo_009_Intro_001">&lt;yes&gt;I have plenty of other hobbies.</string>
+  <string name="THEODORE/RandomConvo_009_Intro_002">&lt;glee&gt;For example, in my spare time I like to talk about all the things I’ve been studying.</string>
+  <string name="THEODORE/RandomConvo_010_Intro_000">&lt;thinking&gt;I think one day we’ll see a Museum of Museums.</string>
+  <string name="THEODORE/RandomConvo_010_Intro_001">&lt;yes&gt;Truly the pinnacle of society.</string>
+  <string name="THEODORE/RandomConvo_010_Intro_002">All that knowledge, all those exhibits, all that paperwork!</string>
+  <string name="THEODORE/RandomConvo_010_Intro_003">&lt;glee&gt;So beautiful.</string>
+  <string name="THEODORE/RandomConvo_011_Intro_000">&lt;thinking&gt;I'd love to experience some more travelling one day.</string>
+  <string name="THEODORE/RandomConvo_011_Intro_001">&lt;no&gt;As long as I don't have to actually go anywhere else, of course.</string>
+  <string name="THEODORE/RandomConvo_011_Intro_002">&lt;pumped&gt;We could get exhibits from all over the world, and bring them right to &lt;IslandName&gt;!</string>
+  <string name="THEODORE/RandomConvo_012_Intro_000">&lt;no&gt;I don’t go outside too much.</string>
+  <string name="THEODORE/RandomConvo_012_Intro_001">&lt;worried&gt;There’s not enough order out there so it can get a bit overwhelming.</string>
+  <string name="THEODORE/RandomConvo_012_Intro_002">&lt;worried&gt;All the plants and people and animals are just going around doing whatever they want, all over the place!</string>
+  <string name="THEODORE/RandomConvo_012_Intro_003">&lt;shocked&gt;Chaos!</string>
+  <string name="THEODORE/RandomConvo_013_Intro_000">&lt;thinking&gt;There’s so many different ways to organise things and group them together.</string>
+  <string name="THEODORE/RandomConvo_013_Intro_001">&lt;yes&gt;Playing around with them can be exciting.</string>
+  <string name="THEODORE/RandomConvo_013_Intro_002">&lt;pumped&gt;Sometimes I’ll go around and rearrange everything alphabetically, then by height, and sometimes even by smell!</string>
+  <string name="THEODORE/RandomConvo_013_Intro_003">&lt;yes&gt;That last one is really easy to do, because everything smells like disinfectant, like it should.</string>
+  <string name="THEODORE/RandomConvo_014_Intro_000">&lt;shy&gt;Sometimes I like to climb into an empty case and pretend I’M the exhibit.</string>
+  <string name="THEODORE/RandomConvo_014_Intro_001">&lt;haha&gt;I’m a perfect candidate too, because I never try and escape.</string>
+  <string name="THEODORE/RandomConvo_015_Intro_000">&lt;shy&gt;Sometimes I stand really really still and pretend I’m a statue...</string>
+  <string name="THEODORE/RandomConvo_015_Intro_001">&lt;haha&gt;It makes me feel marble-ous!</string>
+  <string name="THEODORE/RandomConvo_015_Intro_002">Just a little museum humour for you, &lt;PlayerName&gt;.</string>
+  <string name="THEODORE/RandomConvo_016_Intro_000">&lt;thinking&gt;It must be nice to be getting watched all day.</string>
+  <string name="THEODORE/RandomConvo_016_Intro_001">&lt;worried&gt;I don’t think I could handle the attention though.</string>
+  <string name="THEODORE/RandomConvo_016_Intro_002">&lt;thinking&gt;Though, maybe if people formed an orderly queue it wouldn’t freak me out so much?</string>
+  <string name="THEODORE/RandomConvo_017_Intro_000">&lt;yes&gt;I’m a huge fan of music.</string>
+  <string name="THEODORE/RandomConvo_017_Intro_001">&lt;no&gt;I don’t listen to it, of course, it’s far too noisy.</string>
+  <string name="THEODORE/RandomConvo_017_Intro_002">But there’s so many different ways to catalogue and arrange it.</string>
+  <string name="THEODORE/RandomConvo_017_Intro_003">&lt;thinking&gt;You can organise by artist, genre, length, beats per minute…</string>
+  <string name="THEODORE/RandomConvo_017_Intro_004">&lt;glee&gt;So many possibilities!</string>
+  <string name="THEODORE/RandomConvo_018_Intro_000">&lt;glee&gt;What a beautiful day it is!</string>
+  <string name="THEODORE/RandomConvo_018_Intro_001">&lt;yes&gt;Perfect weather to be indoors and studying!</string>
+  <string name="THEODORE/RandomConvo_019_Intro_000">&lt;glee&gt;I just love the smell of fresh paper.</string>
+  <string name="THEODORE/RandomConvo_019_Intro_001">&lt;yes&gt;All neatly arranged, lined up and ready for work.</string>
+  <string name="THEODORE/RandomConvo_019_Intro_002">&lt;pumped&gt;Sometimes I feel bad writing on it, but we're doing really important work here.</string>
+  <string name="THEODORE/RandomConvo_019_Intro_003">&lt;yes&gt;So its all worth it!</string>
+  <string name="THEODORE/RandomConvo_020_Intro_000">What’s the point of anything happening if nobody is there to record it?</string>
+  <string name="THEODORE/RandomConvo_020_Intro_001">&lt;yes&gt;Hey, &lt;PlayerName&gt;, if a tree falls in the woods, please be sure to let me know.</string>
+  <string name="THEODORE/Thank you_Intro_000">Thank you! It looks great up here doesn't it?</string>
+  <string name="THEODORE/allItemsAreNew_Intro_000">&lt;shocked&gt;Oh my! A &lt;donationName&gt;!</string>
+  <string name="THEODORE/allItemsAreNew_Intro_001">&lt;shy&gt;Our collection is currently missing a &lt;donationName&gt;.</string>
+  <string name="THEODORE/allItemsAreNew_Intro_002">Would you be willing to donate it?</string>
+  <string name="THEODORE/allItemsAreNew_Option_000">Take it!</string>
+  <string name="THEODORE/allItemsAreNew_Option_001">Actually...</string>
+  <string name="THEODORE/allItemsAreNew_Response_000_000">&lt;glee&gt;Your generosity is outstanding!</string>
+  <string name="THEODORE/allItemsAreNew_Response_000_001">Please accept &lt;donationReward&gt; as a small token of our gratitude!</string>
+  <string name="THEODORE/allItemsAreNew_Response_001_000">Oh, I'll give this back then.</string>
+  <string name="THEODORE/allItemsAreNew_Response_001_001">If you change your mind, don't hesitate to come back.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="THEODORE/SkyFest_AfterNoon_009_Intro_000">&lt;yes&gt;Hello, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="THEODORE/SkyFest_AfterNoon_009_Intro_001">How is your &lt;PaperLantern&gt; hunt going?</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="THEODORE/SkyFest_AfterNoon_009_Intro_002">&lt;shy&gt;I can’t say that I’ve hit any down as of yet.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="THEODORE/SkyFest_AfterNoon_009_Intro_003">&lt;shy&gt;To be honest I’m a bit concerned that &lt;itemName&gt; might fall on my head…</string>
+  <string name="THEODORE/SkyFest_Morning_009_Intro_000">Greetings, &lt;PlayerName&gt;.</string>
+  <string name="THEODORE/SkyFest_Morning_009_Intro_001">I’m not in the Museum today, no.</string>
+  <string name="THEODORE/SkyFest_Morning_009_Intro_002">I thought it might be nice to join in on the &lt;SkyFest&gt; celebrations instead.</string>
+  <string name="THEODORE/SkyFest_Morning_009_Intro_003">&lt;shy&gt;However, I do wish we could celebrate inside…</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Night_009_Intro_000">&lt;pumped&gt;This is incredible!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Night_009_Intro_001">&lt;glee&gt;I guess it was well worth going outside for &lt;SkyFest&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Night_009_Intro_002">&lt;thinking&gt;I do worry how the museum is fairing without me..</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Night_009_Intro_003">&lt;yes&gt;But I guess I should be focusing on this &lt;Aurora&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Noon_009_Intro_000">&lt;yes&gt;Yes I have my &lt;Kite&gt; already.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Noon_009_Intro_001">&lt;yes&gt;I decided to use my &lt;Kite&gt; from last year.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Noon_009_Intro_002">&lt;shy&gt;That way I wasn’t required to share any of the equipment.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="THEODORE/SkyFest_Noon_009_Intro_003">&lt;shy&gt;I just prefer to not share things like that.</string>
+  <string name="THEODORE/CompleteBirthday_000_Intro_001">&lt;glee&gt;I don’t often receive &lt;birthday&gt; gifts, so this one is very appreciated.</string>
+  <string name="Npc9/Introduction_009_Intro_004"> We could fill it with all the interesting things found here on &lt;IslandName&gt;!</string>
+  <string name="Npc9/Introduction_009_Intro_005">So please speak to Fletch about building the museum as soon as possible!</string>
+</resources>

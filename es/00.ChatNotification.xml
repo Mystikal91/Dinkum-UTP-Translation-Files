@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ChatNotification/FarmAnimal_onFarmAnimalDeath_PassedAway">&lt;AnimalName&gt; ha fallecido</string>
+    <string name="ChatNotification/FarmAnimal_sendPetHomeNotification_Fainted">&lt;AnimalName&gt; se desmayó y regresó a casa</string>
+    <string name="ChatNotification/MailManager_takeAttachment_PocketsFull">Bolsillos llenos</string>
+</resources>

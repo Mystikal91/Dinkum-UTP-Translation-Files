@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MapIcon/TownHall">Prefeitura</string>
+    <string name="MapIcon/BaseTent">Tenda Base</string>
+    <string name="MapIcon/TheBank">O banco</string>
+    <string name="MapIcon/GuestHouse">Casa de hóspedes</string>
+    <string name="MapIcon/TelePad">Telepad</string>
+    <string name="MapIcon/BandStand">Suporte de banda</string>
+    <string name="MapIcon/Docks">Docas</string>
+    <string name="MapIcon/FranklynsLab">Laboratório de Franklyn</string>
+    <string name="MapIcon/TheGreenhouse">A estufa</string>
+    <string name="MapIcon/Airport">Aeroporto</string>
+    <string name="MapIcon/Mine">Mina</string>
+    <string name="MapIcon/MelvinsPlace">Lugar do Melvin</string>
+    <string name="MapIcon/VisitorsSite">Sítio do visitante</string>
+    <string name="MapIcon/TheMuseum">O Museu</string>
+    <string name="MapIcon/SallysSalon">Salão da Sally</string>
+    <string name="MapIcon/TheTuckerbox">A Caixa de comida</string>
+    <string name="MapIcon/WishFountain">Fonte dos Desejos</string>
+    <string name="MapIcon/JohnsGoods">Bens de John</string>
+    <string name="MapIcon/IrwinsBarn">Celeiro de Irwin</string>
+    <string name="MapIcon/Threadspace">Espaço de discussão</string>
+</resources>

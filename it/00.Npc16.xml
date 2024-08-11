@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc16/Nick_Salesman_Convo_Option_002">Lascia perdere</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt;Adoro stare qui su &lt;IslandName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt;Ho! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">Ma ciao, &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_000">Ecco la mia lista.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt;Sembra che alcuni dei miei &lt;animalName&gt; Bianchi siano spariti.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_006">Ma se ne vedi uno, saresti così gentile da catturarlo e lasciarlo ad un &lt;itemName&gt;?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">Spero tu sia stato buono oggi!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_000">Puoi fare qualcosa per me?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_001">Come sono state le tue feste?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_001">Controllala due volte!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt;Ho! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt;Oh!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_003">Mi sono ricordato di una cosa!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt;Sono sicuro che prima o poi torneranno.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt;Grazie mille &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_008">Sei sempre così buono!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt;Ho! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt;Buon divertimento!</string>
+</resources>

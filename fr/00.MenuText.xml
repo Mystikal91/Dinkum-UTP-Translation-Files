@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MenuText/MainMenu_Back">Retour</string>
+    <string name="MenuText/MainMenu_HostWorld">Charger le jeu</string>
+    <string name="MenuText/MainMenu_JoinWorld">Multijoueurs</string>
+    <string name="MenuText/MainMenu_NewGame">Nouveau jeu</string>
+    <string name="MenuText/MainMenu_Options">Options</string>
+    <string name="MenuText/Multiplayer" resizable="True">Multijoueurs</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">Hallo daar, &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">Ik hoop dat je lief bent vandaag!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_001">Hoe zijn de feestdagen?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_002">Laat maar</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_000">Hier is mijn lijst.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_001">Check het twee keer!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt; Ik vind het geweldig hier op &lt;IslandName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt; Oh!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_003">Dat herinnert mij eraan!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt; Ik hoop dat ze vanzelf terugkomen.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_006">Maar als je er eentje ziet, zou je mij een plezier doen om er één te vangen en het af te geven bij een &lt;itemName&gt;?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt; Wauw, dankjewel &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt; Veel plezier!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt; Ha! Ha! Ha!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_000">Kan je iets voor mij maken?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt; Het ziet er naar uit dat sommige van mijn Witte &lt;animalName&gt; vermist zijn geraakt.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_008">Jij bent altijd heel lief geweest!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt; Ho! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt; Ho! Ho! Ho!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc11/Introduction_011_Intro_000">名字是&lt;myName&gt;。</string>
+    <string name="Npc11/JimmyWorkConvo_Option_002">算了吧。</string>
+    <string name="Npc11/JimmyWorkConvo_Response_002_000">行。</string>
+    <string name="Npc11/TotalEqualsZeroJimmy_Intro_000">嗯……</string>
+    <string name="Npc11/SkyFest_Night_011_Intro_000">你知道吗？</string>
+    <string name="Npc11/SkyFest_Night_011_Intro_001">&lt;yes&gt;我今天过得很棒，&lt;petName&gt;。</string>
+</resources>

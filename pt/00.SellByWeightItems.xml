@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SellByWeightItems/AmberChunk">Pedaço de Âmbar</string>
+    <string name="SellByWeightItems/WaryMuEgg">Ovo de Casuar cauteloso</string>
+    <string name="SellByWeightItems/BeeHive">Colmeia de Abelhas</string>
+    <string name="SellByWeightItems/ThunderEgg">Ovo de Trovão</string>
+    <string name="SellByWeightItems/Emerald">Esmeralda</string>
+    <string name="SellByWeightItems/Aquamarine">Água-marinha</string>
+    <string name="SellByWeightItems/Meteorite">Meteorito</string>
+    <string name="SellByWeightItems/Fossil">Fóssil</string>
+    <string name="SellByWeightItems/Ruby">Rubi</string>
+</resources>

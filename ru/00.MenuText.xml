@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MenuText/MainMenu_Back">Назад</string>
+    <string name="MenuText/MainMenu_JoinWorld">Сетевая игра</string>
+    <string name="MenuText/MainMenu_NewGame">Новая игра</string>
+    <string name="MenuText/MainMenu_Options">Настройки</string>
+    <string name="MenuText/MainMenu_HostWorld">Загрузить</string>
+</resources>

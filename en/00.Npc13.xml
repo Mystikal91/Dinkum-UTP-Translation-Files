@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Intro_000">&lt;wave&gt;Hello, &lt;PlayerName&gt;!</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Intro_001">&lt;glee&gt;The &lt;bugComp&gt; will officially start at &lt;bugCompStartTime&gt;.</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Intro_002">While we wait to start, do you have any bugs I can keep?</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Option_000">Want to buy some bugs?</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Option_001">Let's chat.</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Option_002">Nevermind.</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Response_000_000">&lt;glee&gt;Oh, yes please.</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Response_000_001">&lt;yes&gt;I've got lots of pocket money to spend.</string>
+  <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Response_002_000">&lt;glee&gt;Bye bye, &lt;PlayerName&gt;!</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Intro_000">&lt;wave&gt;Hello, &lt;PlayerName&gt;!</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Intro_001">How's the &lt;bugComp&gt; going?</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Intro_002">&lt;yes&gt;Don't forget to log and update your points in the &lt;compBook&gt;.</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Option_000">Want to buy some bugs?</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Option_001">Let's chat.</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Option_002">Nevermind.</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Response_000_000">&lt;glee&gt;Oh, yes please.</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Response_000_001">&lt;yes&gt;I've got lots of pocket money to spend.</string>
+  <string name="Npc13/BugCatchingCompConvo_InComp_Response_002_000">&lt;glee&gt;Have fun!</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Intro_000">&lt;NPCName&gt; told me that I could host a &lt;bugComp&gt; while I’m visiting &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Intro_001">&lt;glee&gt;I thought that sounded really, really fun.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Intro_002">&lt;yes&gt;So that’s what I’m doing today.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Option_000">I want to join.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Option_001">What are the rules?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Option_002">No thanks.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_000_000">&lt;glee&gt;YAY!</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_000_001">The &lt;compBook&gt; is over on the table, so you can sign up there.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_000_002">&lt;NPCName&gt; helped me write down the rules in it too if you don't know how to play.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_001_000">The main rule is to catch as many bugs as you can today, before &lt;bugCompEndTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_001_001">Once you've joined the &lt;bugComp&gt;, each bug you catch will get you some points.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_001_002">&lt;yes&gt;The rarer the bug, the more points you will get for it.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_001_003">&lt;angry&gt;And don’t even try to be a naughty cheater.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_001_004">&lt;no&gt;Any bugs you catch before you sign up or before the comp starts won’t count.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_001_005">&lt;yes&gt;If you want to sign up check out the &lt;compBook&gt; on the table over there.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_002_000">&lt;sigh&gt;That’s okay...</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_002_001">&lt;no&gt;I know that not all grown ups have time for fun.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/BugCatchingCompConvo_NotInComp_Response_002_002">You must be busy like &lt;NPCName&gt;.</string>
+  <string name="Npc13/BugCatchingCompEnded_Intro_000">&lt;wave&gt;Hello, &lt;PlayerName&gt;.</string>
+  <string name="Npc13/BugCatchingCompEnded_Intro_001">Today’s &lt;bugComp&gt; was so much fun!</string>
+  <string name="Npc13/BugCatchingCompEnded_Intro_002">&lt;proud&gt;I’m going to send the top 3 contestants a great prize in the mail.</string>
+  <string name="Npc13/BugCatchingCompEnded_Intro_003">If you want to see who placed in the top 3, you can check the &lt;compBook&gt; here in the tent for the rest of the day.</string>
+  <string name="Npc13/BugCatchingCompEnded_Intro_004">I'll come back soon to visit and we can have another &lt;bugComp&gt;, okay?</string>
+  <string name="Npc13/BugCatchingCompEnded_Option_000">Want to buy some bugs?</string>
+  <string name="Npc13/BugCatchingCompEnded_Option_001">Let's chat.</string>
+  <string name="Npc13/BugCatchingCompEnded_Option_002">Nevermind.</string>
+  <string name="Npc13/BugCatchingCompEnded_Response_000_000">&lt;glee&gt;Oh, yes please.</string>
+  <string name="Npc13/BugCatchingCompEnded_Response_000_001">&lt;yes&gt;I've got lots of pocket money to spend.</string>
+  <string name="Npc13/BugCatchingCompEnded_Response_002_000">&lt;glee&gt;Have fun!</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Intro_000">&lt;yes&gt;G'day, &lt;PlayerName&gt;!</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Intro_001">The &lt;FishingComp&gt; is on right now!</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Intro_002">Why aren't you out there catching &lt;itemName&gt;?</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Option_000">Want to buy some fish?</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Option_001">Let's chat.</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Option_002">Nevermind.</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Response_000_000">I'll take any fish ya got.</string>
+  <!-- Talking about Item: Barracuda -->
+  <string name="Npc13/FishingCompConvo_InComp_Response_002_000">Seeya, &lt;PlayerName&gt;.</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Intro_000">&lt;yes&gt;G'day, &lt;PlayerName&gt;!</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Intro_001">&lt;glee&gt;The &lt;FishingComp&gt; will officially start at &lt;bugCompStartTime&gt;.</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Intro_002">Oh, and I’ll happily purchase any fish you have spare today too.</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Option_000">Want to buy some fish?</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Option_001">Let's chat.</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Option_002">Nevermind.</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Response_000_000">Righto.</string>
+  <string name="Npc13/FishingCompConvo_InCompNotStarted_Response_002_000">See ya, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Intro_000">I’m hosting me soon-to-be famous &lt;FishingComp&gt; today.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Intro_001">Let me know if you’re interested in competing.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Option_000">I want to join.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Option_001">What are the rules?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Option_002">No thanks.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_000_000">&lt;yes&gt;Righto.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_000_001">The &lt;compBook&gt; is over on the table, so you can sign up there.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_000_002">Rules are in there as well, if you don’t know how the comp works.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_001_000">Once you have signed up and the competition has started, catch as many &lt;itemName&gt; as you can.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_001_001">Each &lt;itemName&gt; is worth 1 point.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_001_002">The last score you enter into the &lt;compBook&gt; will be your final score.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_001_003">You can use the &lt;compBook&gt; to update your score at any time, as long as it's before &lt;bugCompEndTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Npc13/FishingCompConvo_NotInComp_Response_002_000">Righto.</string>
+  <string name="Npc13/FishingCompEnded_Intro_000">&lt;wave&gt;Hello, &lt;PlayerName&gt;.</string>
+  <string name="Npc13/FishingCompEnded_Intro_001">Today’s &lt;FishingComp&gt; was pretty great.</string>
+  <string name="Npc13/FishingCompEnded_Intro_002">&lt;proud&gt;I’m going to send the top 3 contestants a prize in the mail.</string>
+  <string name="Npc13/FishingCompEnded_Intro_003">If you want to see who placed in the top 3, you can check the &lt;compBook&gt; here in the tent for the rest of the day.</string>
+  <string name="Npc13/FishingCompEnded_Intro_004">I'll be back soon to host another &lt;FishingComp&gt;, seeing as this one went down well.</string>
+  <string name="Npc13/FishingCompEnded_Option_000">Want to buy some fish?</string>
+  <string name="Npc13/FishingCompEnded_Option_001">Let's chat.</string>
+  <string name="Npc13/FishingCompEnded_Option_002">Nevermind.</string>
+  <string name="Npc13/FishingCompEnded_Response_000_000">&lt;yes&gt;Will do</string>
+  <string name="Npc13/FishingCompEnded_Response_002_000">&lt;glee&gt;Have fun!</string>
+</resources>

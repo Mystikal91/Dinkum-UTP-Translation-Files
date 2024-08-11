@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="LoadingTips/Talkingtopeopleeverydaywillincreaseyourfriendshipwiththem">Talking to people every day will increase your friendship with them.</string>
+  <string name="LoadingTips/Promisingtocompleteataskandnotdeliveringisntagoodidea">Promising to complete a task and not delivering isn’t a good idea.</string>
+  <string name="LoadingTips/Thebetteryouareataskillthelessstaminayoullusedoingit">The better you are at a skill, the less stamina you’ll use doing it.</string>
+  <string name="LoadingTips/Swimmingfortoolongcanbehazardoustoyourhealth">Swimming for too long can be hazardous to your health.</string>
+  <string name="LoadingTips/Ifitsshinyitsprobablyworthsomething">If it’s shiny, it’s probably worth something.</string>
+  <string name="LoadingTips/Almostanythingcanbesoldbutnoteverythingcanbebought">Almost anything can be sold, but not everything can be bought.</string>
+  <string name="LoadingTips/Toolswillbreakifyouusethemtoomuch">Tools will break if you use them too much.</string>
+  <string name="LoadingTips/Crafteditemstendtobemorevaluablethantheiringredients">Crafted items tend to be more valuable than their ingredients.</string>
+  <string name="LoadingTips/Passingoutwilldodamagetoyourtools">Passing out will do damage to your tools.</string>
+  <string name="LoadingTips/IfyouneedabedFletchkeepssleepingbagsintheBaseTent">If you need a bed, Fletch keeps sleeping bags in the Base Tent.</string>
+  <string name="LoadingTips/DiggingisrealfunDiggingisrealfunDiggingisrealfun">Digging is real fun. Digging is real fun. Digging is real fun.</string>
+  <string name="LoadingTips/Sharksareonlytoughwhentheyareinthewater">Sharks are only tough when they are in the water.</string>
+  <string name="LoadingTips/Sometimestreescandropotheritems">Sometimes trees can drop other items.</string>
+  <string name="LoadingTips/Wildanimalscanbekeptinapenifyoufencethemoff">Wild animals can be kept in a pen if you fence them off.</string>
+  <string name="LoadingTips/Youcanburyitemsbydroppingthemonthegroundandcoveringthemwithdirt">You can bury items by dropping them on the ground and covering them with dirt.</string>
+  <string name="LoadingTips/Foodmadeatacookingtablewilloffermorehealthandstamina">Food made at a cooking table will offer more health and stamina.</string>
+  <string name="LoadingTips/Youcanplacecarryableitemsonmostvehicles">You can place carryable items on most vehicles.</string>
+  <string name="LoadingTips/Differentfishcanbefounddependingontheseasonbiomeandtimeofday">Different fish can be found depending on the  season, biome and time of day.</string>
+  <string name="LoadingTips/Stayingoutlatewilltireyouout">Staying out late will tire you out.</string>
+  <string name="LoadingTips/Springiseggseason">Spring is egg season.</string>
+  <string name="LoadingTips/Ashadyvisitormightappearonrainymornings">A shady visitor might appear on rainy mornings.</string>
+  <string name="LoadingTips/Fletchmightbeabletohelpyouupgradeyourhome">Fletch might be able to help you upgrade your home.</string>
+  <string name="LoadingTips/Animalscanbecaughtintrapseasieriftheyhavelowhealth">Animals can be caught in traps easier if they have low health.</string>
+  <string name="LoadingTips/WildAnimalswilleatyourcropsiftheyarentfencedoff">Wild Animals will eat your crops if they aren’t fenced off.</string>
+  <string name="LoadingTips/Keepyourfarmanimalssafebyfencingthemofffrompredators">Keep your farm animals safe by fencing them off from predators.</string>
+  <string name="LoadingTips/Trycookingallsortsoffood">Try cooking all sorts of food.</string>
+  <string name="LoadingTips/Wheelbarrowscancarryotheritemsbesidesdirt">Wheelbarrows can carry other items besides dirt.</string>
+  <string name="LoadingTips/Usethewhistleemotetocallfarmanimalstoyou">Use the whistle emote to call farm animals to you.</string>
+  <string name="LoadingTips/Certainflowerscanbeplacedinabilly">Certain flowers can be placed in a billy.</string>
+  <string name="LoadingTips/Themineslayoutshiftsandchangeseveryday">The mines layout shifts and changes every day.</string>
+  <string name="LoadingTips/Fletchcanhelpyoumovebuildingsifyouneedto">Fletch can help you move buildings if you need to.</string>
+  <string name="LoadingTips/BewaryoftheWaryMu">Be wary of the Wary Mu.</string>
+  <string name="LoadingTips/Cropsthatgrowallyearareworthlessthanseasonalcrops">Crops that grow all year are worth less than seasonal crops.</string>
+  <string name="LoadingTips/Youcanpickupvehiclesbydamagingthem">You can pick up vehicles by damaging them.</string>
+  <string name="LoadingTips/Batsareannoying">Bats are annoying.</string>
+  <string name="LoadingTips/Dontleavestuffintheminesifyouwanttokeepit">Don't leave stuff in the mines if you want to keep it.</string>
+  <string name="LoadingTips/ThetravelbagintheBaseTentcanbeaccessedfromanyisland">The travel bag in the Base Tent can be accessed from any island.</string>
+  <string name="LoadingTips/Youwillrecoverstaminaslowlyifyouarefull">You will recover stamina slowly if you are full.</string>
+  <string name="LoadingTips/WildflowersgoawayafterSpring">Wildflowers go away after Spring</string>
+  <string name="LoadingTips/Gemsareworthmorewholeratherthaninshards">Gems are worth more whole rather than in shards</string>
+  <string name="LoadingTips/YouhavetotaketheBugCompseriously">You have to take the Bug Comp seriously</string>
+  <string name="LoadingTips/BillyCanKitscanmakemorethanteaandcoffee">Billy Can Kits can make more than tea and coffee</string>
+  <string name="LoadingTips/Eatbeforeyouusestamina">Eat before you use stamina</string>
+  <string name="LoadingTips/Wildmushroomswillwiltafternoon">Wild mushrooms will wilt after noon</string>
+  <string name="LoadingTips/Sittingwillcauseyoutorecoverhealthfaster">Sitting will cause you to recover health faster</string>
+  <string name="LoadingTips/Keepaneyeontheskyatnight">Keep an eye on the sky at night</string>
+  <string name="LoadingTips/Youcanmoveafullcontainerusingatrolley">You can move a full container using a trolley</string>
+  <string name="LoadingTips/SoonTM">Soon&lt;size=3&gt;TM</string>
+  <string name="LoadingTips/CustomisationkitscanbeusedtoupgradeGuestHouses">Customisation kits can be used to upgrade Guest Houses</string>
+  <string name="LoadingTips/Laddersarecool">Ladders are cool</string>
+  <string name="LoadingTips/Johnsellsdifferentfruitsandvegeveryday">John sells different fruits and veg every day</string>
+  <string name="LoadingTips/Cookedfoodsareonlyasvaluableastheiringredients">Cooked foods are only as valuable as their ingredients</string>
+  <string name="LoadingTips/Onlyonewishcanbeactiveatatime">Only one wish can be active at a time</string>
+  <string name="LoadingTips/RareDoggosarereal">Rare Doggos are real</string>
+</resources>

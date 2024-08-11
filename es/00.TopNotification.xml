@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowTitle">La billetera esta llena</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowSubtitle">Los fondos restantes se han transferido a su cuenta bancaria</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NPCIsVisiting">¡&lt;NPCName&gt; esta de visita en la isla!</string>
+</resources>

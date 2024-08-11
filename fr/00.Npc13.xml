@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc13/BugCatchingCompConvo_InComp_Option_002">Laisse tomber.</string>
+    <string name="Npc13/FishingCompConvo_InComp_Option_002">Laisse tomber.</string>
+    <string name="Npc13/FishingCompConvo_InCompNotStarted_Option_002">Laisse tomber.</string>
+    <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Option_002">Laisse tomber.</string>
+    <string name="Npc13/FishingCompEnded_Option_002">Laisse tomber.</string>
+    <string name="Npc13/BugCatchingCompEnded_Option_002">Laisse tomber.</string>
+</resources>

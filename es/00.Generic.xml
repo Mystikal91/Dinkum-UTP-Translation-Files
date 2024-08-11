@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Generic/12 NPC_Sheila_Intro_001">Mi nombre es &lt;myName&gt;.</string>
+    <string name="Generic/12 NPC_Sheila_Intro_002">&lt;yes&gt;&lt;NPCName&gt;se puso en contacto conmigo y me dijo que fuera a visitar &lt;IslandName&gt;.</string>
+    <string name="Generic/12 NPC_Sheila_Intro_003">&lt;thinking&gt;Cuando me habló de todas las delicias que puedes encontrar aquí, tuve que hacer las maletas y venir a echar un vistazo.</string>
+    <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_002">&lt;thinking&gt;Hmmm...</string>
+    <string name="Generic/Quest_13_Intro_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+    <string name="Generic/14 NPC_MaxIntroduction 1_Intro_000">Buen día.</string>
+    <string name="Generic/SellItemByWeight_Option_000">Si</string>
+    <string name="Generic/Quest_17_Completed_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+    <string name="Generic/14 NPC_MaxIntroduction 1_Intro_001">Mi nombre es &lt;myName&gt;.</string>
+    <string name="Generic/Generic_Intro_002">¡Soy el hermano menor de &lt;NPCName&gt;!</string>
+    <string name="Generic/16 NPC_Nick_Intro_016">&lt;haha&gt;Jo! Jo! Jo!</string>
+    <string name="Generic/14 NPC_MaxIntroduction 1_Intro_002">¡Soy el hermano menor de &lt;NPCName&gt;!</string>
+</resources>

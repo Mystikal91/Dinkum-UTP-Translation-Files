@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcPayTownDebt_PlayerDonated">&lt;PlayerName&gt; ha donato &lt;sprite=11&gt;&lt;AmountDonated&gt; per il debito della città</string>
+    <string name="ChatNotification/FarmAnimal_sendPetHomeNotification_Fainted">&lt;AnimalName&gt; ha finito le energie e torna a casa</string>
+    <string name="ChatNotification/MailManager_takeAttachment_PocketsFull">Tasche Piene</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_EveryoneMustBeInLift">Tutti devono essere in ascensore</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_CantUseThis">Non puoi usarlo</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveAboveGround_AllPlayersMustBeInLift">Tutti i giocatori devono essere in ascensore</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcPlayTrapperSound_YouHearAWhistle">Senti un fischio</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcDeliverAnimal_PlayerDeliveredAnimal">&lt;PlayerName&gt; ha consegnato &lt;AnimalName&gt;</string>
+    <string name="ChatNotification/NetworkNavMesh_onSleepingAmountChange_Sleeping">&lt;b&gt;&lt;color=purple&gt; Dormendo &lt;/color&gt;&lt;/b&gt;</string>
+    <string name="ChatNotification/NetworkNavMesh_onSleepingAmountChange_ReadyToSleep">&lt;b&gt;&lt;color=purple&gt; Pronto per Dormire &lt;/color&gt;&lt;/b&gt; [&lt;CountCharsSleeping&gt;]</string>
+    <string name="ChatNotification/NetworkPlayersManager_saveButton_YouMustBeOutside">Devi essere all\'esterno per salvare</string>
+    <string name="ChatNotification/FarmAnimal_onFarmAnimalDeath_PassedAway">&lt;AnimalName&gt; ci ha lasciati</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_MinePassRequired">È necessario un &lt;MinePass&gt;!</string>
+</resources>

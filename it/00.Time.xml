@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Time/dayName_0">Domenica</string>
+    <string name="Time/dayName_1">Lunedì</string>
+    <string name="Time/dayName_2">Martedì</string>
+    <string name="Time/dayName_3">Mercoledì</string>
+    <string name="Time/dayName_4">Giovedì</string>
+    <string name="Time/dayName_5">Venerdì</string>
+    <string name="Time/dayName_6">Sabato</string>
+    <string name="Time/seasonName_0">Estate</string>
+    <string name="Time/seasonName_1">Autunno</string>
+    <string name="Time/seasonName_2">Inverno</string>
+    <string name="Time/seasonName_3">Primavera</string>
+    <string name="Time/Year">Anno</string>
+    <string name="Time/Years">Anni</string>
+    <string name="Time/Month">Mese</string>
+    <string name="Time/Months">Mesi</string>
+    <string name="Time/Day">Giorno</string>
+    <string name="Time/Days">Giorni</string>
+    <string name="Time/AllDay">tutto il giorno</string>
+    <string name="Time/DuringTheDay">durante il giorno</string>
+    <string name="Time/EarlyMornings">mattina presto</string>
+    <string name="Time/AroundNoon">intorno a mezzogiorno</string>
+    <string name="Time/AfterDark">dopo il tramonto</string>
+    <string name="Time/AllYear">tutto l\'anno</string>
+    <string name="Time/m">m</string>
+    <string name="Time/s">s</string>
+    <string name="Time/t">t</string>
+    <string name="Time/All">Tutte</string>
+    <string name="Time/DuringSpring">durante la Primavera</string>
+    <string name="Time/DuringSummer">duante l\'Estate</string>
+    <string name="Time/DuringAutumn">durante l\'Autunno</string>
+    <string name="Time/DuringWinter">durante l\'Inverno</string>
+    <string name="Time/Late">Tardi</string>
+</resources>

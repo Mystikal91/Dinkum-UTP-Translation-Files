@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RandomisedRequests/AcceptHangOut_000_Intro_000">¿Sabes que? Hoy me encantaría pasar el rato contigo!</string>
+    <string name="RandomisedRequests/AcceptHangOut_000_Intro_001">¡Hagámoslo!</string>
+    <string name="RandomisedRequests/AcceptHangOut_001_Intro_000">¿Quieres salir conmigo?</string>
+</resources>

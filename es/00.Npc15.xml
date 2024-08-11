@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc15/Npc15_Intro_000">Buen día.</string>
+    <string name="Npc15/Npc15_Intro_001">Mi nombre es &lt;myName&gt;.</string>
+    <string name="Npc15/Npc15_Intro_002">¡Soy el hermano menor de &lt;NPCName&gt;!</string>
+</resources>

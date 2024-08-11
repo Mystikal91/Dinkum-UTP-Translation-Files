@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="NED/CompleteBirthday_000_Intro_000">&lt;haha&gt;You sneaky &lt;animalName&gt;.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="NED/CompleteBirthday_000_Intro_001">&lt;shy&gt;You really surprised me with this &lt;birthday&gt; gift, &lt;PlayerName&gt;.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="NED/CompleteBirthday_000_Intro_002">Thanks a bunch, mate.</string>
+  <string name="NED/CompleteRequest_000_Intro_000">&lt;shocked&gt;Oh wow!</string>
+  <string name="NED/CompleteRequest_000_Intro_001">&lt;no&gt;Can’t believe how helpful you are!</string>
+  <string name="NED/CompleteRequest_000_Intro_002">&lt;yes&gt;Take this, you’ve earned it!</string>
+  <string name="NED/Introduction_005_Intro_000">Oh, G'day.</string>
+  <string name="NED/Introduction_005_Intro_001">The name is &lt;myName&gt;.</string>
+  <string name="NED/Introduction_005_Intro_002">And you are?</string>
+  <string name="NED/Introduction_005_Intro_003">&lt;thinking&gt;&lt;PlayerName&gt;, huh?</string>
+  <string name="NED/Introduction_005_Intro_004">&lt;yes&gt;Nice to meet you &lt;PlayerName&gt;. </string>
+  <string name="NED/Introduction_005_Intro_005">I've been visiting &lt;IslandName&gt; for a while now.</string>
+  <string name="NED/Introduction_005_Intro_006">You must be one of the people I heard about getting settled here.</string>
+  <string name="NED/Introduction_005_Intro_007">&lt;no&gt;Move here too? Nah, not old &lt;myName&gt;.</string>
+  <string name="NED/Introduction_005_Intro_008">I don't like being held down, get me?</string>
+  <string name="NED/Introduction_005_Intro_009">&lt;proud&gt;I like going new places and hunting.</string>
+  <string name="NED/Introduction_005_Intro_010">I can make some handy hunting gear if you want, just ask me.</string>
+  <string name="NED/Introduction_005_Intro_011">I'll be visiting &lt;IslandName&gt; every now and again.</string>
+  <string name="NED/Introduction_005_Intro_012">I hope we bump into each other in the future!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="NED/IslandDayGreeting_AfterNoon_005_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <string name="NED/IslandDayGreeting_Morning_005_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="NED/IslandDayGreeting_Night_005_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="NED/IslandDayGreeting_Noon_005_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <string name="NED/Ned_Salesman_Trapper_Intro_000">Ah, &lt;PlayerName&gt;!</string>
+  <string name="NED/Ned_Salesman_Trapper_Intro_001">Always nice bumping into you.</string>
+  <string name="NED/Ned_Salesman_Trapper_Intro_002">What can I do you for?</string>
+  <string name="NED/Ned_Salesman_Trapper_Option_000">Want to buy anything?</string>
+  <string name="NED/Ned_Salesman_Trapper_Option_001">Can you make me something?</string>
+  <string name="NED/Ned_Salesman_Trapper_Option_002">I want to chat</string>
+  <string name="NED/Ned_Salesman_Trapper_Option_003">Nevermind</string>
+  <string name="NED/Ned_Salesman_Trapper_Response_000_000">Yeah, mate. I'll buy anything you've hunted at a premium.</string>
+  <string name="NED/Ned_Salesman_Trapper_Response_001_000">Let's see what we can do for you.</string>
+  <string name="NED/Ned_Salesman_Trapper_Response_003_000">&lt;wave&gt;Good hunting, mate.</string>
+  <string name="NED/NothingToGiveTrapper_Intro_000">&lt;sigh&gt;Oh, what? You've got nothing for me?</string>
+  <string name="NED/NothingToGiveTrapper_Intro_001">&lt;no&gt;Righto, mate.</string>
+  <string name="NED/RandomConvo 0_Intro_000">Stay alert, &lt;PlayerName&gt;.</string>
+  <string name="NED/RandomConvo 0_Intro_001">&lt;yes&gt;Threats can emerge from anywhere out here.</string>
+  <string name="NED/RandomConvo 10_Intro_000">Maintaining your equipment is not only Mission-Critical, it’s also the best way to spend a Sundy arvo.</string>
+  <string name="NED/RandomConvo 10_Intro_001">&lt;yes&gt;Fact. </string>
+  <string name="NED/RandomConvo 11_Intro_000">I reckon everyone back in &lt;SouthCity&gt; needs to come here for a night or two.</string>
+  <string name="NED/RandomConvo 11_Intro_001">When you're on &lt;IslandName&gt; you feel alive!</string>
+  <string name="NED/RandomConvo 12_Intro_000">I've been coming to &lt;IslandName&gt; for years now.</string>
+  <string name="NED/RandomConvo 12_Intro_001">It's nice to see some friendly faces when I come visit now.</string>
+  <string name="NED/RandomConvo 13_Intro_000">&lt;no&gt;You should never doubt yourself &lt;PlayerName&gt;.</string>
+  <string name="NED/RandomConvo 13_Intro_001">&lt;no&gt;You’re just not good enough for that yet.</string>
+  <string name="NED/RandomConvo 14_Intro_000">&lt;proud&gt;The key to victory is always winning your battles!</string>
+  <string name="NED/RandomConvo 15_Intro_000">The birds around here are hard to sneak up on...</string>
+  <string name="NED/RandomConvo 15_Intro_001">I wonder if there is a way to attact them into a trap?</string>
+  <string name="NED/RandomConvo 15_Intro_002">What do birds eat again?</string>
+  <string name="NED/RandomConvo 16_Intro_000">You ever see something strange out here at night?</string>
+  <string name="NED/RandomConvo 16_Intro_001">No, I don't mean me.</string>
+  <string name="NED/RandomConvo 17_Intro_000">&lt;proud&gt;I never run away from a challenge.</string>
+  <string name="NED/RandomConvo 17_Intro_001">Unless that challenge has big teeth and it's way to close.</string>
+  <string name="NED/RandomConvo 18_Intro_000">It's so good to see a youngen like yourself out here exploring.</string>
+  <string name="NED/RandomConvo 18_Intro_001">We need more people like you, &lt;PlayerName&gt;.</string>
+  <string name="NED/RandomConvo 1_Intro_000">&lt;no&gt;There ain't nothing like living off the land.</string>
+  <string name="NED/RandomConvo 1_Intro_001">It's bloody thrilling!</string>
+  <string name="NED/RandomConvo 2_Intro_000">&lt;no&gt;Weapons aren’t toys you know.</string>
+  <string name="NED/RandomConvo 2_Intro_001">&lt;yes&gt;They are tools we use to defend ourselves and hunt for food.</string>
+  <string name="NED/RandomConvo 3_Intro_000">Where am I from?</string>
+  <string name="NED/RandomConvo 3_Intro_001">I'm from the wilds, mate.</string>
+  <string name="NED/RandomConvo 3_Intro_002">Grew up wild and I'll bloody die wild.</string>
+  <string name="NED/RandomConvo 4_Intro_000">&lt;PlayerName&gt;, you've got heart,  anybody can see that.</string>
+  <string name="NED/RandomConvo 4_Intro_001">&lt;yes&gt;Fine quality in a person.</string>
+  <!-- Talking about Animal Type: Shark -->
+  <string name="NED/RandomConvo 5_Intro_000">I’m not the strongest swimmer.</string>
+  <!-- Talking about Animal Type: Shark -->
+  <string name="NED/RandomConvo 5_Intro_001">&lt;worried&gt;I steer clear of &lt;animalName&gt;.</string>
+  <!-- Talking about Animal Type: Shark -->
+  <string name="NED/RandomConvo 5_Intro_002">&lt;proud&gt;They stay in the water and I stay on the land.</string>
+  <!-- Talking about Animal Type: Croco -->
+  <string name="NED/RandomConvo 6_Intro_000">&lt;no&gt;Never smile at a &lt;animalName&gt;.</string>
+  <!-- Talking about Animal Type: Croco -->
+  <string name="NED/RandomConvo 6_Intro_001">&lt;no&gt;And you certainly don't want to see them smile back at you!</string>
+  <string name="NED/RandomConvo 7_Intro_000">Hunting is a fine sport, &lt;PlayerName&gt;.</string>
+  <string name="NED/RandomConvo 7_Intro_001">&lt;proud&gt;But there is one thing I can't hunt down...</string>
+  <string name="NED/RandomConvo 7_Intro_002">&lt;haha&gt;A true blue challenge.</string>
+  <string name="NED/RandomConvo 8_Intro_000">If I had any advice for a whipper snapper like yourself it'd be this;</string>
+  <string name="NED/RandomConvo 8_Intro_001">Find a passion,  and hold on to it like it owes you something!</string>
+  <string name="NED/RandomConvo 8_Intro_002">Go at it tooth and nail! &lt;pumped&gt;</string>
+  <string name="NED/RandomConvo 9_Intro_000">&lt;proud&gt;Weapons and me go together like spaghetti and blankets.</string>
+  <string name="NED/SomethingToSellTrapper_Intro_000">Very nice indeed.</string>
+  <string name="NED/SomethingToSellTrapper_Intro_001">Tell you what, how does &lt;$&gt; sound?</string>
+  <string name="NED/SomethingToSellTrapper_Option_000">Deal.</string>
+  <string name="NED/SomethingToSellTrapper_Option_001">No Deal.</string>
+  <string name="NED/SomethingToSellTrapper_Response_000_000">You beauty!</string>
+  <string name="NED/SomethingToSellTrapper_Response_000_001">I'll take these items and here is your &lt;$&gt; .</string>
+  <string name="NED/SomethingToSellTrapper_Response_000_002">Pleasure as always, &lt;PlayerName&gt;.</string>
+  <string name="NED/SomethingToSellTrapper_Response_001_000">&lt;no&gt;Righto.</string>
+  <string name="NED/SomethingToSellTrapper_Response_001_001">&lt;wave&gt;See you around, &lt;PlayerName&gt;.</string>
+  <string name="NED/TotalEqualsZeroTrapper_Intro_000">All right... Lets see...</string>
+  <string name="NED/TotalEqualsZeroTrapper_Intro_001">It seems these items aren't worth anything, but I can still take them off your hands if you don't want them?</string>
+  <string name="NED/TotalEqualsZeroTrapper_Option_000">Yes, I dont want them.</string>
+  <string name="NED/TotalEqualsZeroTrapper_Option_001">I'll have them back thanks.</string>
+  <string name="NED/TotalEqualsZeroTrapper_Response_000_000">Righto, mate.</string>
+  <string name="NED/TotalEqualsZeroTrapper_Response_000_001">Cheers.</string>
+  <string name="NED/TotalEqualsZeroTrapper_Response_001_000">That's fine, please return if you wish to sell anything else.</string>
+  <string name="NED/TotalEqualsZeroTrapper_Response_001_001">Thank you for visiting John's Goods!</string>
+  <string name="NED/Trapper AfterCraftingItem_Intro_000">There you go, mate!</string>
+  <string name="NED/Trapper AfterCraftingItem_Intro_001">There is your &lt;itemName&gt;!</string>
+  <string name="NED/Trapper AfterCraftingItem_Intro_002">&lt;proud&gt;What do you reckon? Pretty good, eh?</string>
+  <string name="NED/Trapper AfterCraftingItem_Intro_003">Righto, is that all you need?</string>
+  <string name="NED/Trapper AfterCraftingItem_Option_000">Make something else</string>
+  <string name="NED/Trapper AfterCraftingItem_Option_001">All done.</string>
+  <string name="NED/Trapper AfterCraftingItem_Response_000_000">Alright then.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="NED/SkyFest_AfterNoon_005_Intro_000">Happy &lt;SkyFest&gt;!</string>
+  <string name="NED/SkyFest_Morning_005_Intro_000">Happy &lt;SkyFest&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="NED/SkyFest_Night_005_Intro_000">It’s amazing to see the sky like this!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="NED/SkyFest_Night_005_Intro_001">&lt;yes&gt;I always love a good &lt;SkyFest&gt; celebration.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="NED/SkyFest_Night_005_Intro_002">&lt;glee&gt;&gt;But I reckon a &lt;SkyFest&gt; on &lt;IslandName&gt; will always be the best kind of &lt;SkyFest&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="NED/SkyFest_Noon_005_Intro_000">Nice &lt;Kite&gt;, mate!</string>
+  <string name="NED/Trapper AfterCraftingItem_Response_001_000">Righto, mate.</string>
+  <string name="NED/Ned_Salesman_Intro_000">Ah, &lt;PlayerName&gt;!</string>
+  <string name="NED/Ned_Salesman_Intro_001">Fancy bumping into you out here.</string>
+  <string name="NED/Ned_Salesman_Intro_002">Do you need something?</string>
+  <string name="NED/Ned_Salesman_Option_000">What can you make me?</string>
+  <string name="NED/Ned_Salesman_Option_001">I want to chat</string>
+  <string name="NED/Ned_Salesman_Option_002">Thanks.</string>
+  <string name="NED/Ned_Salesman_Response_000_000">Let's see what we can do for you.</string>
+  <string name="NED/Ned_Salesman_Trapper_Response_002_000">&lt;wave&gt;Good hunting, mate.</string>
+  <string name="NED/SomethingToSellJimmy_Intro_000">&lt;thinking&gt;Oh, yes... all these bulk items...</string>
+  <string name="NED/SomethingToSellJimmy_Intro_001">Plus my very, very fair bonus...</string>
+  <string name="NED/SomethingToSellJimmy_Intro_002">I can give you &lt;$&gt;. Take it or leave it.</string>
+  <string name="NED/SomethingToSellJimmy_Option_000">Take it.</string>
+  <string name="NED/SomethingToSellJimmy_Option_001">Leave it.</string>
+  <string name="NED/SomethingToSellJimmy_Response_000_000">Very good. Yes. Very good.</string>
+  <string name="NED/SomethingToSellJimmy_Response_000_001">Thank you for your goods here, suck- I mean &lt;PlayerName&gt;.</string>
+  <string name="NED/SomethingToSellJimmy_Response_000_002">&lt;yes&gt;Here is your &lt;$&gt;.</string>
+  <string name="NED/SomethingToSellJimmy_Response_000_003">&lt;proud&gt;Pleasure as always.</string>
+  <string name="NED/SomethingToSellJimmy_Response_001_000">&lt;no&gt;It's a shame really, missing out on a great deal you are.</string>
+  <string name="NED/Weapon_Shop_Intro_000">Need some protection? Take a look at my wares.</string>
+  <string name="NED/Weapon_Shop_Intro_001">This stuff can protect you from the harsh wild.</string>
+  <string name="NED/Weapon_Shop_Option_000">I want to chat</string>
+  <string name="NED/Weapon_Shop_Option_001">Thanks.</string>
+  <string name="NED/Weapon_Shop_Response_001_000">As you were.</string>
+</resources>

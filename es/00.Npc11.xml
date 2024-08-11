@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc11/Introduction_011_Intro_000">Mi nombre es &lt;myName&gt;.</string>
+    <string name="Npc11/Introduction_011_Intro_001">&lt;shy&gt;Sabes, yo también tengo algo de comerciante.</string>
+    <string name="Npc11/Introduction_011_Intro_002">&lt;no&gt;&lt;NPCName&gt;? Nunca escuche de él.</string>
+</resources>

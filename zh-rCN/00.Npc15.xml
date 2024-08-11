@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc15/Npc15_Intro_004">这就说明今天是你可以在外面找到它们的其中一天。</string>
+    <string name="Npc15/Npc15_Intro_005">&lt;haha&gt;他提到的那一瞬间，我就定好票了！</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_001">我的名字是南茜，欢迎来到&lt;IslandName&gt;岛屿机场！</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_000">&lt;wave&gt;你好呀。</string>
+    <string name="Npc15/Npc15_Intro_002">我是&lt;NPCName&gt;的弟弟！</string>
+    <string name="Npc15/Npc15_Intro_003">说到&lt;NPCName&gt;，他提起过&lt;itemName&gt;大约在每年的这个时候迁移。</string>
+    <string name="Npc15/Npc15_Intro_006">这些条件非常适合&lt;FishingComp&gt;。</string>
+    <string name="Npc15/Npc15_Intro_001">我名字是&lt;myName&gt;。</string>
+    <string name="Npc15/Npc15_Intro_000">日安。</string>
+</resources>

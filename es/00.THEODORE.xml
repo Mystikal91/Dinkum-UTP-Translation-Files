@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="THEODORE/AllItemsAlreadyDonated_Intro_001">Te devolveré esto.</string>
+    <string name="THEODORE/AllItemsAlreadyDonated_Intro_000">Oh vaya! Al parecer nuestro museo ya tiene un &lt;donationName&gt; en exhibición!</string>
+    <string name="THEODORE/Ask if has Another donation_Intro_000">¿Hay algo más en lo que pueda ayudarte?</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RandomisedComments/LowHealthComment_000_Intro_000">噢，&lt;PlayerName&gt;！</string>
+    <string name="RandomisedComments/LowStaminaComment_000_Intro_000">噢，&lt;PlayerName&gt;！</string>
+    <string name="RandomisedComments/LowHealthComment_002_Intro_000">&lt;PlayerName&gt;！</string>
+    <string name="RandomisedComments/LowHealthComment_002_Intro_001">&lt;no&gt;你看起来糟糕透了！</string>
+    <string name="RandomisedComments/CommentOnClothing_003_Intro_000">&lt;shocked&gt;噢！</string>
+    <string name="RandomisedComments/CommentOnClothing_003_Intro_001">&lt;yes&gt;你这件&lt;randomClothing&gt;非常适合你！</string>
+</resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt;Ho! Ho! Ho!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Intro_001">Hello there, &lt;PlayerName&gt;!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Intro_002">I hope you're being nice today!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Option_000">Can you make me something?</string>
+  <string name="Npc16/Nick_Salesman_Convo_Option_001">How's your holidays?</string>
+  <string name="Npc16/Nick_Salesman_Convo_Option_002">Nevermind</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_000_000">Here's my list.</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_000_001">Check it twice!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt;Ho! Ho! Ho!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt;I love it here on &lt;IslandName&gt;!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt;Oh!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_003">That reminds me!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt;It seems some of my White &lt;animalName&gt; have gone missing.</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt;I’m sure they will come back eventually.</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_006">But if you see one, would you be so kind as to catch one and drop it off at an &lt;itemName&gt;?</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt;Thanks a lot &lt;PlayerName&gt;!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_008">You’ve always been very nice!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt;Ho! Ho! Ho!</string>
+  <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt;Have a rippa!</string>
+</resources>

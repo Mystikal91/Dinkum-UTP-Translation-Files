@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Sign/ATM Sign_Option_001">Laisse tomber</string>
+    <string name="Sign/ConfirmReturnHome_Option_001">Laisse tomber</string>
+    <string name="Sign/NoBoardingPass_Option_001">Laisse tomber</string>
+    <string name="Sign/FillSiloText_Option_001">Laisse tomber</string>
+    <string name="Sign/BugCatchingCompSign_Book_Option_002">Laisse tomber.</string>
+    <string name="Sign/MineControl_Convo_Option_001">Laisse tomber</string>
+    <string name="Sign/MineControl_Up_Convo_Option_001">Laisse tomber</string>
+    <string name="Sign/MineControl_Convo_Option_002">Laisse tomber</string>
+    <string name="Sign/WeatherStationSign_Option_001">Laisse tomber</string>
+    <string name="Sign/BugCatchingCompRunning_Book_Sign_Option_002">Laisse tomber.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Option_001">Laisse tomber.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Option_002">Laisse tomber.</string>
+    <string name="Sign/PlayerFillingTileObjectOption_Option_001">Laisse tomber</string>
+    <string name="Sign/FishingCompSign_Book_Option_002">Laisse tomber.</string>
+    <string name="Sign/FishingCompSign_SignedUpBeforeStart_Option_001">Laisse tomber.</string>
+    <string name="Sign/MineLevel_HasRubyShard_Option_001">Laisse tomber</string>
+    <string name="Sign/WeatherStationShowsForecast_Convo_Intro_000">Voici les prévisions de la Station Météo :</string>
+    <string name="Sign/ConfirmMoveOffIsland_Option_001">Laisse tomber</string>
+</resources>

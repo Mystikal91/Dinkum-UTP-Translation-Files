@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="InventoryItemNames/InvItem_0">Hache de base</string>
+    <string name="InventoryItemNames/InvItem_1">Mégaphone</string>
+    <string name="InventoryItemNames/InvItem_2">Filet à insectes</string>
+    <string name="InventoryItemNames/InvItem_3">Tronçonneuse</string>
+    <string name="InventoryItemNames/InvItem_4">Canne à pêche</string>
+    <string name="InventoryItemNames/InvItem_5">Pelle de terre</string>
+    <string name="InventoryItemNames/InvItem_6">Pelle</string>
+    <string name="InventoryItemNames/InvItem_7">Houe</string>
+    <string name="InventoryItemNames/InvItem_8">Pioche de base</string>
+    <string name="InventoryItemNames/InvItem_9">Torche</string>
+    <string name="InventoryItemNames/InvItem_10">Arrosoir</string>
+    <string name="InventoryItemNames/InvItem_11">Batte en bois</string>
+    <string name="InventoryItemNames/InvItem_12">Sac de ciment</string>
+    <string name="InventoryItemNames/InvItem_13">Barbecue</string>
+    <string name="InventoryItemNames/InvItem_14">Os</string>
+    <string name="InventoryItemNames/InvItem_15">Chemin de brique</string>
+    <string name="InventoryItemNames/InvItem_16">Escalier en brique</string>
+    <string name="InventoryItemNames/InvItem_18">Feu de camp</string>
+    <string name="InventoryItemNames/InvItem_19">Viande cuite</string>
+    <string name="InventoryItemNames/InvItem_20">Araignée à toile-entonnoir</string>
+    <string name="InventoryItemNames/InvItem_21">Viande</string>
+    <string name="InventoryItemNames/InvItem_22">Clous</string>
+    <string name="InventoryItemNames/InvItem_23">Pierre brillante</string>
+    <string name="InventoryItemNames/InvItem_25">Lampe de jardin</string>
+    <string name="InventoryItemNames/InvItem_26">Pierre</string>
+    <string name="InventoryItemNames/InvItem_27">Broyeur de pierre</string>
+    <string name="InventoryItemNames/InvItem_28">Canne à sucre</string>
+    <string name="InventoryItemNames/InvItem_29">Papillon ulysses</string>
+    <string name="InventoryItemNames/InvItem_30">Caisse en bois</string>
+    <string name="InventoryItemNames/InvItem_32">Clôture en bois de palmier</string>
+</resources>

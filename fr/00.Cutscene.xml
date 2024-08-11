@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cutscene/Narration_006">À la recherche d\'un jeune fonceur pour m\'accompagner dans mon ancienne maison, &lt;IslandName&gt;. Le voyage et l\'hébergement seront votre première compensation. Toute personne intéressée, veuillez me rencontrer au terminal Airship le 1er été.</string>
+    <string name="Cutscene/Narration_000">Il y a longtemps, tout a mal tourné.</string>
+    <string name="Cutscene/Narration_004">La plupart des gens n\'ont aucune envie de partir.</string>
+    <string name="Cutscene/Narration_001">Presque tout le monde a été obligé de déménager à South City.</string>
+    <string name="Cutscene/Narration_002">Les habitants de South City mènent une vie froide et misérable.</string>
+    <string name="Cutscene/Narration_003">Vous êtes né ici.</string>
+    <string name="Cutscene/Narration_005">Mais vous avez peut-être trouvé une issue ...</string>
+    <string name="Cutscene/Narration_007">Vous partez pour &lt;IslandName&gt; aujourd\'hui.</string>
+    <string name="Cutscene/Narration_008">Et tu as peut-être trouvé une issue.</string>
+</resources>

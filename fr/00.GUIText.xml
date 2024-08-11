@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GUIText/Back" autoSizeTextContainer="True">Retour</string>
+    <string name="GUIText/Multiplayer" resizable="True">Multijoueurs</string>
+    <string name="GUIText/Options">Options</string>
+</resources>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GUIText/INVITE" resizable="True">CONVIDAR</string>
+    <string name="GUIText/Bulletins">Boletins</string>
+    <string name="GUIText/Calendar">Calendário</string>
+    <string name="GUIText/SUN">DOM</string>
+    <string name="GUIText/MON">SEG</string>
+    <string name="GUIText/TUE">TER</string>
+    <string name="GUIText/WED">QUA</string>
+    <string name="GUIText/FRI">SEX</string>
+    <string name="GUIText/SAT">SÁB</string>
+    <string name="GUIText/Reward">Recompensa</string>
+    <string name="GUIText/AcceptRequest">Aceitar pedido</string>
+    <string name="GUIText/Tomorrow">Amanhã</string>
+    <string name="GUIText/Today">Hoje</string>
+    <string name="GUIText/Back" resizable="True">Voltar</string>
+    <string name="GUIText/SinglePlayer" resizable="True">Jogador Único</string>
+    <string name="GUIText/NoCaught">Qtd. Capturados</string>
+    <string name="GUIText/FarmAnimals" resizable="True">Animais de Fazenda</string>
+    <string name="GUIText/PressStartorEntertoreturntothegame">Pressione Start ou Enter para retornar ao jogo</string>
+    <string name="GUIText/KICK" resizable="True">EXPULSAR</string>
+    <string name="GUIText/Feedthefishacritter">Alimentar o peixe com um bichinho?</string>
+    <string name="GUIText/Thefishlookhappy">Os Peixes parecem felizes!</string>
+    <string name="GUIText/THU">QUI</string>
+    <string name="GUIText/Multiplayer" resizable="True">Multijogador</string>
+    <string name="GUIText/Open">Abrir</string>
+    <string name="GUIText/Mining">Mineração</string>
+    <string name="GUIText/Fishing">Pescaria</string>
+    <string name="GUIText/Hunting">Caça</string>
+    <string name="GUIText/BugCatching">Captura de Insetos</string>
+    <string name="GUIText/Empty">Vazio</string>
+    <string name="GUIText/LANIP">Rede local/IP</string>
+    <string name="GUIText/NoNewMail">Sem Novas Mensagens</string>
+    <string name="GUIText/loading">carregando</string>
+    <string name="GUIText/Fish">Peixes</string>
+    <string name="GUIText/Bugs">Insetos</string>
+    <string name="GUIText/All">Tudo</string>
+    <string name="GUIText/Options">Opções</string>
+    <string name="GUIText/QuitToDesktop" resizable="True">Sair do Jogo</string>
+    <string name="GUIText/Cancel">Cancelar</string>
+    <string name="GUIText/Withdraw">Retirar</string>
+    <string name="GUIText/Deposit">Depósito</string>
+    <string name="GUIText/Confirm">Confirmar</string>
+    <string name="GUIText/Milestones">Conquistas</string>
+    <string name="GUIText/DailyMilestones" resizable="True">Conquistas Diárias</string>
+    <string name="GUIText/Tasks">Tarefas</string>
+    <string name="GUIText/NoTasksCurrently">Sem Tarefas</string>
+    <string name="GUIText/Pedia">Pédia</string>
+    <string name="GUIText/Critters">Bichos</string>
+    <string name="GUIText/People">Pessoas</string>
+    <string name="GUIText/Habitat">Habitat</string>
+    <string name="GUIText/TimeFound">Hora Encontrada</string>
+    <string name="GUIText/Season">Temporada</string>
+    <string name="GUIText/MyDetails">Meus Detalhes</string>
+    <string name="GUIText/MyID">Minha Identidade</string>
+    <string name="GUIText/MyLicences">Minhas Licenças</string>
+    <string name="GUIText/Farming">Agricultura</string>
+    <string name="GUIText/Foraging">Forrageamento</string>
+    <string name="GUIText/Photos">Fotos</string>
+    <string name="GUIText/Animals">Animais</string>
+    <string name="GUIText/Settings">Configurações</string>
+    <string name="GUIText/QuitToMainMenu" resizable="True">Sair para o menu principal</string>
+    <string name="GUIText/Pause">Pausa</string>
+    <string name="GUIText/Paused">Pausado</string>
+    <string name="GUIText/Areyousureyouwanttoquit">Você tem certeza que quer sair?</string>
+    <string name="GUIText/Youwillloseallprogressfromthelasttimeyouslept">Você perderá todo o progresso desde a última vez que dormiu.</string>
+    <string name="GUIText/Quit">Sair</string>
+    <string name="GUIText/CollectDeleteAll">Coletar e Deletar Tudo</string>
+    <string name="GUIText/SELECT">SELECIONAR</string>
+    <string name="GUIText/CraftedStack">Pilha criada:</string>
+    <string name="GUIText/Ingredients">Ingredientes</string>
+    <string name="GUIText/sprite15Convert">&lt;sprite=15&gt;Converter</string>
+    <string name="GUIText/MAX">MAX</string>
+    <string name="GUIText/C">C</string>
+    <string name="GUIText/FishStatus">Status do Peixe</string>
+    <string name="GUIText/FishNursery">Viveiro de Peixes</string>
+    <string name="GUIText/Nothinghere">Nada aqui</string>
+    <string name="GUIText/Map">Mapa</string>
+    <string name="GUIText/ItemsRequired">Itens necessários</string>
+    <string name="GUIText/DinksEarned">Dinks ganhos</string>
+    <string name="GUIText/Teletothistower">Teletransportar para esta torre?</string>
+    <string name="GUIText/Help">Ajuda</string>
+    <string name="GUIText/9HowmuchyourhealthbarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrenthealthbarifeatenThiswillonlylastforthefoodstotaleffecttime">9.
+\nQuanto a sua barra de saúde será aumentada ao comer este alimento.
+\nIsso será adicionado à sua barra de saúde atual quando consumido.
+\nIsso durará apenas pelo tempo total do efeito do alimento.</string>
+    <string name="GUIText/FishingBuff">Bônus de Pesca</string>
+    <string name="GUIText/LoggingBuff">Bônus de Registro</string>
+    <string name="GUIText/DefenceBuff">Bônus de Defesa</string>
+    <string name="GUIText/ExperienceBuff">Bônus de Experiência</string>
+    <string name="GUIText/SpeedBuff">Bônus de Velocidade</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourweaponswhenfighting">Aumenta o dano causado pelas suas armas em combate.</string>
+    <string name="GUIText/Decreasesthedamagedealtbyenemies">Diminui o dano causado pelos inimigos.</string>
+    <string name="GUIText/IncreasestheamountofXPplayersearnfromactivities">Aumenta a quantidade de XP que os jogadores ganham com as atividades.</string>
+    <string name="GUIText/Causescharacterstoconsumestaminaandpreventseating">Faz com que os personagens consumam energia e impede a alimentação.</string>
+    <string name="GUIText/Stopsnonpowertoolsfromtakingdurabilitywhentheyareused">Impede que ferramentas não elétricas percam durabilidade quando usadas.</string>
+    <string name="GUIText/Buffs">Bônus</string>
+    <string name="GUIText/2ThiscirclerepresentsyourcurrentfullnessGenerallyyoucanonlyeat3thingsYoushouldpaycloseattentiontowhatfoodsyoueatasallfoodhascertainstrengthsandweaknesses">2.
+\nEste círculo representa sua saciedade atual. Geralmente, você pode comer apenas 3 coisas. Você deve prestar muita atenção aos alimentos que consome, pois cada alimento possui certas forças e fraquezas.</string>
+    <string name="GUIText/4ThisshowsthecurrentamountofhealthyouwillrecoveroneachhealthtickThisamountisdeterminedbythecurrenteffectofaneatenfoodAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">4.
+\nIsto mostra a quantidade de saúde que você recuperará a cada intervalo de regeneração. Essa quantidade é determinada pelo efeito atual de um alimento consumido. Um intervalo de regeneração normalmente dura 20 segundos, mas pode ser acelerado sentando-se, entre outros meios.</string>
+    <string name="GUIText/6HowlongacertainfoodseffectswillremainThisincludeshowlongthefoodwillkeepyoufull">6.
+\nQuanto tempo os efeitos de um determinado alimento irão durar.
+\nIsso inclui quanto tempo o alimento manterá você saciado.</string>
+    <string name="GUIText/7HowmuchhealthregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrenthealthregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">7.
+\nQuanta regeneração de saúde um determinado alimento proporcionará após ser consumido.
+\nIsso será adicionado à sua quantidade atual de regeneração de saúde quando consumido.
+\nIsso durará apenas pelo tempo total do efeito do alimento.</string>
+    <string name="GUIText/8HowmuchstaminaregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrentstaminaregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">8.
+\nQuanta regeneração de energia um determinado alimento proporcionará após ser consumido.
+\nIsso será adicionado à sua quantidade atual de regeneração de energia quando consumido.
+\nIsso durará apenas pelo tempo total do efeito do alimento.</string>
+    <string name="GUIText/10HowmuchyourstaminabarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrentstaminabarifeatenThiswillonlylastforthefoodstotaleffecttime">10.
+\nQuanto a sua barra de energia será aumentada ao comer este alimento.
+\nIsso será adicionado à sua barra de energia atual quando consumido.
+\nIsso durará apenas pelo tempo total do efeito do alimento.</string>
+    <string name="GUIText/HealthRegen">Regeneração de Saúde:</string>
+    <string name="GUIText/Thisistheamountofhealthyouwillrecovereachhealthtick">Esta é a quantidade de saúde que você recuperará a cada intervalo de regeneração.</string>
+    <string name="GUIText/MiningBuff">Bônus de Mineração</string>
+    <string name="GUIText/StaminaRegen">Regeneração de Vigor:</string>
+    <string name="GUIText/Thisistheamountofstaminayouwillrecoverpersecond">Esta é a quantidade de energia que você recuperará por segundo.</string>
+    <string name="GUIText/Sitting">Sentado</string>
+    <string name="GUIText/IncreasesthespeedofhealthregenerationtickThisisenabledbysittinginachair">Aumenta a velocidade do intervalo de regeneração de saúde. Isso é ativado ao sentar-se em uma cadeira.</string>
+    <string name="GUIText/WellRestedBuff">Bônus Bem Descansado</string>
+    <string name="GUIText/Givesplayersasmallstaminaboostinthemorningaftersleepingindoors">Concede aos jogadores um pequeno aumento de energia pela manhã após dormir em um ambiente interno.</string>
+    <string name="GUIText/FullnessTimer">Cronômetro de Saciedade</string>
+    <string name="GUIText/Showshowlongafoodseffectwilllast">Mostra quanto tempo o efeito de um alimento durará.</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenmining">Aumenta o dano causado pelas suas ferramentas ao minerar.</string>
+    <string name="GUIText/Diligentbuff">Bônus Dedicado</string>
+    <string name="GUIText/Chargedbuff">Bônus Carregado</string>
+    <string name="GUIText/HealthTickSpeedBuff">Bônus de Velocidade de Regeneração de Saúde</string>
+    <string name="GUIText/SwimmingBuff">Bônus de Natação</string>
+    <string name="GUIText/Staminaandhealth">Energia e Saúde</string>
+    <string name="GUIText/3ThesearethecurrentfoodsthatyouhaveeatenThetimerbeloweachfoodshowshowlongthefoodseffectwilllastOnceitdoesafullnesswillberemovedfromyourfullnesscircle">3.
+\nEstes são os alimentos que você consumiu recentemente.
+\nO cronômetro abaixo de cada alimento mostra quanto tempo o efeito do alimento irá durar.
+\nQuando o efeito terminar, uma saciedade será removida do seu círculo de saciedade.</string>
+    <string name="GUIText/HuntingBuff">Bônus de Caça</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenlogging">Aumenta o dano causado pelas suas ferramentas ao cortar árvores.</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanrun">Aumenta a velocidade com que seu personagem pode correr.</string>
+    <string name="GUIText/Sickness">Doença</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanswim">Aumenta a velocidade com que seu personagem pode nadar.</string>
+    <string name="GUIText/SleeplessBuff">Bônus Sem Sono</string>
+    <string name="GUIText/AllowsplayerstosavesomeenergypastLateenablinglatenightactivities">Permite aos jogadores conservar um pouco de energia após o horário tardio, possibilitando atividades noturnas.</string>
+    <string name="GUIText/HealthTickspeedisincreasedforfasterhealthregen">A velocidade na recuperação da Saúde é aumentada para uma regeneração de saúde mais rápida</string>
+    <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1.
+\nEste círculo representa sua regeneração de saúde. Cada vez que este círculo é preenchido, você recuperará uma quantidade de saúde igual à sua regeneração por intervalo. Um intervalo de regeneração normalmente dura 20 segundos, mas pode ser acelerado sentando-se, entre outros meios.</string>
+    <string name="GUIText/Stopspowertoolsfromtakingdurabilitywhentheyareused">Impede que ferramentas elétricas percam durabilidade quando usadas.</string>
+    <string name="GUIText/5ThisshowsthecurrentamountofstaminayouwillreceivepersecondThisamountisdeterminedbythecurrenteffectofaneatenfoodPlayersshouldmakethisnumberaslargeaspossiblewhendoingstrenuoustasks">5.
+\nIsto mostra a quantidade atual de energia que você receberá por segundo.
+\nEssa quantidade é determinada pelo efeito atual de um alimento consumido.
+\nOs jogadores devem fazer este número ser o maior possível ao realizar tarefas extenuantes.</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanreelinfish">Aumenta a velocidade com que seu personagem pode puxar os Peixes</string>
+    <string name="GUIText/OpenPockets">Abrir os Bolsos</string>
+    <string name="GUIText/OpenJournal">Abrir o Diário</string>
+</resources>

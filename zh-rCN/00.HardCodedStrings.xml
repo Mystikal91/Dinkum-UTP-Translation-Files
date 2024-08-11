@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="HardCodedStrings/NPCSchedual_getDaysClosed_Closed">关门</string>
+    <string name="HardCodedStrings/GiveNPC_UpdateMenu_Cancel">取消</string>
+</resources>

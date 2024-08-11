@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="JOHN/Low_Friendship_Greeting 2_Intro_000">Bonjour, &lt;PlayerName&gt;.</string>
+    <string name="JOHN/Medium_Friendship_Greeting 0_Intro_001">Quoi de neuf ?</string>
+    <string name="JOHN/SkyFest_Morning_001_Intro_000">Bonjour &lt;PlayerName&gt;.</string>
+    <string name="JOHN/Hot_Greeting 0_Response_003_000">Hourra !</string>
+    <string name="JOHN/Low_Friendship_Greeting 0_Intro_000">Bonjour &lt;PlayerName&gt;.</string>
+    <string name="JOHN/High_Friendship_Greeting 1_Intro_001">Besoin de quelque chose ?</string>
+</resources>

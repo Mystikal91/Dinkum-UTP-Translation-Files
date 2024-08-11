@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NED/CompleteBirthday_000_Intro_000">&lt;haha&gt; Du hinterhältiger &lt;animalName&gt; .</string>
+    <string name="NED/Introduction_005_Intro_001">Der Name ist &lt;myName&gt; .</string>
+</resources>

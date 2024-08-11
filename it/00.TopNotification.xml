@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowSubtitle">I fondi rimanenti sono stati trasferiti sul tuo conto corrente</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_001">Assicurati che tutti i giocatori abbiano aggiornato il gioco.</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishTitle">&lt;PlayerName&gt; ha espresso un desiderio</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NPCIsVisiting">&lt;NPCName&gt; sta visitando l\'isola!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_SomeoneIsVisiting">Qualcuno sta visitando l\'isola!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NoOneIsVisiting">Oggi non c\'è nessuno in visita...</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasStarted">La Gara di Pesca è iniziata!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_GoodLuck">Buona fortuna!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_OneHourRemaining">Rimane un\'ora di tempo!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasEnded">La Gara di Pesca è terminata!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasEnded">La Gara Acchiappainsetti è terminata!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LetsSeeWhoWhon">Vediamo chi ha vinto!</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_000">L\'host e tu non avete la stessa versione.</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_002">Alcuni elementi e oggetti non funzioneranno correttamente</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedTitle">Un nuovo atto è disponibile!</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedSubtitle">Parla con Fletch per vedere gli atti.</string>
+    <string name="TopNotification/EquipItemToChar_OnDisable_PlayerLeft">&lt;PlayerName&gt; ha abbandonato</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_LocalPlayerJoin">Benvenuti a &lt;IslandName&gt;</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_NonLocalPlayerJoin">&lt;PlayerName&gt; si è unito/a</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedTitle">Un articolo è stato inviato alla tua Cassetta di Posta</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedSubtitle">Le tue tasche erano piene!</string>
+    <string name="TopNotification/LicenceManager_checkForUnlocksOnLevelUp_NewLicenceIsAvailableTitle">È disponibile una nuova licenza!</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcAddToMuseum_DonatedBy">Donato/a da &lt;PlayerName&gt;</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishSubtitle">Cosa succederà domani?</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedTitle">Richiesta aggiunta al Diario</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedSubtitle">Questa richiesta va completata entro la fine della giornata.</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompletedBy">Richiesta completata da &lt;PlayerName&gt;!</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompleted">Richiesta completata!</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_RequestAddedBy">Richiesta aggiunta al Diario da &lt;PlayerName&gt;</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_NewLocation">È stata aggiunta una località alla tua mappa.</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_TimeLimit">Questa richiesta ha un limite di tempo.</string>
+    <string name="TopNotification/TownEventManager_RunIslandDay_IslandDay">È il giorno di &lt;IslandName&gt;!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SkyFest">Oggi è la Festa del Cielo!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_FlyingLantern">L\'evento delle Lanterne Volanti è iniziato!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SpeakToFletch">Parla con Fletch per imparare le regole!</string>
+    <string name="TopNotification/TownEventManager_BandStand">Unitevi tutti a noi al Chiosco della Musica per festeggiare</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowTitle">Tasca dei Soldi Piena</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasStarted">La Gara Acchiappainsetti è iniziata!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LogYourScore">Assicurati di registrare il tuo punteggio!</string>
+    <string name="TopNotification/PostOnBoard_completeTask_InvestigationRequestCompleted">Richiesta di indagine completata</string>
+    <string name="TopNotification/QuestManager_completeQuest_GuestHouseDeed">Gli Atti delle Case degli Ospiti sono disponibili!</string>
+</resources>

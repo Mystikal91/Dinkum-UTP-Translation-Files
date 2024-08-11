@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CLOVER/IslandDayGreeting_Morning_004_Intro_000">嗨，&lt;PlayerName&gt;。</string>
+    <string name="CLOVER/RandomConvo_010_Intro_000">嗨，&lt;PlayerName&gt;。</string>
+    <string name="CLOVER/LongConvo_001_Intro_000">嗨，&lt;PlayerName&gt;。</string>
+    <string name="CLOVER/IslandDayGreeting_Noon_004_Intro_002">&lt;shocked&gt;噢！</string>
+    <string name="CLOVER/IslandDayGreeting_Noon_004_Intro_003">&lt;glee&gt;这就对了！</string>
+    <string name="CLOVER/ClothesShopConvo_Option_001">我想聊聊天。</string>
+    <string name="CLOVER/ClothesShopConvo_Option_002">我挺好的。</string>
+    <string name="CLOVER/ClothesShopConvo_Response_000_000">没问题！</string>
+    <string name="CLOVER/ClothesShopConvo_Response_002_000">请随意看看！</string>
+</resources>

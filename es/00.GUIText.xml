@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GUIText/Multiplayer" resizable="True">Multijugador</string>
+    <string name="GUIText/Back" autoSizeTextContainer="True">Volver</string>
+</resources>

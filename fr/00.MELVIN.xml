@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MELVIN/FurnitureShop_Convo_Option_002">Laisse tomber.</string>
+    <string name="MELVIN/Arvo_Greeting 0_Intro_000">Bonjour, &lt;PlayerName&gt; !</string>
+    <string name="MELVIN/SkyFest_Morning_003_Intro_000">Bonjour &lt;PlayerName&gt;.</string>
+    <string name="MELVIN/High_Friendship_Greeting 2_Intro_000">Bonjour &lt;PlayerName&gt;.</string>
+    <string name="MELVIN/FurnitureShop_Convo_Option_000">Peux-tu me préparer quelque chose ?</string>
+</resources>

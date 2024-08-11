@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="JOHN/Arvo_Greeting 0_Intro_000">Schon Nachmittag , was, &lt;PlayerName&gt; ?</string>
+    <string name="JOHN/RandomConvo_024_Option_001">Sicher!</string>
+</resources>

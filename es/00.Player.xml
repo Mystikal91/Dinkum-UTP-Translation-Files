@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Player/ConfirmDeedNotServer_Intro_001">Tal vez debería colocarlo aquí.</string>
+    <string name="Player/ConfirmDeedPlacement_Intro_000">¿Es este un buen lugar para colocar &lt;currentItemInHand&gt;?</string>
+    <string name="Player/ConfirmDeedPlacement_Option_000">Si</string>
+</resources>

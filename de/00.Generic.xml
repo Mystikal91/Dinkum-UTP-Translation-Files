@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Generic/16 NPC_Nick_Intro_016">&lt;haha&gt; Ho! Ho! Ho!</string>
+    <string name="Generic/12 NPC_Sheila_Intro_001">Der Name ist &lt;myName&gt; .</string>
+    <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_002">&lt;thinking&gt;Hmmm...</string>
+    <string name="Generic/14 NPC_MaxIntroduction 1_Intro_000">Tag auch.</string>
+    <string name="Generic/MoveInRequest_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
+    <string name="Generic/Quest_13_Intro_Intro_000">Oh, &lt;PlayerName&gt; !</string>
+    <string name="Generic/Quest_17_Completed_Intro_000">Oh, &lt;PlayerName&gt; !</string>
+</resources>

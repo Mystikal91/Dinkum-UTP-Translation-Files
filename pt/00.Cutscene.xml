@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cutscene/Narration_000">Há muito tempo, tudo deu errado.</string>
+    <string name="Cutscene/Narration_001">Quase todo mundo foi forçado a se mudar para South City.</string>
+    <string name="Cutscene/Narration_002">As pessoas de South City vivem vidas frias e miseráveis.</string>
+    <string name="Cutscene/Narration_003">Você nasceu aqui.</string>
+    <string name="Cutscene/Narration_004">A maioria das pessoas não tem vontade de sair.</string>
+    <string name="Cutscene/Narration_005">Mas você faz, mais do que tudo.</string>
+    <string name="Cutscene/Narration_006">Procuro um jovem empreendedor para me acompanhar até minha antiga casa, &lt;IslandName&gt;. Viagem e acomodação serão sua compensação inicial. Qualquer pessoa interessada, por favor, encontre-me no terminal Airship no dia 1º de verão.</string>
+    <string name="Cutscene/Narration_007">Você parte para &lt;IslandName&gt; hoje.</string>
+    <string name="Cutscene/Narration_008">E você pode ter encontrado uma saída.</string>
+</resources>

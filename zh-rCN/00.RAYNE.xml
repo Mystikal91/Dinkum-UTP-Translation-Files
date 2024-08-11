@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RAYNE/IslandDayGreeting_Noon_000_Intro_000">噢，&lt;PlayerName&gt;！</string>
+    <string name="RAYNE/Noon_Greeting 0_Intro_000">噢，&lt;PlayerName&gt;。</string>
+    <string name="Npc0/Plant Shop Convo_Intro_001">我可以帮点什么？</string>
+    <string name="RAYNE/IslandDayGreeting_Night_000_Intro_000">哇哦！</string>
+    <string name="RAYNE/CompleteBirthday_000_Intro_002">谢谢你，&lt;PlayerName&gt;。</string>
+    <string name="RAYNE/IslandDayGreeting_AfterNoon_000_Intro_000">嗨&lt;PlayerName&gt;。</string>
+    <string name="RAYNE/Low_Friendship_Greeting 2_Response_003_000">&lt;wave&gt;拜啦</string>
+    <string name="RAYNE/High_Friendship_Greeting 0_Intro_001">什么事？</string>
+    <string name="RAYNE/Morning_Greeting 2_Intro_000">嗨，&lt;PlayerName&gt;。</string>
+    <string name="RAYNE/Noon_Greeting 0_Response_003_000">&lt;wave&gt;拜啦！</string>
+    <string name="RAYNE/Plant Shop Convo_Option_001">算了吧。</string>
+    <string name="RAYNE/Plant Shop Convo_Option_000">我想聊聊天。</string>
+    <string name="RAYNE/RandomConvo_000_Intro_001">&lt;haha&gt;有点势不可挡了！</string>
+</resources>

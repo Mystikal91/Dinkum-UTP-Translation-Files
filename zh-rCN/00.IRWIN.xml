@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IRWIN/AnimalShopIntro_Option_001">算了</string>
+    <string name="IRWIN/IslandDayGreeting_AfterNoon_007_Intro_000">噢，&lt;PlayerName&gt;。</string>
+    <string name="IRWIN/RandomConvo_015_Intro_001">&lt;thinking&gt;嗯……</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Option_001">不了，谢谢。</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Option_001">不了，谢谢。</string>
+</resources>

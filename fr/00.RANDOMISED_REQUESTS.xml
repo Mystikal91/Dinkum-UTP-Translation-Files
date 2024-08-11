@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RandomisedRequests/RequestFood_002_Option_001">Pas tout de suite.</string>
+    <string name="RandomisedRequests/RequestSellingItem_NotEnoughMoney_Response_000_000">&lt;shock&gt;Oh !</string>
+</resources>

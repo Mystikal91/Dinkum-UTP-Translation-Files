@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="JOHN/High_Friendship_Greeting 2_Response_003_000">回见，&lt;PlayerName&gt;。</string>
+    <string name="JOHN/SkyFest_Morning_001_Intro_000">日安&lt;PlayerName&gt;。</string>
+    <string name="JOHN/RandomConvo_021_Intro_000">你知道吗&lt;PlayerName&gt;？</string>
+    <string name="JOHN/Highest_Friendship_Greeting 0_Intro_000">瞧瞧，是&lt;PlayerName&gt;，我最爱的顾客！</string>
+    <string name="JOHN/Highest_Friendship_Greeting 1_Intro_000">啊，&lt;PlayerName&gt;！</string>
+    <string name="JOHN/Low_Friendship_Greeting 1_Intro_000">噢，日安！</string>
+    <string name="JOHN/Low_Friendship_Greeting 0_Intro_000">日安&lt;PlayerName&gt;。</string>
+    <string name="JOHN/Low_Friendship_Greeting 0_Intro_001">我可以帮点什么？</string>
+    <string name="JOHN/Low_Friendship_Greeting 0_Response_003_000">拜啦，朋友！</string>
+    <string name="JOHN/Wind_Greeting 1_Intro_000">啊，&lt;PlayerName&gt;！</string>
+    <string name="JOHN/SkyFest_Morning_001_Intro_001">今天是&lt;SkyFest&gt;！</string>
+    <string name="JOHN/SkyFest_AfterNoon_001_Intro_000">行。</string>
+    <string name="JOHN/SkyFest_AfterNoon_001_Intro_001">我拿到&lt;Kite&gt;了，&lt;PlayerName&gt;。</string>
+    <string name="JOHN/High_Friendship_Greeting 0_Intro_001">很高兴见到你！</string>
+    <string name="JOHN/High_Friendship_Greeting 0_Response_003_000">晚点找你，&lt;PlayerName&gt;。</string>
+    <string name="JOHN/High_Friendship_Greeting 1_Intro_001">需要什么？</string>
+    <string name="JOHN/High_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;行。希望晚点还能见到你！</string>
+    <string name="JOHN/Hot_Greeting 0_Response_003_000">拜啦！</string>
+    <string name="JOHN/Johns Shop_Convo_Response_002_000">别担心，朋友。</string>
+    <string name="JOHN/Low_Friendship_Greeting 1_Intro_001">过得怎么样，朋友？</string>
+    <string name="JOHN/Medium_Friendship_Greeting 1_Intro_000">&lt;PlayerName&gt;！</string>
+    <string name="JOHN/Medium_Friendship_Greeting 0_Intro_001">什么事？</string>
+    <string name="JOHN/Low_Friendship_Greeting 2_Intro_001">你需要什么东西吗？</string>
+    <string name="JOHN/Low_Friendship_Greeting 2_Response_003_000">&lt;shy&gt;或许晚点见！</string>
+    <string name="JOHN/Medium_Friendship_Greeting 0_Intro_000">朋友，过的怎么样？</string>
+    <string name="JOHN/Medium_Friendship_Greeting 1_Response_003_000">好的，拜啦。</string>
+    <string name="JOHN/Low_Friendship_Greeting 1_Response_003_000">好的，拜啦。</string>
+    <string name="JOHN/Low_Friendship_Greeting 2_Intro_000">你好呀，&lt;PlayerName&gt;。</string>
+    <string name="JOHN/SkyFest_Night_001_Intro_000">哇哦！</string>
+    <string name="JOHN/IslandDayGreeting_Morning_001_Intro_000">日安，&lt;PlayerName&gt;。</string>
+    <string name="JOHN/IslandDayGreeting_Noon_001_Intro_000">日安，&lt;PlayerName&gt;。</string>
+    <string name="JOHN/Johns Shop_Convo_Option_002">我很好。</string>
+    <string name="JOHN/RandomConvo_024_Option_001">没问题！</string>
+    <string name="JOHN/RandomConvo_024_Response_000_000">适合你</string>
+    <string name="JOHN/Cold_Greeting 1_Intro_000">噢，日安&lt;PlayerName&gt;。</string>
+</resources>

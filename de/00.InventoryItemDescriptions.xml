@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="InventoryItemDescriptions/InvDesc_0">Bäume und Pflanzen fällen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_166">Lila Vase</string>
+    <string name="InventoryItemDescriptions/InvDesc_167">Gelbe Akazien Vase</string>
+    <string name="InventoryItemDescriptions/InvDesc_169">Küchenherd</string>
+    <string name="InventoryItemDescriptions/InvDesc_170">Küchenspüle</string>
+    <string name="InventoryItemDescriptions/InvDesc_1356">Küchenspüle</string>
+    <string name="InventoryItemDescriptions/InvDesc_1357">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1358">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1360">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1374">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1375">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1376">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1420">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_165">Farn Vase</string>
+    <string name="InventoryItemDescriptions/InvDesc_168">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1355">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_54">Holzdoppelbett</string>
+    <string name="InventoryItemDescriptions/InvDesc_1361">Einbauküche</string>
+    <string name="InventoryItemDescriptions/InvDesc_1419">Einbauküche</string>
+</resources>

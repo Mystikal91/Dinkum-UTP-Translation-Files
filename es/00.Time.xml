@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Time/dayName_1">Lunes</string>
+    <string name="Time/dayName_0">Domingo</string>
+    <string name="Time/dayName_2">Martes</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="InventoryItemNames_Plural/InvItem_116">Zanahorias</string>
+    <string name="InventoryItemNames_Plural/InvItem_123">Maíz</string>
+    <string name="InventoryItemNames_Plural/InvItem_322">Papas</string>
+    <string name="InventoryItemNames_Plural/InvItem_324">Trigo</string>
+    <string name="InventoryItemNames_Plural/InvItem_330">Cebollas</string>
+    <string name="InventoryItemNames_Plural/InvItem_698">Limpiabotellas</string>
+    <string name="InventoryItemNames_Plural/InvItem_102">Flores de Zarzo Dorado</string>
+    <string name="InventoryItemNames_Plural/InvItem_799">Cocos</string>
+    <string name="InventoryItemNames_Plural/InvItem_843">Tomates</string>
+    <string name="InventoryItemNames_Plural/InvItem_845">Judías Verdes</string>
+    <string name="InventoryItemNames_Plural/InvItem_1034">Granos de Café</string>
+</resources>

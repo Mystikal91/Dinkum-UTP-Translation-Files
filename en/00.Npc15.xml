@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Npc15/Npc15_Intro_000">G’day.</string>
+  <string name="Npc15/Npc15_Intro_001">Me name’s &lt;myName&gt;.</string>
+  <string name="Npc15/Npc15_Intro_002">I’m &lt;NPCName&gt;’s little brother!</string>
+  <string name="Npc15/Npc15_Intro_003">Speaking of &lt;NPCName&gt;, he mentioned that the &lt;itemName&gt; are migrating around this time of the year.</string>
+  <string name="Npc15/Npc15_Intro_004">That means today is one of the only days you’ll find them out during the whole day.</string>
+  <string name="Npc15/Npc15_Intro_005">&lt;haha&gt;As soon as he mentioned that, I booked me ticket!</string>
+  <string name="Npc15/Npc15_Intro_006">These conditions are PERFECT for a &lt;FishingComp&gt;.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/15 NPC_Nancy_Introduction_Intro_000">&lt;wave&gt;Hello there.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/15 NPC_Nancy_Introduction_Intro_001">My name is Nancy and welcome to &lt;IslandName&gt;’s Airport!</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/15 NPC_Nancy_Introduction_Intro_002">&lt;glee&gt;If you would like to take a day trip in the &lt;AirShip&gt;, I will be your pilot.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/15 NPC_Nancy_Introduction_Intro_003">You can buy a &lt;itemName&gt; here at the counter.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/15 NPC_Nancy_Introduction_Intro_004">You’ll only need one &lt;itemName&gt; per trip.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/15 NPC_Nancy_Introduction_Intro_005">So, you can bring along as many people as you like with you.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/15 NPC_Nancy_Introduction_Intro_006">Oh, and please keep in mind that the Airport will only offer day trips on Sundays.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/AirportKeeperConvo_Intro_000">Welcome to &lt;IslandName&gt; Airport.</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/AirportKeeperConvo_Intro_001">We're offering day trips today!</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/AirportKeeperConvo_Intro_002">So, if you would like to take a trip, just make your way through the door into the &lt;AirShip&gt;</string>
+  <!-- Talking about NPC: Theodore. Talking about Item: Boarding Pass -->
+  <string name="Npc15/AirportKeeperConvo_Intro_003">&lt;yes&gt;Oh, and make sure you have your &lt;itemName&gt; ready to show once you're inside.</string>
+</resources>

@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="HardCodedStrings/AnimalHouseMenu_openConfirm_000">Sell &lt;animalName&gt; for &lt;sprite=11&gt;&lt;sellValue&gt;?</string>
+  <string name="HardCodedStrings/AnimalHouseMenu_fillData_SELL">SELL</string>
+  <string name="HardCodedStrings/AnimalManager_fillAnimalLocation_UnknownLocation">unknown location</string>
+  <string name="HardCodedStrings/AnimalManager_fillAnimalTimeOfDay_AllDay">all day</string>
+  <string name="HardCodedStrings/AnimalManager_fillBugPediaEntry_Everywhere">Everywhere</string>
+  <string name="HardCodedStrings/BuildingManager_getBuildingName_000">no building</string>
+  <string name="HardCodedStrings/BuildingManager_getBuildingName_001">House</string>
+  <string name="HardCodedStrings/BuildingManager_getBuildingName_002">Player House</string>
+  <string name="HardCodedStrings/BankMenu_open_AccountBalance">Account Balance</string>
+  <string name="HardCodedStrings/BankMenu_openAsDonations_TownDebt">Town Debt</string>
+  <string name="HardCodedStrings/BankMenu_openAsDonations_Donate">Donate</string>
+  <string name="HardCodedStrings/BankMenu_withdrawButton_Withdraw">Withdraw</string>
+  <string name="HardCodedStrings/BankMenu_depositButton_Deposit">Deposit</string>
+  <string name="HardCodedStrings/BankMenu_convertButton_Convert">Convert [&lt;sprite=11&gt; 500 for &lt;sprite=15&gt; 1]</string>
+  <string name="HardCodedStrings/BookWindow_OpenWeatherForecast_WeatherForecast">Weather Forecast</string>
+  <string name="HardCodedStrings/BugAndFishCelebration_openWindow_ICaughtA">I caught &lt;A_animalCaught&gt;!</string>
+  <string name="HardCodedStrings/BugAndFishCelebration_openCompPoints_Points">+&lt;points&gt;pts</string>
+  <!-- As in: Take a picture of <NPCName> -->
+  <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_Of">of</string>
+  <!-- As in: Take a picture of a <ItemName> -->
+  <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_OfA">of a</string>
+  <!-- As in: Take a picture of a <ItemName> and a <ItemName2> -->
+  <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_And">and</string>
+  <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_TakenNear">taken near this location</string>
+  <!-- As in: Take a picture of a <ItemName> taken in the <Biome> -->
+  <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_TakenInThe">taken in the</string>
+  <string name="HardCodedStrings/BullitenBoardPost_getBoardRequestItem_AnyOtherFurniture">any other furniture</string>
+  <string name="HardCodedStrings/BullitenBoardPost_getBoardRequestItem_AnyOtherClothing">any other clothing</string>
+  <string name="HardCodedStrings/CalendarButton_Birthday">&lt;NPCName&gt;'s Birthday</string>
+  <string name="HardCodedStrings/CalendarButton_BugCatchingComp">Bug Catching Comp</string>
+  <string name="HardCodedStrings/CalendarButton_FishingComp">Fishing Comp</string>
+  <string name="HardCodedStrings/CalendarButton_JohnsGoodsAnniversary">John's Goods Anniversary</string>
+  <string name="HardCodedStrings/CatalogueButton_setUpButton_Unavailable">Unavailable</string>
+  <string name="HardCodedStrings/CatalogueManager_PressHideUnavailableButton_ShowAvailableOnly">Show Available Only</string>
+  <!-- Short for points -->
+  <string name="HardCodedStrings/CatchingCompetitionManager_getCurrentLeaderText_Pts">pts</string>
+  <string name="HardCodedStrings/CatchingCompetitionManager_getCurrentLeaderText_1st">1st</string>
+  <string name="HardCodedStrings/CatchingCompetitionManager_getCurrentLeaderText_2nd">2nd</string>
+  <string name="HardCodedStrings/CatchingCompetitionManager_getCurrentLeaderText_3rd">3rd</string>
+  <string name="HardCodedStrings/CatchingCompetitionManager_getCurrentLeaderText_NoScores">No Scores Logged</string>
+  <string name="HardCodedStrings/ChestWindow_openStashInWindow_TravelBag">My Travel Bag</string>
+  <string name="HardCodedStrings/ChestWindow_openChestInWindow_Container">Container</string>
+  <string name="HardCodedStrings/ChestWindow_openVehicleStorage_VehicleStorage">Vehicle Storage</string>
+  <string name="HardCodedStrings/ConversationManager_buttonTextChange_HappyBirthday">Happy Birthday!</string>
+  <string name="HardCodedStrings/ConversationManager_CheckLineForReplacement_getPhotoDetails_000">I just love the colours!</string>
+  <string name="HardCodedStrings/ConversationManager_CheckLineForReplacement_getPhotoDetails_001">I love this one.</string>
+  <string name="HardCodedStrings/ConversationManager_CheckLineForReplacement_getPhotoDetails_002">The composition is wonderful</string>
+  <string name="HardCodedStrings/ConversationManager_CheckLineForReplacement_getPhotoDetails_003">It speaks to me, you know?</string>
+  <string name="HardCodedStrings/ConversationManager_CheckLineForReplacement_getPhotoDetails_004">It makes me feel something...</string>
+  <string name="HardCodedStrings/CraftingManager_populateCraftList_CookingTableButton">COOK</string>
+  <string name="HardCodedStrings/CraftingManager_populateCraftList_CookingTableText">COOKING</string>
+  <string name="HardCodedStrings/CraftingManager_populateCraftList_CraftingShopButton">COMMISSION</string>
+  <string name="HardCodedStrings/CraftingManager_populateCraftList_RaffleBoxButton">EXCHANGE</string>
+  <string name="HardCodedStrings/CraftingManager_populateCraftList_RaffleBoxText">EXCHANGING</string>
+  <string name="HardCodedStrings/CraftingManager_populateCraftList_DefaultButton">CRAFT</string>
+  <string name="HardCodedStrings/CraftingManager_populateCraftList_DefaultText">CRAFTING</string>
+  <string name="HardCodedStrings/ExhibitSign_emptyConvo_000">This exhibit is currently empty.</string>
+  <string name="HardCodedStrings/ExhibitSign_emptyConvo_001">We look forward to future donations!</string>
+  <string name="HardCodedStrings/ExhibitSign_updateMySign_InThisExhibit">In this exhibit:</string>
+  <!-- Consider it as a verb, as in: Milk <PetName> -->
+  <string name="HardCodedStrings/FarmAnimalHarvest_harvestVerb_Milk">Milk</string>
+  <!-- Consider it as a verb, as in: Shear <PetName> -->
+  <string name="HardCodedStrings/FarmAnimalHarvest_harvestVerb_Shear">Shear</string>
+  <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_NewLicence">New Licence!</string>
+  <!-- Used in: <LicenceName> Level <LevelOfLicence> -->
+  <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_Level">Level</string>
+  <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_OnYa">On ya!</string>
+  <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_YouReceived">You received</string>
+  <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_NewCraftingRecipe">New Crafting Recipe</string>
+  <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_NewCraftingRecipes">New Crafting Recipes</string>
+  <!-- Used in the button to Place items in a Building Box -->
+  <string name="HardCodedStrings/GiveNPC_UpdateMenu_Place">Place</string>
+  <string name="HardCodedStrings/GiveNPC_UpdateMenu_Donate">Donate</string>
+  <string name="HardCodedStrings/GiveNPC_UpdateMenu_Sell">Sell</string>
+  <!-- Used in the button to Cancel a donation, a selling, etc... -->
+  <string name="HardCodedStrings/GiveNPC_UpdateMenu_Cancel">Cancel</string>
+  <!-- Used in the button to Swap items -->
+  <string name="HardCodedStrings/GiveNPC_UpdateMenu_Swap">Swap</string>
+  <string name="HardCodedStrings/GiveNPC_UpdateMenu_Give">Give</string>
+  <string name="HardCodedStrings/HouseExterior_HouseName_PlayersHouse">&lt;PlayerName&gt;'s House</string>
+  <string name="HardCodedStrings/HouseExterior_HouseName_GuestHouse">Guest House</string>
+  <string name="HardCodedStrings/Task_Items">Items</string>
+  <string name="HardCodedStrings/Task_ChatWith">Chat with</string>
+  <string name="HardCodedStrings/Task_Residents">residents</string>
+  <string name="HardCodedStrings/Task_Bugs">Bugs</string>
+  <string name="HardCodedStrings/Task_Fish">Fish</string>
+  <string name="HardCodedStrings/Task_Fruit">Fruit</string>
+  <string name="HardCodedStrings/Task_Shells">Shells</string>
+  <string name="HardCodedStrings/Task_Rocks">rocks</string>
+  <string name="HardCodedStrings/Task_Stones">stones</string>
+  <string name="HardCodedStrings/Task_OreRocks">ore rocks</string>
+  <string name="HardCodedStrings/Task_Trees">trees</string>
+  <string name="HardCodedStrings/Task_TreeStump">tree stumps</string>
+  <string name="HardCodedStrings/Task_Planks">planks</string>
+  <string name="HardCodedStrings/Task_Grass">grass</string>
+  <string name="HardCodedStrings/Task_DoAJobForSomeone">Do a job for someone</string>
+  <string name="HardCodedStrings/Task_WildSeeds">Wild Seeds</string>
+  <string name="HardCodedStrings/Task_TreeSeeds">tree seeds</string>
+  <string name="HardCodedStrings/Task_CropSeeds">crop seeds</string>
+  <string name="HardCodedStrings/Task_Seeds">seeds</string>
+  <string name="HardCodedStrings/Task_Crops">crops</string>
+  <string name="HardCodedStrings/Task_Animals">animals</string>
+  <string name="HardCodedStrings/Task_DigUpDirt">Dig up dirt</string>
+  <!-- Used in: "Dig up dirts <Amount> times" -->
+  <string name="HardCodedStrings/Task_DigUpDirtTimes">times</string>
+  <string name="HardCodedStrings/Task_EatSomething">Eat something</string>
+  <!-- Used in: "Make <Amount> Dinks" -->
+  <string name="HardCodedStrings/Task_Make">Make</string>
+  <!-- Used in: "Spend <Amount> Dinks" -->
+  <string name="HardCodedStrings/Task_Spend">Spend</string>
+  <!-- Used in: "Travel <Amount>m on foot" and in "Travel <Amount>m by vehicle" -->
+  <string name="HardCodedStrings/Task_Travel">Travel</string>
+  <!-- Used in: "Travel <Amount>m on foot" -->
+  <string name="HardCodedStrings/Task_TravelOnFoot">m on foot</string>
+  <!-- Used in: "Travel <Amount>m by vehicle" -->
+  <string name="HardCodedStrings/Task_TravelByVeichle">m by vehicle</string>
+  <string name="HardCodedStrings/Task_Meat">meat</string>
+  <!-- Used in: Bring <ItemName> to <NPCName> -->
+  <string name="HardCodedStrings/Task_Bring">Bring</string>
+  <string name="HardCodedStrings/Task_Collect">Collect</string>
+  <string name="HardCodedStrings/Task_CookSomething">Cook something at the Cooking table</string>
+  <string name="HardCodedStrings/Task_SmeltSomething">Smelt some ore into a bar</string>
+  <string name="HardCodedStrings/Task_PetAnAnimal">Pet an animal</string>
+  <string name="HardCodedStrings/Task_BuySomeNewClothes">Buy some new clothes</string>
+  <string name="HardCodedStrings/Task_BuySomeNewFurniture">Buy some new furniture</string>
+  <string name="HardCodedStrings/Task_BuySomeNewWallpaper">Buy some new wallpaper</string>
+  <string name="HardCodedStrings/Task_BuySomeNewFlooring">Buy some new flooring</string>
+  <string name="HardCodedStrings/Task_CompostSomething">Compost something</string>
+  <string name="HardCodedStrings/Task_CraftNewTool">Craft a new tool</string>
+  <string name="HardCodedStrings/Task_TrapAnAnimal">Trap an animal and deliver it</string>
+  <string name="HardCodedStrings/Task_BuyTool">Buy a new tool</string>
+  <string name="HardCodedStrings/Task_BreakTool">Break a tool</string>
+  <string name="HardCodedStrings/Task_FindTreasure">Find some burried treasure</string>
+  <!-- Short for Level -->
+  <string name="HardCodedStrings/InventoryItem_getLicenceLevelText_LVL">LVL</string>
+  <!-- Short for Damage Per Second -->
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_DPS">DPS</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SpeedUp14Tiles">Speeds up certain production devices for up to 14 tiles</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SpeedUp8Tiles">Speeds up certain production devices for up to 8 tiles</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_PullMaterials">Can pull materials from storage boxes 5 tiles out</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_AutoStack">Will try and auto stack materials in storage boxes 10 tiles out</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SprinklerDesc">Reaches &lt;Range&gt; tiles out.\n&lt;color=red&gt;Requires Water Tank&lt;/color&gt;</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_TankDesc">Provides water to sprinklers &lt;Range&gt; tiles out.</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SiloDesc">Fills animal feeders &lt;Range&gt; tiles out.\n&lt;color=red&gt;Requires Animal Food&lt;/color&gt;</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_BridgeTileWide">&lt;XSize&gt; x Tiles Wide</string>
+  <!-- Example of output: "These grow during the Summer & Autumn." -->
+  <string name="HardCodedStrings/Inventory_getExtraDetails_TheseGrow">These grow &lt;SeasonOfCrop&gt;.</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_BuryAndGrowsInDays">You'll have to bury it in the ground. After that, it will grow over &lt;TimeToGrow&gt; days.</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_GrowsAndProduceSingle">They grow over &lt;TimeToGrow&gt; days. They produce 1 &lt;ItemName&gt;.</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_GrowsAndProducePlural">They grow over &lt;TimeToGrow&gt; days. They produce &lt;NumOfCrops&gt; &lt;ItemNamePlural&gt;.</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_GrowsAndSpread">These need a bit of room around them because they will spread to nearby spaces producing &lt;NumOfCrops&gt; &lt;ItemNamePlural&gt;. There is a chance the plant can have up to 4 offshoots!</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_ContinueToProduceSingle">They continue to produce 1 &lt;ItemName&gt; every &lt;TimeToGrow&gt; days.</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_ContinueToProducePlural">They continue to produce &lt;NumOfCrops&gt; &lt;ItemNamePlural&gt; every &lt;TimeToGrow&gt; days.</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_PlantStake">Oh, and these come with a &lt;color=#7F26A4&gt;plant stake&lt;/color&gt;.</string>
+  <string name="HardCodedStrings/Inventory_getExtraDetails_PlantInShallowWater">Oh, and if you plant them in shallow water, you won't need to water them!</string>
+  <string name="HardCodedStrings/True">True</string>
+  <string name="HardCodedStrings/False">False</string>
+  <string name="HardCodedStrings/LicenceButton_fillButton_LevelUpToUnlock">Level up your &lt;ConnectedSkill&gt; skill to unlock further levels</string>
+  <string name="HardCodedStrings/LicenceButton_fillButton_MaxLevel">Max Level</string>
+  <!-- It refer to a license that the player doesn't have -->
+  <string name="HardCodedStrings/LicenceButton_fillButton_NotHeld">Not Held</string>
+  <string name="HardCodedStrings/LicenceManager_openConfirmWindow_YouHoldAllLevel">You hold all &lt;LicenceName&gt; levels</string>
+  <string name="HardCodedStrings/LicenceManager_openConfirmWindow_YouHoldAllCurrentLevel">You hold all current &lt;LicenceName&gt; levels</string>
+  <string name="HardCodedStrings/LoadingScreenImageAndTips_OnEnable_PhotoBy">Photo by</string>
+  <!-- Used in letters to indicate who sent it -->
+  <string name="HardCodedStrings/MailManager_From">From</string>
+  <!-- Used in letters -->
+  <string name="HardCodedStrings/MailManager_To">To</string>
+  <string name="HardCodedStrings/MailManager_getSentByName_AnimalResearchCentre">Animal Research Centre</string>
+  <string name="HardCodedStrings/MailManager_getSentByName_DinkumDev">Dinkum Dev</string>
+  <string name="HardCodedStrings/MailManager_getSentByName_FishinTipster">Fishin' Tipster</string>
+  <string name="HardCodedStrings/MailManager_getSentByName_BugTipster">Bug Tipster</string>
+  <string name="HardCodedStrings/MailManager_getSentByName_Unknown">Unknown</string>
+  <string name="HardCodedStrings/MailManager_showSavedLetterButton_Saved">Saved</string>
+  <string name="HardCodedStrings/MailManager_showSavedLetterButton_Save">Save</string>
+  <string name="HardCodedStrings/mapIcon_SetUpTelePoint_TeleTower">Tele Tower</string>
+  <string name="HardCodedStrings/mapIcon_SetUpTaskIcon_Completed">Completed</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Start_000">Ahhh!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Start_001">OH NO!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Start_002">Struth!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Start_003">HELP!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Start_004">RUN AWAY!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Start_005">Predator!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Finish_000">Phew.</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Finish_001">Safe.</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Finish_002">Is it gone?</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Finish_003">Am I safe?</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Finish_004">Woah.</string>
+  <string name="HardCodedStrings/NPCDoesTasks_OnGetScared_Finish_005">That was close!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_000">G'day!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_001">Nice to see you, &lt;PlayerName&gt;</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_002">Hi, &lt;PlayerName&gt;</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_003">Hello, &lt;PlayerName&gt;</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_004">G'day, &lt;PlayerName&gt;</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_005">Happy &lt;IslandDay&gt;!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_006">Happy &lt;IslandDay&gt;, &lt;PlayerName&gt;</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_007">Happy Sky Fest!</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_008">Happy Sky Fest, &lt;PlayerName&gt;</string>
+  <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_009">Have a good Sky Fest, &lt;PlayerName&gt;!</string>
+  <string name="HardCodedStrings/NPCRequest_getDesiredItemName_AnyBug">any bug</string>
+  <string name="HardCodedStrings/NPCRequest_getDesiredItemName_AnyFish">any fish</string>
+  <string name="HardCodedStrings/NPCRequest_getDesiredItemName_SomethingToEat">something to eat</string>
+  <string name="HardCodedStrings/NPCRequest_getDesiredItemName_SomethingCooked">something you've made me at a cooking table</string>
+  <string name="HardCodedStrings/NPCRequest_getDesiredItemName_Furniture">furniture</string>
+  <string name="HardCodedStrings/NPCRequest_getDesiredItemName_Clothing">clothing</string>
+  <string name="HardCodedStrings/NPCSchedual_getNextDayOffName_NoDayOff">No Day off</string>
+  <string name="HardCodedStrings/NPCSchedual_getOpeningHours_Open">Open</string>
+  <string name="HardCodedStrings/NPCSchedual_getDaysClosed_Closed">Closed</string>
+  <!-- Example: Closed for Sky Fest -->
+  <string name="HardCodedStrings/NPCSchedual_getDaysClosed_ClosedForEvent">Closed for</string>
+  <string name="HardCodedStrings/OptionsMenu_VoiceChatButton_Toggle">Voice Chat Button - &lt;size=10&gt;Set to toggle</string>
+  <string name="HardCodedStrings/OptionsMenu_VoiceChatButton_Hold">Voice Chat Button - &lt;size=10&gt;Set to hold to talk</string>
+  <string name="HardCodedStrings/OptionsMenu_Default">Default</string>
+  <string name="HardCodedStrings/PhotoManager_blowUpImage_Untitled">Untitled</string>
+  <!-- Example: "Resident for: 7 days" -->
+  <string name="HardCodedStrings/PlayerDetailManager_switchToLevelWindow_ResidentFor">Resident for:</string>
+  <string name="HardCodedStrings/PocketsFullNotification_showNoLicence_NeedLicence">Need Licence</string>
+  <string name="HardCodedStrings/PocketsFullNotification_showMustBeEmpty_MustBeEmpty">Must be empty</string>
+  <string name="HardCodedStrings/PocketsFullNotification_removeItemsOnTop_ItemsOnTop">Items on top</string>
+  <string name="HardCodedStrings/PocketsFullNotification_showPondFull_PondFull">Pond Full</string>
+  <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooSick">Too sick</string>
+  <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooFull">Too full</string>
+  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Title">&lt;ItemName&gt; Recipe</string>
+  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Desc">These items are required to craft &lt;ItemName&gt;\n Unpin this to stop tracking recipe.</string>
+  <string name="HardCodedStrings/QuestTracker_displayRequest_Title">Request for &lt;NPCName&gt;</string>
+  <string name="HardCodedStrings/QuestTracker_displayRequest_Desc">&lt;NPCName&gt; has asked you to get &lt;DesiredItemName&gt;</string>
+  <string name="HardCodedStrings/QuestTracker_displayRequest_questDateGiven">By the end of the day</string>
+  <string name="HardCodedStrings/QuestTracker_displayQuest_DaysRemaining">days remaining</string>
+  <string name="HardCodedStrings/QuestTracker_displayQuest_DayRemaining">day remaining</string>
+  <string name="HardCodedStrings/QuestTracker_updateLookingAtTask_Pinned">Pinned</string>
+  <string name="HardCodedStrings/QuestTracker_updatePinnedRecipeButton_TrackRecipe">Track Recipe Ingredients</string>
+  <!-- Used in: "Crafting <ItemName>" -->
+  <string name="HardCodedStrings/QuestTracker_fillMissionTextForRecipe_TrackRecipe">Crafting</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_Attract5Resident">Attract a total of 5 permanent residents to move to &lt;IslandName&gt;</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_TalkAfterBaseTent">Talk to &lt;NPCName&gt; once the Base Tent has been moved</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_TalkToNpc">Talk to &lt;NPCName&gt;</string>
+  <!-- ItemName: Crude Furnace (https://www.dinkum-utp.it/translate/Dutp/inventoryitemnames/en/?checksum=fe2ca38190553384) -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_CraftFurnace">Craft a &lt;ItemName&gt; at the crafting table in the Base Tent.</string>
+  <!-- ItemName: Crude Furnace (https://www.dinkum-utp.it/translate/Dutp/inventoryitemnames/en/?checksum=fe2ca38190553384) -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_PlaceFurnace">Place the &lt;ItemName&gt; down outside.</string>
+  <!-- ItemName1: Crude Furnace. ItemName2: Tin Bar -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_PlaceOreInFurnace">Place Tin Ore into &lt;ItemName1&gt; and wait for it to become &lt;ItemName2&gt;</string>
+  <!-- ItemName: Tin Bar. NPCName: Fletch. -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_DeliverBar">Take the &lt;ItemName&gt; to &lt;NPCName&gt;</string>
+  <!-- ItemName: Table Saw -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_BuyTableSaw">Buy the &lt;ItemName&gt;</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_CompleteDailyTasks">[Optional] Complete Daily tasks</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_PlaceSleepingBag">Place sleeping bag and get some rest.</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_FindSomethingToEat">Find something to eat.</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_CollectRequestedItems">Collect the requested items.</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_BringItemToNPC">Bring items to &lt;NPCName&gt;</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_DoSomeFavours">Do some favours for John</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_SpendMoney">Spend money or sell items in John's store</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_ConvinceJohn">Convince John to move in.</string>
+  <!-- ItemName: Shop Deed -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_AskNPCAboutDeed">Ask &lt;NPCName&gt; about the town to apply for the &lt;ItemName&gt;</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_SpeakToFletch">Speak to Fletch</string>
+  <!-- ItemName: Shop Deed -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_PlaceDeed">Place the &lt;ItemName&gt;</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_WaitForShop">Wait for construction of the Shop to be completed</string>
+  <string name="HardCodedStrings/Quest_getMissionObjText_PlaceRequiredItemsForDeed">Place the required items into the construction box at the deed site</string>
+  <!-- ItemName: Shop Deed -->
+  <string name="HardCodedStrings/Quest_getMissionObjText_PlaceItem">Place &lt;ItemName&gt;</string>
+  <!-- Used on shop to replace the price tag when item is bought -->
+  <string name="HardCodedStrings/ShopBuyDrop_sold">Sold</string>
+  <string name="HardCodedStrings/SteamLobby_OnGetLobbiesList_PublicGame">Public Game</string>
+  <string name="HardCodedStrings/TileObjectSettings_getWhyCantPlaceDeedText_CantPlace">Can't place here</string>
+  <string name="HardCodedStrings/TileObjectSettings_getWhyCantPlaceDeedText_SomeoneInTheWay">Someone is in the way</string>
+  <string name="HardCodedStrings/TileObjectSettings_getWhyCantPlaceDeedText_NotOnLevelGround">Not on level ground</string>
+  <string name="HardCodedStrings/TileObjectSettings_getWhyCantPlaceDeedText_CantBeInWater">Can't be placed in water</string>
+  <string name="HardCodedStrings/TileObjectSettings_getWhyCantPlaceDeedText_SomethingInTheWay">Something in the way</string>
+  <string name="HardCodedStrings/UseBook_plantBookRoutine_NameTitle">&lt;ItemName&gt; Plant</string>
+  <string name="HardCodedStrings/UseBook_plantBookRoutine_Title">Plant</string>
+  <string name="HardCodedStrings/UseBook_plantBookRoutine_ReadyForHarvest">Ready for harvest</string>
+  <string name="HardCodedStrings/UseBook_plantBookRoutine_MatureIn">Mature in</string>
+  <string name="HardCodedStrings/WishManager_GetCurrentWishName_CurrentWish">A &lt;WishName&gt; is in effect right now</string>
+  <string name="HardCodedStrings/WishManager_GetCurrentWishName_NoCurrentWish">No wish has been made...</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_ItIsCurrently">It is currently &lt;CurrentTemperature&gt;° and </string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Storming">Storming</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Raining">Raining</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Foggy">Foggy</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Overcast">Overcast</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Fine">Fine</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_WithA">With a</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Strong">Strong</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Light">Light</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_NorthernWind">Northern Wind</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_SouthernWind">Southern Wind</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_WesternlyWind">Westernly Wind</string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_EasternlyWind">Easternly Wind</string>
+  <!-- Used in the Animal Page in Journal -->
+  <string name="HardCodedStrings/AnimalHouseMenu_fillData_Eaten">Eaten</string>
+  <!-- Used in the Animal Page in Journal -->
+  <string name="HardCodedStrings/AnimalHouseMenu_fillData_Shelter">Shelter</string>
+  <!-- Used in the Animal Page in Journal -->
+  <string name="HardCodedStrings/AnimalHouseMenu_fillData_Petted">Petted</string>
+  <string name="HardCodedStrings/WorkTable_PrizeBox">Prize Box</string>
+  <string name="HardCodedStrings/WorkTable_SkyFestPrizeBox">Sky Fest Prize Box</string>
+</resources>

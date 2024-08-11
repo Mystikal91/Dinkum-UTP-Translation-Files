@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_000">The name is &lt;myName&gt;.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_001">&lt;shy&gt;I'm something of a trader myself.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_002">&lt;no&gt;&lt;NPCName&gt;? Never heard of him.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_003">But you know what I have heard of?</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_004">&lt;pumped&gt;Great deals.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_005">So if you're in the mood for some of those, I'm your guy.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_006">What was your name again?</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_007">&lt;PlayerName&gt;, I like you. I like you a lot.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Npc11/Introduction_011_Intro_008">&lt;yes&gt;Let's do some deals. Lets trade some wheels.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/IslandDayGreeting_AfterNoon_011_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <string name="Npc11/IslandDayGreeting_Morning_011_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/IslandDayGreeting_Night_011_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/IslandDayGreeting_Noon_011_Intro_000">Happy &lt;IslandDay&gt;!</string>
+  <string name="Npc11/JimmyWorkConvo_Intro_000">Welcome back, &lt;PlayerName&gt;.</string>
+  <string name="Npc11/JimmyWorkConvo_Intro_001">Are you here to talk business?</string>
+  <string name="Npc11/JimmyWorkConvo_Option_000">Want to buy anything?</string>
+  <string name="Npc11/JimmyWorkConvo_Option_001">Got any deals?</string>
+  <string name="Npc11/JimmyWorkConvo_Option_002">Nevermind.</string>
+  <string name="Npc11/JimmyWorkConvo_Response_000_000">&lt;yes&gt;Alright then. Just remember I only buy in bulk.</string>
+  <string name="Npc11/JimmyWorkConvo_Response_000_001">I won't take anything less than 50 of an item.</string>
+  <string name="Npc11/JimmyWorkConvo_Response_000_002">But I will pay double, just for you, &lt;PlayerName&gt;.</string>
+  <string name="Npc11/JimmyWorkConvo_Response_001_000">I've always got great deals.</string>
+  <string name="Npc11/JimmyWorkConvo_Response_001_001">Take a look around.</string>
+  <string name="Npc11/JimmyWorkConvo_Response_002_000">Righto.</string>
+  <string name="Npc11/NothingToGiveJimmy_Intro_000">&lt;sigh&gt;Hmmm, you know what they say, &lt;PlayerName&gt;. Time is &lt;Dinks&gt;</string>
+  <string name="Npc11/NothingToGiveJimmy_Intro_001">&lt;angry&gt;And you just wasted my time.</string>
+  <string name="Npc11/NothingToGiveJimmy_Intro_002">&lt;no&gt;Don't come back unless you really want to do business.</string>
+  <string name="Npc11/SomethingToSellJimmy_Intro_000">&lt;thinking&gt;Oh, yes... all these bulk items...</string>
+  <string name="Npc11/SomethingToSellJimmy_Intro_001">Plus my very, very fair bonus...</string>
+  <string name="Npc11/SomethingToSellJimmy_Intro_002">I can give you &lt;$&gt;. Take it or leave it.</string>
+  <string name="Npc11/SomethingToSellJimmy_Option_000">Take it.</string>
+  <string name="Npc11/SomethingToSellJimmy_Option_001">Leave it.</string>
+  <string name="Npc11/SomethingToSellJimmy_Response_000_000">Very good. Yes. Very good.</string>
+  <string name="Npc11/SomethingToSellJimmy_Response_000_001">Thank you for your goods here, suck- I mean &lt;PlayerName&gt;.</string>
+  <string name="Npc11/SomethingToSellJimmy_Response_000_002">&lt;yes&gt;Here is your &lt;$&gt;.</string>
+  <string name="Npc11/SomethingToSellJimmy_Response_000_003">&lt;proud&gt;Pleasure as always.</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Intro_000">Hmmm...</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Intro_001">&lt;no&gt;It seems these items aren't worth anything at all...</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Intro_002">&lt;shy&gt;Well, if you didn't want them I could probably take them off your hands?</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Option_000">Yes, I dont want them.</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Option_001">I'll have them back thanks.</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Response_000_000">&lt;glee&gt;Excellent.</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Response_000_001">&lt;size=11&gt;I can definetly sell these for something...&lt;size&gt;</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Response_000_002">Great to see you as always, &lt;PlayerName&gt;.</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Response_001_000">&lt;thinking&gt;Hmmmm. Very well.</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Response_001_001">&lt;no&gt;Like I said, they aren't worth anything.</string>
+  <string name="Npc11/TotalEqualsZeroJimmy_Response_001_002">&lt;yes&gt;But you can have them back, I guess.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="Npc11/SkyFest_AfterNoon_011_Intro_000">Happy &lt;SkyFest&gt;!</string>
+  <string name="Npc11/SkyFest_Morning_011_Intro_000">Happy&lt;SkyFest&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/SkyFest_Night_011_Intro_000">You know what?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/SkyFest_Night_011_Intro_001">&lt;yes&gt;I’ve had a wonderful day today, &lt;petName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/SkyFest_Night_011_Intro_002">&lt;thinking&gt;And this &lt;Aurora&gt; is a great way to end a great day.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/SkyFest_Night_011_Intro_003">&lt;yes&gt;Every day here on &lt;IslandName&gt; gets better and better.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="Npc11/SkyFest_Noon_011_Intro_000">Happy &lt;SkyFest&gt;!</string>
+  <string name="Npc11/SomethingToSellJimmy_Response_001_000">&lt;no&gt;It's a shame really, missing out on a great deal you are.</string>
+</resources>

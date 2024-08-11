@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt;Jo! Jo! Jo!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">Hola, &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">¡Espero que te encuentres bien hoy!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt;Jo! Jo! Jo!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt;Jo! Jo! Jo!</string>
+</resources>

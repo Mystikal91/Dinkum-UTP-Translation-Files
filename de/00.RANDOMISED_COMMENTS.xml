@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RandomisedComments/LowStaminaComment_000_Intro_000">Oh, &lt;PlayerName&gt; !</string>
+    <string name="RandomisedComments/LowHealthComment_000_Intro_000">Oh, &lt;PlayerName&gt; !</string>
+</resources>

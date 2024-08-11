@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="FLETCH/Already Being Moved 1_Intro_000">&lt;thinking&gt;Hmmm...</string>
+  <string name="FLETCH/Already Being Moved 1_Intro_001">&lt;no&gt;A building is already being relocated. </string>
+  <string name="FLETCH/Already Being Moved 1_Intro_002">Let's get that finished and then we can think about moving another one, okay?</string>
+  <string name="FLETCH/Already Being UpgradedTent_Intro_000">Wait! It looks like we're already working on your house!</string>
+  <string name="FLETCH/Already Being UpgradedTent_Intro_001">Make sure you place all the items needed for costruction into the construction box infront of your tent.</string>
+  <string name="FLETCH/Already Being Upgraded_Intro_000">Wait! It looks like we're already working on your house!</string>
+  <string name="FLETCH/Already Being Upgraded_Intro_001">Make sure you place all the items needed for costruction into the construction box infront of your house.</string>
+  <string name="FLETCH/Already Being Upgraded_Intro_002">As soon as construction is completed, we'll see what we can do to make your house bigger. &lt;glee&gt;</string>
+  <string name="FLETCH/Arvo_Greeting 0_Intro_000">Afternoon, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/Arvo_Greeting 0_Response_003_000">Take it easy.</string>
+  <string name="FLETCH/Arvo_Greeting 1_Intro_000">What a bloody beautiful arvo.</string>
+  <string name="FLETCH/Arvo_Greeting 1_Intro_001">Don’t you think, &lt;PlayerName&gt;?</string>
+  <string name="FLETCH/Arvo_Greeting 1_Response_003_000">Hooroo!</string>
+  <string name="FLETCH/Arvo_Greeting 2_Intro_000">What a bloody beautiful arvo.</string>
+  <string name="FLETCH/Arvo_Greeting 2_Intro_001">Don’t you think, &lt;PlayerName&gt;?</string>
+  <string name="FLETCH/Arvo_Greeting 2_Response_003_000">Hooroo!</string>
+  <string name="FLETCH/BaseTentConvo_Intro_000">Hello there, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/BaseTentConvo_Intro_001">What can I do for you?</string>
+  <string name="FLETCH/BaseTentConvo_Option_000">I want to apply for a licence</string>
+  <string name="FLETCH/BaseTentConvo_Option_001">Lets talk about the town</string>
+  <string name="FLETCH/BaseTentConvo_Option_002">About my house...</string>
+  <string name="FLETCH/BaseTentConvo_Option_003">Lets chat</string>
+  <string name="FLETCH/BaseTentConvo_Option_004">Nevermind.</string>
+  <string name="FLETCH/BaseTentConvo_Response_000_000">Alright then...</string>
+  <string name="FLETCH/BaseTentConvo_Response_001_000">Let's see...</string>
+  <string name="FLETCH/BaseTentConvo_Response_002_000">Let's take a look.</string>
+  <string name="FLETCH/BaseTentConvo_Response_004_000">Have a great day.</string>
+  <string name="FLETCH/BeingUpgradedConvo_Intro_000">&lt;no&gt;Oh, that building is currently being upgraded.</string>
+  <string name="FLETCH/BeingUpgradedConvo_Intro_001">&lt;yes&gt;Let's get that finished before we try and move it!</string>
+  <string name="FLETCH/CloseDeedWindow_Intro_000">Ah, you've changed your mind?</string>
+  <string name="FLETCH/CloseDeedWindow_Intro_001">Not to worry!</string>
+  <string name="FLETCH/CompleteBirthday_000_Intro_000">&lt;shy&gt; Oh, you really shouldn’t have, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/CompleteBirthday_000_Intro_001">&lt;yes&gt;I’ll tell you what, it means a lot that you even remembered it was my &lt;birthday&gt;!</string>
+  <string name="FLETCH/CompleteBirthday_000_Intro_002">&lt;glee&gt;You’ve made an old lady very happy today.</string>
+  <string name="FLETCH/CompleteRequest_000_Intro_000">&lt;shy&gt;Thank you very much, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/CompleteRequest_000_Intro_001">&lt;haha&gt;I’ll tell you what, you’re always helping me out!</string>
+  <string name="FLETCH/CompleteRequest_000_Intro_002">&lt;glee&gt;Here’s a reward, please take it!</string>
+  <string name="FLETCH/ConfirmDeed_Intro_000">Okay, so we're going to apply for the &lt;deedName&gt;?</string>
+  <string name="FLETCH/ConfirmDeed_Intro_001">Just so you know, this will put the town in &lt;deedDebtAmount&gt; in debt.</string>
+  <string name="FLETCH/ConfirmDeed_Intro_002">Oh don't worry, we will pay it off in no time! &lt;pumped&gt;</string>
+  <string name="FLETCH/ConfirmDeed_Intro_003">There is a donation box here in the Base Tent.</string>
+  <string name="FLETCH/ConfirmDeed_Intro_004">So are we going to apply for the &lt;deedName&gt;?</string>
+  <string name="FLETCH/ConfirmDeed_Option_000">Let's do it!</string>
+  <string name="FLETCH/ConfirmDeed_Option_001">Not right now.</string>
+  <string name="FLETCH/ConfirmDeed_Response_000_000">Great! We're all set. I'll give you the deed so you can decide where to place it.</string>
+  <string name="FLETCH/ConfirmDeed_Response_000_001">Once it's placed, check the deposit box on the build site.</string>
+  <string name="FLETCH/ConfirmDeed_Response_000_002">We won't be able to start construction until we have all the required materials.</string>
+  <string name="FLETCH/ConfirmDeed_Response_000_003">So the quicker we have everything we need, the quicker we can start construction!</string>
+  <string name="FLETCH/ConfirmDeed_Response_001_000">Not a worry!</string>
+  <string name="FLETCH/ConfirmDeed_Response_001_001">Please come see me if you change your mind!</string>
+  <string name="FLETCH/Fletch_Intro_000">So, you wanted to talk about your home?</string>
+  <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt;I'll tell you what, I’m so glad you’ve decided to accompany me on this adventure, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt;I was starting to think no one in &lt;SouthCity&gt; was brave enough to join me!</string>
+  <string name="FLETCH/Fletch_Intro_003">&lt;haha&gt;When you were the first and only person to respond to my ad, I knew you were the right person for the job!</string>
+  <string name="FLETCH/Fletch_Intro_004">&lt;no&gt;Oh dear, look at old &lt;myName&gt; waffle on...</string>
+  <string name="FLETCH/Fletch_Intro_005">Let's get cracking, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/Fletch_Intro_006">I'll see you outside, okay?</string>
+  <string name="FLETCH/Fletch_Option_000">I want to upgrade</string>
+  <string name="FLETCH/Fletch_Option_001">I want to move my house.</string>
+  <string name="FLETCH/Fletch_Option_002">Nevermind</string>
+  <string name="FLETCH/Fletch_Response_001_000">Hmmm...</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnagPocketsFull_Convo_Intro_000">Oh, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnagPocketsFull_Convo_Intro_001">&lt;glee&gt;The &lt;Snags&gt; are ready, and I've got one with your name on it.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnagPocketsFull_Convo_Intro_002">&lt;shock&gt;Looks like your pockets are full.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnagPocketsFull_Convo_Intro_003">&lt;no&gt;Clear out some room, then come back and so you can dig in.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Intro_000">Righto, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Intro_001">&lt;glee&gt;These &lt;Snags&gt; are ready to go!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Intro_002">&lt;proud&gt;Trust me, it’s an old family delicacy.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Intro_003">Now, what type would you like?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Option_000">Meat Snag</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Option_001">Veggie Snag</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Option_002">Surprise me!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_000">Righto.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_001">Now, I’ve actually made this &lt;Snag&gt; just for you, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_002">&lt;yes&gt;I put a lot of love into this &lt;Snag&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_003">It’s just a way of saying thanks for everything you’ve done for me this past year.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_004">Not to mention everything you’ve done for &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_005">I hope you like it, mate.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_006">&lt;shy&gt;Now go and enjoy the &lt;Snag&gt; and the rest of &lt;IslandDay&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_000_007">&lt;glee&gt;You’ve bloody earned it!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_000">Righto.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_001">Now, I’ve actually made this &lt;Snag&gt; just for you, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_002">&lt;yes&gt;I put a lot of love into this &lt;Snag&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_003">It’s just a way of saying thanks for everything you’ve done for me this past year.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_004">Not to mention everything you’ve done for &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_005">I hope you like it, mate.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_006">&lt;shy&gt;Now go and enjoy the &lt;Snag&gt; and the rest of &lt;IslandDay&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_001_007">&lt;glee&gt;You’ve bloody earned it!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_000">Righto.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_001">Now, I’ve actually made this &lt;Snag&gt; just for you, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_002">&lt;yes&gt;I put a lot of love into this &lt;Snag&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_003">It’s just a way of saying thanks for everything you’ve done for me this past year.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_004">Not to mention everything you’ve done for &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_005">I hope you like it, mate.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_006">&lt;shy&gt;Now go and enjoy the &lt;Snag&gt; and the rest of &lt;IslandDay&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/GetSnag_Convo_Response_002_007">&lt;glee&gt;You’ve bloody earned it!</string>
+  <!-- Talking about NPC: Rayne -->
+  <string name="FLETCH/Gossip_About_NPC_000_Intro_000">&lt;NPCName&gt; brings so much life to the place.</string>
+  <!-- Talking about NPC: Rayne -->
+  <string name="FLETCH/Gossip_About_NPC_000_Intro_001">I bloody love it!</string>
+  <!-- Talking about NPC: John -->
+  <string name="FLETCH/Gossip_About_NPC_001_Intro_000">Is it just me, or can &lt;NPCName&gt;’s prices seem a bit steep?</string>
+  <!-- Talking about NPC: John -->
+  <string name="FLETCH/Gossip_About_NPC_001_Intro_001">Sure is nice being able to buy some fruit every once in a while though.</string>
+  <!-- Talking about NPC: John -->
+  <string name="FLETCH/Gossip_About_NPC_001_Intro_002">&lt;yes&gt;Even if it does grow everywhere, it’s more convenient.</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="FLETCH/Gossip_About_NPC_002_Intro_000">I like how much &lt;NPCName&gt; gets done.</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="FLETCH/Gossip_About_NPC_002_Intro_001">That man really moves. </string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="FLETCH/Gossip_About_NPC_002_Intro_002">&lt;thinking&gt;He could probably spend a little less time in his head though...</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="FLETCH/Gossip_About_NPC_003_Intro_000">&lt;yes&gt;I'll tell you what, &lt;NPCName&gt; is actually younger than me.</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="FLETCH/Gossip_About_NPC_003_Intro_001">&lt;haha&gt;But you’d never know that by talking to him!</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="FLETCH/Gossip_About_NPC_004_Intro_000">That &lt;NPCName&gt; girl sure is pretty. </string>
+  <!-- Talking about NPC: Clover -->
+  <string name="FLETCH/Gossip_About_NPC_004_Intro_001">She has some… strange ideas, too…</string>
+  <!-- Talking about NPC: Irwin -->
+  <string name="FLETCH/Gossip_About_NPC_007_Intro_000">I really like that &lt;NPCName&gt; fella.</string>
+  <!-- Talking about NPC: Irwin -->
+  <string name="FLETCH/Gossip_About_NPC_007_Intro_001">That man has so much energy!</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="FLETCH/Gossip_About_NPC_008_Intro_000">Rayne brings so much life to the place.</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="FLETCH/Gossip_About_NPC_008_Intro_001">I bloody love it!</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="FLETCH/Gossip_About_NPC_009_Intro_000">&lt;yes&gt;&lt;NPCName&gt; really knows his stuff. </string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="FLETCH/Gossip_About_NPC_009_Intro_001">It’s been nice having someone to talk to about &lt;Licences&gt; and &lt;PermitPoints&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="FLETCH/Gossip_About_NPC_009_Intro_002">That man gets it.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="FLETCH/Gossip_About_NPC_010_Intro_000">&lt;NPCName&gt; can be really cold-hearted at times.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="FLETCH/Gossip_About_NPC_010_Intro_001">It’s nice being able to store my &lt;Dinks&gt; somewhere safe though, that’s for sure!</string>
+  <string name="FLETCH/High_Friendship_Greeting 0_Intro_000">&lt;PlayerName&gt; here to see old &lt;myName&gt;?</string>
+  <string name="FLETCH/High_Friendship_Greeting 0_Response_003_000">Hooroo.</string>
+  <string name="FLETCH/High_Friendship_Greeting 1_Intro_000">&lt;PlayerName&gt;!</string>
+  <string name="FLETCH/High_Friendship_Greeting 1_Intro_001">What brings you to see old &lt;myName&gt;?</string>
+  <string name="FLETCH/High_Friendship_Greeting 1_Response_003_000">Have a good one!</string>
+  <string name="FLETCH/High_Friendship_Greeting 2_Intro_000">I’ll tell you what, it’s always nice to bump into you, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/High_Friendship_Greeting 2_Intro_001">Need anything?</string>
+  <string name="FLETCH/High_Friendship_Greeting 2_Response_003_000">&lt;yes&gt;Righto.</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 0_Intro_000">I’ll tell you what, it’s bloody lovely to see you, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 0_Response_003_000">Hope I see you again today!</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 1_Intro_000">Well, would you look at this. It’s only &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 1_Intro_001">What can I do for you?</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 1_Response_003_000">Always lovely chatting with you!</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 2_Intro_000">Well, would you look at this. It’s only &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 2_Intro_001">What can I do for you?</string>
+  <string name="FLETCH/Highest_Friendship_Greeting 2_Response_003_000">Always lovely chatting with you!</string>
+  <string name="FLETCH/HouseIsBeingMoved_Intro_000">Wait! It looks like we're moving your house.</string>
+  <string name="FLETCH/HouseIsBeingMoved_Intro_001">&lt;yes&gt;We should get that all done before we start trying to upgrade it.</string>
+  <string name="FLETCH/HouseIsBeingUpgraded_Intro_000">&lt;thinking&gt;Hmmm...</string>
+  <string name="FLETCH/HouseIsBeingUpgraded_Intro_001">&lt;no&gt;Your house is currently in the proccess of upgrading.</string>
+  <string name="FLETCH/HouseIsBeingUpgraded_Intro_002">Let's get that finished and then we can think about moving it after, okay?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Intro_000">G’day, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Intro_001">Hope you’re enjoying yourself.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Option_000">What day is it?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Option_001">What's this surprise?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Option_002">Talk to you soon</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_000_000">Well, tomorrow will actually mark the &lt;timeSinceArriving&gt; since you and I arrived here on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_000_001">&lt;proud&gt;So in honour of our time spent here, I named today &lt;IslandDay&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_000_002">&lt;shy&gt;I’ll tell you what, time goes quickly when you’re my age.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_000_003">&lt;no&gt;I can’t believe how much &lt;IslandName&gt; has grown since then.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_000_004">&lt;IslandDay&gt; is a day to celebrate &lt;IslandName&gt; and how far we’ve come.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_000_005">&lt;glee&gt;And not to mention all the new friends we’ve made!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_000_006">So I hope you will stick around and join us as we ring in our next year here on  &lt;IslandName&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_001_000">&lt;haha&gt;I’m not telling you!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_001_001">I’ll tell you what, you’ll have to wait for the sun to go down.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_002_000">Don’t forget that I’ve still got a surprise for everyone tonight!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Response_002_001">&lt;glee&gt;Plenty of &lt;IslandDay&gt; left to celebrate.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Intro_000">G’day, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Intro_001">It’s &lt;IslandDay&gt; today, so I’m chucking a &lt;SnagSizzle&gt; for us all.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Option_000">What day is it?</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Option_001">Can I have a Snag?</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Option_002">Talk to you soon</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_000_000">Well, tomorrow will actually mark the &lt;timeSinceArriving&gt; since you and I arrived here on &lt;IslandName&gt;.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_000_001">&lt;proud&gt;So in honour of our time spent here, I named today &lt;IslandDay&gt;.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_000_002">&lt;shy&gt;I’ll tell you what, time goes quickly when you’re my age.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_000_003">&lt;no&gt;I can’t believe how much &lt;IslandName&gt; has grown since then.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_000_004">&lt;IslandDay&gt; is a day to celebrate &lt;IslandName&gt; and how far we’ve come.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_000_005">&lt;glee&gt;And not to mention all the new friends we’ve made!</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_000_006">So I hope you will stick around and join us as we ring in our next year here on  &lt;IslandName&gt;!</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_001_000">You’ll have to hold your horses.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_001_001">It takes a bit to cook a good &lt;Snag&gt;.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_001_002">&lt;no&gt;Not to mention how many different sorts I’ve got to cook for everyone here.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_001_003">&lt;shy&gt;I’ll tell you what, some of the folks here on &lt;IslandName&gt; can be picky eaters.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_001_004">&lt;haha&gt;Myself included!</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_001_005">&lt;yes&gt;The &lt;Snags&gt; will be ready around noon.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_001_006">So make sure you're back here at lunch time!</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_002_000">Righto!</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_002_001">&lt;yes&gt;The &lt;Snags&gt; will be ready around noon.</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_002_002">So make sure you're back here at lunch time!</string>
+  <string name="FLETCH/IslandDayGreeting_Morning_006_Response_002_003">Until then, enjoy yourself today, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Intro_001">How do you like the show in the sky?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Intro_002">&lt;shy&gt;I had a little help getting it ready.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Intro_003">You should be able to see them all over &lt;IslandName&gt; for the rest of the night.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Intro_004">Feel free to go wandering and check them out from your favourite spots here on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Option_000">Thanks for today.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Option_001">Talk to you soon</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_000_000">I’ll tell you what, no need to thank me!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_000_001">Everyone here tonight should be thanking you!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_000_002">You’ve done an amazing job, bringing everyone on &lt;IslandName&gt; together and helping us all find a new home.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_000_003">I’m honoured that you came with me on the &lt;AirShip&gt; all that time ago.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_000_004">&lt;glee&gt;Here’s to another beautiful year on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_001_000">Righto, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_001_001">&lt;yes&gt;Enjoy your night.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Night_006_Response_001_002">&lt;glee&gt;Here’s to another beautiful year on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Intro_000">G’day, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Intro_001">It’s &lt;IslandDay&gt; today, so I’m chucking a &lt;SnagSizzle&gt; for us all.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Option_000">What day is it?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Option_001">Got anymore Snags?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Option_002">Talk to you soon</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_000_000">Well, tomorrow will actually mark the &lt;timeSinceArriving&gt; since you and I arrived here on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_000_001">&lt;proud&gt;So in honour of our time spent here, I named today &lt;IslandDay&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_000_002">&lt;shy&gt;I’ll tell you what, time goes quickly when you’re my age.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_000_003">&lt;no&gt;I can’t believe how much &lt;IslandName&gt; has grown since then.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_000_004">&lt;IslandDay&gt; is a day to celebrate &lt;IslandName&gt; and how far we’ve come.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_000_005">&lt;glee&gt;And not to mention all the new friends we’ve made!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_000_006">So I hope you will stick around and join us as we ring in our next year here on  &lt;IslandName&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_001_000">Sorry mate, they’re all gone!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_001_001">I’ll tell you what, it looks like they were a big hit.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_001_002">We’ll have to do this again next year, right?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_001_003">Oh, and there is a surprise later on tonight, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_001_004">&lt;glee&gt;Plenty of &lt;IslandDay&gt; left to celebrate.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_002_000">Oh, and there is a surprise later on tonight, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/IslandDayGreeting_Noon_006_Response_002_001">&lt;glee&gt;Plenty of &lt;IslandDay&gt; left to celebrate.</string>
+  <string name="FLETCH/Low_Friendship_Greeting 0_Intro_000">Ah, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Low_Friendship_Greeting 0_Intro_001">How can I help you?</string>
+  <string name="FLETCH/Low_Friendship_Greeting 0_Response_003_000">Oh, okay then.</string>
+  <string name="FLETCH/Low_Friendship_Greeting 1_Intro_000">G'day, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Low_Friendship_Greeting 1_Intro_001">What did you need?</string>
+  <string name="FLETCH/Low_Friendship_Greeting 1_Response_003_000">&lt;no&gt;No worries.</string>
+  <string name="FLETCH/Low_Friendship_Greeting 2_Intro_000">Hi, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Low_Friendship_Greeting 2_Intro_001">Can I help you?</string>
+  <string name="FLETCH/Low_Friendship_Greeting 2_Response_003_000">Hooroo!&lt;wave&gt;</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 0_Intro_000">Nice to see you, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 0_Intro_001">Do you need anything?</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 0_Response_003_000">See you in a bit!</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 1_Intro_000">How’s it going, &lt;PlayerName&gt;?</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;Alright, I’ll see you later.</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 2_Intro_000">&lt;haha&gt;I’ll tell you what, I was just thinking of you, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 2_Intro_001">Can I help you with something?</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 2_Response_003_000">Take care.</string>
+  <string name="FLETCH/Morning_Greeting 0_Intro_000">Morning, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Morning_Greeting 0_Response_003_000">Take it easy, okay?</string>
+  <string name="FLETCH/Morning_Greeting 1_Intro_000">&lt;proud&gt;I’ll tell you what, it’s a lovely morning today.</string>
+  <string name="FLETCH/Morning_Greeting 1_Response_003_000">&lt;wave&gt;Enjoy your morning!</string>
+  <string name="FLETCH/Morning_Greeting 2_Intro_000">Good morning, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Morning_Greeting 2_Response_003_000">&lt;yes&gt;See you around.</string>
+  <string name="FLETCH/MoveHouseConvo_Intro_000">Alright, we can move your house for &lt;sprite=11&gt;25,000.</string>
+  <string name="FLETCH/MoveHouseConvo_Intro_001">Does that sound okay?</string>
+  <string name="FLETCH/MoveHouseConvo_Option_000">Let's do it!</string>
+  <string name="FLETCH/MoveHouseConvo_Option_001">No thanks.</string>
+  <string name="FLETCH/MoveHouseConvo_Response_000_000">Great! I'll take the &lt;sprite=11&gt;25,000 and you take this deed and place it where you want your house.</string>
+  <string name="FLETCH/MoveHouseConvo_Response_000_001">&lt;thinking&gt;You're probably going to want to sleep somewhere else tonight. Maybe outside?</string>
+  <string name="FLETCH/MoveHouseConvo_Response_000_002">&lt;yes&gt;Now these movers are quick, but they can be very rough...</string>
+  <string name="FLETCH/MoveHouseConvo_Response_000_003">&lt;yes&gt;They'll try their best to put your furniture back where they found it, but sometimes they can get it all jumbled up.</string>
+  <string name="FLETCH/MoveHouseConvo_Response_001_000">Maybe some other time, hmm?</string>
+  <string name="FLETCH/Night_Greeting 0_Intro_000">&lt;no&gt;I can’t see anything in this murk.</string>
+  <string name="FLETCH/Night_Greeting 0_Intro_001">Is that you, &lt;PlayerName&gt;?</string>
+  <string name="FLETCH/Night_Greeting 0_Response_003_000">Good night!</string>
+  <string name="FLETCH/Night_Greeting 1_Intro_000">Good evening, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Night_Greeting 1_Intro_001">Don't stay up too late, okay?</string>
+  <string name="FLETCH/Night_Greeting 1_Response_003_000">Hooroo.</string>
+  <string name="FLETCH/Night_Greeting 2_Intro_000">Another day coming to an end.</string>
+  <string name="FLETCH/Night_Greeting 2_Intro_001">&lt;yes&gt;I’ll tell you what, they go fast at my age!</string>
+  <string name="FLETCH/Night_Greeting 2_Response_003_000">Nighty night, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/No Deeds Avaliable_Intro_000">Oh! &lt;shocked&gt;</string>
+  <string name="FLETCH/No Deeds Avaliable_Intro_001">It appears we dont have any deeds avaliable right now!</string>
+  <string name="FLETCH/No Deeds Avaliable_Intro_002">I hope we can apply for some more soon!</string>
+  <string name="FLETCH/No House_Intro_000">But you don't have a house yet! If you ask my about deeds we might be able to solve that.</string>
+  <string name="FLETCH/No Room In Inv Building Move 1_Intro_000">&lt;no&gt;You don't have any room to hold the move deed!</string>
+  <string name="FLETCH/No Room In Inv Building Move 1_Intro_001">&lt;yes&gt;Please, make some room and come and talk to me.</string>
+  <string name="FLETCH/No Upgrades Left_Intro_000">It looks like your house is as big as it can be for now! &lt;haha&gt;</string>
+  <string name="FLETCH/NoRoomForDeeds_Intro_000">Hmmm. &lt;thinking&gt;</string>
+  <string name="FLETCH/NoRoomForDeeds_Intro_001">&lt;no&gt;I don't think you have room to hold any deeds.</string>
+  <string name="FLETCH/NoRoomForDeeds_Intro_002">&lt;yes&gt;Please make some room and come back again.</string>
+  <string name="FLETCH/NonLocalWantsToMove_Intro_000">&lt;no&gt;I'm sorry, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/NonLocalWantsToMove_Intro_001">&lt;shy&gt;Only perminant residents can move buildings</string>
+  <string name="FLETCH/Noon_Greeting 0_Intro_000">&lt;thinking&gt;Just about lunchtime, I think.</string>
+  <string name="FLETCH/Noon_Greeting 0_Response_003_000">Righto.</string>
+  <string name="FLETCH/Noon_Greeting 1_Intro_000">G’day &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Noon_Greeting 1_Intro_001">Enjoying your day?</string>
+  <string name="FLETCH/Noon_Greeting 1_Response_003_000">&lt;wave&gt;Hooroo.</string>
+  <string name="FLETCH/Noon_Greeting 2_Intro_000">Noon already?</string>
+  <string name="FLETCH/Noon_Greeting 2_Intro_001">I’ll tell you what, today is going quick!</string>
+  <string name="FLETCH/Noon_Greeting 2_Response_003_000">Enjoy the rest of your day, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/NotALocalDeed_Intro_000">Oh, I think we'll leave that up to people that live here, okay?</string>
+  <string name="FLETCH/NotEnoughMoneyToMoveHouse_Intro_000">Alright, we can move your house for &lt;sprite=11&gt;25,000.</string>
+  <string name="FLETCH/NotEnoughMoneyToMoveHouse_Intro_001">Does that sound okay?</string>
+  <string name="FLETCH/NotEnoughMoneyToMoveHouse_Option_000">Let's do it!</string>
+  <string name="FLETCH/NotEnoughMoneyToMoveHouse_Option_001">No thanks.</string>
+  <string name="FLETCH/NotEnoughMoneyToMoveHouse_Response_000_000">&lt;shy&gt;Oh, it seems like you can't afford to move it right now...</string>
+  <string name="FLETCH/NotEnoughMoneyToMoveHouse_Response_000_001">That's alright, just come and ask me again when you can, okay?</string>
+  <string name="FLETCH/OpenDeed Screen_Intro_000">Okay, here are our current deeds.</string>
+  <string name="FLETCH/Pay off town Debt_Intro_000">Hmmm... &lt;thinking&gt;</string>
+  <string name="FLETCH/Pay off town Debt_Intro_001">I don't think it would be wise to apply for more deeds with the town in debt. &lt;no&gt;</string>
+  <string name="FLETCH/Pay off town Debt_Intro_002">People can donate money at a donation box here in the base tent.</string>
+  <string name="FLETCH/Pay off town Debt_Intro_003">Slowly but surely we will reach our goal! &lt;pumped&gt;</string>
+  <string name="FLETCH/RandomConvo_000_Intro_000">I’ll tell you what, I really enjoy chatting to you, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_000_Intro_001">It’s probably because you don’t talk as much as I do! You really know how to listen.</string>
+  <string name="FLETCH/RandomConvo_000_Option_000">I wanted...</string>
+  <string name="FLETCH/RandomConvo_000_Option_001">Actually...</string>
+  <string name="FLETCH/RandomConvo_000_Response_000_000">I’ll tell you what! You’re a true blue friend, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_000_Response_001_000">I’ll tell you what! You’re a true blue friend, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_001_Intro_000">How lucky is it that &lt;favouriteFood&gt; grows natively here on &lt;IslandName&gt;!</string>
+  <string name="FLETCH/RandomConvo_001_Intro_001">&lt;glee&gt;&lt;favouriteFood&gt; is my favourite food! I bloody love them!</string>
+  <string name="FLETCH/RandomConvo_001_Intro_002">I’m a very lucky lady, I’ll tell you what! </string>
+  <string name="FLETCH/RandomConvo_002_Intro_000">&lt;IslandName&gt; has changed a lot, I’ll tell you what!</string>
+  <string name="FLETCH/RandomConvo_002_Intro_001">&lt;thinking&gt;But then again, I have too...</string>
+  <string name="FLETCH/RandomConvo_002_Intro_002">&lt;pumped&gt;&lt;PlayerName&gt;, let’s do our best to make &lt;IslandName&gt; a great place people want to live!</string>
+  <string name="FLETCH/RandomConvo_003_Intro_000">I moved to &lt;SouthCity&gt; when I was a very little girl.</string>
+  <string name="FLETCH/RandomConvo_003_Intro_001">&lt;no&gt;I’ll tell you what, it was hard to make friends at that age. </string>
+  <string name="FLETCH/RandomConvo_003_Intro_002">&lt;haha&gt;None of the other kids had a clue what I was talking about most of the time!</string>
+  <string name="FLETCH/RandomConvo_004_Intro_000">&lt;yes&gt;I’ll tell you what, as more people move here, the more it starts to feel like the &lt;IslandName&gt; I remember.</string>
+  <string name="FLETCH/RandomConvo_004_Intro_001">&lt;pumped&gt;I’ll tell you what, if we keep working hard, &lt;IslandName&gt; will be a place everybody wants to live!</string>
+  <string name="FLETCH/RandomConvo_005_Intro_000">Although I lived in &lt;SouthCity&gt; most of my life, it never did feel like home there. </string>
+  <string name="FLETCH/RandomConvo_005_Intro_001">&lt;haha&gt;I’ll tell you what the place was chock-a-block full of houses though!</string>
+  <string name="FLETCH/RandomConvo_006_Intro_000">I wish I could help you out more, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_006_Intro_001">&lt;no&gt;I’ll tell you what, old &lt;myName&gt; wasn’t always old.</string>
+  <string name="FLETCH/RandomConvo_006_Intro_002">&lt;pumped&gt;I used to run around helping people out, just like you do.</string>
+  <string name="FLETCH/RandomConvo_006_Intro_003">&lt;yes&gt;I was always doing something.</string>
+  <string name="FLETCH/RandomConvo_007_Intro_000">&lt;IslandName&gt; has a lot of different ecosystems for such a small area.</string>
+  <string name="FLETCH/RandomConvo_007_Intro_001">If I remember correctly, my old home was located on the near North-West coast…
+Or maybe it was South-East?</string>
+  <string name="FLETCH/RandomConvo_007_Intro_002">&lt;thinking&gt;Hmmm…</string>
+  <string name="FLETCH/RandomConvo_007_Intro_003">I’ll tell you what, when I remember, I’ll let you know.</string>
+  <string name="FLETCH/RandomConvo_008_Intro_000">I’ve held onto that &lt;Journal&gt; I gave you for years back in &lt;SouthCity&gt;.</string>
+  <string name="FLETCH/RandomConvo_008_Intro_001">&lt;sigh&gt;It’s the only thing I have to remind me of my Father...</string>
+  <string name="FLETCH/RandomConvo_008_Intro_002">&lt;no&gt;Oh, it’s okay, don’t worry.</string>
+  <string name="FLETCH/RandomConvo_008_Intro_003">&lt;glee&gt;It warms my heart to see you beating those milestones!</string>
+  <string name="FLETCH/RandomConvo_008_Intro_004">&lt;yes&gt;I think it would warm his heart too.</string>
+  <string name="FLETCH/RandomConvo_009_Intro_000">Ah, I see you’ve already started to make a dent in those milestones.</string>
+  <string name="FLETCH/RandomConvo_009_Intro_001">&lt;no&gt;Don’t worry, &lt;PlayerName&gt;, I’ve got plenty more &lt;PermitPoints&gt; to hand out.</string>
+  <string name="FLETCH/RandomConvo_010_Intro_000">I’ve been saving all my life. </string>
+  <string name="FLETCH/RandomConvo_010_Intro_001">&lt;haha&gt;I’ll tell you what, the only &lt;Licence&gt; I ever needed was the &lt;Licence&gt; to give &lt;Licences&gt;!</string>
+  <string name="FLETCH/RandomConvo_011_Intro_000">I’ll tell you what, I really enjoy chatting to you, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_011_Intro_001">It’s probably because you don’t talk as much as I do! You really know how to listen.</string>
+  <string name="FLETCH/RandomConvo_011_Option_000">I wanted...</string>
+  <string name="FLETCH/RandomConvo_011_Option_001">Actually...</string>
+  <string name="FLETCH/RandomConvo_011_Response_000_000">I’ll tell you what! You’re a true blue friend, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_011_Response_001_000">I’ll tell you what! You’re a true blue friend, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_012_Intro_000">&lt;thinking&gt;I know we’re a long way from &lt;SouthCity&gt; and I could probably just hand out all your &lt;Licences&gt; to you straight away...</string>
+  <string name="FLETCH/RandomConvo_012_Intro_001">&lt;no&gt;But let me tell you, &lt;PlayerName&gt;, you’re not going very far in life unless you work hard to get what you want!</string>
+  <string name="FLETCH/RandomConvo_013_Intro_000">I’ll tell you what, I used to dream of becoming a &lt;Nomad&gt;. You know, getting out of &lt;SouthCity&gt;, exploring the world...</string>
+  <string name="FLETCH/RandomConvo_013_Intro_001">&lt;shocked&gt;Oh!</string>
+  <string name="FLETCH/RandomConvo_013_Intro_002">&lt;haha&gt;I guess that's exactly what we did!</string>
+  <string name="FLETCH/RandomConvo_013_Intro_003">&lt;glee&gt;It just goes to show you’re never too old for a change!</string>
+  <string name="FLETCH/RandomConvo_014_Intro_000">&lt;yes&gt;Let me tell you, even though I hate doing it, I’m bloody grouse at paperwork.</string>
+  <string name="FLETCH/RandomConvo_014_Intro_001">&lt;shy&gt;It’s just something I picked up quickly in &lt;SouthCity&gt;. </string>
+  <string name="FLETCH/RandomConvo_014_Intro_002">&lt;haha&gt;I guess it made me look like I was a local!</string>
+  <string name="FLETCH/RandomConvo_014_Intro_003">&lt;yes&gt;I’ll tell you what, if you wanted to do something in &lt;SouthCity&gt;, you needed a form to do it. </string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="FLETCH/RandomConvo_015_Intro_000">Have a think about which &lt;PermitPoints&gt; you want to spend first.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="FLETCH/RandomConvo_015_Intro_001">I’ll tell you what, you look like somebody that’ll nab all of them.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="FLETCH/RandomConvo_015_Intro_002">There’s some that will make things much easier!</string>
+  <string name="FLETCH/RandomConvo_016_Intro_000">Hey &lt;PlayerName&gt;. You know, &lt;myName&gt; is actually my surname, right?</string>
+  <string name="FLETCH/RandomConvo_016_Option_000">What’s your first name?</string>
+  <string name="FLETCH/RandomConvo_016_Option_001">Why does everyone call you that?</string>
+  <string name="FLETCH/RandomConvo_016_Response_000_000">&lt;thinking&gt;Hmmm…</string>
+  <string name="FLETCH/RandomConvo_016_Response_000_001">&lt;haha&gt;I’ll tell you what, I might tell you one day...</string>
+  <string name="FLETCH/RandomConvo_016_Response_001_000">&lt;yes&gt;Everyone called my Father &lt;myName&gt;. It was just easier.</string>
+  <string name="FLETCH/RandomConvo_016_Response_001_001">&lt;haha&gt;I guess the name just stuck on me too!</string>
+  <string name="FLETCH/RandomConvo_017_Intro_000">&lt;pumped&gt;There’s so much for us still to discover here on &lt;IslandName&gt;!</string>
+  <string name="FLETCH/RandomConvo_017_Intro_001">&lt;glee&gt;I can’t I just can’t wait to hear all about it.</string>
+  <string name="FLETCH/RandomConvo_018_Intro_000">&lt;no&gt;You really should sleep more often &lt;PlayerName&gt;, it’s no good to run around with low energy!</string>
+  <string name="FLETCH/RandomConvo_018_Intro_001">I'll tell you what, why not take the rest of the day off?</string>
+  <string name="FLETCH/RandomConvo_019_Intro_000">You know what I hated most about &lt;SouthCity&gt;?</string>
+  <string name="FLETCH/RandomConvo_019_Intro_001">&lt;no&gt;The terrible, terrible food they have there.</string>
+  <string name="FLETCH/RandomConvo_019_Intro_002">&lt;BlobFish&gt;? Forget about that!</string>
+  <string name="FLETCH/RandomConvo_019_Intro_003">&lt;no&gt;I’ll tell you what, those things tasted like wet cardboard.</string>
+  <string name="FLETCH/RandomConvo_019_Intro_004">&lt;haha&gt;Except wet cardboard has more texture!</string>
+  <string name="FLETCH/RandomConvo_020_Intro_000">Thank you for looking after my Father’s &lt;Journal&gt;.</string>
+  <string name="FLETCH/RandomConvo_020_Intro_001">&lt;proud&gt;I’ll tell you what, some of those milestones will be tough to beat!</string>
+  <string name="FLETCH/RandomConvo_020_Intro_002">&lt;yes&gt;But take your time, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_020_Intro_003">&lt;glee&gt;I’m sure you’ll reach them eventually!</string>
+  <string name="FLETCH/RandomConvo_021_Intro_000">I’ll tell you what, it’s just really nice to get out and about every once in a while, eh?</string>
+  <string name="FLETCH/RandomConvo_021_Intro_001">&lt;proud&gt;Exercise really gets my blood pumping!</string>
+  <string name="FLETCH/RandomConvo_022_Intro_000">&lt;thinking&gt;The animals on &lt;IslandName&gt; aren’t quite the same as I remember them...</string>
+  <string name="FLETCH/RandomConvo_022_Intro_001">&lt;yes&gt;I guess so much has happened since then.</string>
+  <string name="FLETCH/RandomConvo_022_Intro_002">For all of us.</string>
+  <string name="FLETCH/RandomConvo_023_Intro_000">I don’t know why there’s so little motivation in &lt;SouthCity&gt;.</string>
+  <string name="FLETCH/RandomConvo_023_Intro_001">Why people don’t have a sense of adventure or passion.</string>
+  <string name="FLETCH/RandomConvo_023_Intro_002">&lt;yes&gt;I suppose those that do just don’t last long there...</string>
+  <string name="FLETCH/RandomConvo_024_Intro_000">I’ll tell you what, if I were younger...</string>
+  <string name="FLETCH/RandomConvo_024_Intro_001">&lt;haha&gt;I still don’t think I’d be able to do all the things you do, &lt;PlayerName&gt;! </string>
+  <string name="FLETCH/RandomConvo_025_Intro_000">I'll tell you what, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_025_Intro_001">&lt;pumped&gt;We’ve been getting on like a house on fire!</string>
+  <string name="FLETCH/RandomConvo_025_Intro_002">&lt;shy&gt;Thanks for keeping on keeping on, you little rascal you.</string>
+  <string name="FLETCH/RandomConvo_026_Intro_000">I’ll tel you what, you can stand around all day waiting for something to happen…</string>
+  <string name="FLETCH/RandomConvo_026_Intro_001">&lt;proud&gt;Or you can get out there and get it done!</string>
+  <string name="FLETCH/RandomConvo_026_Intro_002">&lt;yes&gt;I like that about you, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_026_Intro_003">&lt;haha&gt;I tell you what, you’ve been getting it done.</string>
+  <string name="FLETCH/RandomConvo_027_Intro_000">I’ll tell you what, age has a funny way of sneaking up on you.</string>
+  <string name="FLETCH/RandomConvo_027_Intro_001">If you keep yourself busy and focused, you don’t notice it happening at all!</string>
+  <string name="FLETCH/RandomConvo_027_Intro_002">&lt;haha&gt;I remember catching my reflection once and thinking “Who’s this old lady in my house?”</string>
+  <string name="FLETCH/RandomConvo_028_Intro_000">For a long long time I felt like I was just treading water and waiting for something big to happen.</string>
+  <string name="FLETCH/RandomConvo_028_Intro_001">&lt;no&gt;You really can’t be like that though.</string>
+  <string name="FLETCH/RandomConvo_028_Intro_002">&lt;thinking&gt;Not if you want to be happy.</string>
+  <string name="FLETCH/RandomConvo_028_Intro_003">&lt;proud&gt;You have to MAKE things happen yourself!</string>
+  <string name="FLETCH/RandomConvo_028_Intro_004">&lt;yes&gt;Give yourself a goal, a purpose!</string>
+  <string name="FLETCH/RandomConvo_028_Intro_005">&lt;pumped&gt;Beat those milestones!</string>
+  <string name="FLETCH/RandomConvo_029_Intro_000">It’s funny how things change when you get older...</string>
+  <string name="FLETCH/RandomConvo_029_Intro_001">&lt;shy&gt;I look back at times I felt embarrassed, and they just make me chuckle now.</string>
+  <string name="FLETCH/RandomConvo_029_Intro_002">Things I cared about so much can just seem silly.</string>
+  <string name="FLETCH/RandomConvo_029_Intro_003">Time can really put things into perspective, don’t you think?</string>
+  <string name="FLETCH/RandomConvo_029_Intro_004">The rough stuff gets sanded over, but the bright stuff shines even brighter!</string>
+  <string name="FLETCH/RandomConvo_030_Intro_000">I’ll tell you what, saving up for all these years, I would have never imagined seeing &lt;IslandName&gt; look like this again.</string>
+  <string name="FLETCH/RandomConvo_030_Intro_001">&lt;yes&gt;While it’s not exactly how I remember it, it feels nice knowing that &lt;IslandName&gt; is someone's home again.</string>
+  <string name="FLETCH/RandomConvo_030_Intro_002">I think my Father would be very proud of what we’ve done here, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_030_Intro_003">&lt;haha&gt;But I’ll tell you what, I’m very proud of what you’ve done here!</string>
+  <string name="FLETCH/RandomConvo_031_Intro_000">&lt;yes&gt;It’s always so nice to see you &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_031_Intro_001">&lt;shy&gt;I’ll tell you what, if I don’t get to talk to you at least once a day, I feel like I’ve missed out!</string>
+  <string name="FLETCH/RandomConvo_032_Intro_000">&lt;sigh&gt;I really wish you could have met my Father, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_032_Intro_001">&lt;haha&gt;He would give you a run for your money, let me tell you!</string>
+  <string name="FLETCH/RandomConvo_032_Intro_002">&lt;glee&gt;It felt like that man could never run out of energy!</string>
+  <string name="FLETCH/RandomConvo_033_Intro_000">You’re the best thing that ever happened to me, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/RandomConvo_033_Intro_001">Sometimes I keep myself up late at night imagining that someone else responded to that ad...</string>
+  <string name="FLETCH/RandomConvo_033_Intro_002">&lt;worried&gt;Oh, no!</string>
+  <string name="FLETCH/RandomConvo_033_Intro_003">&lt;no&gt;But I’ll tell you what, there is no point in thinking like that!</string>
+  <string name="FLETCH/RandomConvo_033_Intro_004">&lt;haha&gt;You’re here, and that’s all that matters!</string>
+  <string name="FLETCH/RandomConvo_034_Intro_000">My father always used to say: “You keep your friends close, and your best friends closer.”</string>
+  <string name="FLETCH/RandomConvo_034_Intro_001">&lt;haha&gt; He wasn’t much of a wordy, but he knew how to get things done, make no mistake.</string>
+  <string name="FLETCH/RandomConvo_034_Intro_002">&lt;yes&gt;Always looking out for his friends, he was.</string>
+  <string name="FLETCH/RandomConvo_034_Intro_003">&lt;yes&gt;Just like you &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/StartingConversationTent_Intro_000">Ah! So, you're interested in applying for a house deed?</string>
+  <string name="FLETCH/StartingConversationTent_Intro_001">I'll just let you know there is a &lt;getHousePrice&gt; up front fee. &lt;thinking&gt;</string>
+  <string name="FLETCH/StartingConversationTent_Intro_002">Oh, and once you've applied for the deed, you will have to source the construction materials yourself. &lt;yes&gt;</string>
+  <string name="FLETCH/StartingConversationTent_Intro_003">So, are you interested in applying for a house of your own?</string>
+  <string name="FLETCH/StartingConversationTent_Option_000">I want to apply for a house.</string>
+  <string name="FLETCH/StartingConversationTent_Option_001">Nevermind.</string>
+  <string name="FLETCH/StartingConversationTent_Response_001_000">Well, I'll let you have a think about it.</string>
+  <string name="FLETCH/StartingConversationTent_Response_001_001">Let me know if you change your mind.</string>
+  <string name="FLETCH/StartingConversation_Option_000">I want to upgrade</string>
+  <string name="FLETCH/StartingConversation_Option_001">I want to move my house.</string>
+  <string name="FLETCH/StartingConversation_Option_002">Nevermind</string>
+  <string name="FLETCH/StartingConversation_Response_001_000">Hmmm...</string>
+  <string name="FLETCH/StartingConversation_Response_002_000">Alright then, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/StartingConvo_Option_000">Can I see the deeds?</string>
+  <string name="FLETCH/StartingConvo_Option_001">I want to move a building.</string>
+  <string name="FLETCH/StartingConvo_Option_002">Nevermind.</string>
+  <string name="FLETCH/StartingConvo_Response_001_000">Lets see what we can do...</string>
+  <string name="FLETCH/StartingConvo_Response_002_000">Talk again soon, okay?</string>
+  <string name="FLETCH/TownIsInDebt_Intro_000">&lt;thinking&gt;Moving the building can be a bit expensive...</string>
+  <string name="FLETCH/TownIsInDebt_Intro_001">&lt;yes&gt;Let's get that town debt payed off before we move any buildings, okay?</string>
+  <string name="FLETCH/TownMention_Level_001_Intro_000">Although this isn’t the &lt;IslandName&gt; I remember, it's still amazing seeing the changes you’ve made around here &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/TownMention_Level_001_Intro_001">I think my father would be proud of us!</string>
+  <string name="FLETCH/TownMention_Level_002_Intro_000">Remember back when you were setting tents up for us both?</string>
+  <string name="FLETCH/TownMention_Level_002_Intro_001">Look at &lt;IslandName&gt; now!</string>
+  <string name="FLETCH/TownMention_Level_002_Intro_002">You’ve done such a good job, I’ll tell you what!</string>
+  <string name="FLETCH/TownMention_Level_003_Intro_000">Oh, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/TownMention_Level_003_Intro_001">I’ll tell you what, it really warms my heart to see &lt;IslandName&gt; bustling again.</string>
+  <string name="FLETCH/TownMention_Level_003_Intro_002">Things are really shaping up around here, thanks to you!</string>
+  <string name="FLETCH/TownMention_Level_004_Intro_000">&lt;no&gt;I would have never imagined seeing &lt;IslandName&gt; looking like this again..</string>
+  <string name="FLETCH/TownMention_Level_004_Intro_001">&lt;boohoo&gt;You’ve really made an old woman very happy, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/TownMention_Level_004_Intro_002">Thanks for everything you’ve done, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/Upgrade House No Money Tent_Intro_000">Very good!</string>
+  <string name="FLETCH/Upgrade House No Money Tent_Intro_001">...Oh. It seems like you a bit short on cash. &lt;shy&gt;</string>
+  <string name="FLETCH/Upgrade House No Money Tent_Intro_002">Perhaps you can come back when your pockets are a bit heavier?</string>
+  <string name="FLETCH/Upgrade House No Money_Intro_000">Well, to make your house bigger its going to cost &lt;getHousePrice&gt; .  How does that sound?</string>
+  <string name="FLETCH/Upgrade House No Money_Option_000">Yes!</string>
+  <string name="FLETCH/Upgrade House No Money_Option_001">Maybe later.</string>
+  <string name="FLETCH/Upgrade House No Money_Response_000_000">Very good!</string>
+  <string name="FLETCH/Upgrade House No Money_Response_000_001">...Oh. It seems like you a bit short on cash. &lt;shy&gt;</string>
+  <string name="FLETCH/Upgrade House No Money_Response_000_002">Perhaps you can come back when your pockets are a bit heavier?</string>
+  <string name="FLETCH/Upgrade House No Money_Response_001_000">Well, if you change your mind, please come speak to me.</string>
+  <string name="FLETCH/Upgrade HouseTent_Intro_000">Alright I'll take &lt;getHousePrice&gt; from you.</string>
+  <string name="FLETCH/Upgrade HouseTent_Intro_001">You'll find the construction material box in front of your house.</string>
+  <string name="FLETCH/Upgrade HouseTent_Intro_002">As soon as it's full you'll find the construction will be completed over night.</string>
+  <string name="FLETCH/Upgrade HouseTent_Intro_003">Don't worry. I hire very quiet workers. You won't hear a peep out of them! &lt;haha&gt;</string>
+  <string name="FLETCH/Upgrade HouseTent_Intro_004">I hope you're looking forward to your new house! &lt;glee&gt;</string>
+  <string name="FLETCH/Upgrade House_Intro_000">Well, to make your house bigger its going to cost &lt;getHousePrice&gt;. How does that sound?</string>
+  <string name="FLETCH/Upgrade House_Option_000">Yes!</string>
+  <string name="FLETCH/Upgrade House_Option_001">Maybe later.</string>
+  <string name="FLETCH/Upgrade House_Response_000_000">Okay. We'll set up a construction box infront of your house. &lt;yes&gt;</string>
+  <string name="FLETCH/Upgrade House_Response_000_001">We wont be able to start construction until you fill the box with the required construction materials. &lt;yes&gt;</string>
+  <string name="FLETCH/Upgrade House_Response_000_002">As so you as have all the required materials, construction can begin!</string>
+  <string name="FLETCH/Upgrade House_Response_001_000">Well, if you change your mind, please come speak to me.</string>
+  <string name="FLETCH/WantToMoveBuilding_Intro_000">So we're going to relocate &lt;relocateBuildingName&gt;?</string>
+  <string name="FLETCH/WantToMoveBuilding_Intro_001">Relocating the building will put the town &lt;sprite=11&gt;25,000 in debt.</string>
+  <string name="FLETCH/WantToMoveBuilding_Intro_002">Is that okay?</string>
+  <string name="FLETCH/WantToMoveBuilding_Option_000">Let's move it!</string>
+  <string name="FLETCH/WantToMoveBuilding_Option_001">Nevermind...</string>
+  <string name="FLETCH/WantToMoveBuilding_Response_000_000">Ok! Lets do it!</string>
+  <string name="FLETCH/WantToMoveBuilding_Response_000_001">Here is the &lt;itemName&gt;. Place it down in the new place we want the &lt;relocateBuildingName&gt;.</string>
+  <string name="FLETCH/WantToMoveBuilding_Response_000_002">&lt;yes&gt;The building will be moved over night.</string>
+  <string name="FLETCH/WantToMoveBuilding_Response_001_000">Not a problem, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Intro_000">The &lt;PaperLantern&gt; event has started, &lt;PlayerName&gt;!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Intro_001">&lt;glee&gt;Please go enjoy yourself!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Option_000">How do I play?</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Option_001">Any tips for me?</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Option_002">Bye for now!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_000_000">Well, the aim of the game is to hit down as many &lt;PaperLanterns&gt; from the sky as you can!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_000_001">Each one will drop a &lt;itemName&gt; once you’ve hit it!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_000_002">&lt;haha&gt;The best way to hit them down is using your &lt;Kite&gt;, but I won't stop you from being creative.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_000_003">You should bring any &lt;itemName&gt; back here to this table to claim rewards from the reward box.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_000_004">Good luck, &lt;PlayerName&gt;!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_001_000">Well, if you stand still, you’ll notice the &lt;Kite&gt; will go wherever you’re looking.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_001_001">If you “use” your &lt;Kite&gt;, you’ll let out some string and the &lt;Kite&gt; will go much higher.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_001_002">It’s easier to aim your &lt;Kite&gt; while doing this and standing still.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_001_003">&lt;thinking&gt;When I was a bit younger, I found this the best strategy:</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_001_004">Get close to a &lt;PaperLantern&gt;, “use” your &lt;Kite&gt; to let out some string to make the &lt;Kite&gt; go higher.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_001_005">Then, try to line things up by watching where your &lt;Kite&gt;’s string is.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_001_006">&lt;yes&gt;With a bit of practice, I’m sure you’ll get the hang of it &lt;PlayerName&gt;!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="FLETCH/SkyFest_AfterNoon_006_Response_002_000">Good luck, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Intro_000">Happy &lt;SkyFest&gt; to you, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Intro_001">I've got some great activities planned for today, so I hope you'll stick around!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Option_000">What day is it?</string>
+  <string name="FLETCH/SkyFest_Morning_006_Option_001">What activities?</string>
+  <string name="FLETCH/SkyFest_Morning_006_Option_002">Talk to you soon</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_000_000">Today is &lt;SkyFest&gt;!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_000_001">You see, today is the day where we’ll see the &lt;Aurora&gt;!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_000_002">&lt;yes&gt;It’s a very rare occurrence, even here on &lt;IslandName&gt;.</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_000_003">&lt;glee&gt;So, today we’re celebrating the sky with some fun activities while we wait.</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_000_004">&lt;glee&gt;I hope you’ll join in too, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_000">Well, around 11:00 everyone will be making a &lt;Kite&gt;!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_001">Be sure to come talk to me around 11:00 to get your &lt;itemName&gt;.</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_002">&lt;proud&gt;I’ve got enough for everyone!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_003">&lt;glee&gt;A bit later on, we’ll start the &lt;PaperLantern&gt; event.</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_004">&lt;yes&gt;I’ll explain how that works a bit later.</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_005">And of course, everyone is looking forward to the main event. </string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_006">The &lt;Aurora&gt;!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_001_007">A beautiful and rare natural occurrence, later tonight.</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_002_000">Righto!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_002_001">Don’t forget to come back a bit later to get your &lt;itemName&gt;!</string>
+  <string name="FLETCH/SkyFest_Morning_006_Response_002_002">Until then, enjoy yourself, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Night_006_Intro_000">&lt;glee&gt;The &lt;Aurora&gt; is in full swing!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Night_006_Intro_001">&lt;glee&gt;We should be able to see it all night here on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Night_006_Intro_002">&lt;shy&gt;I hope you’ve had some fun today, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Night_006_Intro_003">The prize box will be here in the Band Stand all night, but the lanterns will stop once it gets late.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Night_006_Intro_004">&lt;yes&gt;So make sure you try and get as many tickets as you can before then!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Night_006_Intro_005">&lt;haha&gt;Hopefully the &lt;Aurora&gt; won’t distract you too much!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Intro_000">Have you made your &lt;Kite&gt; yet, &lt;PlayerName&gt;?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Intro_001">Don’t forget you can make your &lt;Kite&gt; at the &lt;KiteMakingTable&gt; near the steps of the Band Stand.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Option_000">I've made my kite!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Option_001">Talk to you soon</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_000_000">That’s great, &lt;PlayerName&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_000_001">You’re going to need a &lt;Kite&gt; for the &lt;PaperLantern&gt; event.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_000_002">Why don’t you go and get a feel for flying it before we start the event?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_000_003">&lt;yes&gt;Remember, you can "use" the &lt;Kite&gt; to let string out.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_000_004">&lt;pumped&gt;That will let your &lt;Kite&gt; go much higher!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_000_005">&lt;yes&gt;The event will start at 3:00, so you’ve got some time.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_001_000">I hope you're enjoying &lt;SkyFest&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_001_001">&lt;haha&gt;I'll tell you what, the activities and festivities aren't done yet!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_001_002">Don’t forget that we’ve got the &lt;PaperLantern&gt; event at 3:00!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="FLETCH/SkyFest_Noon_006_Response_001_003">And of course, you can’t forget the wonderful &lt;Aurora&gt; once it’s dark.</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_000">Looks like we've landed!</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_001">&lt;glee&gt;I'll tell you what, I’m so glad you’ve decided to accompany me on this adventure, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_002">&lt;worried&gt;I was starting to think no one in &lt;SouthCity&gt; was brave enough to join me!</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_003">&lt;haha&gt;When you were the first and only person to respond to my ad, I knew you were the right person for the job!</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_004">&lt;no&gt;Oh dear, look at old &lt;myName&gt; waffle on...</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_005">Let's get cracking, &lt;PlayerName&gt;!</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_006">I'll see you outside, okay?</string>
+  <!-- Talking about Item: Berkonium Ore -->
+  <string name="FLETCH/Quest_22_Intro_Intro_000">&lt;thinking&gt;Hmmm…</string>
+  <!-- Talking about Item: Berkonium Ore -->
+  <string name="FLETCH/Quest_22_Intro_Intro_001">&lt;glee&gt;&lt;PlayerName&gt;, I’ve just been notified that &lt;IslandName&gt; is now eligible to have its own Airport.</string>
+  <!-- Talking about Item: Berkonium Ore -->
+  <string name="FLETCH/Quest_22_Intro_Intro_002">&lt;thinking&gt;You see, &lt;AirShips&gt; can currently only arrive on &lt;IslandName&gt;.</string>
+  <!-- Talking about Item: Berkonium Ore -->
+  <string name="FLETCH/Quest_22_Intro_Intro_003">&lt;yes&gt;But, with an Airport, we’d be able to depart from &lt;IslandName&gt; and visit some of the smaller islands out in the great unknown!</string>
+  <!-- Talking about Item: Berkonium Ore -->
+  <string name="FLETCH/Quest_22_Intro_Intro_004">&lt;glee&gt;Please come speak to me about available deeds when you want to build the Airport.</string>
+  <string name="FLETCH/CloseDeedWindow_Intro_002">Please come and see me if you change  your mind again! &lt;haha&gt;</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/GetKite_Convo_Intro_000">Righto, &lt;PlayerName&gt;!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/GetKite_Convo_Intro_001">Here is your &lt;itemName&gt;.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/GetKite_Convo_Intro_002">I was up all night making one for everyone.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/GetKite_Convo_Intro_003">You can use the &lt;KiteMakingTable&gt; near the steps of the Band Stand to make your kite.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/GetKite_Convo_Intro_004">&lt;yes&gt;Oh, and don’t forget that you can use paint to make it your own.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/KiteWontFit_Convo_Intro_000">&lt;shocked&gt;Oh!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/KiteWontFit_Convo_Intro_001">&lt;no&gt;Looks like your pockets are full.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Kite Kit -->
+  <string name="FLETCH/KiteWontFit_Convo_Intro_002">Why don’t you make some room and come speak to me.</string>
+  <string name="FLETCH/NotEnoughMoneyToMoveHouse_Response_001_000">Maybe some other time, hmm?</string>
+  <string name="FLETCH/StartingConversation_Intro_000">So, you wanted to talk about your home?</string>
+  <string name="FLETCH/StartingConvo_Intro_000">What exactly can I help you with?</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_000">.........&lt;PlayerName&gt;.........</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_001">&lt;PlayerName&gt;.........</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_002">&lt;PlayerName&gt;?</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_003">&lt;PlayerName&gt;! Can you hear me?</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_004">&lt;yes&gt;I’m so glad you’re okay!</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_005">It looks like you fainted out there!</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_006">&lt;yes&gt;Please be careful out there and always keep an eye on your health and energy.</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_007">&lt;no&gt;If the world starts losing colour you know you’ve worked too hard.</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_008">&lt;yes&gt;Please make sure you eat something to keep your energy up.</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_009">&lt;shy&gt;When you didn’t return after a while, I had to call for a search party from &lt;SouthCity&gt; to come and find you.</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_010">&lt;worried&gt;Those guys delivered you here, but it looks like they went through your pockets and took a fair cut of your &lt;Dinks&gt;.</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_011">Maybe they thought you wouldn't notice?</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_012">&lt;thinking&gt;It looks like some of your tools have taken a bit of damage too…</string>
+  <string name="FLETCH/FirstDayFaintConvo_Intro_013">Please be careful out there, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/LongConvo_001_Intro_000">Oh, hey &lt;PlayerName&gt;. Did I ever tell you why we had to leave &lt;IslandName&gt; all those years ago?</string>
+  <string name="FLETCH/LongConvo_001_Intro_001">You see, growing up, I didn’t even know the world had gone south!</string>
+  <string name="FLETCH/LongConvo_001_Intro_002">&lt;yes&gt;Everything had always been okay here on &lt;IslandName&gt;. </string>
+  <string name="FLETCH/LongConvo_001_Intro_003">My family and I had everything we needed. This place was our home and we all had each other.</string>
+  <string name="FLETCH/LongConvo_001_Intro_004">&lt;thinking&gt;Until one day, when we had a big scare.</string>
+  <string name="FLETCH/LongConvo_001_Intro_005">You see, some people arrived from &lt;SouthCity&gt; in some &lt;AirShips&gt;. They told us we needed to evacuate &lt;IslandName&gt;.</string>
+  <string name="FLETCH/LongConvo_001_Intro_006">&lt;no&gt;They said a big &lt;Shift&gt; was coming, and the whole island was going to be ripped apart.</string>
+  <string name="FLETCH/LongConvo_001_Intro_007">&lt;worried&gt;I’ll tell you what, I remember my Father was so scared.</string>
+  <string name="FLETCH/LongConvo_001_Intro_008">&lt;no&gt;So we packed our whole lives up. Everyone did.</string>
+  <string name="FLETCH/LongConvo_001_Intro_009">Next thing we knew, we were living in &lt;SouthCity&gt;.</string>
+  <string name="FLETCH/LongConvo_001_Intro_010">They told us we could come back once the &lt;Shift&gt; had ended, and the island was safe again...</string>
+  <string name="FLETCH/LongConvo_001_Intro_011">&lt;sigh&gt;But then my Father got crook…</string>
+  <string name="FLETCH/LongConvo_001_Intro_012">Oh, crikey!</string>
+  <string name="FLETCH/LongConvo_001_Intro_013">&lt;haha&gt;I’ll tell you what, old &lt;myName&gt; can jibber-jabber. </string>
+  <string name="FLETCH/LongConvo_001_Intro_014">&lt;shy&gt;I’m feelin better now! Thanks for listening, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/LongConvo_002_Intro_000">I’ll tell you what, I think my father would be so proud to see &lt;IslandName&gt; the way it is today.</string>
+  <string name="FLETCH/LongConvo_002_Intro_001">He was a man that loved this island. It was very hard for him when we had to evacuate &lt;IslandName&gt;.</string>
+  <string name="FLETCH/LongConvo_002_Intro_002">&lt;no&gt;He didn’t take well to the lifestyle in &lt;SouthCity&gt; at all.</string>
+  <string name="FLETCH/LongConvo_002_Intro_003">&lt;haha&gt;He hated how you had to fill out a form to do everything!</string>
+  <string name="FLETCH/LongConvo_002_Intro_004">He wanted to get back to &lt;IslandName&gt; as soon as possible.</string>
+  <string name="FLETCH/LongConvo_002_Intro_005">&lt;sigh&gt;Unfortunately, the cold must have got to him. </string>
+  <string name="FLETCH/LongConvo_002_Intro_006">&lt;no&gt;He got real crook, real quick.</string>
+  <string name="FLETCH/LongConvo_002_Intro_007">&lt;no&gt;He never did get better.</string>
+  <string name="FLETCH/LongConvo_002_Intro_008">&lt;sigh&gt;In the end I went to live with a family from &lt;SouthCity&gt;. They taught me the ways of life there. </string>
+  <string name="FLETCH/LongConvo_002_Intro_009">&lt;no&gt;But I never did forget my Father.</string>
+  <string name="FLETCH/LongConvo_002_Intro_010">You see, I had his journal. I knew the things the man had done.</string>
+  <string name="FLETCH/LongConvo_002_Intro_011">Those milestones he’d reached.</string>
+  <string name="FLETCH/LongConvo_002_Intro_012">&lt;yes&gt;I’m glad you have that journal now, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/LongConvo_002_Intro_013">Now, you bloody better keep reaching those milestones!</string>
+  <string name="FLETCH/LongConvo_003_Intro_000">Hey, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/LongConvo_003_Intro_001">Did you know I got into a fair bit of trouble when I was younger?</string>
+  <string name="FLETCH/LongConvo_003_Intro_002">I’ll tell you what, back in &lt;SouthCity&gt;, when I was about your age, I did some bloody naughty stuff.</string>
+  <string name="FLETCH/LongConvo_003_Option_000">Like What?</string>
+  <string name="FLETCH/LongConvo_003_Option_001">I don’t believe you!</string>
+  <string name="FLETCH/LongConvo_003_Response_000_000">&lt;shy&gt;Oh, maybe old &lt;myName&gt; has said too much, eh?</string>
+  <string name="FLETCH/LongConvo_003_Response_000_001">&lt;no&gt;I don’t wanna go putting ideas into your head.</string>
+  <string name="FLETCH/LongConvo_003_Response_000_002">&lt;yes&gt;I’ll tell you what, you’re a good kid, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/LongConvo_003_Response_000_003">&lt;haha&gt;Let’s keep it that way!</string>
+  <string name="FLETCH/LongConvo_003_Response_001_000">&lt;shy&gt;Well, I wasn’t always daggy, old &lt;myName&gt; that’s for sure!</string>
+  <string name="FLETCH/LongConvo_003_Response_001_001">&lt;sigh&gt;But there are plenty of things I regret, let me tell you.</string>
+  <string name="FLETCH/LongConvo_003_Response_001_002">I wish I was more like you are now, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/LongConvo_003_Response_001_003">I’ll tell you what, you’re a bloody good kid!</string>
+  <string name="FLETCH/LongConvo_004_Intro_000">Let me tell you, &lt;PlayerName&gt;. I’m very glad you were the one that responded to my ad to travel to &lt;IslandName&gt; with me.</string>
+  <string name="FLETCH/LongConvo_004_Intro_001">I couldn’t have asked for a better partner!</string>
+  <string name="FLETCH/LongConvo_004_Intro_002">I’ll tell you what, I had been planning the trip back to &lt;IslandName&gt; for a long time.</string>
+  <string name="FLETCH/LongConvo_004_Intro_003">Saving up enough &lt;Dinks&gt; for decades before I could afford an &lt;AirShip&gt; to &lt;IslandName&gt;.</string>
+  <string name="FLETCH/LongConvo_004_Intro_004">&lt;proud&gt;Becoming an accredited Licence Administer.</string>
+  <string name="FLETCH/LongConvo_004_Intro_005">&lt;no&gt;It was all hard work, and it all took a bit longer than I wanted it to…</string>
+  <string name="FLETCH/LongConvo_004_Intro_006">But I’ll tell you what, I’m so happy to be back here on &lt;IslandName&gt;. </string>
+  <string name="FLETCH/LongConvo_004_Intro_007">I’m so happy to be working with a young go-getter like you, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/LongConvo_004_Intro_008">&lt;shy&gt;Thanks for putting up with daggy old &lt;myName&gt;.</string>
+  <string name="FLETCH/NPC_006_RandomConvo_000(Clone)_Intro_0">I’ll tell you what, I really enjoy chatting to you, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/NPC_006_RandomConvo_000(Clone)_Intro_1">It’s probably because you don’t talk as much as I do! You really know how to listen.</string>
+  <string name="FLETCH/NPC_006_RandomConvo_000(Clone)_Option_0">I wanted...</string>
+  <string name="FLETCH/NPC_006_RandomConvo_000(Clone)_Option_1">Actually...</string>
+  <string name="FLETCH/NPC_006_RandomConvo_000(Clone)_Response_0_0">I’ll tell you what! You’re a true blue friend, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/NPC_006_RandomConvo_000(Clone)_Response_1_0">I’ll tell you what! You’re a true blue friend, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/NPC_006_RandomConvo_001(Clone)_Intro_0">How lucky is it that &lt;favouriteFood&gt; grows natively here on &lt;IslandName&gt;!</string>
+  <string name="FLETCH/NPC_006_RandomConvo_001(Clone)_Intro_1">&lt;glee&gt;&lt;favouriteFood&gt; is my favourite food! I bloody love them!</string>
+  <string name="FLETCH/NPC_006_RandomConvo_001(Clone)_Intro_2">I’m a very lucky lady, I’ll tell you what! </string>
+  <string name="FLETCH/StartingConversation_Option_003">Nevermind.</string>
+  <string name="FLETCH/StartingConversation_Response_003_000">Alright then, &lt;PlayerName&gt;.</string>
+  <string name="Npc6/IslandDayGreeting_Night_006_Intro_004">Feel free to go wandering and check some of your favourite spots here on &lt;IslandName&gt;.</string>
+  <string name="Npc6/No Deeds Avaliable_Intro_001">It appears we don't have any deeds available right now!</string>
+  <string name="Npc6/NoRoomForDeeds_Intro_001">I don't think you have room to hold any deeds. &lt;no&gt;</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Randomised/Greeting10_Intro_000">日安。</string>
+    <string name="Randomised/Greeting 10_Intro_000">日安。</string>
+    <string name="Randomised/Hot_Greeting 0_Intro_000">日安，&lt;PlayerName&gt;。呼！现在已经这么热了！</string>
+    <string name="Randomised/Greeting8_Intro_000">&lt;PlayerName&gt;！</string>
+    <string name="Randomised/Greeting 0_Response_003_000">一切都好。晚点找你。</string>
+    <string name="Randomised/Morning Greeting 5_Intro_001">你需要什么东西吗？</string>
+    <string name="Randomised/Greeting0_Response_003_000">一切都好。晚点找你。</string>
+    <string name="Randomised/Greeting 9_Intro_000">嗨，&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Greeting2_Intro_000">&lt;PlayerName&gt;！我发誓我刚刚还在想你！&lt;haha&gt;</string>
+    <string name="Randomised/Greeting 2_Response_003_000">很高兴跟你聊天。</string>
+    <string name="Randomised/Greeting 0_Intro_001">什么事？</string>
+    <string name="Randomised/Greeting 0_Intro_000">嗨&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Greeting 14_Intro_001">我能为你做点什么？</string>
+    <string name="Randomised/Greeting 14_Response_003_000">一切都好，&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Greeting 15_Intro_000">哇啊！</string>
+    <string name="Randomised/Greeting 8_Intro_000">&lt;PlayerName&gt;！</string>
+    <string name="Randomised/Greeting 8_Response_003_000">很高兴见到你！</string>
+    <string name="Randomised/Greeting 9_Response_003_000">那好吧！</string>
+    <string name="Randomised/Greeting 1_Response_003_000">一切都好。晚点找你。</string>
+    <string name="Randomised/Greeting 2_Intro_000">&lt;PlayerName&gt;！我发誓我刚刚还在想你！&lt;haha&gt;</string>
+    <string name="Randomised/Greeting 2_Intro_001">你需要什么东西吗？</string>
+    <string name="Randomised/Greeting 3_Intro_000">嗨&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Morning Greeting 5_Response_003_000">继续努力！&lt;pumped&gt;</string>
+    <string name="Randomised/Greeting0_Intro_001">什么事？</string>
+    <string name="Randomised/Windy_Greeting 3_Intro_001">你需要什么东西吗？</string>
+    <string name="Randomised/Greeting0_Intro_000">嗨&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Windy_Greeting 3_Response_003_000">回头再见，&lt;PlayerName&gt;。&lt;wave&gt;</string>
+    <string name="Randomised/Greeting8_Response_003_000">很高兴见到你！</string>
+    <string name="Randomised/Greeting9_Intro_000">嗨，&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Greeting9_Response_003_000">那好吧！</string>
+    <string name="Randomised/Greeting1_Response_003_000">一切都好。晚点找你。</string>
+    <string name="Randomised/Greeting2_Intro_001">你需要什么东西吗？</string>
+    <string name="Randomised/Greeting2_Response_003_000">很高兴跟你聊天。</string>
+    <string name="Randomised/Greeting3_Intro_000">嗨&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Greeting14_Intro_001">我能为你做点什么？</string>
+    <string name="Randomised/Greeting14_Response_003_000">一切都好，&lt;PlayerName&gt;。</string>
+    <string name="Randomised/Greeting15_Intro_000">哇啊！</string>
+</resources>

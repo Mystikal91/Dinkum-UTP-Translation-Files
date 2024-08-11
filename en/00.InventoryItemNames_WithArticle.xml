@@ -1,0 +1,1833 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Described with: Chop down trees and plants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_0">a Basic Axe</string>
+  <!-- Described with: Catch those creepy crawlies. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_2">a Bug Net</string>
+  <!-- Described with: A rod used for fishing and the like. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_4">a Fishing Rod</string>
+  <!-- Described with: It's like a big spoon for dirt and stuff. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_6">a Shovel</string>
+  <!-- Described with: Smash rocks and ores. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_8">a Basic Pickaxe</string>
+  <!-- Described with: This isn't a flashlight... it's a torch! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_9">a Torch</string>
+  <!-- Described with: Throw some stuff on this. It will then cook. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_13">a BBQ</string>
+  <!-- Described with: A bone that can be used to make stuff. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_14">a Bone</string>
+  <!-- Described with: Sour but yummy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_17">a Bush Lime</string>
+  <!-- Described with: So yum. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_19">a Cooked Meat</string>
+  <!-- Described with: Ain't it cute? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_20">a Funnel Web Spider</string>
+  <!-- Described with: Delicious if you cook it. Not so much if you don't. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_21">a Meat</string>
+  <!-- Described with: This rock is shiny. There might be something in it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_23">a Shiny Stone</string>
+  <!-- Described with: Some rock. Cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_26">a Stone</string>
+  <!-- Described with: Get those little materials out of those big ol' stones. Or turn regular rocks into cement. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_27">a Stone Grinder</string>
+  <!-- Described with: So sweet. You could make sugar out of this! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_28">a Sugar Cane</string>
+  <!-- Described with: Nice bug, bro. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_29">a Ulysses Butterfly</string>
+  <!-- Described with: A log of gum wood. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_33">a Gum Log</string>
+  <!-- Described with: This will keep that sun off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_40">a Aussie Hat</string>
+  <!-- Described with: Nice black boots. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_41">a Black Boots</string>
+  <!-- Described with: Not only for Barry. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_42">a Blue Jeans</string>
+  <!-- Described with: Boots good for hard work. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_43">a Tradie Boots</string>
+  <!-- Described with: Pants for the trade. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_44">a Tradie Pants</string>
+  <!-- Described with: Dark and easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_45">a Dark Shorts</string>
+  <!-- Described with: For Ghaz -->
+  <string name="InventoryItemNames_WithArticle/InvItem_46">a Purple Shirt</string>
+  <!-- Described with: A red flannelette shirt. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_47">a Red Flanney</string>
+  <!-- Described with: Beep. Beep. Grunt. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_48">a Barcoo Grunter</string>
+  <!-- Described with: That's good eatin' eh? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_49">a Barramundi</string>
+  <!-- Described with: A fresh water bass. Ain't rare. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_50">a River Bass</string>
+  <!-- Described with: Welcome to the river. We've got perch. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_52">a Jungle Perch</string>
+  <!-- Described with: A nice old chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_53">a Purple Seat</string>
+  <!-- Described with: Wooden Double Bed -->
+  <string name="InventoryItemNames_WithArticle/InvItem_54">a Wooden Double Bed</string>
+  <!-- Described with: Sorry, you can only put coffee on this puppy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_55">a Coffee Table</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_56">a Wooden Seat</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_57">a Wooden Couch</string>
+  <!-- Described with: Small and round. Awesome. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_58">a Small Round Table</string>
+  <!-- Described with: Put skeletons in here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_59">a Dark Wooden Cabinet</string>
+  <!-- Described with: Woof. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_61">a Dog Hat</string>
+  <!-- Described with: You could wear this on holiday. Or whenever. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_62">a Holiday Hat</string>
+  <!-- Described with: Keep that dome hot -->
+  <string name="InventoryItemNames_WithArticle/InvItem_63">a Blue Beanie</string>
+  <!-- Described with: FANCY! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_64">a Top Hat</string>
+  <!-- Described with: Strike 1 -->
+  <string name="InventoryItemNames_WithArticle/InvItem_65">a Red Baseball Cap</string>
+  <!-- Described with: Bounce! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_66">a Yellow Bucket Hat</string>
+  <!-- Described with: Pants for business. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_68">a Business Pants</string>
+  <!-- Described with: A Shirt for business. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_69">a Business Shirt</string>
+  <!-- Described with: Shoes for business. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_70">a Business Shoes</string>
+  <!-- Described with: Yup. Green and pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_71">a Green Pants</string>
+  <!-- Described with: Mr Rogers. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_72">a Green Sweater</string>
+  <!-- Described with: Gross. Green Shoes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_73">a Green Shoes</string>
+  <!-- Described with: Flipping Stylin' -->
+  <string name="InventoryItemNames_WithArticle/InvItem_74">a Blue Holiday Shirt</string>
+  <!-- Described with: Flip and flop these bad boys. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_75">a Thongs</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_76">a Blue Holiday Shorts</string>
+  <!-- Described with: High Vis. Low stress. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_77">a Tradie Shirt</string>
+  <!-- Described with: Struth, boots. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_78">a Khaki Boots</string>
+  <!-- Described with: Struth, Shorts -->
+  <string name="InventoryItemNames_WithArticle/InvItem_79">a Khaki Shorts</string>
+  <!-- Described with: Struth, Shirt. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_80">a Khaki Shirt</string>
+  <!-- Described with: Blue and easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_82">a Blue Shorts</string>
+  <!-- Described with: Is it blue with yellow stripes? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_83">a Blue and Yellow Shirt</string>
+  <!-- Described with: Red Shoes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_84">a Red Sneakers</string>
+  <!-- Described with: Blue and easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_85">a Blue Dress</string>
+  <!-- Described with: Fairest in the land. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_86">a Fairest Dress</string>
+  <!-- Described with: White Flat Shoes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_87">a White Flats</string>
+  <!-- Described with: A nice coloured coat. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_88">a Mustard Coat</string>
+  <!-- Described with: Scuffing be damned. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_89">a White Sneakers</string>
+  <!-- Described with: Jeans for sunburnt knees. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_90">a Ripped Jeans</string>
+  <!-- Described with: Long sleeves and white -->
+  <string name="InventoryItemNames_WithArticle/InvItem_91">a White Dress</string>
+  <!-- Described with: White Flat Shoes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_92">a White Flats</string>
+  <!-- Described with: A red dress. You can wear this. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_93">a Red Dress</string>
+  <!-- Described with: Red Flat Shoes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_94">a Red Flats</string>
+  <!-- Described with: Sharp. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_95">a Pinstripe Jacket</string>
+  <!-- Described with: These are some nice pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_96">a Pinstripe Pants</string>
+  <!-- Described with: Jumpin' for joy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_97">a Grasshopper</string>
+  <!-- Described with: A Common Dragonfly -->
+  <string name="InventoryItemNames_WithArticle/InvItem_98">a Common Blue Tail</string>
+  <!-- Described with: A common fly -->
+  <string name="InventoryItemNames_WithArticle/InvItem_100">a Fly</string>
+  <!-- Described with: Yuck. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_101">a Cockroach</string>
+  <!-- Described with: A yellow flower. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_102">a Yellow Wattle Flower</string>
+  <!-- Described with: Is something buried here? If it beeps dig there. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_103">a Metal Detector</string>
+  <!-- Described with: Smelt it down to bars. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_105">a Copper Ore</string>
+  <!-- Described with: Smelt it down to bars. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_106">a Iron Ore</string>
+  <!-- Described with: Looks expensive. Kinda isn't. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_107">a Quartz Crystal</string>
+  <!-- Described with: A fancy little spider. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_108">a Peacock Spider</string>
+  <!-- Described with: It can't fly. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_109">a Trogid</string>
+  <!-- Described with: Crunchy or soft. It up to you. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_111">a Cabbage</string>
+  <!-- Described with: A bar of Iron -->
+  <string name="InventoryItemNames_WithArticle/InvItem_113">a Iron Bar</string>
+  <!-- Described with: A bar of Copper -->
+  <string name="InventoryItemNames_WithArticle/InvItem_114">a Copper Bar</string>
+  <!-- Described with: A faster furnace that can also process Iron Ore -->
+  <string name="InventoryItemNames_WithArticle/InvItem_115">a Furnace</string>
+  <!-- Described with: What's up, medical person? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_116">a Carrot</string>
+  <!-- Described with: Treats wounds instantly -->
+  <string name="InventoryItemNames_WithArticle/InvItem_119">a First Aid Kit</string>
+  <!-- Described with: Keep that dome hot -->
+  <string name="InventoryItemNames_WithArticle/InvItem_120">a Green Beanie</string>
+  <!-- Described with: Keep that dome hot -->
+  <string name="InventoryItemNames_WithArticle/InvItem_121">a Red Beanie</string>
+  <!-- Described with: Bounce! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_122">a Blue Bucket Hat</string>
+  <!-- Described with: This is poppin' -->
+  <string name="InventoryItemNames_WithArticle/InvItem_123">a Corn</string>
+  <!-- Described with: Hey red bed. That rhymes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_127">a Dark Wooden Single Bed</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_131">a Wooden Chair</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_132">a Wooden Table</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_133">a Wooden Bedside Table</string>
+  <!-- Described with: Put stuff in here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_134">a Wooden Chest Of Drawers</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_135">a Wooden Cabinet</string>
+  <!-- Described with: A bed for one. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_136">a Wooden Single Bed</string>
+  <!-- Described with: An Armchair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_137">a Stylish ArmChair</string>
+  <!-- Described with: A Sofa -->
+  <string name="InventoryItemNames_WithArticle/InvItem_138">a Stylish Sofa</string>
+  <!-- Described with: An Armchair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_139">a Dark Wooden Chair</string>
+  <!-- Described with: A Green Sofa -->
+  <string name="InventoryItemNames_WithArticle/InvItem_140">a Purple Couch</string>
+  <!-- Described with: A white single person chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_141">a White Chair</string>
+  <!-- Described with: A small white coffee table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_142">a White Coffee Table</string>
+  <!-- Described with: A large white table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_143">a White Dinner Table</string>
+  <!-- Described with: A long coffee table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_144">a White Long Coffee Table</string>
+  <!-- Described with: A white 2 seat chair. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_145">a White Sofa</string>
+  <!-- Described with: A double bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_146">a Stylish Bed</string>
+  <!-- Described with: A set of drawers for beside the bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_147">a Stylish Bedside Table</string>
+  <!-- Described with: A set of drawers. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_148">a Stylish Drawers</string>
+  <!-- Described with: A tall of drawers. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_149">a Stylish Dresser</string>
+  <!-- Described with: A bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_151">a Dainty Bed</string>
+  <!-- Described with: A bedside table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_152">a Dainty Bedside Table</string>
+  <!-- Described with: A chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_153">a Dainty Chair</string>
+  <!-- Described with: A coffee table -->
+  <string name="InventoryItemNames_WithArticle/InvItem_154">a Dainty Coffee Table</string>
+  <!-- Described with: A set of drawers -->
+  <string name="InventoryItemNames_WithArticle/InvItem_155">a Dainty Drawers</string>
+  <!-- Described with: A large table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_156">a Dainty Kitchen Table</string>
+  <!-- Described with: Lights up house. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_157">a Dainty Lamp</string>
+  <!-- Described with: For feet. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_158">a Dainty Ottoman</string>
+  <!-- Described with: A sofa. Seats 2. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_159">a Dainty Sofa</string>
+  <!-- Described with: A white chair. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_160">a White Armchair</string>
+  <!-- Described with: A white ottoman -->
+  <string name="InventoryItemNames_WithArticle/InvItem_161">a White Ottoman</string>
+  <!-- Described with: A Small white bedside table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_162">a White Bed</string>
+  <!-- Described with: A Small white bedside table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_163">a White Bedside Table</string>
+  <!-- Described with: White Drawers -->
+  <string name="InventoryItemNames_WithArticle/InvItem_164">a White Chest of Drawers</string>
+  <!-- Described with: Fern Vase -->
+  <string name="InventoryItemNames_WithArticle/InvItem_165">a Fern Vase</string>
+  <!-- Described with: Purple Vase -->
+  <string name="InventoryItemNames_WithArticle/InvItem_166">a Purple Vase</string>
+  <!-- Described with: Yellow Wattle Vase -->
+  <string name="InventoryItemNames_WithArticle/InvItem_167">a Yellow Wattle Vase</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_168">a Kitchen Cabinet</string>
+  <!-- Described with: Kitchen Oven -->
+  <string name="InventoryItemNames_WithArticle/InvItem_169">a Kitchen Oven</string>
+  <!-- Described with: Kitchen Sink -->
+  <string name="InventoryItemNames_WithArticle/InvItem_170">a Kitchen Sink</string>
+  <!-- Described with: A chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_171">a Stylish Chair</string>
+  <!-- Described with: A Short Table -->
+  <string name="InventoryItemNames_WithArticle/InvItem_172">a Stylish Table</string>
+  <!-- Described with: A standing lamp -->
+  <string name="InventoryItemNames_WithArticle/InvItem_173">a Stylish Lamp</string>
+  <!-- Described with: An Armchair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_174">a Regal ArmChair</string>
+  <!-- Described with: A bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_175">a Regal Bed</string>
+  <!-- Described with: A bedside table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_176">a Regal Bedside Table</string>
+  <!-- Described with: A one person chair. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_177">a Regal Chair</string>
+  <!-- Described with: A lamp -->
+  <string name="InventoryItemNames_WithArticle/InvItem_178">a Regal Lamp</string>
+  <!-- Described with: A sofa. Seats 2. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_179">a Regal Sofa</string>
+  <!-- Described with: A long table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_180">a Regal Table</string>
+  <!-- Described with: Chest of Drawers. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_181">a Regal Drawers</string>
+  <!-- Described with: A bit of a bird. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_182">a Feather</string>
+  <!-- Described with: I've always wanted to have one. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_185">a Space Helmet</string>
+  <!-- Described with: Pants for space. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_186">a Space Suit Pants</string>
+  <!-- Described with: A Shirt for space. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_187">a Space Suit Shirt</string>
+  <!-- Described with: Shoes for space -->
+  <string name="InventoryItemNames_WithArticle/InvItem_188">a Space Suit Shoes</string>
+  <!-- Described with: Strike 1 -->
+  <string name="InventoryItemNames_WithArticle/InvItem_189">a Pink Baseball Cap</string>
+  <!-- Described with: Dark Pants -->
+  <string name="InventoryItemNames_WithArticle/InvItem_190">a Black Pants</string>
+  <!-- Described with: So Dark. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_191">a Black Shirt</string>
+  <!-- Described with: So dark. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_192">a Black Sneakers</string>
+  <!-- Described with: Looks like them shorts are in trouble. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_193">a Daisy Shorts</string>
+  <!-- Described with: No shoulders needed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_194">a Pink Off Shoulder</string>
+  <!-- Described with: Strapped up. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_195">a Strapped Sandals</string>
+  <!-- Described with: Strike 1 -->
+  <string name="InventoryItemNames_WithArticle/InvItem_196">a Green Baseball Cap</string>
+  <!-- Described with: An uncommon shell -->
+  <string name="InventoryItemNames_WithArticle/InvItem_197">a Nautilus Shell</string>
+  <!-- Described with: A common shell -->
+  <string name="InventoryItemNames_WithArticle/InvItem_198">a Scallop Shell</string>
+  <!-- Described with: A rare shell. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_199">a Syrinx Shell</string>
+  <!-- Described with: Good fish. You're not Morwong about that. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_200">a Banded Morwong</string>
+  <!-- Described with: An ocean fish that is blue. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_201">a Bluefish</string>
+  <!-- Described with: It hates mondays. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_202">a Garfish</string>
+  <!-- Described with: Gold belly on this Perch -->
+  <string name="InventoryItemNames_WithArticle/InvItem_203">a Golden Perch</string>
+  <!-- Described with: Jack? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_204">a Mangrove Jack</string>
+  <!-- Described with: This is a Luderick-us fish. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_205">a Luderick</string>
+  <!-- Described with: Its head is flat and its eyes are on top. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_206">a Blue Spot Flathead</string>
+  <!-- Described with: I will call him Trevor. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_207">a Travalla</string>
+  <!-- Described with: A massive fish! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_208">a Yellowfin Tuna</string>
+  <!-- Described with: Yarr. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_209">a Pirate Coat</string>
+  <!-- Described with: A bunch of sticky grass. Burn it in fire to make resin. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_210">a Spinifex Tuft</string>
+  <!-- Described with: Sticky resin used in crafting. Made from burnt spinifex tuft. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_212">a Spinifex Resin</string>
+  <!-- Described with: A light wood log. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_213">a Palm Wood</string>
+  <!-- Described with: Spiky Cactus Flesh. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_214">a Prickly Pear Flesh</string>
+  <!-- Described with: The fruit of a cactus. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_215">a Cactus Figs</string>
+  <!-- Described with: A black dress with a white collar. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_221">a White Collar Dress</string>
+  <!-- Described with: Blue and easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_222">a Dark Blue Button Dress</string>
+  <!-- Described with: Put it in shallow water. Leave it for a day. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_223">a Crab Pot</string>
+  <!-- Described with: A muddy crab -->
+  <string name="InventoryItemNames_WithArticle/InvItem_224">a Mud Crab</string>
+  <!-- Described with: Sweet and stick. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_225">a Honey</string>
+  <!-- Described with: A little honey maker. Where's the queen? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_227">a Bee</string>
+  <!-- Described with: The boss bee. Can start a hive. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_228">a Queen Bee</string>
+  <!-- Described with: Very poisonous. Ain't it cute? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_229">a Red Back Spider</string>
+  <!-- Described with: 8 Legs. Friendlier than it looks -->
+  <string name="InventoryItemNames_WithArticle/InvItem_230">a Desert Scorpion</string>
+  <!-- Described with: It stinks! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_231">a Stink Bug</string>
+  <!-- Described with: This thing kills spiders when it's hungry. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_232">a Paper Wasp</string>
+  <!-- Described with: It's really rare and big! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_233">a Birdwing Butterfly</string>
+  <!-- Described with: It has a little tail. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_234">a Swallow-tail Butterfly</string>
+  <!-- Described with: It's fluttering by, Mr. J. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_235">a Harlequin Butterfly</string>
+  <!-- Described with: Like a lobster but it's a yabbie instead. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_237">a Yabbie</string>
+  <!-- Described with: Yup. Pink and shorts. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_238">a Pink Shorts</string>
+  <!-- Described with: Pink sneaky shoes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_239">a Pink Sneakers</string>
+  <!-- Described with: A normal pink T-Shirt -->
+  <string name="InventoryItemNames_WithArticle/InvItem_240">a Pink T-Shirt</string>
+  <!-- Described with: Blue sneaky shoes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_241">a Blue Sneakers</string>
+  <!-- Described with: A normal blue T-Shirt -->
+  <string name="InventoryItemNames_WithArticle/InvItem_242">a Blue T-Shirt</string>
+  <!-- Described with: Its sure is purple! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_243">a Purple Dress</string>
+  <!-- Described with: Purple Flat Shoes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_244">a Purple Flats</string>
+  <!-- Described with: Like purple shorts, but longer. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_245">a Purple Pants</string>
+  <!-- Described with: A sharp tooth from a croc. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_246">a Crocodile Tooth</string>
+  <!-- Described with: Why does it glow? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_247">a Glowing Mushroom</string>
+  <!-- Described with: I can not believe my eyes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_248">a Firefly</string>
+  <!-- Described with: So small. So loud. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_249">a Cricket</string>
+  <!-- Described with: Tough green boots -->
+  <string name="InventoryItemNames_WithArticle/InvItem_253">a Green Boots</string>
+  <!-- Described with: Yup. Brown and pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_254">a Brown Pants</string>
+  <!-- Described with: Blue and warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_255">a Blue Flannelette Shirt</string>
+  <!-- Described with: Are these socks or pants? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_256">a Black Pants</string>
+  <!-- Described with: It has a short singlet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_257">a Green Jacket</string>
+  <!-- Described with: Yup. Maroon and pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_258">a Maroon Pants</string>
+  <!-- Described with: What time is it? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_259">a Adventure Hood</string>
+  <!-- Described with: Red shoes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_260">a Red Strapped Shoes</string>
+  <!-- Described with: It's all over -->
+  <string name="InventoryItemNames_WithArticle/InvItem_261">a Overall Dress</string>
+  <!-- Described with: Black and white tights. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_262">a Striped Tights</string>
+  <!-- Described with: Bone Apple Tea -->
+  <string name="InventoryItemNames_WithArticle/InvItem_263">a Chef Hat</string>
+  <!-- Described with: Perfect to cook in. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_266">a Chef Jacket</string>
+  <!-- Described with: Pants for cooking -->
+  <string name="InventoryItemNames_WithArticle/InvItem_267">a Chef Pants</string>
+  <!-- Described with: Orange Shorts -->
+  <string name="InventoryItemNames_WithArticle/InvItem_268">a Orange Shorts</string>
+  <!-- Described with: Bright T-Shirt -->
+  <string name="InventoryItemNames_WithArticle/InvItem_269">a Orange T-Shirt</string>
+  <!-- Described with: Slip those puppies on. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_270">a Brown Sandals</string>
+  <!-- Described with: It's poop. Plants might like it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_272">a Roo Poo</string>
+  <!-- Described with: Danger Zone! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_279">a Aviator Sunglasses</string>
+  <!-- Described with: Yaaar -->
+  <string name="InventoryItemNames_WithArticle/InvItem_280">a Eye Patch</string>
+  <!-- Described with: Doesn't mean it's not cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_281">a Fake Mustache</string>
+  <!-- Described with: Helps you see. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_282">a Modern Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_283">a Modern Sunglasses</string>
+  <!-- Described with: Don't let it fall off. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_284">a Monocle</string>
+  <!-- Described with: Helps you see. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_285">a Old School Glasses</string>
+  <!-- Described with: Helps you see. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_286">a Round Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_287">a Round Sunglasses</string>
+  <!-- Described with: Helps you see. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_288">a Small Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_289">a Small Sunglasses</string>
+  <!-- Described with: Helps you see. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_290">a Square Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_291">a Square Sunglasses</string>
+  <!-- Described with: Squishy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_297">a Bananas</string>
+  <!-- Described with: This is money. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_299">a Dink</string>
+  <!-- Described with: One a day. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_300">a Apple</string>
+  <!-- Described with: This wood is harder than other wood I guess? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_301">a Hard Wood Log</string>
+  <!-- Described with: Can cut wood into planks. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_304">a Table Saw</string>
+  <!-- Described with: A plank of gum wood. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_305">a Gum Wood Plank</string>
+  <!-- Described with: A plank of palm wood. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_306">a Palm Wood Plank</string>
+  <!-- Described with: A plank of hardwood. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_307">a Hard Wood Plank</string>
+  <!-- Described with: Delicious if you cook it. Not so much if you don't. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_308">a Raw Drumstick</string>
+  <!-- Described with: A glistening pearl. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_309">a Pearl</string>
+  <!-- Described with: Delicious if you cook it. Not so much if you don't. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_310">a Cooked Drumstick</string>
+  <!-- Described with: Grows grass! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_313">a Grass Seed</string>
+  <!-- Described with: Healthy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_320">a Kale</string>
+  <!-- Described with: Boil 'em, mash 'em. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_322">a Potato</string>
+  <!-- Described with: Much tastier when it's been grinded. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_324">a Wheat</string>
+  <!-- Described with: If only I could get into it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_327">a Watermelon</string>
+  <!-- Described with: Is this spooky? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_328">a Pumpkin</string>
+  <!-- Described with: I'm getting teary. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_330">a Onion</string>
+  <!-- Described with: Latin the day. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_333">a Carp</string>
+  <!-- Described with: This guy is a doctor. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_334">a Eyestripe Surgeonfish</string>
+  <!-- Described with: Snap. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_335">a Black &amp; White Snapper</string>
+  <!-- Described with: Bit of a mean name. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_336">a Boofhead Catfish</string>
+  <!-- Described with: A massive fish! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_337">a Murray Cod</string>
+  <!-- Described with: Gross tail! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_338">a Eel Tailed Catfish</string>
+  <!-- Described with: Is this a fish? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_339">a Stingray</string>
+  <!-- Described with: What's inside? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_345">a Chicken Egg</string>
+  <!-- Described with: Collect milk in this. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_349">a Milking Bucket</string>
+  <!-- Described with: Creamy and tasty! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_350">a Milk</string>
+  <!-- Described with: Little bow -->
+  <string name="InventoryItemNames_WithArticle/InvItem_354">a Flapper Hat</string>
+  <!-- Described with: This will keep that sun off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_355">a Sun Hat</string>
+  <!-- Described with: This will keep that sun off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_356">a Gangsta Hat</string>
+  <!-- Described with: Celebrate! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_360">a Lamington</string>
+  <!-- Described with: From the water and the dirt. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_361">a Fish and Chips</string>
+  <!-- Described with: Yummy Yummy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_362">a Fruit Salad</string>
+  <!-- Described with: Crunchy and fresh! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_363">a Garden Salad</string>
+  <!-- Described with: Warm in your tum. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_364">a Hearty Stew</string>
+  <!-- Described with: A Desert Rose in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_365">a Desert Rose Pot</string>
+  <!-- Described with: A decorative bowl of fruit. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_366">a Fruit Bowl</string>
+  <!-- Described with: A clock. With an alarm. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_367">a Alarm Clock</string>
+  <!-- Described with: A big old clock. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_368">a Regal Clock</string>
+  <!-- Described with: It's all gooey. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_369">a Red Lava Lamp</string>
+  <!-- Described with: It's small and cute -->
+  <string name="InventoryItemNames_WithArticle/InvItem_370">a Roo Plush</string>
+  <!-- Described with: A wood floor. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_371">a Basic Wooden Floor</string>
+  <!-- Described with: A wood wallpaper. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_372">a Basic Wooden Wall</string>
+  <!-- Described with: A faint floor -->
+  <string name="InventoryItemNames_WithArticle/InvItem_373">a Dainty Floor</string>
+  <!-- Described with: A regal rug. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_374">a Regal Rug</string>
+  <!-- Described with: A faint wallpaper -->
+  <string name="InventoryItemNames_WithArticle/InvItem_375">a Dainty Wall</string>
+  <!-- Described with: Like a chess board! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_376">a Checkered Floor</string>
+  <!-- Described with: White Slates -->
+  <string name="InventoryItemNames_WithArticle/InvItem_377">a Basic White Wall</string>
+  <!-- Described with: Blue Slates -->
+  <string name="InventoryItemNames_WithArticle/InvItem_378">a Light Blue Wall</string>
+  <!-- Described with: Black and white! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_379">a Checkered Wall</string>
+  <!-- Described with: Makes you smarter. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_381">a Chequer Vest</string>
+  <!-- Described with: This probably opens something... -->
+  <string name="InventoryItemNames_WithArticle/InvItem_382">a Old Key</string>
+  <!-- Described with: What does this do? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_384">a Old Gear</string>
+  <!-- Described with: Refreshing! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_393">a Wattle Brew</string>
+  <!-- Described with: Snip off some wool! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_402">a Shears</string>
+  <!-- Described with: Soft and fluffy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_403">a Wool</string>
+  <!-- Described with: Polka-y -->
+  <string name="InventoryItemNames_WithArticle/InvItem_406">a Pink Polka Dot Pants</string>
+  <!-- Described with: Dotty. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_407">a Pink Polka Dot Shirt</string>
+  <!-- Described with: Step on the spot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_408">a Pink Polka dot Shoes</string>
+  <!-- Described with: Spot on. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_409">a Pink Polka Dot Dress</string>
+  <!-- Described with: It's got a dino on it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_410">a Orange Dino Shirt</string>
+  <!-- Described with: Rad. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_411">a Skull Shirt</string>
+  <!-- Described with: Light as. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_412">a Feather Shirt</string>
+  <!-- Described with: Strike 1 -->
+  <string name="InventoryItemNames_WithArticle/InvItem_413">a Black Baseball Cap</string>
+  <!-- Described with: Strike 1 -->
+  <string name="InventoryItemNames_WithArticle/InvItem_414">a White Baseball Cap</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_415">a White Sweatpants</string>
+  <!-- Described with: Slip these puppies on. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_416">a Brown Sand Shoes</string>
+  <!-- Described with: Hide under your hat. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_417">a Camo Cap</string>
+  <!-- Described with: Where is it? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_418">a Camo Dress</string>
+  <!-- Described with: It's like wearing nothing at all -->
+  <string name="InventoryItemNames_WithArticle/InvItem_419">a Camo Pants</string>
+  <!-- Described with: Hide in plain sight. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_420">a Camo Shirt</string>
+  <!-- Described with: Left, right, left -->
+  <string name="InventoryItemNames_WithArticle/InvItem_421">a Camo Boots</string>
+  <!-- Described with: Pockets. Lots of pockets. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_422">a Cargo Pants</string>
+  <!-- Described with: Or blue with white stripes? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_423">a Blue Stripe Shirt</string>
+  <!-- Described with: Slip these puppies on. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_424">a Green Sand Shoes</string>
+  <!-- Described with: Pockets. Lots of pockets. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_425">a Orange Cargo Pants</string>
+  <!-- Described with: Slip these puppies on. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_426">a Orange Sand Shoes</string>
+  <!-- Described with: Or yellow with orange stripes? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_427">a Orange Stripe Shirt</string>
+  <!-- Described with: This will keep that sun off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_428">a Straw Sun Hat</string>
+  <!-- Described with: It's warm! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_429">a Red Puffy Jacket</string>
+  <!-- Described with: It's warm! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_430">a Blue Puffy Jacket</string>
+  <!-- Described with: It's warm! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_431">a Green Puffy Jacket</string>
+  <!-- Described with: It's warm! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_432">a Purple Puffy Jacket</string>
+  <!-- Described with: It's ugly. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_433">a Blue Ugly Sweater</string>
+  <!-- Described with: Cuffed up and ready to go. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_434">a Blue Cuffed Pants</string>
+  <!-- Described with: Cuffed up and ready to go. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_435">a Green Cuffed Pants</string>
+  <!-- Described with: Cuffed up and ready to go. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_436">a Purple Cuffed Pants</string>
+  <!-- Described with: Cuffed up and ready to go. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_437">a Red Cuffed Pants</string>
+  <!-- Described with: Sing it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_438">a Pink Singlet</string>
+  <!-- Described with: Sing it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_439">a Red Singlet</string>
+  <!-- Described with: Easy to wear! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_440">a Red Shorts</string>
+  <!-- Described with: Sing it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_441">a Black Singlet</string>
+  <!-- Described with: Easy to wear! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_442">a Black Shorts</string>
+  <!-- Described with: See all the fish! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_443">a Swimming Goggles</string>
+  <!-- Described with: Keep the steam out of your eyes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_444">a Punk Goggles</string>
+  <!-- Described with: Not made of gum. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_445">a Yellow Gumboots</string>
+  <!-- Described with: Keep dry. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_446">a Rain Coat</string>
+  <!-- Described with: This will keep the rain off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_447">a Rain Hat</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_448">a Blue Stripe Dress</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_449">a Orange Stripe Dress</string>
+  <!-- Described with: Smelt it into bars. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_456">a Tin Ore</string>
+  <!-- Described with: A bar of Tin -->
+  <string name="InventoryItemNames_WithArticle/InvItem_460">a Tin Bar</string>
+  <!-- Described with: Spooky. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_465">a Skull Mask</string>
+  <!-- Described with: A sheet of Tin. Made by cuting Tin Bar on a tablesaw. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_466">a Tin Sheet</string>
+  <!-- Described with: Patterned -->
+  <string name="InventoryItemNames_WithArticle/InvItem_469">a Green Pattern Wall</string>
+  <!-- Described with: Patterned -->
+  <string name="InventoryItemNames_WithArticle/InvItem_470">a Blue Pattern Wall</string>
+  <!-- Described with: Patterned -->
+  <string name="InventoryItemNames_WithArticle/InvItem_471">a Red Pattern Wall</string>
+  <!-- Described with: Patterned -->
+  <string name="InventoryItemNames_WithArticle/InvItem_472">a Pink Pattern Wall</string>
+  <!-- Described with: A dark wood wallpaper. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_473">a Dark Wooden Wall</string>
+  <!-- Described with: A dark wood floor. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_474">a Dark Wooden Floor</string>
+  <!-- Described with: Soft on the toes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_475">a Pink Carpet</string>
+  <!-- Described with: Stripes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_476">a Basic Blue Wallpaper</string>
+  <!-- Described with: Stripes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_477">a Basic Green Wallpaper</string>
+  <!-- Described with: Stripes -->
+  <string name="InventoryItemNames_WithArticle/InvItem_478">a Basic Pink Wallpaper</string>
+  <!-- Described with: Patterned -->
+  <string name="InventoryItemNames_WithArticle/InvItem_479">a Basic Red Wall</string>
+  <!-- Described with: Cheeky fish. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_484">a Bonytongue</string>
+  <!-- Described with: It's flat and a cap. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_485">a Green Flat Cap</string>
+  <!-- Described with: Don't steal these. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_486">a Pirate Pants</string>
+  <!-- Described with: Why aren't these flippers? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_487">a Pirate Boots</string>
+  <!-- Described with: Keeps the sun off and the water in. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_488">a Pirate Hat</string>
+  <!-- Described with: Sneaky -->
+  <string name="InventoryItemNames_WithArticle/InvItem_489">a Ninja Hood</string>
+  <!-- Described with: Sneaky Boots -->
+  <string name="InventoryItemNames_WithArticle/InvItem_490">a Ninja Boots</string>
+  <!-- Described with: Sneaky pants -->
+  <string name="InventoryItemNames_WithArticle/InvItem_491">a Ninja Pants</string>
+  <!-- Described with: Sneaky -->
+  <string name="InventoryItemNames_WithArticle/InvItem_492">a Ninja Shirt</string>
+  <!-- Described with: Spot on. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_493">a Yellow Polka Dot Dress</string>
+  <!-- Described with: Plaid -->
+  <string name="InventoryItemNames_WithArticle/InvItem_494">a Yellow Plaid Dress</string>
+  <!-- Described with: Plaid -->
+  <string name="InventoryItemNames_WithArticle/InvItem_495">a Blue Plaid Dress</string>
+  <!-- Described with: Overalls -->
+  <string name="InventoryItemNames_WithArticle/InvItem_496">a Brown Overall Dress</string>
+  <!-- Described with: Overalls -->
+  <string name="InventoryItemNames_WithArticle/InvItem_497">a Green Overall Dress</string>
+  <!-- Described with: A warm Dress -->
+  <string name="InventoryItemNames_WithArticle/InvItem_498">a Green Cardigan Dress</string>
+  <!-- Described with: A warm dress -->
+  <string name="InventoryItemNames_WithArticle/InvItem_499">a Pink Cardigan Dress</string>
+  <!-- Described with: Little bow -->
+  <string name="InventoryItemNames_WithArticle/InvItem_500">a Green Bow Hat</string>
+  <!-- Described with: This will keep that sun off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_501">a Old Straw Hat</string>
+  <!-- Described with: Green and warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_504">a Green Flannelette Shirt</string>
+  <!-- Described with: Nice pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_505">a Green Plaid Pants</string>
+  <!-- Described with: Nice pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_506">a Blue Plaid Pants</string>
+  <!-- Described with: Orange and warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_507">a Orange Flanney Shirt</string>
+  <!-- Described with: Nice pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_508">a Orange Plaid Pants</string>
+  <!-- Described with: Nice pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_509">a Red Plaid Pants</string>
+  <!-- Described with: It's flat and a cap. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_510">a Orange Flat Cap</string>
+  <!-- Described with: It's flat and a cap. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_511">a Red Flat Cap</string>
+  <!-- Described with: It's flat and a cap. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_512">a Blue Flat Cap</string>
+  <!-- Described with: Blue and warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_513">a Blue Flanney Dress</string>
+  <!-- Described with: Green and warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_514">a Green Flannelette Dress</string>
+  <!-- Described with: Orange and warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_515">a Orange Flanney Dress</string>
+  <!-- Described with: A red flannelette shirt. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_516">a Red Flanney Dress</string>
+  <!-- Described with: Eastern Chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_522">a Eastern Chair</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_523">a Eastern Seat</string>
+  <!-- Described with: Sleep here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_524">a Eastern Bed</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_525">a Eastern Bedside Table</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_526">a Eastern Bookshelf</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_527">a Eastern Wardrobe</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_528">a Eastern Coffee Table</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_529">a Eastern Couch</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_530">a Eastern Table</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_531">a Eastern Lamp</string>
+  <!-- Described with: An eastern flooring. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_532">a Eastern Floor</string>
+  <!-- Described with: Patterned -->
+  <string name="InventoryItemNames_WithArticle/InvItem_533">a Eastern Wall</string>
+  <!-- Described with: A dark wood floor. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_534">a Red Wood Floor</string>
+  <!-- Described with: Some books -->
+  <string name="InventoryItemNames_WithArticle/InvItem_535">a Small Stack of Books</string>
+  <!-- Described with: A cute pink wombat bank. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_536">a Wombie Bank</string>
+  <!-- Described with: A Billy Button in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_537">a Billy Button Pot</string>
+  <!-- Described with: A Royal Bluebell in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_538">a Royal Bluebell Pot</string>
+  <!-- Described with: Sleep here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_539">a Rattan Bed</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_540">a Rattan Bookshelf</string>
+  <!-- Described with: Rattan Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_541">a Rattan Cabinet</string>
+  <!-- Described with: Rattan Chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_542">a Rattan Chair</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_543">a Rattan Coffee Table</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_544">a Rattan Couch</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_545">a Rattan Table</string>
+  <!-- Described with: Rattan flooring. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_546">a Rattan Floor</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_547">a Rattan Lamp</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_548">a Rattan Seat</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_549">a Rattan Bedside Table</string>
+  <!-- Described with: Patterned -->
+  <string name="InventoryItemNames_WithArticle/InvItem_550">a Rattan Wall</string>
+  <!-- Described with: Sleep here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_551">a Nordic Bed</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_552">a Nordic Bedside Table</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_553">a Nordic Bookshelf</string>
+  <!-- Described with: Nordic -->
+  <string name="InventoryItemNames_WithArticle/InvItem_554">a Nordic Cabinet</string>
+  <!-- Described with: Nordic Chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_555">a Nordic Chair</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_556">a Nordic Coffee Table</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_557">a Nordic Couch</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_558">a Nordic Table</string>
+  <!-- Described with: Cool flooring -->
+  <string name="InventoryItemNames_WithArticle/InvItem_559">a Nordic Floor</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_560">a Nordic Lamp</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_561">a Nordic Seat</string>
+  <!-- Described with: Cool wall -->
+  <string name="InventoryItemNames_WithArticle/InvItem_562">a Nordic Wall</string>
+  <!-- Described with: Sleep here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_563">a Pink Bed</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_564">a Pink Bedside Table</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_565">a Pink Bookshelf</string>
+  <!-- Described with: Pink cabinet. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_566">a Pink Cabinet</string>
+  <!-- Described with: Pink Chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_567">a Pink Chair</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_568">a Pink Coffee Table</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_569">a Pink Couch</string>
+  <!-- Described with: A pink table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_570">a Pink Table</string>
+  <!-- Described with: Pink lamp. Pretty. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_571">a Pink Lamp</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_572">a Pink Seat</string>
+  <!-- Described with: Its a floor -->
+  <string name="InventoryItemNames_WithArticle/InvItem_573">a Cube Floor</string>
+  <!-- Described with: Its a wall -->
+  <string name="InventoryItemNames_WithArticle/InvItem_574">a Cube Wall</string>
+  <!-- Described with: Cooked. Nice. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_575">a Cooked Apple</string>
+  <!-- Described with: Nice and cooked. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_576">a Cooked Banana</string>
+  <!-- Described with: Sour and cooked. yummy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_577">a Cooked Bush Lime</string>
+  <!-- Described with: Jumpin' for joy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_579">a Meadow Katydid</string>
+  <!-- Described with: It can't fly. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_580">a Rhinoceros Beetle</string>
+  <!-- Described with: It's a big stick! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_581">a Goliath stick</string>
+  <!-- Described with: Dusty and gross. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_582">a Bogong Moth</string>
+  <!-- Described with: Its red... I guess? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_583">a Scarlet Jezebel Butterfly</string>
+  <!-- Described with: It's so big! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_584">a Raw Giant Drumstick</string>
+  <!-- Described with: It's warm. Is it buzzing? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_585">a Hot Cylinder</string>
+  <!-- Described with: It has things on it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_586">a Green Board</string>
+  <!-- Described with: Where is the rest of it? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_587">a Old Wheel</string>
+  <!-- Described with: I can see myself. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_588">a Shiny Disc</string>
+  <!-- Described with: Does this work? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_601">a Glass Bulb</string>
+  <!-- Described with: Was this ever useful? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_602">a Smooth Slate</string>
+  <!-- Described with: Its a big one! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_603">a Big Chicken Egg</string>
+  <!-- Described with: A black fish! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_605">a Blackfish</string>
+  <!-- Described with: Tiny and bright. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_606">a Galaxias</string>
+  <!-- Described with: Shiny -->
+  <string name="InventoryItemNames_WithArticle/InvItem_607">a Silver Perch</string>
+  <!-- Described with: So small. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_608">a Anchovy</string>
+  <!-- Described with: It's not a fish? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_609">a Goat Fish</string>
+  <!-- Described with: Oooooo -->
+  <string name="InventoryItemNames_WithArticle/InvItem_610">a Barracuda</string>
+  <!-- Described with: What is this? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_611">a Blob Fish</string>
+  <!-- Described with: It might be roman? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_612">a Saratoga</string>
+  <!-- Described with: A billabong shark. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_613">a Tarpon</string>
+  <!-- Described with: Trying to hide, eh? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_614">a Black Cricket</string>
+  <!-- Described with: The queen of butterflies. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_615">a Monarch Butterfly</string>
+  <!-- Described with: Gentle! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_616">a Lacewing</string>
+  <!-- Described with: It's huge! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_617">a Emperor DragonFly</string>
+  <!-- Described with: Small and red -->
+  <string name="InventoryItemNames_WithArticle/InvItem_618">a Pygmyfly</string>
+  <!-- Described with: Pretty! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_619">a Tau Emerald Dragonfly</string>
+  <!-- Described with: Is this a bird or a bug? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_620">a Ladybird</string>
+  <!-- Described with: Careful, tiger -->
+  <string name="InventoryItemNames_WithArticle/InvItem_621">a Tiger Moth</string>
+  <!-- Described with: Coolest name ever. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_622">a Duskhawker DragonFly</string>
+  <!-- Described with: It's not that large. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_623">a Largidae</string>
+  <!-- Described with: It's scary, but nice. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_624">a Huntsman</string>
+  <!-- Described with: These are everywhere. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_625">a Blue Moon Butterfly</string>
+  <!-- Described with: The smallest fiddle in the world. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_626">a Fiddler Beetle</string>
+  <!-- Described with: Look at the horns! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_627">a Stag Beetle</string>
+  <!-- Described with: Big fish, big nose. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_628">a Marlin</string>
+  <!-- Described with: Whats a full grown gray look like? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_629">a Grayling</string>
+  <!-- Described with: This guy sounds tough. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_630">a Hercules Moth</string>
+  <!-- Described with: There are at least 4 legs here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_631">a Centipede</string>
+  <!-- Described with: Like a water snake. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_632">a Short Finned Eel</string>
+  <!-- Described with: Used to make clothes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_634">a Cloth</string>
+  <!-- Described with: Old, hard milk -->
+  <string name="InventoryItemNames_WithArticle/InvItem_636">a Cheese</string>
+  <!-- Described with: Very creamy and very tasty! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_637">a High Quality Milk</string>
+  <!-- Described with: The best hard milk there is. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_638">a High Quality Cheese</string>
+  <!-- Described with: I think it used to bounce? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_639">a Old Spring</string>
+  <!-- Described with: Slides around with ease. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_640">a Sliding Handle</string>
+  <!-- Described with: Who needs this many buttons? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_641">a Button Board</string>
+  <!-- Described with: So colourful! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_642">a Bright Wire</string>
+  <!-- Described with: A toy with some buttons. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_643">a Old Toy</string>
+  <!-- Described with: Maybe they keep your ears warm? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_644">a Ear Hats</string>
+  <!-- Described with: This looks very useful. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_645">a Old Contraption</string>
+  <!-- Described with: It's so big! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_646">a Cooked Giant Drumstick</string>
+  <!-- Described with: It's got a bite to it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_647">a Cooked Croco Meat</string>
+  <!-- Described with: Not so snappy now, eh? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_648">a Croco Meat</string>
+  <!-- Described with: Its very bendy! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_649">a Mangrove Stick</string>
+  <!-- Described with: Its hollow. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_650">a Bottle Tree Wood</string>
+  <!-- Described with: Keep the neck safe. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_651">a Red Hooded Cap</string>
+  <!-- Described with: Keep bug out of your eyes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_652">a Pilot Goggles</string>
+  <!-- Described with: What are you even looking at? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_653">a Googly Eyes</string>
+  <!-- Described with: Who is that? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_654">a Hero Mask</string>
+  <!-- Described with: Looks familiar.. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_655">a Bunny Hood</string>
+  <!-- Described with: I hope you dont sweat yellow. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_656">a Yellow Sweats</string>
+  <!-- Described with: Got them kicks. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_657">a Yellow Sneakers</string>
+  <!-- Described with: The "B" stands for shirt. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_658">a Yellow B Shirt</string>
+  <!-- Described with: A one time pass to use a mine elevator. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_659">a Mine Pass</string>
+  <!-- Described with: This makes fire? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_664">a Flame Sac</string>
+  <!-- Described with: Its soft and green -->
+  <string name="InventoryItemNames_WithArticle/InvItem_665">a Basic Green Rug</string>
+  <!-- Described with: Its soft and red -->
+  <string name="InventoryItemNames_WithArticle/InvItem_666">a Basic Red Rug</string>
+  <!-- Described with: Smells like money. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_667">a Bank Wall</string>
+  <!-- Described with: Is this even flooring? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_668">a Grass Floor</string>
+  <!-- Described with: The fruit of a cactus. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_669">a Cooked Cactus Fig</string>
+  <!-- Described with: Its like the sky! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_671">a Cloud Wall</string>
+  <!-- Described with: It's groovy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_672">a Retro Flower Wall</string>
+  <!-- Described with: It's groovy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_673">a Retro Floor</string>
+  <!-- Described with: Its soft and blue -->
+  <string name="InventoryItemNames_WithArticle/InvItem_674">a Basic Blue Rug</string>
+  <!-- Described with: Its soft and pink -->
+  <string name="InventoryItemNames_WithArticle/InvItem_675">a Basic Pink Rug</string>
+  <!-- Described with: Its soft and purple -->
+  <string name="InventoryItemNames_WithArticle/InvItem_676">a Basic Purple Rug</string>
+  <!-- Described with: Its soft and orange -->
+  <string name="InventoryItemNames_WithArticle/InvItem_677">a Basic Orange Rug</string>
+  <!-- Described with: Fancy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_678">a Marble Floor</string>
+  <!-- Described with: Get it in ya! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_685">a Meat Pie</string>
+  <!-- Described with: Celebrate the best way! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_686">a Pavlova</string>
+  <!-- Described with: A corn covered hotdog. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_687">a Dagwood Dog</string>
+  <!-- Described with: Breakfast cake. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_690">a Quiche</string>
+  <!-- Described with: It's like meat but stickier. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_691">a Meat on a stick</string>
+  <!-- Described with: Looks real to me... -->
+  <string name="InventoryItemNames_WithArticle/InvItem_695">a Fake Beard</string>
+  <!-- Described with: Could clean a bottle I guess? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_698">a Bottle Brush</string>
+  <!-- Described with: Grows grass! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_707">a Fir Grass Seeds</string>
+  <!-- Described with: Grows grass! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_708">a Tropical Grass Seeds</string>
+  <!-- Described with: Hard to flip in. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_709">a Long Shoes</string>
+  <!-- Described with: A nice coloured jacket. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_712">a Black Jacket</string>
+  <!-- Described with: They could be skinnier... -->
+  <string name="InventoryItemNames_WithArticle/InvItem_713">a Black Jeans</string>
+  <!-- Described with: Bright Pants -->
+  <string name="InventoryItemNames_WithArticle/InvItem_714">a White Pants</string>
+  <!-- Described with: Easy to stain. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_715">a White T-Shirt</string>
+  <!-- Described with: It's flat and a cap. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_716">a Black Flat Cap</string>
+  <!-- Described with: Black and warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_717">a Black Flanney Shirt</string>
+  <!-- Described with: Nice pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_718">a Black Plaid Pants</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_719">a Yellow Shorts</string>
+  <!-- Described with: It's pretty yellow. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_720">a Yellow T Shirt</string>
+  <!-- Described with: High Vis -->
+  <string name="InventoryItemNames_WithArticle/InvItem_721">a Yellow Boots</string>
+  <!-- Described with: Don't scuff these. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_722">a White Boots</string>
+  <!-- Described with: Hide your face. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_723">a Face Bandana Green</string>
+  <!-- Described with: Hide your face. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_724">a Face Bandana Black</string>
+  <!-- Described with: Hide your face. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_725">a Face Bandana Blue</string>
+  <!-- Described with: Hide your face. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_726">a Face Bandana Orange</string>
+  <!-- Described with: Hide your face. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_727">a Face Bandana Red</string>
+  <!-- Described with: Helps you see. A lot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_728">a Large Round Glasses</string>
+  <!-- Described with: Helps you see. A lot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_729">a Retro Point Glasses</string>
+  <!-- Described with: Helps you see. A lot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_730">a Retro Point Sun Glasses</string>
+  <!-- Described with: Could take an eye out. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_731">a Triangle Glasses</string>
+  <!-- Described with: Keep the sun out of some of your eyes. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_732">a Shutter Shades</string>
+  <!-- Described with: Stylish. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_733">a Round Horned Glasses</string>
+  <!-- Described with: Stylish. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_734">a Round Horned Sun Glasses</string>
+  <!-- Described with: It's yellow! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_735">a Yellow Dress</string>
+  <!-- Described with: Beautiful! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_736">a Rainbow Dress</string>
+  <!-- Described with: Dark. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_737">a Black Plaid Dress</string>
+  <!-- Described with: Beautiful! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_738">a Rainbow T Shirt</string>
+  <!-- Described with: Beautiful! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_739">a Rainbow Pants</string>
+  <!-- Described with: Beautiful! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_740">a Rainbow Sneakers</string>
+  <!-- Described with: Does it honk? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_741">a Red Nose</string>
+  <!-- Described with: Who is quack? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_742">a Beak</string>
+  <!-- Described with: A nice coloured coat. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_743">a Black Coat</string>
+  <!-- Described with: Jeans for sunburnt knees. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_744">a Black Ripped Jeans</string>
+  <!-- Described with: It's squishy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_746">a Jelly</string>
+  <!-- Described with: A real pick me up. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_747">a Jelly Brew</string>
+  <!-- Described with: Healthy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_748">a Bottle Brush Brew</string>
+  <!-- Described with: It's poop. Plants might like it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_750">a Vombat Poo</string>
+  <!-- Described with: Keep your breath in. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_751">a White Mask</string>
+  <!-- Described with: Keep your breath in. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_752">a Black Mask</string>
+  <!-- Described with: It's a big one and it's fried! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_763">a Big Fried Egg</string>
+  <!-- Described with: Sunny side up. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_764">a Fried Egg</string>
+  <!-- Described with: Gone don eat it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_770">a Quandong</string>
+  <!-- Described with: Gone don cooked it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_771">a Cooked Quandong</string>
+  <!-- Described with: It's shark meat. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_772">a Flake</string>
+  <!-- Described with: Salty. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_773">a Cooked Flake</string>
+  <!-- Described with: Fill it with dirt or other stuff. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_774">a Wheelbarrow</string>
+  <!-- Described with: Plant a Bottle Brush -->
+  <string name="InventoryItemNames_WithArticle/InvItem_776">a Bottle Brush Seed</string>
+  <!-- Described with: Plant a Wattle -->
+  <string name="InventoryItemNames_WithArticle/InvItem_777">a Wattle Seed</string>
+  <!-- Described with: Bok Bok -->
+  <string name="InventoryItemNames_WithArticle/InvItem_780">a Chicken Hood</string>
+  <!-- Described with: Sort this out. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_781">a Wizard Hat</string>
+  <!-- Described with: Never late. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_782">a Wizard Robe</string>
+  <!-- Described with: Does it point west? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_783">a Witch Hat</string>
+  <!-- Described with: Where's the broom? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_784">a Witch Robe</string>
+  <!-- Described with: Green Chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_785">a Green Chair</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_786">a Green Seat</string>
+  <!-- Described with: Sleep here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_787">a Green Bed</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_788">a Green Bedside Table</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_789">a Green Bookshelf</string>
+  <!-- Described with: Green Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_790">a Green Cabinet</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_791">a Green Couch</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_792">a Green Coffee Table</string>
+  <!-- Described with: A pink table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_793">a Green Table</string>
+  <!-- Described with: Pink lamp. Pretty. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_794">a Green Lamp</string>
+  <!-- Described with: It's tasty inside. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_799">a Coconut</string>
+  <!-- Described with: A seaworthy shell -->
+  <string name="InventoryItemNames_WithArticle/InvItem_814">a Buccinidae Shell</string>
+  <!-- Described with: What the shell? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_815">a Cassidae Shell</string>
+  <!-- Described with: Can I spend this? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_816">a Sand Dollar</string>
+  <!-- Described with: It's heavy? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_817">a Tonnidae Shell</string>
+  <!-- Described with: I bet its chewy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_820">a Black Sea Cucumber</string>
+  <!-- Described with: What majesty! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_824">a King Prawn</string>
+  <!-- Described with: Meow -->
+  <string name="InventoryItemNames_WithArticle/InvItem_825">a Tiger Prawn</string>
+  <!-- Described with: A lobster without claws. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_826">a Bay Bug</string>
+  <!-- Described with: Makes you strong! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_827">a Fresh Water Mussel</string>
+  <!-- Described with: Refreshing! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_828">a Fresh Water Prawn</string>
+  <!-- Described with: Looks wet to me. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_829">a Inland Crab</string>
+  <!-- Described with: Looks wet to me. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_830">a Purple Mottled Crab</string>
+  <!-- Described with: Strong but sad. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_831">a Blue Mussel</string>
+  <!-- Described with: Is it scared? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_833">a White Yabbie</string>
+  <!-- Described with: It's got wings! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_834">a Blue Sea Slug</string>
+  <!-- Described with: Sharp bones that can be shot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_840">a Bone Arrow</string>
+  <!-- Described with: No one know if this is a fruit or not. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_843">a Tomato</string>
+  <!-- Described with: Like beans in a case -->
+  <string name="InventoryItemNames_WithArticle/InvItem_845">a Green Bean</string>
+  <!-- Described with: It's cooked perfectly. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_852">a Cooked Prime Meat</string>
+  <!-- Described with: The meat from an alpha. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_853">a Raw Prime Meat</string>
+  <!-- Described with: A bit of a bat. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_859">a Bat Wing</string>
+  <!-- Described with: It's ready for baking. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_861">a Flour</string>
+  <!-- Described with: Sweet. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_862">a Sugar</string>
+  <!-- Described with: Tells you what can go in what machine. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_864">a Machine Manual</string>
+  <!-- Described with: Sleep here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_865">a Warm Nordic Bed</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_866">a Warm Nordic Bedside Table</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_867">a Warm Nordic Bookshelf</string>
+  <!-- Described with: Nordic -->
+  <string name="InventoryItemNames_WithArticle/InvItem_868">a Warm Nordic Cabinet</string>
+  <!-- Described with: Nordic Chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_869">a Warm Nordic Chair</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_870">a Warm Nordic Coffee Table</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_871">a Warm Nordic Couch</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_872">a Warm Nordic Table</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_873">a Warm Nordic Lamp</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_874">a Warm Nordic Lamp</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_875">a Warm Nordic Seat</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_878">a Dark Wooden Table</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_879">a Dark Wooden Seat</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_880">a Dark Wooden Couch</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_881">a Dark Wooden Bedside Table</string>
+  <!-- Described with:  -->
+  <string name="InventoryItemNames_WithArticle/InvItem_882">a Tea Pot</string>
+  <!-- Described with:  -->
+  <string name="InventoryItemNames_WithArticle/InvItem_883">a Small Pot</string>
+  <!-- Described with:  -->
+  <string name="InventoryItemNames_WithArticle/InvItem_884">a Rattan Basket</string>
+  <!-- Described with: Cooked Flour -->
+  <string name="InventoryItemNames_WithArticle/InvItem_893">a Bread</string>
+  <!-- Described with: Sugar Bread -->
+  <string name="InventoryItemNames_WithArticle/InvItem_894">a Fairy Bread</string>
+  <!-- Described with: Hand held vegie pie -->
+  <string name="InventoryItemNames_WithArticle/InvItem_895">a Pastie</string>
+  <!-- Described with: Bush Bread -->
+  <string name="InventoryItemNames_WithArticle/InvItem_896">a Damper</string>
+  <!-- Described with: Long way to the shop -->
+  <string name="InventoryItemNames_WithArticle/InvItem_897">a Sausage Roll</string>
+  <!-- Described with: All the best stuff on one plate -->
+  <string name="InventoryItemNames_WithArticle/InvItem_898">a Prime Roast</string>
+  <!-- Described with: This makes sparks? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_905">a Thunder Sac</string>
+  <!-- Described with: Fit for a princess -->
+  <string name="InventoryItemNames_WithArticle/InvItem_915">a Froggy Hood</string>
+  <!-- Described with: A hood for a cat burglar -->
+  <string name="InventoryItemNames_WithArticle/InvItem_916">a Cat Hood</string>
+  <!-- Described with: Flowery -->
+  <string name="InventoryItemNames_WithArticle/InvItem_917">a Yellow Print Dress</string>
+  <!-- Described with: Easy to wear! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_918">a Yellow Print Pants</string>
+  <!-- Described with: Ahoy! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_919">a Brown Boat Shoes</string>
+  <!-- Described with: This will keep that sun off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_920">a Floppy Straw Hat</string>
+  <!-- Described with: It's kinda salty. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_927">a Mighty Spread</string>
+  <!-- Described with: It's mesmerizing -->
+  <string name="InventoryItemNames_WithArticle/InvItem_953">a Glow Bug</string>
+  <!-- Described with: A fish from deep down. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_954">a Deep Fish</string>
+  <!-- Described with: A prize from an Alpha Jackaroo -->
+  <string name="InventoryItemNames_WithArticle/InvItem_957">a Alpha Antler</string>
+  <!-- Described with: A prize from an Alpha Croco -->
+  <string name="InventoryItemNames_WithArticle/InvItem_958">a Alpha Scale</string>
+  <!-- Described with: They like waffles. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_962">a Panda Hood</string>
+  <!-- Described with: A prize from an Alpha Devil -->
+  <string name="InventoryItemNames_WithArticle/InvItem_963">a Alpha Eye</string>
+  <!-- Described with: Something fishy about this. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_969">a Cooked Freshwater Fish</string>
+  <!-- Described with: It's a bit salty. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_970">a Cooked Saltwater Fish</string>
+  <!-- Described with: On the case. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_971">a Detective Pants</string>
+  <!-- Described with: A sneaky coat. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_972">a Trench Coat</string>
+  <!-- Described with: Ahoy! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_973">a Black Boat Shoes</string>
+  <!-- Described with: For investigating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_974">a P.I Hat</string>
+  <!-- Described with: On the case. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_975">a Dark Detective Pants</string>
+  <!-- Described with: A sneaky coat. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_976">a Dark Trench Coat</string>
+  <!-- Described with: For investigating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_977">a Dark P.I Hat</string>
+  <!-- Described with: Keeps you cool -->
+  <string name="InventoryItemNames_WithArticle/InvItem_978">a Blue Summer Dress</string>
+  <!-- Described with: Keeps you cool -->
+  <string name="InventoryItemNames_WithArticle/InvItem_979">a Green Summer Dress</string>
+  <!-- Described with: Is this furniture? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_980">a Minimalist Bed</string>
+  <!-- Described with: Is this furniture? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_981">a Minimalist Bedside Table</string>
+  <!-- Described with: Is this furniture? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_982">a Minimalist Book Shelf</string>
+  <!-- Described with: Is this furniture? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_983">a Minimalist Chair</string>
+  <!-- Described with: Is this furniture? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_984">a Minimalist Couch</string>
+  <!-- Described with: Is this furniture? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_985">a Minimalist Dresser</string>
+  <!-- Described with: A standing lamp -->
+  <string name="InventoryItemNames_WithArticle/InvItem_986">a Minimalist Lamp</string>
+  <!-- Described with: Is this furniture? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_987">a Minimalist Seat</string>
+  <!-- Described with: Better than hay. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_988">a White Brick Wallpaper</string>
+  <!-- Described with: Better than hay. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_989">a Red Brick Wallpaper</string>
+  <!-- Described with: Better than hay. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_990">a Green Brick Wallpaper</string>
+  <!-- Described with: Keeps your house cool -->
+  <string name="InventoryItemNames_WithArticle/InvItem_991">a Dark Tiles</string>
+  <!-- Described with: Keeps your house cool -->
+  <string name="InventoryItemNames_WithArticle/InvItem_992">a Bright Tiles</string>
+  <!-- Described with: So much room -->
+  <string name="InventoryItemNames_WithArticle/InvItem_996">a Bunk Bed</string>
+  <!-- Described with: It's so bad. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_997">a Cooked Blob Fish</string>
+  <!-- Described with: Warm wall -->
+  <string name="InventoryItemNames_WithArticle/InvItem_999">a Warm Nordic Wall</string>
+  <!-- Described with: Warm flooring -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1000">a Warm Nordic Floor</string>
+  <!-- Described with: Plant a Bottle Tree. They grow slow! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1001">a Bottle Tree Seed</string>
+  <!-- Described with: Roast for energy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1034">a Coffee Bean</string>
+  <!-- Described with: Brew for more energy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1035">a Roasted Coffee Beans</string>
+  <!-- Described with: Morning brown -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1036">a Coffee</string>
+  <!-- Described with: For general waste -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1083">a Trash Bin</string>
+  <!-- Described with: A Desert Pea in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1085">a Desert Pea Pot</string>
+  <!-- Described with: A River Daisy in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1086">a River Daisy Pot</string>
+  <!-- Described with: A Flannel Flower in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1087">a Flannel Flower Pot</string>
+  <!-- Described with: A Butterfly Orchid  in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1088">a Butterfly Orchid Pot</string>
+  <!-- Described with: A Paper Daisy in a pot. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1089">a Orange Paper Daisy Pot</string>
+  <!-- Described with: Measures out tiles -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1123">a Tape Measure</string>
+  <!-- Described with: Refreshing! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1126">a Wattle Tea</string>
+  <!-- Described with: Healthy. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1127">a Bottle Brush Tea</string>
+  <!-- Described with: Let's Build -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1141">a Gerse Shirt</string>
+  <!-- Described with: Jean wizz -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1142">a Purple Jeans</string>
+  <!-- Described with: Got them kicks. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1143">a Purple Sneakers</string>
+  <!-- Described with: Got them kicks. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1144">a Orange Sneakers</string>
+  <!-- Described with: Look like a gent -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1145">a KD Shirt</string>
+  <!-- Described with: Nice pants. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1146">a Orange Pants</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1147">a White Shorts</string>
+  <!-- Described with: This shirt reaps -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1148">a Reaps Shirt</string>
+  <!-- Described with: Got them kicks. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1149">a Lime Sneakers</string>
+  <!-- Described with: Safety First -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1150">a Helmet</string>
+  <!-- Described with: Ahoy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1152">a Sailor Hat</string>
+  <!-- Described with: Ahoy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1153">a Sailor Pants</string>
+  <!-- Described with: Ahoy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1154">a Sailor Shirt</string>
+  <!-- Described with: Ahoy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1155">a Sailor Boots</string>
+  <!-- Described with: Ahoy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1156">a Sailor Dress</string>
+  <!-- Described with: Glasses for running -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1157">a Sport Glasses</string>
+  <!-- Described with: Ready for a meal -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1159">a Dinner Set</string>
+  <!-- Described with: Clean or dirty? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1160">a Stack of Plates</string>
+  <!-- Described with: A ramp that uses the tile under it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1163">a Ramp</string>
+  <!-- Described with: What a strange ore -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1165">a Berkonium Ore</string>
+  <!-- Described with: Should I even eat this? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1168">a Raw Grub Meat</string>
+  <!-- Described with: I should totally eat this. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1169">a Cooked Grub Meat</string>
+  <!-- Described with: Looks like a witch hat to me. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1171">a Traffic Cone</string>
+  <!-- Described with: Apple conserve -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1172">a Apple Jam</string>
+  <!-- Described with: Banana conserve -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1173">a Banana Jam</string>
+  <!-- Described with: Lime conserve -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1174">a Lime Jam</string>
+  <!-- Described with: Quandong conserve -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1175">a Quandong Jam</string>
+  <!-- Described with: Bottle Brush Vase -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1183">a Bottle Brush Vase</string>
+  <!-- Described with: Potted Lilly Pilly -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1184">a Potted Lilly Pilly</string>
+  <!-- Described with: I can't see it -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1185">a Painted Lady Butterfly</string>
+  <!-- Described with: A dink a dozen. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1186">a Grass Yellow Butterfly</string>
+  <!-- Described with: Is it purple or azure? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1187">a Purple Azure Butterfly</string>
+  <!-- Described with: Fit for an emperor -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1190">a Ginger Shirt</string>
+  <!-- Described with: Easy to wear! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1191">a Purple Shorts</string>
+  <!-- Described with: A shirt from Jurdville -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1196">a Jurd Shirt</string>
+  <!-- Described with: It keeps its eggs in its mouth. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1197">a Mouth Almighty</string>
+  <!-- Described with: Buzz buzz -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1198">a Bee Hood</string>
+  <!-- Described with: Not much but it fits the bill -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1200">a Duck Canyon Shirt</string>
+  <!-- Described with: AJayy hideaway -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1201">a Tree House Shirt</string>
+  <!-- Described with: Zockt on -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1202">a Soho Shirt</string>
+  <!-- Described with: It's got a spooky specter on it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1203">a Spec Shirt</string>
+  <!-- Described with: Please take your Ticket -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1204">a Tom Shirt</string>
+  <!-- Described with: Join Penguin Island -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1205">a Penguin Hood</string>
+  <!-- Described with: Row of feathers -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1206">a Finch Hood</string>
+  <!-- Described with: You've got moxie, kid -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1207">a Moxie Shirt</string>
+  <!-- Described with: Roar! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1208">a Tiger Hood</string>
+  <!-- Described with: A gross, long tongue -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1209">a Tongue</string>
+  <!-- Described with: Spuddy good shirt. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1212">a Caito Shirt</string>
+  <!-- Described with: It's Riley effective -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1213">a RileyKS Shirt</string>
+  <!-- Described with: A red bar stool -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1231">a Red Bar Stool</string>
+  <!-- Described with: It's like salty grass -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1237">a Seaweed</string>
+  <!-- Described with: A salty treat -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1238">a Seaweed Soup</string>
+  <!-- Described with: Tied and dyed -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1268">a Tie Dye Pants</string>
+  <!-- Described with: Tied and dyed -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1269">a Tie Dye Shirt</string>
+  <!-- Described with: How do you tie a cap? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1270">a Tie Dye Cap</string>
+  <!-- Described with: It's dangerous to go alone! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1284">a Kanz Shirt</string>
+  <!-- Described with: A reed seed -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1316">a River Reed Seed</string>
+  <!-- Described with: Some books -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1317">a Register</string>
+  <!-- Described with: Looks familiar.. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1323">a Paper Bag Hat</string>
+  <!-- Described with: Potted Summer Lily -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1334">a Indoor Summer Lily</string>
+  <!-- Described with: Tropical fruit -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1344">a Pineapple</string>
+  <!-- Described with: Protect your head from turbulence -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1346">a Pilot Hat</string>
+  <!-- Described with: Take off! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1347">a Pilot Shirt</string>
+  <!-- Described with: Help you fly -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1348">a Pilot Pants</string>
+  <!-- Described with: We don't need roads -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1349">a Pilot Boots</string>
+  <!-- Described with: Summery -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1350">a Red Spotty Dress</string>
+  <!-- Described with: This will keep that sun off ya. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1351">a Beach Straw Hat</string>
+  <!-- Described with: So cool! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1353">a Ice Cream</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1355">a Gum Wood Kitchen Cabinet</string>
+  <!-- Described with: Kitchen Sink -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1356">a Gum Wood Kitchen Sink</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1357">a Palm Wood Kitchen Cabinet</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1358">a Palm Wood Kitchen Sink</string>
+  <!-- Described with: Watch out for sunburn -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1359">a White Strap Shoes</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1360">a Sand Castle</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1361">a Sand Bucket</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1366">a Iron Wood Table</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1374">a Garden Tap</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1375">a Floor Drain</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1376">a Picnic Basket</string>
+  <!-- Described with: Flipping Stylin' -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1377">a Pink Holiday Shirt</string>
+  <!-- Described with: Flipping Stylin' -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1378">a Purple Holiday Shirt</string>
+  <!-- Described with: Flipping Stylin' -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1379">a Orange Holiday Shirt</string>
+  <!-- Described with: Flipping Stylin' -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1380">a Green Holiday Shirt</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1381">a Green Holiday Shorts</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1382">a Orange Holiday Shorts</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1383">a Pink Holiday Shorts</string>
+  <!-- Described with: Easy to wear. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1384">a Purple Holiday Shorts</string>
+  <!-- Described with: Real heros do wear hats -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1385">a Life Guard Hat</string>
+  <!-- Described with: Keep your eyes peeled -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1386">a Life Guard Shirt</string>
+  <!-- Described with: For running into the water -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1387">a Life Guard Shorts</string>
+  <!-- Described with: It has rhythm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1408">a Beetroot</string>
+  <!-- Described with: It's like red salty grass -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1418">a Red Seaweed</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1419">a Dark Wood Kitchen Cabinet</string>
+  <!-- Described with: Kitchen Cabinet -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1420">a Dark Wood Kitchen Sink</string>
+  <!-- Described with: A silly lil' guy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1426">a Clown Fish</string>
+  <!-- Described with: A single chair for waiting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1432">a Waiting Chair</string>
+  <!-- Described with: A prize from an Alpha Shark -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1435">a Alpha Shark Tooth</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1437">a Fridge</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1438">a Blue Sun Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1439">a Green Sun Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1440">a Orange Sun Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1441">a Pink Sun Glasses</string>
+  <!-- Described with: Helps you look cool. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1442">a Purple Sun Glasses</string>
+  <!-- Described with: Summery -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1459">a Purple Spotty Dress</string>
+  <!-- Described with: Watch out for sunburn -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1460">a Purple Strap Shoes</string>
+  <!-- Described with: Kinda a mean name -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1462">a Humphead Wrasse</string>
+  <!-- Described with: An insect predator -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1463">a Purple-Winged Mantis</string>
+  <!-- Described with: This butterfly has claws -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1464">a Blue Tiger Butterfly</string>
+  <!-- Described with: Caw! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1465">a Common Crow Butterfly</string>
+  <!-- Described with: That's a big snail! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1468">a Triton's Trumpet</string>
+  <!-- Described with: It feels spongy and gross -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1469">a Sea Sponge</string>
+  <!-- Described with: Wee woo wee woo -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1470">a Police Hat</string>
+  <!-- Described with: Wee woo wee woo -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1471">a Police Pants</string>
+  <!-- Described with: Wee woo wee woo -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1472">a Police Shirt</string>
+  <!-- Described with: Wee woo wee woo -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1473">a Police Boots</string>
+  <!-- Described with: Panel -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1474">a White Panel Wall</string>
+  <!-- Described with: What's it called again? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1482">a Blue Tang</string>
+  <!-- Described with: I prefer orange -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1483">a Yellow Tang</string>
+  <!-- Described with: The wheeze intensifies -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1485">a Wheezing Shirt</string>
+  <!-- Described with: A coffee table -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1488">a Cardboard Box</string>
+  <!-- Described with: Is this water or juice? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1491">a Coconut Drink</string>
+  <!-- Described with: Wooden chair -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1492">a Plastic Chair</string>
+  <!-- Described with: It's a bit prawny. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1494">a Cooked Prawn</string>
+  <!-- Described with: Spag with some bolognese -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1501">a Spag Bol</string>
+  <!-- Described with: Cheesy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1502">a Cheesy Spag</string>
+  <!-- Described with: Breakie Bread -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1505">a Jam Toast</string>
+  <!-- Described with: Better than him skewering me -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1506">a Croco Skewer</string>
+  <!-- Described with: Great with some tea -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1507">a Scones</string>
+  <!-- Described with: Is the patty the burger or the bun? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1508">a Burger</string>
+  <!-- Described with: It's a burger with the lot! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1509">a Lot Burger</string>
+  <!-- Described with: Where did the stick come from? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1516">a Watermelon Popsicle</string>
+  <!-- Described with: It tingles on your tongue -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1519">a Sparkin' Soup</string>
+  <!-- Described with: Crabby -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1522">a Crab Soup</string>
+  <!-- Described with: A crowd favourite -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1523">a Parmy and Chips</string>
+  <!-- Described with: Can pick up and move full containers -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1530">a Hand Trolley</string>
+  <!-- Described with: Eat it shellfishly -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1532">a Cooked Yabbie</string>
+  <!-- Described with: A bowl of hot fungus -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1540">a Mushroom Soup</string>
+  <!-- Described with: Nice and grilled -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1541">a Cooked Mushroom</string>
+  <!-- Described with: It will break your teeth -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1552">a Toffee</string>
+  <!-- Described with: It's warm and tasty -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1554">a Pumpkin Soup</string>
+  <!-- Described with: It's poop. Plants might like it. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1559">a Plat Pie</string>
+  <!-- Described with:  -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1560">a Toilet</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1561">a Bath Tub</string>
+  <!-- Described with: Soot -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1562">a Charcoal Wall</string>
+  <!-- Described with: Pastely -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1563">a Pastel Blue Wall</string>
+  <!-- Described with: Pastely -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1564">a Pastel Green Wall</string>
+  <!-- Described with: Pastely -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1565">a Pastel Grey Wall</string>
+  <!-- Described with: Pastely -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1566">a Pastel Orange Wall</string>
+  <!-- Described with: Pastely -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1567">a Pastel Pink Wall</string>
+  <!-- Described with: Pastely -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1568">a Pastel Purple Wall</string>
+  <!-- Described with: Pastely -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1569">a Pastel Red Wall</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1570">a Light Room Divider</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1571">a Eastern Room Divider</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1572">a Rattan Room Divider</string>
+  <!-- Described with: Dusty -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1573">a Mummy Boots</string>
+  <!-- Described with: Dusty -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1574">a Mummy Hood</string>
+  <!-- Described with: Dusty -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1575">a Mummy Pants</string>
+  <!-- Described with: Dusty -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1576">a Mummy Shirt</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1577">a Orange And Grey Jumper</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1578">a White Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1579">a White Comfy Shoes</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1580">a Black Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1581">a Black Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1582">a Black Sweat Pants</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1583">a Orange Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1584">a Orange Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1585">a Orange Sweat Pants</string>
+  <!-- Described with: Keep your neck warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1586">a Black And White Scarf</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1587">a Pink Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1588">a Pink Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1589">a Pink Sweat Pants</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1590">a Green Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1591">a Green Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1592">a Green Sweat Pants</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1593">a Blue Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1594">a Blue Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1595">a Blue Sweat Pants</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1596">a Purple Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1597">a Purple Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1598">a Purple Sweat Pants</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1599">a Red Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1600">a Red Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1601">a Red Sweat Pants</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1602">a Yellow Hoodie</string>
+  <!-- Described with: Comfy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1603">a Yellow Comfy Shoes</string>
+  <!-- Described with: Pants for sweating. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1604">a Yellow Sweat Pants</string>
+  <!-- Described with: Keep your neck warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1605">a Black Scarf</string>
+  <!-- Described with: Keep your neck warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1606">a Grey Scarf</string>
+  <!-- Described with: Keep your neck warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1607">a Patterned Scarf</string>
+  <!-- Described with: Keep your neck warm -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1608">a Red and Black Scarf</string>
+  <!-- Described with: Keep books here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1610">a Dark Room Divider</string>
+  <!-- Described with: Dont want them working together -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1611">a Office Divider</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1616">a Yellow Stripe Jumper</string>
+  <!-- Described with: Nice tights -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1617">a Charcoal Tights</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1618">a Green Stripe Jumper</string>
+  <!-- Described with: Nice tights -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1619">a Grey Tights</string>
+  <!-- Described with: Cozy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1620">a Blue Stripe Jumper</string>
+  <!-- Described with: Nice tights -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1621">a White Tights</string>
+  <!-- Described with: Lil fish eggs -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1632">a Fish Roe</string>
+  <!-- Described with: Want to eat a thousand? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1634">a Rice</string>
+  <!-- Described with: Old fish eggs -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1635">a Caviar</string>
+  <!-- Described with: Fluffy and filling -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1636">a Cooked Rice</string>
+  <!-- Described with: A perfect meal -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1637">a Egg Fried Rice</string>
+  <!-- Described with: Tasty and salty -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1642">a Roe Nigiri</string>
+  <!-- Described with: A dark wood floor. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1652">a Green Wood Floor</string>
+  <!-- Described with: A log wallpaper -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1653">a Cabin Wall</string>
+  <!-- Described with: It's so pretty! -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1654">a Rainbow Fish</string>
+  <!-- Described with: He never tells the truth -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1655">a Lionfish</string>
+  <!-- Described with: But it has dots on it? -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1656">a Tiger Beetle</string>
+  <!-- Described with: It needs fire... -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1657">a Grass Tree Seed Pod</string>
+  <!-- Described with: Grows a grass tree -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1658">a Grass Tree Seed</string>
+  <!-- Described with: A red bar stool -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1659">a Cabin Stool</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1660">a Cabin Chair</string>
+  <!-- Described with: A single chair for sitting. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1661">a Cabin Seat</string>
+  <!-- Described with: A Couch. You can sit on it with a friend -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1662">a Cabin Couch</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1663">a Cabin Bed</string>
+  <!-- Described with: A small table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1664">a Old Table</string>
+  <!-- Described with: A long coffee table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1665">a Cabin Coffee Table</string>
+  <!-- Described with: Put stuff in here. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1666">a Cabin Drawers</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1667">a Cabin Kitchen Table</string>
+  <!-- Described with: A wooden table. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1668">a Cabin Cabinet</string>
+  <!-- Described with: Mushroomy -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1669">a Mushroom Risotto</string>
+  <!-- Described with: A wooden table for beside your bed. -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1681">a Cabin Bedside Table</string>
+  <!-- Described with: So much room -->
+  <string name="InventoryItemNames_WithArticle/InvItem_1682">a Cabin Bunk Bed</string>
+</resources>

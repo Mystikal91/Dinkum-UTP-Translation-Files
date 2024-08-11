@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc15/Npc15_Intro_002">Sono il fratello minore di &lt;NPCName&gt;!</string>
+    <string name="Npc15/Npc15_Intro_003">Parlando di &lt;NPCName&gt;, ha menzionato che i &lt;itemName&gt; stanno migrando in questo periodo dell\'anno.</string>
+    <string name="Npc15/Npc15_Intro_000">Ciao.</string>
+    <string name="Npc15/Npc15_Intro_005">&lt;haha&gt;Appena l\'ha detto, ho comprato un biglietto!</string>
+    <string name="Npc15/Npc15_Intro_001">Il mio nome è &lt;myName&gt;.</string>
+    <string name="Npc15/Npc15_Intro_004">Ciò significa che oggi è l\'unico giorno in cui li troverai nell\'arco dell\'intera giornata.</string>
+    <string name="Npc15/Npc15_Intro_006">Queste condizioni sono PERFETTE per una &lt;FishingComp&gt;.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_000">&lt;wave&gt;Ciao.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_002">&lt;glee&gt;Se vuoi fare una gita di un giorno sull\'&lt;AirShip&gt;, sarò il tuo pilota.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_006">Tieni presente che l\'aeroporto offrirà gite diurne solo la domenica.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_002">Quindi, se vuoi fare un viaggio, devi solo attraversare la porta e entrare nell\'&lt;AirShip&gt;</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_000">Benvenuti all\'aeroporto &lt;IslandName&gt;.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_001">Mi chiamo Nancy e ti do il benvenuto all\'aeroporto di &lt;IslandName&gt;!</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_003">Puoi acquistare una &lt;itemName&gt; qui al bancone.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_004">Avrai bisogno di una sola &lt;itemName&gt; per ogni viaggio.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_005">Quindi, puoi portare con te tutte le persone che vuoi.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_001">Oggi offriamo gite di un giorno!</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_003">&lt;yes&gt;E assicurati di avere la tua &lt;itemName&gt; pronta una volta dentro.</string>
+</resources>

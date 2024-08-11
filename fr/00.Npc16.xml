@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">J\'espère que tu vas bien aujourd\'hui !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_000">Peux-tu me préparer quelque chose ?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_001">Comment se passent tes vacances ?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_000">Voici ma liste.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt;Ho ! Ho ! Ho !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt;J\'adore &lt;IslandName&gt; !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_003">Ça me rappelle quelque chose !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt;Je suis sûr qu\'ils finiront par revenir.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt;Merci beaucoup &lt;PlayerName&gt; !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_008">Tu as toujours été très sympa !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt;Ho ! Ho ! Ho !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">Bonjour, &lt;PlayerName&gt; !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt;Oh !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt;Il semblerait que certains de mes &lt;animalName&gt; blancs aient disparu.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_002">Laisse tomber</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_001">Vérifie-le deux fois !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_006">Mais si tu en vois un, aurais-tu la gentillesse de l\'attraper et de le déposer à &lt;itemName&gt; ?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt;Ho ! Ho ! Ho !</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt;Amuse-toi bien !</string>
+</resources>

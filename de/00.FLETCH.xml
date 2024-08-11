@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FLETCH/Already Being Moved 1_Intro_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FLETCH/Arvo_Greeting 0_Intro_000">Guten Tag, &lt;PlayerName&gt; !</string>
+    <string name="FLETCH/HouseIsBeingUpgraded_Intro_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FLETCH/IslandDayGreeting_Night_006_Intro_000">Oh, &lt;PlayerName&gt; !</string>
+    <string name="FLETCH/LongConvo_003_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
+</resources>

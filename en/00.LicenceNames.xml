@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="LicenceNames/Licence_1">Mining Licence</string>
+  <string name="LicenceNames/Licence_10">Building Licence</string>
+  <string name="LicenceNames/Licence_11">Farming Licence</string>
+  <string name="LicenceNames/Licence_12">Cargo Licence</string>
+  <string name="LicenceNames/Licence_13">Deep Mining Licence</string>
+  <string name="LicenceNames/Licence_14">Toolbelt Licence</string>
+  <string name="LicenceNames/Licence_15">Trapping Licence</string>
+  <string name="LicenceNames/Licence_16">Excavation Licence</string>
+  <string name="LicenceNames/Licence_17">Irrigation Licence</string>
+  <string name="LicenceNames/Licence_18">Agricultural Vehicle Licence</string>
+  <string name="LicenceNames/Licence_19">Sign Writing Licence</string>
+  <string name="LicenceNames/Licence_2">Logging Licence</string>
+  <string name="LicenceNames/Licence_20">Water Scaping Licence</string>
+  <string name="LicenceNames/Licence_21">Brewing Licence</string>
+  <string name="LicenceNames/Licence_22">Animal Processing Licence</string>
+  <string name="LicenceNames/Licence_3">Fishing Licence</string>
+  <string name="LicenceNames/Licence_4">Hunting Licence</string>
+  <string name="LicenceNames/Licence_5">Landscaping Licence</string>
+  <string name="LicenceNames/Licence_6">Metal Detecting</string>
+  <string name="LicenceNames/Licence_7">Vehicle Licence</string>
+  <string name="LicenceNames/Licence_8">Commerce Licence</string>
+  <string name="LicenceNames/Licence_9">Handling Licence</string>
+  <string name="LicenceNames/Licence_23">Fish Farming Licence</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GUIText/Back" autoSizeTextContainer="True">Terug</string>
+    <string name="GUIText/Options">Opties</string>
+    <string name="GUIText/Multiplayer" resizable="True">Multiplayer</string>
+</resources>

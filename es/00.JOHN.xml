@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="JOHN/Arvo_Greeting 0_Intro_000">Ya es tarde, eh, &lt;PlayerName&gt;?</string>
+    <string name="JOHN/Arvo_Greeting 0_Response_003_000">&lt;yes&gt;Bien, que agradable charla.</string>
+    <string name="JOHN/High_Friendship_Greeting 1_Intro_001">¿Necesitas algo?</string>
+    <string name="JOHN/Arvo_Greeting 1_Intro_000">&lt;haha&gt;El día paso rápido!</string>
+</resources>

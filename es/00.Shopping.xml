@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Shopping/AlreadyKnowRecipe_Intro_001">¡Ya te he enseñado esa receta!</string>
+    <string name="Shopping/AlreadyKnowRecipe_Intro_000">Oh, esa es la receta para fabricar &lt;buyItemName&gt;.</string>
+    <string name="Shopping/AskAboutAnimal_Intro_000">Oh! Ese es un &lt;buyItemName&gt;.</string>
+    <string name="Shopping/WantToBuyAnimalNonLocal_Intro_000">Oh! Ese es un &lt;buyItemName&gt;.</string>
+</resources>

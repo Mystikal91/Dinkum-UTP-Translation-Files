@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Player/ConfirmDeedNotServer_Intro_001">I should probably place it there.</string>
+  <string name="Player/ConfirmDeedPlacement_Intro_000">Is this a good place for the &lt;currentItemInHand&gt;?</string>
+  <string name="Player/ConfirmDeedPlacement_Option_000">Yes</string>
+  <string name="Player/ConfirmDeedPlacement_Option_001">No</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBoxFull_Intro_001">Construction will start tomorrow.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBoxOnceCompleted_Intro_000">All the required construction materials have been deposited!</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBoxOnceCompleted_Intro_001">Construction can begin tomorrow.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBox_Needs Items_Intro_000">Building materials are required to begin construction.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBox_Needs Items_Intro_001">Should I place building materials inside?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBox_Needs Items_Option_000">Place Items</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBox_Needs Items_Option_001">Nevermind.</string>
+  <!-- Talking about NPC: Milburn. Talking about Item: Meadow Katydid -->
+  <string name="Player/InventoryFullBugOrFish_Intro_000">My pockets are full...</string>
+  <!-- Talking about NPC: Milburn. Talking about Item: Meadow Katydid -->
+  <string name="Player/InventoryFullBugOrFish_Intro_001">Should I swap something to make room for this &lt;itemName&gt;?</string>
+  <!-- Talking about NPC: Milburn. Talking about Item: Meadow Katydid -->
+  <string name="Player/InventoryFullBugOrFish_Option_000">Yes.</string>
+  <!-- Talking about NPC: Milburn. Talking about Item: Meadow Katydid -->
+  <string name="Player/InventoryFullBugOrFish_Option_001">No.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Player/TeleCallerDoesn'tWork_Intro_000">It doesn't work right now...</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/Telebox Once Completed_Intro_000">That seems to have done it!</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/Telebox Once Completed_Intro_001">What happens next?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/TeleboxNeedsItems_Intro_001">Should I place something inside?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/TeleboxNeedsItems_Option_000">Place Items</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/TeleboxNeedsItems_Option_001">Nevermind.</string>
+  <string name="Player/ConfirmDeedNotServer_Intro_000">This deed is for my island.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/ConstructionBoxFull_Intro_000">All the materials are here. </string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/TeleboxNeedsItems_Intro_000">This thing looks broken. There are parts missing.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWellWishAlreadyMade_Intro_000">A wish has already been made today...</string>
+  <string name="Player/WishingWell_BountifulWish_Intro_000">A &lt;BountifulWish&gt; will make fish and bugs more common, as well as make rare sparkling fish and bugs appear.</string>
+  <string name="Player/WishingWell_BountifulWish_Intro_001">Only one wish will take effect at a time...</string>
+  <string name="Player/WishingWell_BountifulWish_Option_000">Make this wish!</string>
+  <string name="Player/WishingWell_BountifulWish_Option_001">A different wish...</string>
+  <string name="Player/WishingWell_BountifulWish_Response_000_000">I dropped my &lt;Dinks&gt; and made my wish...</string>
+  <string name="Player/WishingWell_BountifulWish_Response_000_001">It will come true tomorrow...</string>
+  <string name="Player/WishingWell_DangerousWish_Intro_000">A &lt;DangerousWish&gt; will make enemy attacks twice as strong, but enemies will drop twice as many drops. Hunters might appear more often...</string>
+  <string name="Player/WishingWell_DangerousWish_Intro_001">Only one wish will take effect at a time...</string>
+  <string name="Player/WishingWell_DangerousWish_Option_000">Make this wish!</string>
+  <string name="Player/WishingWell_DangerousWish_Option_001">A different wish...</string>
+  <string name="Player/WishingWell_DangerousWish_Response_000_000">I dropped my &lt;Dinks&gt; and made my wish...</string>
+  <string name="Player/WishingWell_DangerousWish_Response_000_001">It will come true tomorrow...</string>
+  <string name="Player/WishingWell_Fortuitous_Intro_000">A &lt;FortuitousWish&gt; will make your luck increase. This will make rare occurrences more common.</string>
+  <string name="Player/WishingWell_Fortuitous_Intro_001">Only one wish will take effect at a time...</string>
+  <string name="Player/WishingWell_Fortuitous_Option_000">Make this wish!</string>
+  <string name="Player/WishingWell_Fortuitous_Option_001">A different wish...</string>
+  <string name="Player/WishingWell_Fortuitous_Response_000_000">I dropped my &lt;Dinks&gt; and made my wish...</string>
+  <string name="Player/WishingWell_Fortuitous_Response_000_001">It will come true tomorrow...</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWish_Intro_001">Should I drop &lt;WishingWellPrice&gt; and make a wish?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWish_Option_000">Peaceful Wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWish_Option_001">Dangerous Wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWish_Option_002">Bountiful Wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWish_Option_003">More...</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWish_Option_004">No wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWishPage2_Intro_000">Should I drop &lt;WishingWellPrice&gt; and make a wish?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWishPage2_Option_000">Fortuitous Wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWishPage2_Option_001">Spotless Wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWishPage2_Option_002">Regretful Wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_MakeAWishPage2_Option_003">No wish</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Player/WishingWell_NotEnoughMoney_Intro_001">I don't have enough &lt;Dinks&gt; to make a wish...</string>
+  <string name="Player/WishingWell_PeacefulWish_Intro_000">A &lt;PeacefulWish&gt; will stop wild animals from attacking you, unless you attack them. No Hunters will visit your island.</string>
+  <string name="Player/WishingWell_PeacefulWish_Intro_001">Only one wish will take effect at a time...</string>
+  <string name="Player/WishingWell_PeacefulWish_Option_000">Make this wish!</string>
+  <string name="Player/WishingWell_PeacefulWish_Option_001">A different wish...</string>
+  <string name="Player/WishingWell_PeacefulWish_Response_000_000">I dropped my &lt;Dinks&gt; and made my wish...</string>
+  <string name="Player/WishingWell_PeacefulWish_Response_000_001">It will come true tomorrow...</string>
+  <string name="Player/WishingWell_RegretfulWish_Intro_000">A &lt;RegretfulWish&gt; will make things return to normal, as if you have never made a wish.</string>
+  <string name="Player/WishingWell_RegretfulWish_Intro_001">Only one wish will take effect at a time...</string>
+  <string name="Player/WishingWell_RegretfulWish_Option_000">Make this wish!</string>
+  <string name="Player/WishingWell_RegretfulWish_Option_001">A different wish...</string>
+  <string name="Player/WishingWell_RegretfulWish_Response_000_000">I dropped my &lt;Dinks&gt; and made my wish...</string>
+  <string name="Player/WishingWell_RegretfulWish_Response_000_001">It will come true tomorrow...</string>
+  <string name="Player/WishingWell_Spotless_Intro_000">A &lt;SpotlessWish&gt; will keep the island nice and tidy. Animals will no longer leave droppings, Wild animals will not appear on pathing or mowed grass.</string>
+  <string name="Player/WishingWell_Spotless_Intro_001">Only one wish will take effect at a time...</string>
+  <string name="Player/WishingWell_Spotless_Option_000">Make this wish!</string>
+  <string name="Player/WishingWell_Spotless_Option_001">A different wish...</string>
+  <string name="Player/WishingWell_Spotless_Response_000_000">I dropped my &lt;Dinks&gt; and made my wish...</string>
+  <string name="Player/WishingWell_Spotless_Response_000_001">It will come true tomorrow...</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RAYNE/Arvo_Greeting 0_Intro_000">Es ist, als wäre es schon Nachmittag ?</string>
+    <string name="RAYNE/Plant Shop Convo_Option_000">Ich möchte chatten.</string>
+    <string name="RAYNE/IslandDayGreeting_Noon_000_Intro_000">Oh, &lt;PlayerName&gt; !</string>
+    <string name="RAYNE/Morning_Greeting 2_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
+</resources>

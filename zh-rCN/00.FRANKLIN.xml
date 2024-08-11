@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FRANKLIN/CrafterCurrentlyCrafting_Response_000_000">棒极了。</string>
+    <string name="FRANKLIN/CrafterShopConversation_Response_001_000">棒极了。</string>
+    <string name="FRANKLIN/TechCompleted_Intro_000">啊，&lt;PlayerName&gt;！</string>
+    <string name="FRANKLIN/LookingForTechConvo_Response_001_000">&lt;sigh&gt;我知道了。</string>
+    <string name="FRANKLIN/High_Friendship_Greeting 0_Intro_000">啊，&lt;PlayerName&gt;。</string>
+    <string name="FRANKLIN/LookingForTechConvo_Option_000">给你。</string>
+    <string name="FRANKLIN/LookingForTechConvo_Option_001">算了吧。</string>
+    <string name="FRANKLIN/SkyFest_Night_002_Intro_000">&lt;thinking&gt;嗯……</string>
+    <string name="FRANKLIN/RandomConvo_036_Intro_004">谢谢你，&lt;PlayerName&gt;。</string>
+    <string name="FRANKLIN/RandomConvo_030_Intro_000">你好呀，&lt;PlayerName&gt;。</string>
+    <string name="FRANKLIN/SkyFest_Night_002_Intro_003">&lt;yes&gt;这种情况值得亲眼观察。</string>
+    <string name="FRANKLIN/SkyFest_Noon_002_Intro_000">好的。</string>
+    <string name="FRANKLIN/DonateTechConvo_Option_000">成交！</string>
+    <string name="FRANKLIN/CanMakeTechForYouNotEnoughMoney_Response_000_001">&lt;no&gt;看来你资金短缺。</string>
+    <string name="FRANKLIN/CanMakeTechForYouNotEnoughMoney_Response_000_000">&lt;thinking&gt;嗯……</string>
+    <string name="FRANKLIN/CanMakeTechForYouNotEnoughMoney_Response_000_002">为什么不带着要求的金额再回来呢？</string>
+    <string name="FRANKLIN/IslandDayGreeting_AfterNoon_002_Intro_003">&lt;shocked&gt;噢！</string>
+    <string name="FRANKLIN/IslandDayGreeting_AfterNoon_002_Intro_004">我没办法再给你更多信息了。</string>
+    <string name="FRANKLIN/LearntNewTech_Intro_000">&lt;thinking&gt;嗯……</string>
+    <string name="FRANKLIN/LearntNewTech_Intro_001">&lt;shocked&gt;噢！</string>
+    <string name="FRANKLIN/LearntNewTech_Intro_002">我有一个新发明的好主意！</string>
+    <string name="FRANKLIN/TechCompletedNoSpace_Intro_002">&lt;shocked&gt;噢！</string>
+    <string name="FRANKLIN/TechCompletedNoSpace_Intro_003">&lt;no&gt;看起来你没有更多空间可以携带它！</string>
+    <string name="FRANKLIN/DonateTechConvo_Response_000_000">非常感谢，&lt;PlayerName&gt;。</string>
+    <string name="FRANKLIN/CrafterShopConversation_Option_000">你可以给我做点东西吗？</string>
+    <string name="FRANKLIN/CrafterCurrentlyCrafting_Option_001">我想聊聊天。</string>
+    <string name="FRANKLIN/CrafterShopConversation_Option_002">我想聊聊天。</string>
+    <string name="FRANKLIN/CrafterCurrentlyCrafting_Option_002">我很好。</string>
+    <string name="FRANKLIN/CrafterShopConversation_Option_003">我很好。</string>
+    <string name="FRANKLIN/DonateTechConvo_Response_000_001">&lt;yes&gt;这是你的&lt;$&gt;。遵守约定。</string>
+    <string name="FRANKLIN/DonateTechConvo_Response_000_002">&lt;thinking&gt;现在，我有资料要研究。</string>
+    <string name="FRANKLIN/Medium_Friendship_Greeting 0_Intro_000">向你问好，&lt;PlayerName&gt;。</string>
+</resources>

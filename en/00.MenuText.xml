@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="MenuText/MainMenu_Back" autoSizeTextContainer="True">Back</string>
+  <string name="MenuText/MainMenu_HostWorld" resizable="True">Load Game</string>
+  <string name="MenuText/MainMenu_JoinWorld" resizable="True">Multiplayer</string>
+  <string name="MenuText/MainMenu_NewGame" resizable="True">New Game</string>
+  <string name="MenuText/MainMenu_Options" resizable="True">Options</string>
+  <string name="MenuText/QuitToDesktop" resizable="True">Quit To Desktop</string>
+  <string name="MenuText/Credits" resizable="True">Credits</string>
+  <string name="MenuText/Multiplayer_FriendsOnly">Friends Only</string>
+  <string name="MenuText/Multiplayer_InviteOnly">Invite Only</string>
+  <string name="MenuText/Multiplayer_Public">Public</string>
+  <string name="MenuText/Multiplayer_LAN">LAN</string>
+  <string name="MenuText/Display">Display</string>
+  <string name="MenuText/Fullscreen">Fullscreen</string>
+  <string name="MenuText/Resolution">Resolution</string>
+  <string name="MenuText/UIScale">UI Scale</string>
+  <string name="MenuText/Graphics">Graphics</string>
+  <string name="MenuText/ChunkViewDistance">Chunk View Distance</string>
+  <string name="MenuText/RefreshRateExperimental">Refresh Rate (Experimental)</string>
+  <string name="MenuText/WIDE">WIDE</string>
+  <string name="MenuText/DEFAULT">DEFAULT</string>
+  <string name="MenuText/LOW">LOW</string>
+  <string name="MenuText/MED">MED</string>
+  <string name="MenuText/HIGH">HIGH</string>
+  <string name="MenuText/Sound">Sound</string>
+  <string name="MenuText/MasterVolume">Master Volume</string>
+  <string name="MenuText/EffectVolume">Effect Volume</string>
+  <string name="MenuText/UIVolume">UI Volume</string>
+  <string name="MenuText/MusicVolume">Music Volume</string>
+  <string name="MenuText/NPCVoiceOn">NPC Voice On</string>
+  <string name="MenuText/VoiceChat">Voice Chat</string>
+  <string name="MenuText/AllowVoiceChatHostonly">Allow Voice Chat (Host only)</string>
+  <string name="MenuText/VoiceChatVolume">Voice Chat Volume</string>
+  <string name="MenuText/CameraSettings">Camera Settings</string>
+  <string name="MenuText/InvertFreeCamera">Invert Free Camera</string>
+  <string name="MenuText/InvertX">Invert X</string>
+  <string name="MenuText/InvertY">Invert Y</string>
+  <string name="MenuText/HoldMiddleMouseorShifttoMoveCamera">Hold Middle Mouse or Shift to Move Camera</string>
+  <string name="MenuText/MouseAlwaysMoveCamera">Mouse Always Move Camera</string>
+  <string name="MenuText/CameraXSpeed">Camera X Speed</string>
+  <string name="MenuText/CameraYSpeed">Camera Y Speed</string>
+  <string name="MenuText/Gameplay">Gameplay</string>
+  <string name="MenuText/RumbleOn">Rumble On</string>
+  <string name="MenuText/SnapCursorToUIControllerOnly">Snap Cursor To UI (Controller Only)</string>
+  <string name="MenuText/TextSpeed">Text Speed</string>
+  <string name="MenuText/Normal">Normal</string>
+  <string name="MenuText/Fast">Fast</string>
+  <string name="MenuText/Super">Super</string>
+  <string name="MenuText/MiniMapAlwaysFacesNorth">Mini-Map Always Faces North</string>
+  <string name="MenuText/AutoDetectController">Auto Detect Controller</string>
+  <string name="MenuText/OnlineNameTags">Online Name Tags</string>
+  <string name="MenuText/JournalOpenAnimation">Journal Open Animation</string>
+  <string name="MenuText/HideStaminaWheel">Hide Stamina Wheel</string>
+  <string name="MenuText/Controls">Controls</string>
+  <string name="MenuText/ReturntoDefault">Return to Default</string>
+  <string name="MenuText/Reset">Reset</string>
+  <string name="MenuText/AltKey">Alt Key</string>
+  <string name="MenuText/Primary">Primary</string>
+  <string name="MenuText/MoveForward">Move Forward</string>
+  <string name="MenuText/MoveBack">Move Back</string>
+  <string name="MenuText/MoveLeft">Move Left</string>
+  <string name="MenuText/MoveRight">Move Right</string>
+  <string name="MenuText/Jump">Jump</string>
+  <string name="MenuText/UseItem">Use Item</string>
+  <string name="MenuText/InteractCollect">Interact / Collect</string>
+  <string name="MenuText/PickUpRotateGetUp">Pick Up / Rotate / Get Up</string>
+  <string name="MenuText/Drop">Drop</string>
+  <string name="MenuText/Vehicles">Vehicles</string>
+  <string name="MenuText/Accelerate">Accelerate</string>
+  <string name="MenuText/Reverse">Reverse</string>
+  <string name="MenuText/VehicleUseItem">Vehicle Use Item</string>
+  <string name="MenuText/VehicleSwapItem">Vehicle Swap Item</string>
+  <string name="MenuText/Other">Other</string>
+  <string name="MenuText/OpenPockets">Open Pockets</string>
+  <string name="MenuText/OpenJournal">Open Journal</string>
+  <string name="MenuText/OpenMap">Open Map</string>
+  <string name="MenuText/OpenChatEmotes">Open Chat / Emotes</string>
+  <string name="MenuText/MoveCameraButton">Move Camera Button</string>
+  <string name="MenuText/SwapCameraMode">Swap Camera Mode</string>
+  <!-- The Keyboard Key -->
+  <string name="MenuText/Enter">Enter</string>
+  <!-- The Keyboard Key -->
+  <string name="MenuText/Space">Space</string>
+  <!-- The Keyboard Key -->
+  <string name="MenuText/Escape">Escape</string>
+  <!-- The Keyboard Key -->
+  <string name="MenuText/LeftShift">Left Shift</string>
+  <string name="MenuText/RightShift">Right Shift</string>
+  <!-- The Keyboard Key -->
+  <string name="MenuText/LeftControl">Left Control</string>
+  <string name="MenuText/RightControl">Right Control</string>
+  <!-- The Keyboard Key -->
+  <string name="MenuText/Backspace">Backspace</string>
+  <string name="MenuText/SinglePlayer" resizable="True">Single Player</string>
+  <string name="MenuText/Confirm">Confirm</string>
+  <string name="MenuText/Whatsyourname">What's your name?</string>
+  <string name="MenuText/Whatstheislandsname">What's the island's name?</string>
+  <string name="MenuText/CreateCharacter">Create Character</string>
+  <string name="MenuText/Randomise">Randomise</string>
+  <string name="MenuText/Multiplayer" resizable="True">Multiplayer</string>
+  <string name="MenuText/HostGame">Host Game</string>
+  <string name="MenuText/OpenGames">Open Games</string>
+  <string name="MenuText/LANIPConnect">LAN / IP Connect</string>
+  <string name="MenuText/RefreshList">Refresh List</string>
+  <string name="MenuText/sprite17FriendsGames">&lt;sprite=17&gt; Friends Games</string>
+  <string name="MenuText/sprite16FriendsGames">&lt;sprite=16&gt; Friends Games</string>
+  <string name="MenuText/sprite17PublicGames">&lt;sprite=17&gt; Public Games</string>
+  <string name="MenuText/sprite16PublicGames">&lt;sprite=16&gt; Public Games</string>
+  <string name="MenuText/IPAddress">IP Address</string>
+  <string name="MenuText/Join">Join</string>
+  <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Anyone on your friends list can join this game!\nMake sure you and your friends are set to appear online.</string>
+  <string name="MenuText/OnlypeopleyouinvitewillbeabletojoinUsethesteamoverlaytoinvitepeopleoncethegameishosted">Only people you invite will be able to join.\nUse the steam overlay to invite people once the game is hosted.</string>
+  <string name="MenuText/AnyonecanjointhisworldTheywillbeabletotakeyourstuffsobecareful">Anyone can join this world.\n&lt;color=red&gt;They will be able to take your stuff, so be careful!</string>
+  <string name="MenuText/HostagameusingLANEnterthelocalIPintheLANIPConnecttabtojoin">Host a game using LAN. Enter the local IP in the LAN/IP Connect tab to join.</string>
+</resources>

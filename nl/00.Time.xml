@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Time/dayName_1">Maandag</string>
+    <string name="Time/dayName_2">Dinsdag</string>
+    <string name="Time/dayName_3">Woensdag</string>
+    <string name="Time/dayName_4">Donderdag</string>
+    <string name="Time/dayName_5">Vrijdag</string>
+    <string name="Time/dayName_6">Zaterdag</string>
+    <string name="Time/seasonName_1">Herfst</string>
+    <string name="Time/seasonName_2">Winter</string>
+    <string name="Time/seasonName_3">Lente</string>
+    <string name="Time/dayName_0">Zondag</string>
+    <string name="Time/seasonName_0">Zomer</string>
+</resources>

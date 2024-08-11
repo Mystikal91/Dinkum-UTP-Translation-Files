@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CLOVER/BugComp_Greeting 000_Intro_000">&lt;yes&gt;Se que ganare esta &lt;bugComp&gt;.</string>
+    <string name="CLOVER/BugComp_Greeting 000_Intro_001">Tuve un sueño acerca de eso.</string>
+    <string name="CLOVER/BugComp_Greeting 000_Response_003_000">&lt;no&gt;Ni siquiera estaba tratando de ganar, &lt;PlayerName&gt;.</string>
+</resources>

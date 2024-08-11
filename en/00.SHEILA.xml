@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="SHEILA/CompleteBirthday_000_Intro_000">&lt;pumped&gt;Oh, what a bonza &lt;birthday&gt; gift!</string>
+  <string name="SHEILA/CompleteBirthday_000_Intro_001">&lt;yes&gt;You’re too good to me &lt;PlayerName&gt;.</string>
+  <string name="SHEILA/CompleteBirthday_000_Intro_002">&lt;glee&gt;Thank you!</string>
+  <string name="SHEILA/CompleteRequest_000_Intro_000">&lt;glee&gt;You bloody beauty!</string>
+  <string name="SHEILA/CompleteRequest_000_Intro_001">Thanks a bunch, &lt;petName&gt;.</string>
+  <string name="SHEILA/CompleteRequest_000_Intro_002">You always pull through!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_AfterNoon_012_Intro_000">&lt;no&gt;First &lt;NPCName&gt; cooks the best snag I’ve ever had.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_AfterNoon_012_Intro_001">&lt;shock&gt;And she has the nerve to say there is still a surprise tonight?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_AfterNoon_012_Intro_002">&lt;no&gt;You know what, if I didn’t love that woman…</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Morning_012_Intro_000">Oh, hi there &lt;petName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Morning_012_Intro_001">I’m really looking forward to a &lt;IslandDay&gt; snag.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Morning_012_Intro_002">&lt;yes&gt;I reckon &lt;NPCName&gt; knows what she’s doing.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Morning_012_Intro_003">&lt;haha&gt;But between you and me, it’s taking a lot of willpower to not snatch those tongs out of her hands.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Night_012_Intro_000">All those colours…</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Night_012_Intro_001">&lt;thinking&gt;Do you reckon the sky can taste them?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Night_012_Intro_002">&lt;yes&gt;I hope they taste good.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Night_012_Intro_003">&lt;haha&gt;Because they look like they do!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Noon_012_Intro_000">&lt;boohoo&gt;I’m tempted to hang up me apron.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Noon_012_Intro_001">&lt;no&gt;&lt;NPCName&gt; is an amazing cook.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Noon_012_Intro_002">&lt;shy&gt;I can’t believe she made everyone their own custom &lt;Snag&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Noon_012_Intro_003">She really knows everyone here on &lt;IslandName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Noon_012_Intro_004">&lt;yes&gt;I reckon she's having the best day of her life.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/IslandDayGreeting_Noon_012_Intro_005">Happy &lt;IslandDay&gt;, mate.</string>
+  <string name="SHEILA/NothingToGiveBugComp_Intro_000">Oh, you don't have any bugs after all?</string>
+  <string name="SHEILA/NothingToGiveBugComp_Intro_001">&lt;boohoo&gt;Why did you trick me...</string>
+  <string name="SHEILA/NothingToGiveTuckshop_Intro_000">Oh, you don't have anything tasty to sell?</string>
+  <string name="SHEILA/NothingToGiveTuckshop_Intro_001">&lt;no&gt;No worries, mate.</string>
+  <!-- Talking about Animal Type: Pleep -->
+  <string name="SHEILA/RandomConvo_000_Intro_000">I’d love to talk, &lt;petName&gt;, but it’s been all go today.</string>
+  <!-- Talking about Animal Type: Pleep -->
+  <string name="SHEILA/RandomConvo_000_Intro_001">&lt;no&gt;I’ve been flat out like a &lt;animalName&gt; swimming! </string>
+  <string name="SHEILA/RandomConvo_001_Intro_000">&lt;IslandName&gt; is the only place I’ve seen anything grow in a long while.</string>
+  <string name="SHEILA/RandomConvo_001_Intro_001">&lt;yes&gt;What a great place for finding fresh ingredients.</string>
+  <string name="SHEILA/RandomConvo_001_Intro_002">&lt;shy&gt;I’m bonza at cooking, but there’s only so much you can do with &lt;BlobFish&gt;.</string>
+  <string name="SHEILA/RandomConvo_002_Intro_000">&lt;proud&gt;I won’t stand for any trouble at my place.</string>
+  <string name="SHEILA/RandomConvo_002_Intro_001">&lt;no&gt;First whiff of a barney, and you’ll be out on your ear!</string>
+  <string name="SHEILA/RandomConvo_003_Intro_000">&lt;proud&gt;Tell me what you’ve got at home and I reckon I can make a feast out of it.</string>
+  <string name="SHEILA/RandomConvo_003_Intro_001">&lt;no&gt;You don’t need fancy ingredients to make something special.</string>
+  <string name="SHEILA/RandomConvo_003_Intro_002">&lt;haha&gt;It sure helps though!</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="SHEILA/RandomConvo_004_Intro_000">I heard some people eat &lt;animalName&gt;.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="SHEILA/RandomConvo_004_Intro_001">&lt;no&gt;They’re not for me, they’re far too tough.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="SHEILA/RandomConvo_004_Intro_002">&lt;thinking&gt;Still, anything’s better than nothing when you’re hungry, I reckon.</string>
+  <string name="SHEILA/RandomConvo_005_Intro_000">&lt;yes&gt;I think it’s great to talk about your problems.</string>
+  <string name="SHEILA/RandomConvo_005_Intro_001">&lt;haha&gt;Just not to me, &lt;petName&gt;.</string>
+  <string name="SHEILA/RandomConvo_005_Intro_002">&lt;proud&gt;I’ve got a business to run!</string>
+  <string name="SHEILA/RandomConvo_006_Intro_000">&lt;glee&gt;Nothing beats a true-blue sunrise, I reckon.</string>
+  <string name="SHEILA/RandomConvo_006_Intro_001">&lt;yes&gt;Best time of the day, the morning.</string>
+  <string name="SHEILA/RandomConvo_006_Intro_002">&lt;proud&gt;Everybody’s still fast asleep and you can go about your business without anybody bothering you.</string>
+  <string name="SHEILA/RandomConvo_007_Intro_000">&lt;no&gt;You’d never catch me down in the deep mines!</string>
+  <string name="SHEILA/RandomConvo_007_Intro_001">&lt;shy&gt;I wouldn’t mind the dark, but I just can’t stand bats.</string>
+  <string name="SHEILA/RandomConvo_007_Intro_002">&lt;no&gt;They’re too flappy, for a start. </string>
+  <string name="SHEILA/RandomConvo_007_Intro_003">Oh and that screeching? Forget it!</string>
+  <!-- Talking about Animal Type: Pleep -->
+  <string name="SHEILA/RandomConvo_008_Intro_000">Back in &lt;SouthCity&gt;, I was expected to do nothing but cook &lt;Blobfish&gt; and keep my mouth shut.</string>
+  <!-- Talking about Animal Type: Pleep -->
+  <string name="SHEILA/RandomConvo_008_Intro_001">&lt;haha&gt;Sure, I says, I can do that, when &lt;animalName&gt; fly mate!</string>
+  <!-- Talking about Animal Type: Pleep -->
+  <string name="SHEILA/RandomConvo_008_Intro_002">Sling your hook, I says, I’m outta this dump!</string>
+  <!-- Talking about Animal Type: Pleep -->
+  <string name="SHEILA/RandomConvo_008_Intro_003">Best decision I ever made, &lt;petName&gt;l.</string>
+  <string name="SHEILA/RandomConvo_009_Intro_000">&lt;yes&gt;I always have a nibble of everything I make.</string>
+  <string name="SHEILA/RandomConvo_009_Intro_001">&lt;proud&gt;Quality control, yeah?</string>
+  <string name="SHEILA/RandomConvo_009_Intro_002">&lt;shy&gt;Of course, sometimes I have too many nibbles and there’s none left for the customers!</string>
+  <string name="SHEILA/RandomConvo_009_Intro_003">&lt;haha&gt;Especially on Sundays, mind.</string>
+  <string name="SHEILA/RandomConvo_009_Intro_004">&lt;glee&gt;Sunday is treat day.</string>
+  <string name="SHEILA/RandomConvo_010_Intro_000">&lt;no&gt;I swear, some people would just sit around all flaming day if they had the chance.</string>
+  <string name="SHEILA/RandomConvo_010_Intro_001">&lt;no&gt;Staying cooped up every day is no good for you.</string>
+  <string name="SHEILA/RandomConvo_010_Intro_002">&lt;thinking&gt;You’ve got to be kind to your body if you want it to last.</string>
+  <string name="SHEILA/RandomConvo_010_Intro_003">&lt;pumped&gt;Take it out for walks! Go for a swim! </string>
+  <string name="SHEILA/RandomConvo_010_Intro_004">&lt;yes&gt;Anything is better than nothing, I reckon.</string>
+  <string name="SHEILA/RandomConvo_011_Intro_000">&lt;thinking&gt;Make sure you’re getting your blood pumping at least thirty minutes a day.</string>
+  <string name="SHEILA/RandomConvo_011_Intro_001">&lt;yes&gt;Out there in the real world, I mean.</string>
+  <string name="SHEILA/RandomConvo_011_Intro_002">&lt;haha&gt;You don’t want your heart getting lazy, you’ll probably need it later!</string>
+  <string name="SHEILA/RandomConvo_012_Intro_000">Still gallivanting around all over town, are you?</string>
+  <string name="SHEILA/RandomConvo_012_Intro_001">&lt;sigh&gt;I’d join you if I wasn’t so busy at work.</string>
+  <string name="SHEILA/RandomConvo_012_Intro_002">&lt;proud&gt;There’s nothing like fresh air to keep your ticker ticking.</string>
+  <string name="SHEILA/RandomConvo_012_Intro_003">&lt;yes&gt;Remember to take regular breaks, &lt;petName&gt;. </string>
+  <string name="SHEILA/RandomConvo_013_Intro_000">&lt;yes&gt;A good meal is something you really want to take your time with.</string>
+  <string name="SHEILA/RandomConvo_013_Intro_001">&lt;proud&gt;My stuff’s for savouring.</string>
+  <string name="SHEILA/RandomConvo_013_Intro_002">&lt;shock&gt;Some people out there just put the food up to their mouths and are finished in three bites!</string>
+  <string name="SHEILA/RandomConvo_013_Intro_003">How crazy is that?</string>
+  <string name="SHEILA/RandomConvo_013_Intro_004">&lt;no&gt;Within a second there’s nothing left but quickly vanishing crumbs!</string>
+  <string name="SHEILA/RandomConvo_013_Intro_005">&lt;no&gt;Unbelievable!</string>
+  <string name="SHEILA/RandomConvo_014_Intro_000">I think it’s bonza we were given this chance to start again.</string>
+  <string name="SHEILA/RandomConvo_014_Intro_001">&lt;shy&gt;It takes a brave soul to pack everything up and move on, if I do say so myself.</string>
+  <string name="SHEILA/RandomConvo_014_Intro_002">I think this place is shaping up wonderfully though, &lt;petName&gt;.</string>
+  <string name="SHEILA/RandomConvo_015_Intro_000">I don’t need somebody else to do everything for me.</string>
+  <string name="SHEILA/RandomConvo_015_Intro_001">&lt;yes&gt;You can always rely on yourself, I reckon. </string>
+  <string name="SHEILA/RandomConvo_015_Intro_002">Oh sure, &lt;PlayerName&gt;, you might fetch me a few things here and there.</string>
+  <string name="SHEILA/RandomConvo_015_Intro_003">And you might have helped build my shop.</string>
+  <string name="SHEILA/RandomConvo_015_Intro_004">&lt;proud&gt;But everything else was good old fashioned &lt;myName&gt;!</string>
+  <!-- Talking about Item: Coffee -->
+  <string name="SHEILA/RandomConvo_016_Intro_000">Nothing better than some &lt;itemName&gt;to get you going, huh?</string>
+  <!-- Talking about Item: Coffee -->
+  <string name="SHEILA/RandomConvo_016_Intro_001">Reckon beans are hard to catch?</string>
+  <!-- Talking about Item: Coffee -->
+  <string name="SHEILA/RandomConvo_016_Intro_002">I’ve only had one and I’m bouncing off the walls!</string>
+  <string name="SHEILA/RandomConvo_017_Intro_000">&lt;thinking&gt;A lot of people don’t put much thought into what they’re having for tea.</string>
+  <string name="SHEILA/RandomConvo_017_Intro_001">&lt;no&gt;Shame for them I reckon.</string>
+  <string name="SHEILA/RandomConvo_017_Intro_002">&lt;glee&gt;A tough day can fly by knowing a healthy home cooked feed is waiting at the end of it.</string>
+  <string name="SHEILA/RandomConvo_018_Intro_000">Just because you like everything on the menu doesn’t mean you need to order it all at once, &lt;petName&gt;.</string>
+  <string name="SHEILA/RandomConvo_018_Intro_001">&lt;haha&gt;You can always come back!</string>
+  <string name="SHEILA/RandomConvo_019_Intro_000">&lt;yes&gt;I’ll try anything once, me.</string>
+  <string name="SHEILA/RandomConvo_019_Intro_001">&lt;no&gt;Oh, there’s stuff I’d probably never eat again though.</string>
+  <string name="SHEILA/RandomConvo_019_Intro_002">&lt;proud&gt;That’s what life’s for, I reckon. Trying things.</string>
+  <string name="SHEILA/RandomConvo_019_Intro_003">&lt;haha&gt;I’m here for a good time, not a long time!</string>
+  <string name="SHEILA/RandomConvo_020_Intro_000">&lt;proud&gt;You’ll never catch me behind a desk, that’s for sure.</string>
+  <string name="SHEILA/RandomConvo_020_Intro_001">&lt;no&gt;Day in day out watching the clock, growing old miserably.</string>
+  <string name="SHEILA/RandomConvo_020_Intro_002">&lt;shy&gt;I guess I don’t need to tell you though!</string>
+  <string name="SHEILA/RandomConvo_020_Intro_003">I see you with your little legs always running all over the place.</string>
+  <string name="SHEILA/RandomConvo_020_Intro_004">&lt;yes&gt;Always scurrying around here and there, foraging and thwacking things.</string>
+  <string name="SHEILA/RandomConvo_020_Intro_005">&lt;haha&gt;Good work, &lt;PlayerName&gt;!</string>
+  <string name="SHEILA/RandomConvo_021_Intro_000">&lt;thinking&gt;I’ve always been the busy type. I just like working, I think.</string>
+  <string name="SHEILA/RandomConvo_021_Intro_001">&lt;pumped&gt;Getting. Stuff. Done.</string>
+  <string name="SHEILA/RandomConvo_021_Intro_002">&lt;no&gt;There wasn’t much work in &lt;SouthCity&gt;, or at least, none that mattered to anybody. </string>
+  <string name="SHEILA/RandomConvo_021_Intro_003">&lt;no&gt;Never made a difference.</string>
+  <string name="SHEILA/RandomConvo_021_Intro_004">&lt;yes&gt;I feel like I’m doing that now though, &lt;petName&gt;.</string>
+  <string name="SHEILA/RandomConvo_021_Intro_005">We’re making a difference here, eh?</string>
+  <string name="SHEILA/RandomConvo_022_Intro_000">You can have all the planning and preparation in the world.</string>
+  <string name="SHEILA/RandomConvo_022_Intro_001">&lt;pumped&gt;But sooner or later you’ve got to actually knuckle down and get things done.</string>
+  <string name="SHEILA/RandomConvo_022_Intro_002">That’s what I like about you, &lt;PlayerName&gt;.</string>
+  <string name="SHEILA/RandomConvo_022_Intro_003">You get stuff done.</string>
+  <string name="SHEILA/RandomConvo_023_Intro_000">It’s all well and good being a little harsh at times.</string>
+  <string name="SHEILA/RandomConvo_023_Intro_001">&lt;yes&gt;Tough love, they call it.</string>
+  <string name="SHEILA/RandomConvo_023_Intro_002">&lt;no&gt;There’s no point being mean just for the sake of it though, and you’ve gotta expect a little back.</string>
+  <string name="SHEILA/RandomConvo_023_Intro_003">&lt;proud&gt;I says, don’t be afraid of speaking your mind, but don’t be surprised when somebody doesn’t wanna hear it either.</string>
+  <string name="SHEILA/RandomConvo_024_Intro_000">&lt;no&gt;You don’t have to love what you do for a living, we’re all just trying to get by.</string>
+  <string name="SHEILA/RandomConvo_024_Intro_001">&lt;yes&gt;You should absolutely find something you love doing though.</string>
+  <string name="SHEILA/RandomConvo_024_Intro_002">&lt;shy&gt;Something you can put your whole heart and soul into, yeah?</string>
+  <string name="SHEILA/RandomConvo_025_Intro_000">&lt;thinking&gt;I reckon everybody’s passionate about something or other.</string>
+  <string name="SHEILA/RandomConvo_025_Intro_001">&lt;yes&gt;Do what you want, I reckon, as long as you’re not hurting anybody.</string>
+  <string name="SHEILA/RandomConvo_025_Intro_002">&lt;haha&gt;You gotta be you!</string>
+  <string name="SHEILA/RandomConvo_026_Intro_000">I tell you, ever since I’ve been here, it’s like a fog’s been lifted.</string>
+  <string name="SHEILA/RandomConvo_026_Intro_001">&lt;proud&gt;I’m making some of the best feeds I reckon I ever have.</string>
+  <string name="SHEILA/RandomConvo_026_Intro_002">&lt;yes&gt;It’s definitely easier when you’ve got ingredients to work with!</string>
+  <string name="SHEILA/RandomConvo_027_Intro_000">You know, you’re probably my favourite customer. </string>
+  <string name="SHEILA/RandomConvo_027_Intro_001">You don’t say much, you always pay your bills, and you’re always ready to lend an ear.</string>
+  <string name="SHEILA/RandomConvo_027_Intro_002">I reckon we mate a cracking great team, &lt;petName&gt;.</string>
+  <string name="SHEILA/RandomConvo_028_Intro_000">I used to hear stories when I was little about what the world outside was like.</string>
+  <string name="SHEILA/RandomConvo_028_Intro_001">&lt;shy&gt;Before Everything Went South, I mean.</string>
+  <string name="SHEILA/RandomConvo_028_Intro_002">&lt;no&gt;I don’t think I ever paid too much attention at first.</string>
+  <string name="SHEILA/RandomConvo_028_Intro_003">I figured they were just stories to pass the time.</string>
+  <string name="SHEILA/RandomConvo_028_Intro_004">&lt;yes&gt;Turns out most of them were right, the good and the bad.</string>
+  <string name="SHEILA/RandomConvo_028_Intro_005">I guess you can’t have one without the other, right, &lt;petName&gt;?</string>
+  <string name="SHEILA/RandomConvo_029_Intro_000">Sure, you could make what I sell yourself.</string>
+  <string name="SHEILA/RandomConvo_029_Intro_001">You’d have to wait all year, mind.</string>
+  <string name="SHEILA/RandomConvo_029_Intro_002">It might even taste similar, if you’re lucky.</string>
+  <string name="SHEILA/RandomConvo_029_Intro_003">&lt;no&gt;It’s never going to be the same though.</string>
+  <string name="SHEILA/RandomConvo_029_Intro_004">&lt;pumped&gt;The stuff I sell is made with blood, sweat and tears.</string>
+  <string name="SHEILA/RandomConvo_029_Intro_005">&lt;proud&gt;That’s the &lt;myName&gt; guarantee, &lt;petName&gt;!</string>
+  <string name="SHEILA/RandomConvo_030_Intro_000">It’s been absolutely chockers at my place lately.</string>
+  <string name="SHEILA/RandomConvo_030_Intro_001">&lt;glee&gt;I can’t thank you enough for letting me liven &lt;IslandName&gt; up!</string>
+  <string name="SHEILA/RandomConvo_030_Intro_002">Thanks again &lt;PlayerName&gt;!</string>
+  <string name="SHEILA/RandomConvo_031_Intro_000">&lt;no&gt;Big city folk just don’t get it, I reckon.</string>
+  <string name="SHEILA/RandomConvo_031_Intro_001">They’ve got their steel, their concrete, their paperwork… and that’s it!</string>
+  <string name="SHEILA/RandomConvo_031_Intro_002">&lt;shy&gt;You’ve gotta make time for your friends, yeah?</string>
+  <string name="SHEILA/RandomConvo_031_Intro_003">&lt;yes&gt;They’re the ones that’ll pull you out of the muck, or listen when you need a good whinge. </string>
+  <string name="SHEILA/RandomConvo_031_Intro_004">I feel like you get it, &lt;PlayerName&gt;, I really do.</string>
+  <string name="SHEILA/RandomConvo_031_Intro_005">&lt;shy&gt;Thanks for being there, &lt;petName&gt;.</string>
+  <string name="SHEILA/RandomConvo_032_Intro_000">&lt;shy&gt;I had my head in the clouds when I was younger. </string>
+  <string name="SHEILA/RandomConvo_032_Intro_001">&lt;thinking&gt;I was always dreaming of finer foods.</string>
+  <string name="SHEILA/RandomConvo_032_Intro_002">&lt;no&gt;Nothing too fancy, mind.</string>
+  <string name="SHEILA/RandomConvo_032_Intro_003">&lt;pumped&gt;Just wholesome simple tucker that could fill your belly and keep you fighting fit.</string>
+  <string name="SHEILA/RandomConvo_032_Intro_004">&lt;shy&gt;It’s easy to dream. Doesn’t cost you a &lt;Dink&gt;.</string>
+  <string name="SHEILA/RandomConvo_032_Intro_005">&lt;proud&gt;Putting all this together took some hard yakka though, if I say so myself.</string>
+  <string name="SHEILA/RandomConvo_032_Intro_006">Thanks to you, I reckon I can get you the best tucker on &lt;IslandName&gt;! </string>
+  <string name="SHEILA/RandomConvo_033_Intro_000">We’d get traders from time to time back in &lt;SouthCity&gt;.</string>
+  <string name="SHEILA/RandomConvo_033_Intro_001">Coming in on their fancy &lt;Airships&gt;.</string>
+  <string name="SHEILA/RandomConvo_033_Intro_002">&lt;Nomads&gt;, they called em.</string>
+  <string name="SHEILA/RandomConvo_033_Intro_003">It was the only time we ever saw or ate anything different.</string>
+  <string name="SHEILA/RandomConvo_033_Intro_004">&lt;proud&gt;I’ll tell you, the first time I ever ate a slice of roo meat… it was like my whole world opened up.</string>
+  <string name="SHEILA/RandomConvo_033_Intro_005">&lt;pumped&gt;So tender, so juicy. I never knew what taste even was before then!</string>
+  <string name="SHEILA/RandomConvo_033_Intro_006">&lt;no&gt;Of course, the folks in charge would always shut them down right quick, but it didn’t matter.</string>
+  <string name="SHEILA/RandomConvo_033_Intro_007">&lt;pumped&gt;I knew I needed to get out.</string>
+  <string name="SHEILA/RandomConvo_034_Intro_000">There’s nobody to watch your back out in the big city.</string>
+  <string name="SHEILA/RandomConvo_034_Intro_001">&lt;no&gt;If you fall down there, you’ll go right on getting trampled.</string>
+  <string name="SHEILA/RandomConvo_034_Intro_002">&lt;no&gt;Not here though, &lt;PlayerName&gt;.</string>
+  <string name="SHEILA/RandomConvo_034_Intro_003">You’d help me up, right?</string>
+  <string name="SHEILA/RandomConvo_034_Intro_004">&lt;haha&gt;Of course you would!</string>
+  <string name="SHEILA/RandomConvo_034_Intro_005">&lt;pumped&gt;Just try and trample us here, I reckon!</string>
+  <string name="SHEILA/RandomConvo_034_Intro_006">&lt;angry&gt;We’ll give them what for!</string>
+  <string name="SHEILA/RandomConvo_034_Intro_007">&lt;proud&gt;That’s mateship, that is.</string>
+  <string name="SHEILA/RandomConvo_035_Intro_000">You can’t always trust people, &lt;PlayerName&gt;, but you can always trust them to be themselves.</string>
+  <string name="SHEILA/RandomConvo_035_Intro_001">As long as you keep that in mind, nothing will surprise you, I reckon.</string>
+  <string name="SHEILA/RandomConvo_035_Intro_002">Anyway, I like you &lt;petName&gt;, but I’ve got work to do!</string>
+  <string name="SHEILA/RandomConvo_036_Intro_000">&lt;proud&gt;I worked hard to get where I am, I did.</string>
+  <string name="SHEILA/RandomConvo_036_Intro_001">&lt;yes&gt;There was always someone there telling me I couldn’t do it.</string>
+  <string name="SHEILA/RandomConvo_036_Intro_002">I didn’t have a head for business, they says.</string>
+  <string name="SHEILA/RandomConvo_036_Intro_003">&lt;no&gt;My cooking was trash, they says, blah blah blah blah.</string>
+  <string name="SHEILA/RandomConvo_036_Intro_004">&lt;angry&gt;I’d had just about enough of it, so I says, stuff that, and stuff you too!</string>
+  <string name="SHEILA/RandomConvo_036_Intro_005">&lt;proud&gt;Sooner or later you’ve got to just ignore the whingers and take charge of yourself.</string>
+  <string name="SHEILA/RandomConvo_036_Intro_006">You should listen, &lt;PlayerName&gt;, I bloody wish I did sooner!</string>
+  <string name="SHEILA/RandomConvo_037_Intro_000">You’re a good egg, &lt;PlayerName&gt;, I mean that.</string>
+  <string name="SHEILA/RandomConvo_037_Intro_001">&lt;shy&gt;I appreciate you taking the time to listen to me natter on.</string>
+  <string name="SHEILA/RandomConvo_037_Intro_002">&lt;haha&gt;Most times I’d be nattering regardless, but it’s nice to have somebody listen!</string>
+  <string name="SHEILA/RandomConvo_037_Intro_003">You let me know if you need anything, &lt;petName&gt;.</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_000">You ever wonder about all that junk buried beneath the surface?</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_001">You reckon someone left it there or what?</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_002">I like to think it was the &lt;animalName&gt;. Nah, hear me out!</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_003">They had all these fancy machines, yeah? All these whirring and buzzing things and what-have-you.</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_004">Well, they’ve got them all going full bull at all hours, right?</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_005">Well, &lt;animalName&gt; bossman is cranky now. The head &lt;animalName&gt; or whatever, Top Dog.</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_006">He can’t get to sleep, see, on account of all the ruckus.</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_007">So one day he says, “Oi, youse!”, he says, “Pack that in, the lot of you!”</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_008">So they do, too.</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_009">They bury heaps of it, they do. So’s they can focus on all the regular important &lt;animalName&gt; stuff.</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_010">Like, um, burying and sniffing and running and all that malarky.</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="SHEILA/RandomConvo_038_Intro_011">&lt;yes&gt;That’s my theory anyway.</string>
+  <!-- Talking about Item: Meat Pie -->
+  <string name="SHEILA/RandomConvo_039_Intro_000">&lt;no&gt;I’d like to say I was great at rustling up tucker straight from the word Go, but that wouldn’t be true.</string>
+  <!-- Talking about Item: Meat Pie -->
+  <string name="SHEILA/RandomConvo_039_Intro_001">&lt;shy&gt;Nah mate, I burned more than a few &lt;itemName&gt; to get here, I did.</string>
+  <!-- Talking about Item: Meat Pie -->
+  <string name="SHEILA/RandomConvo_039_Intro_002">&lt;pumped&gt;Ate every single one of them too! Builds character.</string>
+  <!-- Talking about Item: Meat Pie -->
+  <string name="SHEILA/RandomConvo_039_Intro_003">Only way to learn, I reckon. </string>
+  <!-- Talking about Item: Meat Pie -->
+  <string name="SHEILA/RandomConvo_039_Intro_004">&lt;pumped&gt;Not just pies either!</string>
+  <!-- Talking about Item: Meat Pie -->
+  <string name="SHEILA/RandomConvo_039_Intro_005">&lt;shy&gt;Nah, I burnt a salad first time I tried it!</string>
+  <!-- Talking about Item: Meat Pie -->
+  <string name="SHEILA/RandomConvo_039_Intro_006">&lt;haha&gt;Memories.</string>
+  <string name="SHEILA/SomethingToSellBugComp_Intro_000">&lt;glee&gt;WOW!</string>
+  <string name="SHEILA/SomethingToSellBugComp_Intro_001">Look at all these really, really cute bugs!</string>
+  <string name="SHEILA/SomethingToSellBugComp_Intro_002">Can I buy them for &lt;$&gt;?</string>
+  <string name="SHEILA/SomethingToSellBugComp_Option_000">Sell!</string>
+  <string name="SHEILA/SomethingToSellBugComp_Option_001">No thanks</string>
+  <string name="SHEILA/SomethingToSellBugComp_Response_000_000">Thanks &lt;PlayerName&gt;!</string>
+  <string name="SHEILA/SomethingToSellBugComp_Response_001_000">&lt;no&gt;Oh...</string>
+  <string name="SHEILA/SomethingToSellBugComp_Response_001_001">&lt;boohoo&gt;Why did you trick me...</string>
+  <string name="SHEILA/SomethingToSellTuckshop_Intro_000">&lt;thinking&gt;Hmmm.</string>
+  <string name="SHEILA/SomethingToSellTuckshop_Intro_001">Some great produce here, &lt;PlayerName&gt;.</string>
+  <string name="SHEILA/SomethingToSellTuckshop_Intro_002">How does &lt;$&gt; sound?</string>
+  <string name="SHEILA/SomethingToSellTuckshop_Option_000">Sell!</string>
+  <string name="SHEILA/SomethingToSellTuckshop_Option_001">No thanks</string>
+  <string name="SHEILA/SomethingToSellTuckshop_Response_000_000">Pleasure doing business, &lt;PlayerName&gt;!</string>
+  <string name="SHEILA/SomethingToSellTuckshop_Response_001_000">&lt;no&gt;I'll give these tasty items back to you then.</string>
+  <string name="SHEILA/TotalEqualsZeroBugComp_Intro_000">All right... Lets see...</string>
+  <string name="SHEILA/TotalEqualsZeroBugComp_Intro_001">It seems these items aren't worth anything, but I can still take them off your hands if you don't want them?</string>
+  <string name="SHEILA/TotalEqualsZeroBugComp_Option_000">Yes, I dont want them.</string>
+  <string name="SHEILA/TotalEqualsZeroBugComp_Option_001">I'll have them back thanks.</string>
+  <string name="SHEILA/TotalEqualsZeroBugComp_Response_000_000">Righto, mate.</string>
+  <string name="SHEILA/TotalEqualsZeroBugComp_Response_000_001">Cheers.</string>
+  <string name="SHEILA/TotalEqualsZeroBugComp_Response_001_000">That's fine, please return if you wish to sell anything else.</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Intro_000">All right... Lets see...</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Intro_001">It seems these items aren't worth anything, but I can still take them off your hands if you don't want them?</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Option_000">Yes, I dont want them.</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Option_001">I'll have them back thanks.</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Response_000_000">Righto, mate.</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Response_000_001">Cheers.</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Response_001_000">That's fine, please return if you wish to sell anything else.</string>
+  <string name="SHEILA/TotalEqualsZeroTuckshop_Response_001_001">Thank you for visiting John's Goods!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SHEILA/SkyFest_AfterNoon_012_Intro_000">You know what, &lt;petName&gt;?</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SHEILA/SkyFest_AfterNoon_012_Intro_001">&lt;yes&gt;Flying this &lt;Kite&gt; is a bit like heating up a pan.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SHEILA/SkyFest_AfterNoon_012_Intro_002">&lt;thinking&gt;And hitting the &lt;PaperLanterns&gt; is like adding some nice veggies to the pan.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SHEILA/SkyFest_AfterNoon_012_Intro_003">And exchanging the &lt;itemName&gt; for prizes?</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SHEILA/SkyFest_AfterNoon_012_Intro_004">&lt;haha&gt;Well, that’s nothing like cooking at all!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Morning_012_Intro_000">Howdy, &lt;petName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Morning_012_Intro_001">Ready for the &lt;SkyFest&gt; festivities today?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Night_012_Intro_000">You know what?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Night_012_Intro_001">&lt;yes&gt;I’ve had a wonderful day today, &lt;petName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Night_012_Intro_002">&lt;thinking&gt;And this &lt;Aurora&gt; is a great way to end a great day.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Night_012_Intro_003">&lt;yes&gt;Every day here on &lt;IslandName&gt; gets better and better.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Noon_012_Intro_000">&lt;yes&gt;If only making a &lt;Kite&gt; was more like cooking.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Noon_012_Intro_001">&lt;shy&gt;I mean, I aced making my &lt;Kite&gt; and everything.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SHEILA/SkyFest_Noon_012_Intro_002">&lt;haha&gt;Just prefer cooking!</string>
+  <string name="SHEILA/SomethingToSellFishingComp_Intro_000">&lt;shocked&gt;Whoa! Quite the catch!</string>
+  <string name="SHEILA/SomethingToSellFishingComp_Intro_001">Can I buy them for &lt;$&gt;?</string>
+  <string name="SHEILA/SomethingToSellFishingComp_Option_000">Sell!</string>
+  <string name="SHEILA/SomethingToSellFishingComp_Option_001">No thanks</string>
+  <string name="SHEILA/SomethingToSellFishingComp_Response_000_000">Thanks &lt;PlayerName&gt;!</string>
+  <string name="SHEILA/SomethingToSellFishingComp_Response_001_000">Righto, mate.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NED/CompleteBirthday_000_Intro_001">&lt;shy&gt;Realmente me sorprendiste con este regalo de &lt;birthday&gt;, &lt;PlayerName&gt;.</string>
+    <string name="NED/CompleteBirthday_000_Intro_000">&lt;haha&gt;Eres un &lt;animalName&gt; muy astuto.</string>
+    <string name="NED/Introduction_005_Intro_001">Mi nombre es &lt;myName&gt;.</string>
+    <string name="NED/CompleteBirthday_000_Intro_002">Muchas gracias, colega.</string>
+</resources>

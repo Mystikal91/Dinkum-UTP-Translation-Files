@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SellByWeightItems/WaryMuEgg">Uovo di Emu</string>
+    <string name="SellByWeightItems/BeeHive">Alveare</string>
+    <string name="SellByWeightItems/ThunderEgg">Uovo di Tuono</string>
+    <string name="SellByWeightItems/Emerald">Smeraldo</string>
+    <string name="SellByWeightItems/Aquamarine">Acquamarina</string>
+    <string name="SellByWeightItems/Meteorite">Meteorite</string>
+    <string name="SellByWeightItems/Fossil">Fossile</string>
+    <string name="SellByWeightItems/Ruby">Rubino</string>
+    <string name="SellByWeightItems/AmberChunk">Pezzo d\'Ambra</string>
+</resources>

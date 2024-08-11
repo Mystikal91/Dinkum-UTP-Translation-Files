@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Intro_000">&lt;wave&gt;Hola, &lt;PlayerName&gt;!</string>
+    <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Intro_001">&lt;glee&gt;La &lt;bugComp&gt; comenzara oficialmente a las &lt;bugCompStartTime&gt;.</string>
+    <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Intro_002">Mientras esperamos para comenzar, ¿tienes algún bicho que pueda conservar?</string>
+</resources>

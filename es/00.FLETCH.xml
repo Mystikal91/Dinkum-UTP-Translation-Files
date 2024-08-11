@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FLETCH/Already Being Moved 1_Intro_001">&lt;no&gt;Ya se esta reubicando un edificio.</string>
+    <string name="FLETCH/Already Being Moved 1_Intro_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FLETCH/Already Being Moved 1_Intro_002">Terminemos eso y luego podremos pensar en mover otro, ¿vale?</string>
+    <string name="FLETCH/Arvo_Greeting 0_Intro_000">Buenas tardes, &lt;PlayerName&gt;!</string>
+    <string name="FLETCH/High_Friendship_Greeting 2_Intro_001">¿Necesitas algo?</string>
+    <string name="FLETCH/HouseIsBeingUpgraded_Intro_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FLETCH/IslandDayGreeting_Night_006_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+</resources>

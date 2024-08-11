@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="SellByWeightItems/AmberChunk">Amber Chunk</string>
+  <string name="SellByWeightItems/WaryMuEgg">Wary Mu Egg</string>
+  <string name="SellByWeightItems/BeeHive">Bee Hive</string>
+  <string name="SellByWeightItems/ThunderEgg">Thunder Egg</string>
+  <string name="SellByWeightItems/Emerald">Emerald</string>
+  <string name="SellByWeightItems/Aquamarine">Aquamarine</string>
+  <string name="SellByWeightItems/Meteorite">Meteorite</string>
+  <string name="SellByWeightItems/Fossil">Fossil</string>
+  <string name="SellByWeightItems/Ruby">Ruby</string>
+</resources>

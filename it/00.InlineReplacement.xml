@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="InlineReplacement/RaffleTickets">Biglietti Premio</string>
+    <string name="InlineReplacement/SouthCity">Città del Sud</string>
+    <string name="InlineReplacement/Journal">Diario</string>
+    <string name="InlineReplacement/Shift">Cambiamento</string>
+    <string name="InlineReplacement/Shifts">Cambiamenti</string>
+    <string name="InlineReplacement/Licence">Licenza</string>
+    <string name="InlineReplacement/Licences">Licenze</string>
+    <string name="InlineReplacement/AirShip">Aeronave</string>
+    <string name="InlineReplacement/AirShips">Aeronavi</string>
+    <string name="InlineReplacement/Nomad">Nomade</string>
+    <string name="InlineReplacement/Nomads">Nomadi</string>
+    <string name="InlineReplacement/birthday">Compleanno</string>
+    <string name="InlineReplacement/SnagSizzles">Grigliate di Snag</string>
+    <string name="InlineReplacement/Snag">Snag</string>
+    <string name="InlineReplacement/Snags">Snags</string>
+    <string name="InlineReplacement/IslandDay">Giorno di &lt;IslandName&gt;</string>
+    <string name="InlineReplacement/SkyFest">Festa del Cielo</string>
+    <string name="InlineReplacement/Kite">Aquilone</string>
+    <string name="InlineReplacement/PaperLantern">Lanterna Volante</string>
+    <string name="InlineReplacement/KiteMakingTable">Tavolo per Costruire Aquiloni</string>
+    <string name="InlineReplacement/Aurora">Aurora</string>
+    <string name="InlineReplacement/PetName_000">gioia</string>
+    <string name="InlineReplacement/PetName_001">amore</string>
+    <string name="InlineReplacement/PetName_002">possum</string>
+    <string name="InlineReplacement/bugComp">Gara Acchiappainsetti</string>
+    <string name="InlineReplacement/FishingComp">Gara di Pesca</string>
+    <string name="InlineReplacement/compBook">Diario della Competizione</string>
+    <string name="InlineReplacement/Beginning">Inizializzazione...</string>
+    <string name="InlineReplacement/NothingHappened">...Non é successo nulla...</string>
+    <string name="InlineReplacement/SnagSizzle">Grigliata di Snag</string>
+    <string name="InlineReplacement/PaperLanterns">Lanterne Volanti</string>
+    <string name="InlineReplacement/PermitPoints">Punti Permesso</string>
+</resources>

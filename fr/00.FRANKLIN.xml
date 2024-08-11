@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FRANKLIN/RandomConvo_030_Intro_000">Bonjour, &lt;PlayerName&gt;.</string>
+    <string name="FRANKLIN/CanMakeTechForYouNotEnoughMoney_Response_000_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FRANKLIN/CrafterShopConversation_Option_000">Peux-tu me préparer quelque chose ?</string>
+    <string name="FRANKLIN/LearntNewTech_Intro_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FRANKLIN/LookingForTechConvo_Option_001">Laisse tomber.</string>
+</resources>

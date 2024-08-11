@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Replace <SouthCity> -->
+  <string name="InlineReplacement/SouthCity">South City</string>
+  <!-- Plural of 'Prize Ticket' https://www.dinkum-utp.it/translate/Dutp/inventoryitemnames/en/?checksum=29a4fa02540dcca5  -->
+  <string name="InlineReplacement/RaffleTickets">Raffle Tickets</string>
+  <!-- Replace <Journal> -->
+  <string name="InlineReplacement/Journal">Journal</string>
+  <!-- Replace <Shift> -->
+  <string name="InlineReplacement/Shift">Shift</string>
+  <!-- Replace <Shifts> -->
+  <string name="InlineReplacement/Shifts">Shifts</string>
+  <!-- Replace <Licence> -->
+  <string name="InlineReplacement/Licence">Licence</string>
+  <!-- Replace <Licences> -->
+  <string name="InlineReplacement/Licences">Licences</string>
+  <!-- Replace <AirShip> -->
+  <string name="InlineReplacement/AirShip">Airship</string>
+  <!-- Replace <AirShips> -->
+  <string name="InlineReplacement/AirShips">Airships</string>
+  <!-- Replace <Nomad> -->
+  <string name="InlineReplacement/Nomad">Nomad</string>
+  <!-- Replace <Nomads> -->
+  <string name="InlineReplacement/Nomads">Nomads</string>
+  <!-- Replace <PermitPoints> -->
+  <string name="InlineReplacement/PermitPoints">Permit Points</string>
+  <!-- Replace <birthday> -->
+  <string name="InlineReplacement/birthday">Birthday</string>
+  <!-- Replace <SnagSizzle> -->
+  <string name="InlineReplacement/SnagSizzle">Snag Sizzle</string>
+  <!-- Replace <SnagSizzles> -->
+  <string name="InlineReplacement/SnagSizzles">Snag Sizzles</string>
+  <!-- Replace <Snag> -->
+  <string name="InlineReplacement/Snag">Snag</string>
+  <!-- Replace <Snags> -->
+  <string name="InlineReplacement/Snags">Snags</string>
+  <!-- Replace <IslandDay> -->
+  <string name="InlineReplacement/IslandDay">&lt;IslandName&gt; Day</string>
+  <!-- Replace <SkyFest> -->
+  <string name="InlineReplacement/SkyFest">Sky Fest</string>
+  <!-- Replace <Kite> -->
+  <string name="InlineReplacement/Kite">Kite</string>
+  <!-- Replace <PaperLantern> -->
+  <string name="InlineReplacement/PaperLantern">Flying Lantern</string>
+  <!-- Replace <PaperLanterns> -->
+  <string name="InlineReplacement/PaperLanterns">Flying Lanterns</string>
+  <!-- Replace <KiteMakingTable> -->
+  <string name="InlineReplacement/KiteMakingTable">Kite Making Table</string>
+  <!-- Replace <Aurora> -->
+  <string name="InlineReplacement/Aurora">Aurora</string>
+  <!-- Replace <PetName> -->
+  <string name="InlineReplacement/PetName_000">darl</string>
+  <!-- Replace <PetName> -->
+  <string name="InlineReplacement/PetName_001">love</string>
+  <!-- Replace <PetName> -->
+  <string name="InlineReplacement/PetName_002">possum</string>
+  <!-- Replace <bugComp> -->
+  <string name="InlineReplacement/bugComp">Bug Catching Comp</string>
+  <!-- Replace <FishingComp> -->
+  <string name="InlineReplacement/FishingComp">Fishing Comp</string>
+  <!-- Replace <compBook> -->
+  <string name="InlineReplacement/compBook">Comp Log Book</string>
+  <!-- Used for TeleTower Interaction -->
+  <string name="InlineReplacement/Beginning">Beginning...</string>
+  <!-- Used for TeleTower Interaction -->
+  <string name="InlineReplacement/NothingHappened">...Nothing happened...</string>
+</resources>

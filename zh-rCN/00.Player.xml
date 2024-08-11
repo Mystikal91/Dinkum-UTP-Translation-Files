@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Player/TeleboxNeedsItems_Option_001">算了吧。</string>
+    <string name="Player/ConstructionBox_Needs Items_Option_001">算了吧。</string>
+    <string name="Player/TeleCallerDoesn'tWork_Intro_000">它现在好像没用……</string>
+    <string name="Player/ConfirmDeedPlacement_Option_000">是</string>
+    <string name="Player/ConfirmDeedPlacement_Option_001">不是</string>
+    <string name="Player/ConstructionBoxFull_Intro_001">明天开始施工。</string>
+    <string name="Player/InventoryFullBugOrFish_Option_000">好。</string>
+    <string name="Player/InventoryFullBugOrFish_Option_001">不行。</string>
+    <string name="Player/Telebox Once Completed_Intro_000">似乎已经完成了！</string>
+</resources>

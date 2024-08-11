@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Sign/NoBoardingPass_Option_001">Laat maar</string>
+    <string name="Sign/FillSiloText_Option_001">Laat maar</string>
+    <string name="Sign/MineControl_Convo_Option_002">Laat maar</string>
+    <string name="Sign/WeatherStationSign_Option_001">Laat maar</string>
+    <string name="Sign/MineControl_Up_Convo_Option_001">Laat maar</string>
+    <string name="Sign/MineLevel_HasRubyShard_Option_001">Laat maar</string>
+    <string name="Sign/ATM Sign_Option_001">Laat maar</string>
+    <string name="Sign/ConfirmReturnHome_Option_001">Laat maar</string>
+    <string name="Sign/MineControl_Convo_Option_001">Laat maar</string>
+    <string name="Sign/ConfirmMoveOffIsland_Option_001">Laat maar</string>
+    <string name="Sign/PlayerFillingTileObjectOption_Option_001">Laat maar</string>
+</resources>

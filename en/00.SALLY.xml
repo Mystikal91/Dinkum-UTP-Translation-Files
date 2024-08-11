@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="SALLY/CompleteBirthday_000_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+  <string name="SALLY/CompleteBirthday_000_Intro_001">&lt;shy&gt;This is a really nice &lt;birthday&gt; gift.</string>
+  <string name="SALLY/CompleteBirthday_000_Intro_002">&lt;glee&gt;Thank you very much.</string>
+  <string name="SALLY/CompleteRequest_000_Intro_000">&lt;pumped&gt;You’re a bloody legend, &lt;PlayerName&gt;.</string>
+  <string name="SALLY/CompleteRequest_000_Intro_001">&lt;yes&gt;Too bloody good I reckon.</string>
+  <string name="SALLY/CompleteRequest_000_Intro_002">Take this for your trouble!</string>
+  <!-- Talking about NPC: Rayne -->
+  <string name="SALLY/Gossip_About_NPC_000_Intro_000">Just between you and me...</string>
+  <!-- Talking about NPC: Rayne -->
+  <string name="SALLY/Gossip_About_NPC_000_Intro_001">&lt;yes&gt;I heard &lt;NPCName&gt; grows her hair herself.</string>
+  <!-- Talking about NPC: Rayne -->
+  <string name="SALLY/Gossip_About_NPC_000_Intro_002">&lt;haha&gt;From the ground, I mean.</string>
+  <!-- Talking about NPC: John -->
+  <string name="SALLY/Gossip_About_NPC_001_Intro_000">&lt;pumped&gt;&lt;NPCName&gt; won’t let anybody NEAR his hair.</string>
+  <!-- Talking about NPC: John -->
+  <string name="SALLY/Gossip_About_NPC_001_Intro_001">&lt;no&gt;I offered to trim his beard, but I ended up walking away with a bunch of tools I don’t need?</string>
+  <!-- Talking about NPC: John -->
+  <string name="SALLY/Gossip_About_NPC_001_Intro_002">&lt;boohoo&gt;…they were really expensive.</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="SALLY/Gossip_About_NPC_002_Intro_000">&lt;NPCName&gt;’s hair grows really slowly…</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="SALLY/Gossip_About_NPC_002_Intro_001">Either that, or he trims it himself, I guess?</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="SALLY/Gossip_About_NPC_003_Intro_000">&lt;NPCName&gt; comes to see me every now and again.</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="SALLY/Gossip_About_NPC_003_Intro_001">I guess he really likes the empty bit in the middle?</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="SALLY/Gossip_About_NPC_003_Intro_002">&lt;thinking&gt;He’d have such long, full, beautiful locks if I didn’t cut his hair so often…</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="SALLY/Gossip_About_NPC_003_Intro_003">Each to their own, I guess.</string>
+  <!-- Talking about NPC: Clover. Talking about Animal Type: Baby Chook -->
+  <string name="SALLY/Gossip_About_NPC_004_Intro_000">&lt;no&gt;&lt;NPCName&gt; asked me to cut her doll’s hair once.</string>
+  <!-- Talking about NPC: Clover. Talking about Animal Type: Baby Chook -->
+  <string name="SALLY/Gossip_About_NPC_004_Intro_001">&lt;no&gt;It looked just like her, but tiny!</string>
+  <!-- Talking about NPC: Clover. Talking about Animal Type: Baby Chook -->
+  <string name="SALLY/Gossip_About_NPC_004_Intro_002">&lt;scared&gt;That thing gave me the creeps.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/Gossip_About_NPC_006_Intro_000">&lt;yes&gt;&lt;NPCName&gt; keeps asking if I have a Hair Cutting licence.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/Gossip_About_NPC_006_Intro_001">&lt;pumped&gt;And I keep telling her there is no such thing!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/Gossip_About_NPC_006_Intro_002">&lt;haha&gt;But she seems adamant that there should be!</string>
+  <!-- Talking about NPC: Irwin. Talking about Animal Type: Pleep -->
+  <string name="SALLY/Gossip_About_NPC_007_Intro_000">&lt;glee&gt;&lt;NPCName&gt;’s hair is sooo soft!</string>
+  <!-- Talking about NPC: Irwin. Talking about Animal Type: Pleep -->
+  <string name="SALLY/Gossip_About_NPC_007_Intro_001">&lt;glee&gt;It’s like &lt;animalName&gt; and clouds and the wind from a butterfly’s wings…</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="SALLY/Gossip_About_NPC_009_Intro_000">&lt;thinking&gt;&lt;NPCName&gt; always asks to keep his hair clippings after a trim.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="SALLY/Gossip_About_NPC_009_Intro_001">&lt;yes&gt;He said something about cataloguing every strand?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="SALLY/Gossip_About_NPC_010_Intro_000">&lt;no&gt;&lt;NpcName&gt; never tips me when he comes in for a trim.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="SALLY/Gossip_About_NPC_010_Intro_001">&lt;no&gt;I mean, I don’t ask for tips, anyway.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="SALLY/Gossip_About_NPC_010_Intro_002">&lt;thinking&gt;But he always makes sure to let me know he won’t be tipping…</string>
+  <string name="SALLY/HairDresserConvo_Intro_000">Welcome!</string>
+  <string name="SALLY/HairDresserConvo_Intro_001">Can I interest you in a little trim?</string>
+  <string name="SALLY/HairDresserConvo_Option_000">Yes please!</string>
+  <string name="SALLY/HairDresserConvo_Option_001">I wanted to chat.</string>
+  <string name="SALLY/HairDresserConvo_Option_002">No thanks.</string>
+  <string name="SALLY/HairDresserConvo_Response_000_000">Please take a seat!</string>
+  <string name="SALLY/HairDresserConvo_Response_002_000">If you change your mind, drop by.</string>
+  <string name="SALLY/HairDresserInSeatConv_Intro_000">Okay, what can do with your "doo" today? &lt;haha&gt;</string>
+  <string name="SALLY/HairDresserInSeatConv_Intro_001">A haircut or colour change is &lt;sprite=11&gt;5000.</string>
+  <string name="SALLY/HairDresserInSeatConv_Option_000">A new hairstyle!</string>
+  <string name="SALLY/HairDresserInSeatConv_Option_001">A new hair colour!</string>
+  <string name="SALLY/HairDresserInSeatConv_Option_002">I've changed my mind.</string>
+  <string name="SALLY/HairDresserInSeatConv_Response_000_000">Alright! Lets get started!</string>
+  <string name="SALLY/HairDresserInSeatConv_Response_001_000">Alright! Lets get started!</string>
+  <string name="SALLY/HairDresserInSeatConv_Response_002_000">I see. Style isn't for everyone!</string>
+  <string name="SALLY/Introduction_008_Intro_000">Hey there, I’m &lt;myName&gt;.</string>
+  <string name="SALLY/Introduction_008_Intro_001">&lt;glee&gt;I’m a hairstylist!</string>
+  <string name="SALLY/Introduction_008_Intro_002">&lt;shy&gt;I’m kinda new at it though.</string>
+  <string name="SALLY/Introduction_008_Intro_003">&lt;glee&gt;If you would like a haircut I could always use the practice!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_AfterNoon_008_Intro_000">I’m having a bloody bonza day, &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_AfterNoon_008_Intro_001">How are you enjoying yourself?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_AfterNoon_008_Intro_002">I hope you got a &lt;Snag&gt; while they were still hot!</string>
+  <string name="SALLY/IslandDayGreeting_Morning_008_Intro_000">Happy &lt;IslandDay&gt;, &lt;PlayerName&gt;.</string>
+  <string name="SALLY/IslandDayGreeting_Morning_008_Intro_001">It’s going to be a great day, full of tunes, sun and some bloody beautiful &lt;Snags&gt;.</string>
+  <string name="SALLY/IslandDayGreeting_Morning_008_Intro_002">It's going to be grouse!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Night_008_Intro_000">Wow!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Night_008_Intro_001">&lt;glee&gt;I am really digging the sky’s new colours tonight.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Night_008_Intro_002">&lt;thinking&gt;It's kinda like beautiful hair...</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Night_008_Intro_003">It’s amazing, isn’t it, &lt;PlayerName&gt;?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Noon_008_Intro_000">&lt;NPCName&gt; made me a rippa of a &lt;Snag&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Noon_008_Intro_001">&lt;no&gt;Everything I cook usually ends up with some hair in it.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Noon_008_Intro_002">&lt;yes&gt;At least I know it’s not my own hair.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/IslandDayGreeting_Noon_008_Intro_003">&lt;worried&gt;That would be so gross.</string>
+  <string name="SALLY/RandomConvo_000_Intro_000">My family would never let me near their hair.</string>
+  <string name="SALLY/RandomConvo_000_Intro_001">&lt;no&gt;They said that I'd always cut something of theirs that wasn't hair.</string>
+  <string name="SALLY/RandomConvo_000_Intro_002">&lt;haha&gt;Did they not know that looking good can sometimes hurt?</string>
+  <string name="SALLY/RandomConvo_001_Intro_000">&lt;thinking&gt;Back when I was studying to be a chef I would always cut my fingers.</string>
+  <string name="SALLY/RandomConvo_001_Intro_001">&lt;haha&gt;I'm just not that great at using anything sharp!</string>
+  <string name="SALLY/RandomConvo_002_Intro_000">I worked in the coal mines back in &lt;SouthCity&gt; for a few years...</string>
+  <string name="SALLY/RandomConvo_002_Intro_001">&lt;yes&gt;I use to cut some of my friends hair while we were down there.</string>
+  <string name="SALLY/RandomConvo_002_Intro_002">Everyone said they loved what I did…</string>
+  <string name="SALLY/RandomConvo_002_Intro_003">&lt;boohoo&gt;Until we all came back up into the light...</string>
+  <string name="SALLY/RandomConvo_003_Intro_000">&lt;shy&gt;I tend to get a bit shaky when I get nervous.</string>
+  <string name="SALLY/RandomConvo_003_Intro_001">&lt;shy&gt;I mean, that would be okay if I didn't get so nervous when I was giving haircuts!</string>
+  <string name="SALLY/RandomConvo_004_Intro_000">&lt;yes&gt;Hair is like nature's clothing.</string>
+  <string name="SALLY/RandomConvo_004_Intro_001">&lt;glee&gt;And just like clothes, the way you style it can show off your personality!</string>
+  <string name="SALLY/RandomConvo_005_Intro_000">&lt;thinking&gt;I've been thinking about dying my hair.</string>
+  <string name="SALLY/RandomConvo_005_Intro_001">&lt;no&gt;I wish knew a hairdresser…</string>
+  <string name="SALLY/RandomConvo_005_Intro_002">&lt;shocked&gt;Oh wait!</string>
+  <string name="SALLY/RandomConvo_006_Intro_000">&lt;yes&gt;I've been pretty happy with myself lately, &lt;PlayerName&gt;. </string>
+  <string name="SALLY/RandomConvo_006_Intro_001">&lt;proud&gt;I haven't cut anyone's ear off or anything since I started visiting &lt;IslandName&gt;.</string>
+  <string name="SALLY/RandomConvo_007_Intro_000">&lt;thinking&gt;Before I was a hairdresser I had a part-time job as a pet stylist.</string>
+  <string name="SALLY/RandomConvo_007_Intro_001">&lt;glee&gt;It's where I learnt my best cuts and styles!</string>
+  <string name="SALLY/RandomConvo_007_Intro_002">&lt;yes&gt;They’re amazing innovative styles, so nobody asks for them a second time.</string>
+  <string name="SALLY/RandomConvo_008_Intro_000">Have you ever tried cutting topiaries? </string>
+  <string name="SALLY/RandomConvo_008_Intro_001">&lt;yes&gt;You should totally do it if you get the chance.</string>
+  <string name="SALLY/RandomConvo_008_Intro_002">&lt;haha&gt;It's wonderfully fun and the plants don't even complain when you mess it up!</string>
+  <string name="SALLY/RandomConvo_009_Intro_000">&lt;yes&gt;I've had a lot of jobs before I settled on hairstylist.</string>
+  <string name="SALLY/RandomConvo_009_Intro_001">&lt;yes&gt;My parents told me to do what I was good at.</string>
+  <string name="SALLY/RandomConvo_009_Intro_002">&lt;proud&gt;But I think that's just too easy!</string>
+  <string name="SALLY/RandomConvo_010_Intro_000">&lt;thinking&gt;Hey, &lt;PlayerName&gt;, I was thinking about taking on an apprentice...</string>
+  <string name="SALLY/RandomConvo_010_Intro_001">Maybe they could teach me a thing or two?</string>
+  <string name="SALLY/RandomConvo_011_Intro_000">&lt;yes&gt;The best thing about hair is that it grows back, so we can always try again.</string>
+  <string name="SALLY/RandomConvo_011_Intro_001">&lt;shy&gt;Not that we’ll need to! It’s just nice to have some backup options.</string>
+  <string name="SALLY/RandomConvo_011_Intro_002">But, have you considered going bald, &lt;PlayerName&gt;?</string>
+  <string name="SALLY/RandomConvo_012_Intro_000">&lt;proud&gt;I am, without a doubt, the absolute best hairdresser here on &lt;IslandName&gt;.</string>
+  <string name="SALLY/RandomConvo_012_Intro_001">&lt;haha&gt;I mean, honestly, it’s not even close!</string>
+  <string name="SALLY/RandomConvo_013_Intro_000">&lt;glee&gt;I'm doing a special today!</string>
+  <string name="SALLY/RandomConvo_013_Intro_001">&lt;pumped&gt;50 percent off!</string>
+  <string name="SALLY/RandomConvo_013_Intro_002">...</string>
+  <string name="SALLY/RandomConvo_013_Intro_003">&lt;shy&gt;Full price though.</string>
+  <string name="SALLY/RandomConvo_014_Intro_000">&lt;yes&gt;Some of my best customers pay me NOT to cut their hair.</string>
+  <string name="SALLY/RandomConvo_014_Intro_001">&lt;glee&gt;They’re such darlings.</string>
+  <string name="SALLY/RandomConvo_015_Intro_000">&lt;pumped&gt;My whole life people have been trying to take sharp objects away from me, but look at me now!</string>
+  <string name="SALLY/RandomConvo_015_Intro_001">&lt;haha&gt;I’m my own boss!</string>
+  <string name="SALLY/RandomConvo_015_Intro_002">&lt;dance&gt;Scissors forever!</string>
+  <string name="SALLY/RandomConvo_015_Intro_003">&lt;shy&gt;I’m so, so sorry, &lt;PlayerName&gt;. I don’t know what came over me.</string>
+  <string name="SALLY/RandomConvo_016_Intro_000">People back in &lt;SouthCity&gt; generally went for the boring haircuts.</string>
+  <string name="SALLY/RandomConvo_016_Intro_001">&lt;yes&gt;So it's nice to be doing something different here on &lt;IslandName&gt;.</string>
+  <string name="SALLY/RandomConvo_017_Intro_000">&lt;proud&gt;I’m the best at jigsaw puzzles.</string>
+  <string name="SALLY/RandomConvo_017_Intro_001">&lt;pumped&gt;Give me any two pieces and I can make em fit together no problem!</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="SALLY/RandomConvo_018_Intro_000">&lt;thinking&gt;I think a &lt;animalName&gt; would make excellent hairdresser.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="SALLY/RandomConvo_018_Intro_001">&lt;yes&gt;With their sharp jagged teeth and persistent attitude, they have all the right qualities.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="SALLY/RandomConvo_018_Intro_002">&lt;worried&gt;I really hope one of them doesn’t open up a shop around here, or I’d be out of business!</string>
+  <string name="SALLY/RandomConvo_019_Intro_000">&lt;no&gt;Don’t let anybody ever tell you that you can’t do something.</string>
+  <string name="SALLY/RandomConvo_019_Intro_001">&lt;no&gt;Even if you have none of the skills, or are poorly suited, or are physically incapable, it doesn’t matter!</string>
+  <string name="SALLY/RandomConvo_019_Intro_002">&lt;pumped&gt;Do what I did and just do it anyway!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SALLY/SkyFest_AfterNoon_008_Intro_000">You know what?</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SALLY/SkyFest_AfterNoon_008_Intro_001">&lt;no&gt;My &lt;Kite&gt; didn’t turn out half bad after all?</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SALLY/SkyFest_AfterNoon_008_Intro_002">&lt;yes&gt;It’s not how it looks, but how it flies!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="SALLY/SkyFest_AfterNoon_008_Intro_003">&lt;haha&gt;Kinda like the haircuts I give, right &lt;PlayerName&gt;?</string>
+  <string name="SALLY/SkyFest_Morning_008_Intro_000">Hey &lt;PlayerName&gt;.</string>
+  <string name="SALLY/SkyFest_Morning_008_Intro_001">Glad to see you could make it to &lt;SkyFest&gt;.</string>
+  <string name="SALLY/SkyFest_Morning_008_Intro_002">Let’s have some fun!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Night_008_Intro_000">Woah!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Night_008_Intro_001">So this is what an &lt;Aurora&gt; looks like?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Night_008_Intro_002">I guess I really didn’t pay attention before now?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Night_008_Intro_003">&lt;glee&gt;It’s beautiful!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Noon_008_Intro_000">&lt;boohoo&gt;I should have asked for some help with my &lt;Kite&gt;...</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Noon_008_Intro_001">&lt;no&gt;I’m just not good with scissors!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Noon_008_Intro_002">&lt;shy&gt;I guess it doesn’t matter in the end, as long as it flies okay.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="SALLY/SkyFest_Noon_008_Intro_003">Right?</string>
+</resources>

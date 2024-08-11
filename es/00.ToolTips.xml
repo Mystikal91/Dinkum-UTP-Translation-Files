@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ToolTips/AskForJob_1">¿Necesitas algo?</string>
+    <string name="ToolTips/AskForJob_0">Tienes un trabajo para mi?</string>
+    <string name="ToolTips/AskToChat_0">¡Charlemos!</string>
+    <string name="ToolTips/Tip_PocketsFull">Bolsillos llenos</string>
+</resources>

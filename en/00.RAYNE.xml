@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="RAYNE/Arvo_Greeting 0_Intro_000">It's like, already the arvo?</string>
+  <string name="RAYNE/Arvo_Greeting 0_Intro_001">&lt;no&gt;Didn't time just fly by today.</string>
+  <string name="RAYNE/Arvo_Greeting 0_Response_003_000">Have a good arvo, mate.</string>
+  <string name="RAYNE/Arvo_Greeting 1_Intro_000">Oh, like, good afternoon, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/Arvo_Greeting 1_Response_003_000">&lt;wave&gt;Catch you on the flip side!</string>
+  <string name="RAYNE/Arvo_Greeting 2_Intro_000">&lt;yes&gt;It will, like, be dark soon.</string>
+  <string name="RAYNE/Arvo_Greeting 2_Response_003_000">Use that daylight up, &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/BugComp_Greeting 000_Intro_000">Hi, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/BugComp_Greeting 000_Intro_001">I'm kinda, like, busy with the &lt;bugComp&gt; right now...</string>
+  <string name="RAYNE/BugComp_Greeting 000_Response_003_000">I'm going to flog everyone at this &lt;bugComp&gt;.</string>
+  <string name="RAYNE/CompleteBirthday_000_Intro_000">Oh, wackadoo!</string>
+  <string name="RAYNE/CompleteBirthday_000_Intro_001">What a nice &lt;birthday&gt; gift!</string>
+  <string name="RAYNE/CompleteBirthday_000_Intro_002">Thank you, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/CompleteRequest_000_Intro_000">&lt;pumped&gt;Bonza!</string>
+  <string name="RAYNE/CompleteRequest_000_Intro_001">&lt;glee&gt;I, like, knew I could count on you.</string>
+  <string name="RAYNE/CompleteRequest_000_Intro_002">Now, I have something for, &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/CompleteRequest_000_Intro_003">&lt;glee&gt;I hope you like it!</string>
+  <!-- Talking about NPC: John -->
+  <string name="RAYNE/Gossip_About_NPC_001_Intro_000">&lt;no&gt;There’s no WAY I could work the hours &lt;NPCName&gt; works...</string>
+  <!-- Talking about NPC: John -->
+  <string name="RAYNE/Gossip_About_NPC_001_Intro_001">&lt;thinking&gt;He told me he’s doing it for his brother...</string>
+  <!-- Talking about NPC: John -->
+  <string name="RAYNE/Gossip_About_NPC_001_Intro_002">But wouldn’t his brother want him to be happy?</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="RAYNE/Gossip_About_NPC_002_Intro_000">&lt;NPCName&gt;’s scarecrows are like, so rude.</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="RAYNE/Gossip_About_NPC_002_Intro_001">&lt;no&gt;They keep the birds away, but when I wave they never wave back.</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="RAYNE/Gossip_About_NPC_002_Intro_002">Maybe I look too much like a bird?</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="RAYNE/Gossip_About_NPC_003_Intro_000">&lt;yes&gt;&lt;NPCName&gt; is adorable!</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="RAYNE/Gossip_About_NPC_003_Intro_001">&lt;haha&gt;Teeterin’ and totterin’ and grumblin’ around everywhere.</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="RAYNE/Gossip_About_NPC_003_Intro_002">&lt;glee&gt;I just wanna like, give him a hug!</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="RAYNE/Gossip_About_NPC_004_Intro_000">&lt;yes&gt;&lt;NPCName&gt; told me where I could find my lucky watering can..</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="RAYNE/Gossip_About_NPC_004_Intro_001">&lt;shy&gt;But like, I haven’t lost it...</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="RAYNE/Gossip_About_NPC_004_Intro_002">&lt;thinking&gt;...yet?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/Gossip_About_NPC_006_Intro_000">&lt;NPCName&gt; looks like, stunning for her age...</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/Gossip_About_NPC_006_Intro_001">&lt;thinking&gt;Although I guess that depends on how old she is?</string>
+  <!-- Talking about NPC: Irwin -->
+  <string name="RAYNE/Gossip_About_NPC_007_Intro_000">I really like &lt;NPCName&gt;, but his animals better stay away from my crops!</string>
+  <!-- Talking about NPC: Irwin -->
+  <string name="RAYNE/Gossip_About_NPC_007_Intro_001">&lt;thinking&gt;Those little critters are adorable though!</string>
+  <!-- Talking about NPC: Irwin -->
+  <string name="RAYNE/Gossip_About_NPC_007_Intro_002">Well… I guess they can have like, a little nibble?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="RAYNE/Gossip_About_NPC_009_Intro_000">&lt;NPCName&gt; asked me for some of my plants to put in his museum...</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="RAYNE/Gossip_About_NPC_009_Intro_001">&lt;no&gt;Can you believe that?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="RAYNE/Gossip_About_NPC_009_Intro_002">&lt;worried&gt;My poor babies all like, cooped up behind glass? </string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="RAYNE/Gossip_About_NPC_010_Intro_000">&lt;yes&gt;Sometimes I think &lt;NPCName&gt; likes money more than he likes people.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="RAYNE/Gossip_About_NPC_010_Intro_001">He must be so lonely, don’t you think?</string>
+  <string name="RAYNE/High_Friendship_Greeting 0_Intro_000">It’s like, good to see you, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/High_Friendship_Greeting 0_Intro_001">What's up?</string>
+  <string name="RAYNE/High_Friendship_Greeting 0_Response_003_000">&lt;wave&gt;Catch ya!</string>
+  <string name="RAYNE/High_Friendship_Greeting 1_Intro_000">Hi &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/High_Friendship_Greeting 1_Intro_001">How goes it?</string>
+  <string name="RAYNE/High_Friendship_Greeting 1_Response_003_000">Bye!</string>
+  <string name="RAYNE/High_Friendship_Greeting 2_Intro_000">It’s &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/High_Friendship_Greeting 2_Intro_001">Right on!</string>
+  <string name="RAYNE/High_Friendship_Greeting 2_Response_003_000">&lt;wave&gt;Later!</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 0_Intro_000">Oh, G’day &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 0_Response_003_000">Don’t be a stranger, okay?</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 1_Intro_000">Hey, it’s &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 1_Intro_001">What’s up?</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 1_Response_003_000">Catch you later!</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 2_Intro_000">Looks like my day just got a little better.</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 2_Intro_001">&lt;glee&gt;Nice to see you &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/Highest_Friendship_Greeting 2_Response_003_000">&lt;wave&gt;See you around!</string>
+  <string name="RAYNE/Introduction_000_Intro_000">Oh, hi there, I’m &lt;myName&gt;.</string>
+  <string name="RAYNE/Introduction_000_Intro_001">I’m a &lt;Nomad&gt; that’s, like, looking to sell seeds. I’ve got farming equipment too if you’re interested.</string>
+  <string name="RAYNE/Introduction_000_Intro_002">&lt;shy&gt;Although I can only sell them to people who have a &lt;FarmingLicence&gt;.</string>
+  <string name="RAYNE/Introduction_000_Intro_003">&lt;IslandName&gt; is beautiful, don’t you think?</string>
+  <string name="RAYNE/Introduction_000_Intro_004">&lt;glee&gt;I’ve been to a lot of places in my time and like, it’s really nice here.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_AfterNoon_000_Intro_000">Hey &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_AfterNoon_000_Intro_001">I hope you didn’t, like, miss out on a &lt;Snag&gt;?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_AfterNoon_000_Intro_002">Mine was absolutely bonza!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_AfterNoon_000_Intro_003">Oh, and apparently &lt;NPCName&gt; has some kind of surprise for us tonight?</string>
+  <string name="RAYNE/IslandDayGreeting_Morning_000_Intro_000">Happy &lt;IslandDay&gt;, &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/IslandDayGreeting_Morning_000_Intro_001">It’s a day to like, celebrate &lt;IslandName&gt;.</string>
+  <string name="RAYNE/IslandDayGreeting_Morning_000_Intro_002">&lt;glee&gt;I’m like, so happy to be a part of it!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_Night_000_Intro_000">Wow!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_Night_000_Intro_001">&lt;glee&gt;I’ve, like, never seen the sky look so happy before.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_Night_000_Intro_002">&lt;haha&gt;And I’ve spend a lot of time with my head in those clouds!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_Night_000_Intro_003">I reckon some of my family would love to see something like this…</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_Noon_000_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_Noon_000_Intro_001">Just in time for some, like, really bonza &lt;Snags&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/IslandDayGreeting_Noon_000_Intro_002">&lt;NPCName&gt; has cooked everyone their own personal flavour!</string>
+  <string name="RAYNE/Low_Friendship_Greeting 0_Intro_000">What’s new, &lt;PlayerName&gt;?</string>
+  <string name="RAYNE/Low_Friendship_Greeting 0_Response_003_000">See you around</string>
+  <string name="RAYNE/Low_Friendship_Greeting 1_Intro_000">Like, what do you need?</string>
+  <string name="RAYNE/Low_Friendship_Greeting 1_Response_003_000">Seeya!</string>
+  <string name="RAYNE/Low_Friendship_Greeting 2_Intro_000">How goes it?</string>
+  <string name="RAYNE/Low_Friendship_Greeting 2_Response_003_000">&lt;wave&gt;Hooroo</string>
+  <string name="RAYNE/Medium_Friendship_Greeting 0_Intro_000">What's up, &lt;PlayerName&gt;?</string>
+  <string name="RAYNE/Medium_Friendship_Greeting 0_Response_003_000">Okay!</string>
+  <string name="RAYNE/Medium_Friendship_Greeting 1_Intro_000">Oh! It’s like, &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/Medium_Friendship_Greeting 1_Response_003_000">Right on.</string>
+  <string name="RAYNE/Medium_Friendship_Greeting 2_Intro_000">Oh, hi there, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/Medium_Friendship_Greeting 2_Intro_001">Do you, like, need anything?</string>
+  <string name="RAYNE/Medium_Friendship_Greeting 2_Response_003_000">&lt;wave&gt;Bye!</string>
+  <string name="RAYNE/Morning_Greeting 0_Intro_000">&lt;yes&gt;It’s so early, but like, I’ve already got a good feeling about today!</string>
+  <string name="RAYNE/Morning_Greeting 0_Response_003_000">&lt;wave&gt;Catch you later, &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/Morning_Greeting 1_Intro_000">Love that morning feeling.</string>
+  <string name="RAYNE/Morning_Greeting 1_Intro_001">You know what I mean?</string>
+  <string name="RAYNE/Morning_Greeting 1_Response_003_000">Enjoy your morning!</string>
+  <string name="RAYNE/Morning_Greeting 2_Intro_000">Hey, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/Morning_Greeting 2_Intro_001">What can I, like, do for you this morning?</string>
+  <string name="RAYNE/Morning_Greeting 2_Response_003_000">&lt;sigh&gt;Oh, like, okay…</string>
+  <string name="RAYNE/Night_Greeting 0_Intro_000">&lt;scared&gt;Pretty spooky out tonight, huh?</string>
+  <string name="RAYNE/Night_Greeting 0_Response_003_000">Stay safe, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/Night_Greeting 1_Intro_000">&lt;scared&gt;Whoa. I just got chills.</string>
+  <string name="RAYNE/Night_Greeting 1_Intro_001">&lt;shy&gt;It’s probably nothing…</string>
+  <string name="RAYNE/Night_Greeting 1_Response_003_000">Stay safe, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/Night_Greeting 2_Intro_000">&lt;no&gt;I, like, don’t reall love the dark.</string>
+  <string name="RAYNE/Night_Greeting 2_Intro_001">Anyway, what’s up, &lt;PlayerName&gt;?</string>
+  <string name="RAYNE/Night_Greeting 2_Response_003_000">&lt;scared&gt;Leaving already?</string>
+  <string name="RAYNE/Noon_Greeting 0_Intro_000">Oh, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/Noon_Greeting 0_Intro_001">What brings you to see little ol’ me?</string>
+  <string name="RAYNE/Noon_Greeting 0_Response_003_000">&lt;wave&gt;Hooroo!</string>
+  <string name="RAYNE/Noon_Greeting 1_Intro_000">I’m getting peckish.</string>
+  <string name="RAYNE/Noon_Greeting 1_Response_003_000">&lt;wave&gt;Later, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/Noon_Greeting 2_Intro_000">Bonza.</string>
+  <string name="RAYNE/Noon_Greeting 2_Intro_001">I’m, like, already having a lovely day and who do I see but &lt;PlayerName&gt;?</string>
+  <string name="RAYNE/Noon_Greeting 2_Response_003_000">See you around, &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/Plant Shop Convo_Intro_000">Welcome to the Greenhouse!</string>
+  <string name="RAYNE/Plant Shop Convo_Intro_001">&lt;glee&gt;How can I help?</string>
+  <string name="RAYNE/Plant Shop Convo_Option_000">I want to chat.</string>
+  <string name="RAYNE/Plant Shop Convo_Option_001">Nevermind.</string>
+  <string name="RAYNE/Plant Shop Convo_Response_001_000">Later!</string>
+  <string name="RAYNE/RandomConvo_000_Intro_000">&lt;glee&gt;&lt;IslandName&gt; is so... Bonza. There are, like, trees and flowers everywhere.</string>
+  <string name="RAYNE/RandomConvo_000_Intro_001">&lt;haha&gt;It’s kind of overwhelming!</string>
+  <string name="RAYNE/RandomConvo_001_Intro_000">&lt;yes&gt;Anyplace you can think of going, there’s a plant that got there first. Trust me.</string>
+  <string name="RAYNE/RandomConvo_001_Intro_001">&lt;proud&gt;I’ve been, like, all over the place.</string>
+  <string name="RAYNE/RandomConvo_002_Intro_000">&lt;shy&gt;I, like, have a confession to make… I didn’t have a &lt;FarmingLicence&gt; until recently…</string>
+  <string name="RAYNE/RandomConvo_002_Intro_001">I like, didn’t even know it was a thing I needed?</string>
+  <string name="RAYNE/RandomConvo_002_Intro_002">&lt;shy&gt;I was growing plants, like, illegally I guess!</string>
+  <string name="RAYNE/RandomConvo_003_Intro_000">&lt;yes&gt;I like to think of my plants as children.</string>
+  <string name="RAYNE/RandomConvo_003_Intro_001">&lt;glee&gt;I have, like, a huge family!</string>
+  <string name="RAYNE/RandomConvo_003_Intro_002">&lt;haha&gt;It’s growing all the time!</string>
+  <string name="RAYNE/RandomConvo_004_Intro_000">I grew up travelling with my family.</string>
+  <string name="RAYNE/RandomConvo_004_Intro_001">&lt;shy&gt;We were lucky enough to have an &lt;AirShip&gt;. </string>
+  <string name="RAYNE/RandomConvo_004_Intro_002">&lt;shy&gt;I, like, guess you could say the sky's my home and stuff.</string>
+  <string name="RAYNE/RandomConvo_005_Intro_000">&lt;thinking&gt;Do you ever wonder what the clouds are made of?. </string>
+  <string name="RAYNE/RandomConvo_005_Intro_001">&lt;no&gt;They look like they are soft and fluffy, but like, when you are up there they are, like, not...</string>
+  <string name="RAYNE/RandomConvo_006_Intro_000">&lt;yes&gt;Even though I, like, spent most of my life in the sky, I feel like I’ve got this special connection to the earth somehow?</string>
+  <string name="RAYNE/RandomConvo_006_Intro_001">Do you know what I mean?</string>
+  <string name="RAYNE/RandomConvo_007_Intro_000">Out of all vegies, I think I like &lt;favouriteFood&gt; the best.</string>
+  <string name="RAYNE/RandomConvo_007_Intro_001">&lt;glee&gt;I could, like, eat them all day.</string>
+  <string name="RAYNE/RandomConvo_008_Intro_000">&lt;thinking&gt;If I’m quiet enough, sometimes it feels like I hear the trees whispering. It’s, like, hard to describe the sound...</string>
+  <string name="RAYNE/RandomConvo_008_Intro_001">&lt;thinking&gt;It kind of sounds like a gust of air, blowing through the leaves...</string>
+  <string name="RAYNE/RandomConvo_009_Intro_000">&lt;yes&gt;If you treat your crops with care, feed them and love them, then they will love you back. </string>
+  <string name="RAYNE/RandomConvo_009_Intro_001">&lt;glee&gt;You’ll get back more than you sow!</string>
+  <string name="RAYNE/RandomConvo_010_Intro_000">&lt;no&gt;A lot of people from &lt;SouthCity&gt; don’t know how to act around &lt;Nomads&gt; like me.</string>
+  <string name="RAYNE/RandomConvo_010_Intro_001">&lt;haha&gt;They get worried if you don’t know how to, like, fill out their paperwork.</string>
+  <string name="RAYNE/RandomConvo_010_Intro_002">&lt;proud&gt;Let alone if you start talking about the big wide world outside of &lt;SouthCity&gt;!</string>
+  <string name="RAYNE/RandomConvo_011_Intro_000">&lt;yes&gt;My family and I have been basically everywhere.</string>
+  <string name="RAYNE/RandomConvo_011_Intro_001">&lt;thinking&gt;I guess being a &lt;Nomads&gt; I, like, take it for granted…</string>
+  <string name="RAYNE/RandomConvo_011_Intro_002">But not everyone gets to be as lucky as I have been.</string>
+  <string name="RAYNE/RandomConvo_011_Intro_003">&lt;shy&gt; I’ve seen so much!</string>
+  <string name="RAYNE/RandomConvo_011_Intro_004">&lt;sigh&gt;I just wish I got to hang around a bit longer whenever we landed.</string>
+  <string name="RAYNE/RandomConvo_012_Intro_000">&lt;yes&gt;Trees can be, like, such crazy characters.</string>
+  <string name="RAYNE/RandomConvo_012_Intro_001">&lt;no&gt;They’re always throwing shade and I just can’t help but love them for it. </string>
+  <string name="RAYNE/RandomConvo_012_Intro_002">&lt;glee&gt;I guess it’s okay when it’s from your friends, right &lt;PlayerName&gt;?</string>
+  <string name="RAYNE/RandomConvo_013_Intro_000">&lt;thinking&gt;When I was younger, I used to, like, experiment with all kinds of crazy plants. </string>
+  <string name="RAYNE/RandomConvo_013_Intro_001">&lt;yes&gt;Sometimes you have to know what you don’t like before you find out what you do. </string>
+  <string name="RAYNE/RandomConvo_013_Intro_002">&lt;haha&gt;I found out I like everything just the same!</string>
+  <string name="RAYNE/RandomConvo_014_Intro_000">I’ve only been to &lt;SouthCity&gt; a few times before.</string>
+  <string name="RAYNE/RandomConvo_014_Intro_001">&lt;no&gt;It’s like, gross and cold and stuff.</string>
+  <string name="RAYNE/RandomConvo_014_Intro_002">&lt;no&gt;I didn’t see a single plant growing anywhere.</string>
+  <string name="RAYNE/RandomConvo_014_Intro_003">&lt;sigh&gt;Totally not bonza.</string>
+  <string name="RAYNE/RandomConvo_015_Intro_000">What exactly are &lt;PermitPoints&gt; anyway?</string>
+  <string name="RAYNE/RandomConvo_015_Intro_001">I didn’t grow up in &lt;SouthCity&gt;, so I’m not quite sure what they, like, do?</string>
+  <string name="RAYNE/RandomConvo_015_Intro_002">In fact I don’t really get the whole &lt;Licence&gt; thing.</string>
+  <string name="RAYNE/RandomConvo_015_Intro_003">Why can’t everyone just, like, do what they want and stuff?</string>
+  <string name="RAYNE/RandomConvo_016_Intro_000">I see you carrying around that &lt;Journal&gt; around a fair bit.</string>
+  <string name="RAYNE/RandomConvo_016_Intro_001">&lt;thinking&gt;You’re always opening it and stuff.</string>
+  <string name="RAYNE/RandomConvo_016_Intro_002">What’s it got in there anyway?</string>
+  <string name="RAYNE/RandomConvo_016_Intro_003">&lt;haha&gt;And where can I, like, get one of those?</string>
+  <string name="RAYNE/RandomConvo_017_Intro_000">I found a bunch of, like, shiny trash in the ground when I was planting the other day.</string>
+  <string name="RAYNE/RandomConvo_017_Intro_001">&lt;no&gt;It was, like, so cold and lifeless. </string>
+  <string name="RAYNE/RandomConvo_017_Intro_002">Who would even waste time making junk like that?</string>
+  <string name="RAYNE/RandomConvo_018_Intro_000">&lt;proud&gt;I think my plants can be a little like me sometimes.</string>
+  <string name="RAYNE/RandomConvo_018_Intro_001">&lt;glee&gt;But they just love the sun and are always reaching for the sky!</string>
+  <string name="RAYNE/RandomConvo_019_Intro_000">&lt;no&gt;Even after all these years, I still can’t get my head around how much can grow from so little.</string>
+  <string name="RAYNE/RandomConvo_019_Intro_001">Just one little seed can grow, like, massive? </string>
+  <string name="RAYNE/RandomConvo_020_Intro_000">&lt;yes&gt;I think it’s really bonza all the things you do around here, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/RandomConvo_020_Intro_001">&lt;shy&gt;You kinda, like, inspire me to do more things and stuff.</string>
+  <string name="RAYNE/RandomConvo_021_Intro_000">&lt;yes&gt;Tilling and planting can be a lot of hard work, but like, it's worth it.</string>
+  <string name="RAYNE/RandomConvo_021_Intro_001">You feel like, YOU did that, yeah?</string>
+  <string name="RAYNE/RandomConvo_021_Intro_002">&lt;glee&gt;YOU made that happen.</string>
+  <string name="RAYNE/RandomConvo_021_Intro_003">&lt;pumped&gt;Bonza.</string>
+  <string name="RAYNE/RandomConvo_022_Intro_000">&lt;thinking&gt;The rain saves me so much time watering plants sometimes.</string>
+  <string name="RAYNE/RandomConvo_022_Intro_001">&lt;no&gt;It's still a bummer though.</string>
+  <string name="RAYNE/RandomConvo_022_Intro_002">&lt;haha&gt;Like, good job, but go away already, right?</string>
+  <string name="RAYNE/RandomConvo_023_Intro_000">It can be hard to lose some of your crops. </string>
+  <string name="RAYNE/RandomConvo_023_Intro_001">&lt;no&gt;I don’t like to talk about it, but it like, happened to me once or twice.</string>
+  <string name="RAYNE/RandomConvo_023_Intro_002">&lt;glee&gt;Just look after them like you’ve been looking after me and everything will work out just fine. </string>
+  <string name="RAYNE/RandomConvo_024_Intro_000">When you started out here did you ever expect us to come so far?</string>
+  <string name="RAYNE/RandomConvo_024_Intro_001">&lt;thinking&gt;All this change and growth around &lt;IslandName&gt;.</string>
+  <string name="RAYNE/RandomConvo_024_Intro_002">&lt;glee&gt;It’s like, good job everybody!</string>
+  <string name="RAYNE/RandomConvo_025_Intro_000">You see so much from high up in an &lt;AirShip&gt;, but like, you don’t get to really connect with anything?</string>
+  <string name="RAYNE/RandomConvo_025_Intro_001">&lt;yes&gt;I feel super connected here though.</string>
+  <string name="RAYNE/RandomConvo_025_Intro_002">That’s got a lot to do with you, &lt;PlayerName&gt;, so, thanks!</string>
+  <string name="RAYNE/RandomConvo_026_Intro_000">The soil here is like, amazing for planting.</string>
+  <string name="RAYNE/RandomConvo_026_Intro_001">&lt;thinking&gt;So full of nutrients, like it just wants to help our little fellas grow.</string>
+  <string name="RAYNE/RandomConvo_026_Intro_002">It must be all the love and care we put into them, you think?</string>
+  <string name="RAYNE/RandomConvo_026_Option_000">Definitely!</string>
+  <string name="RAYNE/RandomConvo_026_Option_001">It’s just soil</string>
+  <string name="RAYNE/RandomConvo_026_Response_000_000">&lt;glee&gt;Well, lets like, keep it up!</string>
+  <string name="RAYNE/RandomConvo_026_Response_001_000">&lt;haha&gt;I guess it’s just me helping out, then!</string>
+  <string name="RAYNE/RandomConvo_027_Intro_000">I always kinda knew I was special?</string>
+  <string name="RAYNE/RandomConvo_027_Intro_001">Like, meant for something?</string>
+  <string name="RAYNE/RandomConvo_027_Intro_002">I sure hope it’s plant related…</string>
+  <string name="RAYNE/RandomConvo_027_Intro_003">&lt;haha&gt;Cos I’m like, all-in on this plant thing!</string>
+  <string name="RAYNE/RandomConvo_028_Intro_000">&lt;no&gt;You can’t do everything alone...</string>
+  <string name="RAYNE/RandomConvo_028_Intro_001">And even if you could, I don’t think you should?</string>
+  <string name="RAYNE/RandomConvo_028_Intro_002">You’re not going anywhere anytime soon, right &lt;PlayerName&gt;?</string>
+  <string name="RAYNE/RandomConvo_028_Option_000">No way!</string>
+  <string name="RAYNE/RandomConvo_028_Option_001">Maybe...</string>
+  <string name="RAYNE/RandomConvo_028_Response_000_000">&lt;glee&gt; Bonza, cos there’s so much more work to do!</string>
+  <string name="RAYNE/RandomConvo_028_Response_001_000">&lt;haha&gt;Well, you better not forget about me! </string>
+  <string name="RAYNE/RandomConvo_030_Intro_000">&lt;thinking&gt;Plants need strong healthy roots to reach their full potential.</string>
+  <string name="RAYNE/RandomConvo_030_Intro_001">&lt;yes&gt;I think people can be like that too, right?</string>
+  <string name="RAYNE/RandomConvo_030_Intro_002">&lt;glee&gt;Even if it takes some time and attention, a good support network is, like, so important to set up.</string>
+  <string name="RAYNE/RandomConvo_031_Intro_000">There’s just something about &lt;IslandName&gt; that makes my heart feel at home.</string>
+  <string name="RAYNE/RandomConvo_031_Intro_001">&lt;thinking&gt;I can’t quite pin it down...</string>
+  <string name="RAYNE/RandomConvo_031_Intro_002">I think maybe I, like, don’t want to? </string>
+  <string name="RAYNE/RandomConvo_031_Intro_003">&lt;yes&gt;When someplace is a good fit, you just know, know what I mean?</string>
+  <string name="RAYNE/RandomConvo_032_Intro_000">&lt;shy&gt;It’s, like, always a pleasure to see you, &lt;PlayerName&gt;. </string>
+  <string name="RAYNE/RandomConvo_032_Intro_001">&lt;glee&gt;The way you run around town helping everyone out, it’s like, totally bonza.</string>
+  <string name="RAYNE/RandomConvo_033_Intro_000">&lt;no&gt;I, like, never thought I would call one place home before.</string>
+  <string name="RAYNE/RandomConvo_033_Intro_001">&lt;shy&gt;Not until now at least!</string>
+  <string name="RAYNE/RandomConvo_033_Intro_002">&lt;no&gt;I guess I’m not a &lt;Nomad&gt; anymore. </string>
+  <string name="RAYNE/RandomConvo_033_Intro_003">I guess I’m, like, a &lt;IslandName&gt; resident!</string>
+  <string name="RAYNE/RandomConvo_034_Intro_000">&lt;shy&gt;You know, &lt;PlayerName&gt;, I consider you, like, one of my closest friends.</string>
+  <string name="RAYNE/RandomConvo_034_Intro_001">&lt;shy&gt;I feel like I should be more upfront with the people I care about.</string>
+  <string name="RAYNE/RandomConvo_034_Intro_002">&lt;haha&gt;So there. Was that like, upfront enough? </string>
+  <string name="RAYNE/RandomConvo_035_Intro_000">&lt;yes&gt;I feel like our friendship has, like, really grown, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/RandomConvo_035_Intro_001">&lt;haha&gt;And no one even had to water it!</string>
+  <string name="RAYNE/TownMention_Level_001_Intro_000">&lt;PlayerName&gt;, you’ve really done a great job getting &lt;IslandName&gt; up and running.</string>
+  <string name="RAYNE/TownMention_Level_001_Intro_001">This place is, like, going to be bonza. </string>
+  <string name="RAYNE/TownMention_Level_002_Intro_000">Have I mentioned how bonza &lt;IslandName&gt; is looking and stuff.</string>
+  <string name="RAYNE/TownMention_Level_002_Intro_001">It’s, like, looking better and better every day.</string>
+  <string name="RAYNE/TownMention_Level_002_Intro_002">&lt;glee&gt;And it’s all thanks to you, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/TownMention_Level_003_Intro_000">I love what you’ve been doing around here, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/TownMention_Level_003_Intro_001">&lt;yes&gt;You obviously, like, put a lot of work into the town. </string>
+  <string name="RAYNE/TownMention_Level_003_Intro_002">&lt;glee&gt;It’s so bonza having you around &lt;IslandName&gt;</string>
+  <string name="RAYNE/TownMention_Level_004_Intro_000">&lt;no&gt;I can’t believe this is the same &lt;IslandName&gt; I used to visit in my little tent!</string>
+  <string name="RAYNE/TownMention_Level_004_Intro_001">&lt;pumped&gt;This place is, like, amazing and stuff.</string>
+  <string name="RAYNE/TownMention_Level_004_Intro_002">&lt;yes&gt;You should be so proud of yourself, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/TownMention_Level_004_Intro_003">&lt;glee&gt;Keep up the bonza work!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="RAYNE/SkyFest_AfterNoon_000_Intro_000">&lt;pumped&gt;This is my favourite part of &lt;SkyFest&gt;!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="RAYNE/SkyFest_AfterNoon_000_Intro_001">&lt;glee&gt;The part where we all, like, get to fly a &lt;Kite&gt;!</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="RAYNE/SkyFest_AfterNoon_000_Intro_002">&lt;shy&gt;I used to love doing this with my family.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="RAYNE/SkyFest_AfterNoon_000_Intro_003">Chasing the &lt;PaperLanterns&gt; through the sky is the highlight of &lt;SkyFest&gt; for me.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sky Fest Prize Ticket -->
+  <string name="RAYNE/SkyFest_AfterNoon_000_Intro_004">&lt;shy&gt;It, like, reminds me of home!</string>
+  <string name="RAYNE/SkyFest_Morning_000_Intro_000">Hey, &lt;PlayerName&gt;!</string>
+  <string name="RAYNE/SkyFest_Morning_000_Intro_001">&lt;glee&gt;Happy &lt;SkyFest&gt;!</string>
+  <string name="RAYNE/SkyFest_Morning_000_Intro_002">This event is, like, really special to me.</string>
+  <string name="RAYNE/SkyFest_Morning_000_Intro_003">&lt;glee&gt;I’m so excited!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Night_000_Intro_000">Isn’t that &lt;Aurora&gt; amazing, &lt;PlayerName&gt;?</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Night_000_Intro_001">What a, like, totally bonza &lt;SkyFest&gt; Fletch has thrown for us.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Night_000_Intro_002">&lt;shy&gt;I thought I was going to have a hard time today. </string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Night_000_Intro_003">&lt;no&gt;Like, I really miss my family and stuff.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Night_000_Intro_004">&lt;glee&gt;But I guess everyone here on &lt;IslandName&gt; is, like, a new family.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Noon_000_Intro_000">I’ve made my &lt;Kite&gt;!</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Noon_000_Intro_001">It’s like, totally bonza.</string>
+  <!-- Talking about NPC: Fletch -->
+  <string name="RAYNE/SkyFest_Noon_000_Intro_002">&lt;glee&gt;I can't wait to fly it!</string>
+  <string name="RAYNE/LongConvo_001_Intro_000">Did you know, all the seeds I sell are from my own collection?</string>
+  <string name="RAYNE/LongConvo_001_Intro_001">&lt;shy&gt;I started collecting the seeds when I was, like, just a little girl.</string>
+  <string name="RAYNE/LongConvo_001_Intro_002">I would spend all the &lt;Dinks&gt; I had saved up and buy them wherever I could.</string>
+  <string name="RAYNE/LongConvo_001_Intro_003">I didn’t have a lot of space on my family’s &lt;AirShip&gt;. So I could only grow certain plants at certain times.</string>
+  <string name="RAYNE/LongConvo_001_Intro_004">I’ve always wanted some space to spread out, you know. Have a whole garden!</string>
+  <string name="RAYNE/LongConvo_001_Intro_005">&lt;haha&gt;Even though I spent so much time in the air, I guess I, like, always wanted to be down here in the dirt and stuff.</string>
+  <string name="RAYNE/LongConvo_001_Intro_006">That’s why I had to leave my family and stuff.</string>
+  <string name="RAYNE/LongConvo_001_Intro_007">&lt;sigh&gt;Although, I miss them a lot, you know &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/LongConvo_002_Intro_000">&lt;sigh&gt;Hey &lt;PlayerName&gt;...</string>
+  <string name="RAYNE/LongConvo_002_Intro_001">I’ve been kinda like, thinking about my family and stuff.</string>
+  <string name="RAYNE/LongConvo_002_Intro_002">I didn’t leave them on the best of terms…</string>
+  <string name="RAYNE/LongConvo_002_Intro_003">I guess you could say I kinda, like, ran away from them..</string>
+  <string name="RAYNE/LongConvo_002_Intro_004">&lt;boohoo&gt;I didn’t even leave a note or anything. I just jumped out of the &lt;AirShip&gt; one night.</string>
+  <string name="RAYNE/LongConvo_002_Intro_005">They didn’t understand that I wanted to stay in one place. </string>
+  <string name="RAYNE/LongConvo_002_Intro_006">I just wanted to get to know some people, you know, make friends with someone and stuff.</string>
+  <string name="RAYNE/LongConvo_002_Intro_007">&lt;pumped&gt; I do miss them, &lt;PlayerName&gt;. </string>
+  <string name="RAYNE/LongConvo_002_Intro_008">But to be honest with you, coming to &lt;IslandName&gt; is, like, the most bonza thing that has ever happened to me.</string>
+  <string name="RAYNE/LongConvo_002_Intro_009">I’ve gotten close to everyone here on the &lt;IslandName&gt;.</string>
+  <string name="RAYNE/LongConvo_002_Intro_010">Especially you, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/LongConvo_002_Intro_011">&lt;haha&gt;So, like, thanks for being my friend. My first friend!</string>
+  <string name="RAYNE/LongConvo_003_Intro_000">&lt;PlayerName&gt;, I just wanted to thank you.</string>
+  <string name="RAYNE/LongConvo_003_Intro_001">&lt;no&gt;Before I came to &lt;IslandName&gt; I’ve felt like I’ve never had a home.</string>
+  <string name="RAYNE/LongConvo_003_Intro_002">&lt;shy&gt;I’ve never been able to, like, put down roots, so to say.</string>
+  <string name="RAYNE/LongConvo_003_Intro_003">&lt;yes&gt;But thanks to you and everyone else here, &lt;IslandName&gt;, like, really feels like my home now.</string>
+  <string name="RAYNE/LongConvo_003_Intro_004">&lt;thinking&gt;It snuck up on me so slowly that I guess I didn’t notice it and stuff.</string>
+  <string name="RAYNE/LongConvo_003_Intro_005">&lt;shy&gt;So, yeah, like, thanks, &lt;PlayerName&gt;.</string>
+  <string name="RAYNE/LongConvo_003_Intro_006">&lt;glee&gt;I’m so happy to be here on &lt;IslandName&gt;!</string>
+  <string name="Npc0/Gossip_About_NPC_002_Intro_001">&lt;no&gt;They keep the birds away, but when I wave they never wave back.</string>
+  <string name="Npc0/Introduction_000_Intro_002">&lt;thinking&gt;Although I can only sell them to people who have a &lt;FarmingLicence&gt;.</string>
+  <string name="Npc0/Plant Shop Convo_Intro_000">Oh... hey.</string>
+  <string name="Npc0/Plant Shop Convo_Intro_001">How can I help?</string>
+  <string name="Npc0/RandomConvo_002_Intro_000">&lt;shy&gt;I, like, have a confession to make… I didn’t have a Farming Licence until recently…</string>
+</resources>

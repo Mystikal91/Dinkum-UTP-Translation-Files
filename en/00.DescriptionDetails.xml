@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="DescriptionDetails/Title_AddsATemporary">adds a temporary</string>
+  <string name="DescriptionDetails/Title_Bury">Bury</string>
+  <string name="DescriptionDetails/Title_Consumable">Consumable</string>
+  <string name="DescriptionDetails/Title_Consuming">Consuming</string>
+  <string name="DescriptionDetails/Title_ContinuesToProduce">Continues to produce</string>
+  <string name="DescriptionDetails/Title_Damage">Damage</string>
+  <string name="DescriptionDetails/Title_GrowsOver">Grows over</string>
+  <string name="DescriptionDetails/Title_Health">health</string>
+  <string name="DescriptionDetails/Title_Plantable">Plantable</string>
+  <string name="DescriptionDetails/Title_Produces">Produces</string>
+  <string name="DescriptionDetails/Title_Restores">restores</string>
+  <string name="DescriptionDetails/Title_Stamina">stamina</string>
+  <string name="DescriptionDetails/Title_TilledSoil">Tilled Soil</string>
+  <string name="DescriptionDetails/Title_Weapon">Weapon</string>
+  <string name="DescriptionDetails/Title_days">days</string>
+</resources>

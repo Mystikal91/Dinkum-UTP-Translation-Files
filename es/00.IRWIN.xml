@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IRWIN/AlreadyAnimalInShop_Intro_000">&lt;shocked&gt;Oh, espera!</string>
+    <string name="IRWIN/AlreadyAnimalInShop_Intro_001">&lt;yes&gt;Tenemos un animal aquí esperando que lo lleves a su nuevo hogar....</string>
+    <string name="IRWIN/AlreadyAnimalInShop_Intro_002">¿Por qué no sacas primero a los animales fuera de sus cajas?</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Intro_000">Oh! Ese es un &lt;buyItemName&gt;.</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Intro_000">Oh! Ese es un &lt;buyItemName&gt;.</string>
+</resources>

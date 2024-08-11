@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SALLY/CompleteBirthday_000_Intro_001">&lt;shy&gt;Este en un bonito regalo de &lt;birthday&gt; .</string>
+    <string name="SALLY/CompleteBirthday_000_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+    <string name="SALLY/CompleteBirthday_000_Intro_002">&lt;glee&gt;Muchas gracias.</string>
+    <string name="SALLY/RandomConvo_005_Intro_002">&lt;shocked&gt;Oh, espera!</string>
+</resources>

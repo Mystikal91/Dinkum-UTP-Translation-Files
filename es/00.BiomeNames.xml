@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BiomeNames/Beach">Playa</string>
+    <string name="BiomeNames/Tropics">Trópicos</string>
+    <string name="BiomeNames/Tropical">Tropical</string>
+    <string name="BiomeNames/OceanShallows">Océano poco Profundo</string>
+    <string name="BiomeNames/TropicalIsland">Isla Tropical</string>
+    <string name="BiomeNames/Billabong">Billabong</string>
+    <string name="BiomeNames/BillabongWater">Agua de Billabong</string>
+    <string name="BiomeNames/Bushland">Matorral</string>
+    <string name="BiomeNames/Bushlands">Matorrales</string>
+    <string name="BiomeNames/Desert">Desierto</string>
+    <string name="BiomeNames/PineForest">Bosque de Pinos</string>
+    <string name="BiomeNames/Plains">Planicie</string>
+    <string name="BiomeNames/Ocean">Océano</string>
+    <string name="BiomeNames/RoughSoil">Suelo rocoso</string>
+    <string name="BiomeNames/River">Rio</string>
+    <string name="BiomeNames/Unknown">Desconocido</string>
+    <string name="BiomeNames/Mangroves">Manglares</string>
+    <string name="BiomeNames/RockyIsland">Isla Rocosa</string>
+    <string name="BiomeNames/WarmOcean">Océano Cálido</string>
+    <string name="BiomeNames/ColdOcean">Océano Frio</string>
+    <string name="BiomeNames/Quary">Cantera</string>
+    <string name="BiomeNames/CassowaryNest">Nido de Wary Mu</string>
+    <string name="BiomeNames/BunyipDen">Guarida de Bush Devil</string>
+    <string name="BiomeNames/DingoDen">Madriguera de Dingo</string>
+    <string name="BiomeNames/ShellSpace">Espacio de Ostra</string>
+</resources>

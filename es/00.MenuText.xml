@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MenuText/MainMenu_Back">Volver</string>
+    <string name="MenuText/MainMenu_HostWorld">Cargar Partida</string>
+    <string name="MenuText/MainMenu_JoinWorld">Multijugador</string>
+    <string name="MenuText/Multiplayer" resizable="True">Multijugador</string>
+</resources>

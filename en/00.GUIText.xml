@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Used in the button to go Back a Screen -->
+  <string name="GUIText/Back" autoSizeTextContainer="True">Back</string>
+  <string name="GUIText/Milestones">Milestones</string>
+  <string name="GUIText/DailyMilestones" resizable="True">Daily Milestones</string>
+  <string name="GUIText/Tasks">Tasks</string>
+  <string name="GUIText/NoTasksCurrently">No Tasks Currently</string>
+  <string name="GUIText/Pedia">Pedia</string>
+  <string name="GUIText/Fish">Fish</string>
+  <string name="GUIText/Bugs">Bugs</string>
+  <string name="GUIText/Critters">Critters</string>
+  <string name="GUIText/People">People</string>
+  <string name="GUIText/NoCaught">No. Caught</string>
+  <string name="GUIText/Habitat">Habitat</string>
+  <string name="GUIText/TimeFound">Time Found</string>
+  <string name="GUIText/Season">Season</string>
+  <string name="GUIText/MyDetails">My Details</string>
+  <string name="GUIText/MyID">My ID</string>
+  <string name="GUIText/MyLicences">My Licences</string>
+  <string name="GUIText/Farming">Farming</string>
+  <string name="GUIText/Foraging">Foraging</string>
+  <string name="GUIText/Mining">Mining</string>
+  <string name="GUIText/Fishing">Fishing</string>
+  <string name="GUIText/Hunting">Hunting</string>
+  <string name="GUIText/BugCatching">Bug Catching</string>
+  <string name="GUIText/Photos">Photos</string>
+  <string name="GUIText/Animals">Animals</string>
+  <string name="GUIText/FarmAnimals" resizable="True">Farm Animals</string>
+  <string name="GUIText/All">All</string>
+  <string name="GUIText/Options">Options</string>
+  <string name="GUIText/Settings">Settings</string>
+  <string name="GUIText/Help">Help</string>
+  <string name="GUIText/QuitToMainMenu" resizable="True">Quit To Main Menu</string>
+  <string name="GUIText/QuitToDesktop" resizable="True">Quit To Desktop</string>
+  <string name="GUIText/SinglePlayer" resizable="True">Single Player</string>
+  <string name="GUIText/Pause">Pause</string>
+  <string name="GUIText/Paused">Paused</string>
+  <string name="GUIText/PressStartorEntertoreturntothegame">Press Start or Enter to return to the game</string>
+  <string name="GUIText/Areyousureyouwanttoquit">Are you sure you want to quit?</string>
+  <string name="GUIText/Youwillloseallprogressfromthelasttimeyouslept">You will lose all progress from the last time you slept.</string>
+  <string name="GUIText/Cancel">Cancel</string>
+  <string name="GUIText/Quit">Quit</string>
+  <string name="GUIText/Empty">Empty</string>
+  <string name="GUIText/Multiplayer" resizable="True">Multiplayer</string>
+  <string name="GUIText/LANIP">LAN IP</string>
+  <string name="GUIText/INVITE" resizable="True">INVITE</string>
+  <string name="GUIText/KICK" resizable="True">KICK</string>
+  <!-- Used in the button to open letters -->
+  <string name="GUIText/Open">Open</string>
+  <string name="GUIText/NoNewMail">No New Mail</string>
+  <string name="GUIText/CollectDeleteAll">Collect &amp; Delete All</string>
+  <string name="GUIText/SELECT">SELECT</string>
+  <string name="GUIText/CraftedStack">Crafted Stack:</string>
+  <string name="GUIText/Ingredients">Ingredients</string>
+  <string name="GUIText/Withdraw">Withdraw</string>
+  <string name="GUIText/Deposit">Deposit</string>
+  <string name="GUIText/sprite15Convert">&lt;sprite=15&gt;Convert</string>
+  <string name="GUIText/MAX">MAX</string>
+  <!-- Used in the bank to clear the selected amount -->
+  <string name="GUIText/C">C</string>
+  <string name="GUIText/Confirm">Confirm</string>
+  <string name="GUIText/Confirm Conversion">Confirm Conversion</string>
+  <string name="GUIText/FishStatus">Fish Status</string>
+  <string name="GUIText/Feedthefishacritter">Feed the fish a critter?</string>
+  <string name="GUIText/FishNursery">Fish Nursery</string>
+  <string name="GUIText/Nothinghere">Nothing here</string>
+  <string name="GUIText/Thefishlookhappy">The fish look happy!</string>
+  <string name="GUIText/Map">Map</string>
+  <string name="GUIText/ItemsRequired">Items Required</string>
+  <string name="GUIText/DinksEarned" autoSizeTextContainer="True">Dinks Earned</string>
+  <string name="GUIText/Teletothistower">Tele to this tower?</string>
+  <string name="GUIText/loading">loading</string>
+  <string name="GUIText/Today">Today</string>
+  <string name="GUIText/Tomorrow">Tomorrow</string>
+  <string name="GUIText/Bulletins">Bulletins</string>
+  <string name="GUIText/Calendar">Calendar</string>
+  <!-- Short for SUNDAY -->
+  <string name="GUIText/SUN">SUN</string>
+  <!-- Short for MONDAY -->
+  <string name="GUIText/MON">MON</string>
+  <!-- Short for TUESDAY -->
+  <string name="GUIText/TUE">TUE</string>
+  <!-- Short for WEDNESDAY -->
+  <string name="GUIText/WED">WED</string>
+  <!-- Short for THURSDAY -->
+  <string name="GUIText/THU">THU</string>
+  <!-- Short for FRIDAY -->
+  <string name="GUIText/FRI">FRI</string>
+  <!-- Short for SATURDAY -->
+  <string name="GUIText/SAT">SAT</string>
+  <string name="GUIText/Reward">Reward</string>
+  <string name="GUIText/AcceptRequest">Accept Request</string>
+  <string name="GUIText/Revive">Revive</string>
+  <string name="GUIText/Youhavepassedout">You have passed out!</string>
+  <!-- On sign writing window -->
+  <string name="GUIText/Whatsitsay">What's it say?</string>
+  <!-- On sign writing window -->
+  <string name="GUIText/Done">Done</string>
+  <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Keeping Track of recipe ingredients</string>
+  <string name="GUIText/Staminaandhealth">Stamina and health</string>
+  <string name="GUIText/Buffs">Buffs</string>
+  <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1. \nThis circle represents your health tick.\nEvery time this circle is filled, you will regain health equal to your health per tick.\nA health tick is normally 20 seconds, but it can be sped up by sitting down, and by other means.</string>
+  <string name="GUIText/2ThiscirclerepresentsyourcurrentfullnessGenerallyyoucanonlyeat3thingsYoushouldpaycloseattentiontowhatfoodsyoueatasallfoodhascertainstrengthsandweaknesses">2.\nThis circle represents your current fullness.\nGenerally you can only eat 3 things.\nYou should pay close attention to what foods you eat, as all food has certain strengths and weaknesses.</string>
+  <string name="GUIText/3ThesearethecurrentfoodsthatyouhaveeatenThetimerbeloweachfoodshowshowlongthefoodseffectwilllastOnceitdoesafullnesswillberemovedfromyourfullnesscircle">3.\nThese are the current foods that you have eaten.\nThe timer below each food shows how long the food’s effect will last.\nOnce it does, a fullness will be removed from your fullness circle.</string>
+  <string name="GUIText/4ThisshowsthecurrentamountofhealthyouwillrecoveroneachhealthtickThisamountisdeterminedbythecurrenteffectofaneatenfoodAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">4.\nThis shows the current amount of health you will recover on each health tick.\nThis amount is determined by the current effect of an eaten food.\nA health tick is normally 20 seconds, but it can be sped up by sitting down, and by other means.</string>
+  <string name="GUIText/5ThisshowsthecurrentamountofstaminayouwillreceivepersecondThisamountisdeterminedbythecurrenteffectofaneatenfoodPlayersshouldmakethisnumberaslargeaspossiblewhendoingstrenuoustasks">5.\nThis shows the current amount of stamina you will receive per second.\nThis amount is determined by the current effect of an eaten food.\nPlayers should make this number as large as possible when doing strenuous tasks.</string>
+  <string name="GUIText/6HowlongacertainfoodseffectswillremainThisincludeshowlongthefoodwillkeepyoufull">6:\nHow long a certain food’s effects will remain.\nThis includes how long the food will keep you full.</string>
+  <string name="GUIText/7HowmuchhealthregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrenthealthregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">7:\nHow much health regen a certain food will give you once eaten.\nThis will add to your current health regen amount if eaten.\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/8HowmuchstaminaregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrentstaminaregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">8:\nHow much stamina regen a certain food will give you once eaten.\nThis will add to your current stamina regen amount if eaten.\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/9HowmuchyourhealthbarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrenthealthbarifeatenThiswillonlylastforthefoodstotaleffecttime">9:\nHow much your health bar will be increased by eating this food.\nThis will add to your current health bar if eaten.\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/10HowmuchyourstaminabarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrentstaminabarifeatenThiswillonlylastforthefoodstotaleffecttime">10:\nHow much your stamina bar will be increased by eating this food.\nThis will add to your current stamina bar if eaten.\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/HealthRegen">Health Regen:</string>
+  <string name="GUIText/Thisistheamountofhealthyouwillrecovereachhealthtick">This is the amount of health you will recover each health tick.</string>
+  <string name="GUIText/StaminaRegen">Stamina Regen:</string>
+  <string name="GUIText/Thisistheamountofstaminayouwillrecoverpersecond">This is the amount of stamina you will recover per second.</string>
+  <string name="GUIText/Sitting">Sitting</string>
+  <string name="GUIText/IncreasesthespeedofhealthregenerationtickThisisenabledbysittinginachair">Increases the speed of health regeneration tick. This is enabled by sitting in a chair.</string>
+  <string name="GUIText/WellRestedBuff">Well Rested Buff</string>
+  <string name="GUIText/Givesplayersasmallstaminaboostinthemorningaftersleepingindoors">Gives players a small stamina boost in the morning after sleeping indoors.</string>
+  <string name="GUIText/FullnessTimer">Fullness Timer</string>
+  <string name="GUIText/Showshowlongafoodseffectwilllast">Shows how long a foods effect will last.</string>
+  <string name="GUIText/MiningBuff">Mining Buff</string>
+  <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenmining">Increases the damage dealt by your tools when mining.</string>
+  <string name="GUIText/LoggingBuff">Logging Buff</string>
+  <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenlogging">Increases the damage dealt by your tools when logging.</string>
+  <string name="GUIText/HuntingBuff">Hunting Buff</string>
+  <string name="GUIText/Increasesthedamagedealtbyyourweaponswhenfighting">Increases the damage dealt by your weapons when fighting.</string>
+  <string name="GUIText/DefenceBuff">Defence Buff</string>
+  <string name="GUIText/Decreasesthedamagedealtbyenemies">Decreases the damage dealt by enemies.</string>
+  <string name="GUIText/FishingBuff">Fishing Buff</string>
+  <string name="GUIText/Increasesthespeedyourcharactercanreelinfish">Increases the speed your character can reel in fish</string>
+  <string name="GUIText/SpeedBuff">Speed Buff</string>
+  <string name="GUIText/Increasesthespeedyourcharactercanrun">Increases the speed your character can run.</string>
+  <string name="GUIText/ExperienceBuff">Experience Buff</string>
+  <string name="GUIText/IncreasestheamountofXPplayersearnfromactivities">Increases the amount of XP players earn from activities.</string>
+  <string name="GUIText/Sickness">Sickness</string>
+  <string name="GUIText/Causescharacterstoconsumestaminaandpreventseating">Causes characters to consume stamina and prevents eating.</string>
+  <string name="GUIText/SwimmingBuff">Swimming Buff</string>
+  <string name="GUIText/Increasesthespeedyourcharactercanswim">Increases the speed your character can swim.</string>
+  <string name="GUIText/SleeplessBuff">Sleepless Buff</string>
+  <string name="GUIText/AllowsplayerstosavesomeenergypastLateenablinglatenightactivities">Allows players to save some energy past Late, enabling late night activities.</string>
+  <string name="GUIText/Diligentbuff">Diligent buff</string>
+  <string name="GUIText/Stopsnonpowertoolsfromtakingdurabilitywhentheyareused">Stops non-power tools from taking durability when they are used.</string>
+  <string name="GUIText/Chargedbuff">Charged buff</string>
+  <string name="GUIText/Stopspowertoolsfromtakingdurabilitywhentheyareused">Stops power tools from taking durability when they are used.</string>
+  <string name="GUIText/HealthTickSpeedBuff">Health Tick Speed Buff</string>
+  <string name="GUIText/HealthTickspeedisincreasedforfasterhealthregen">Health Tick speed is increased for faster health regen</string>
+  <string name="GUIText/Movearound">Move around</string>
+  <string name="GUIText/Movecamera">Move camera</string>
+  <string name="GUIText/HoldWhilemovingmouse">(Hold) While moving mouse</string>
+  <string name="GUIText/EnterFreeCam">Enter Free Cam</string>
+  <string name="GUIText/OpenPockets">Open Pockets</string>
+  <string name="GUIText/OpenJournal">Open Journal</string>
+</resources>

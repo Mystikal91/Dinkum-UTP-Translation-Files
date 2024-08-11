@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Bulletinboard/Bring">Принести &lt;npcName&gt; &lt;itemAmount&gt; &lt;itemName&gt;</string>
+    <string name="Bulletinboard/Capture">Принести &lt;animalName&gt; в точку доставки за двойное вознаграждение.</string>
+    <string name="Bulletinboard/Collect">Собрать &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/DayAgo">день назад</string>
+    <string name="Bulletinboard/DaysAgo">дня назад</string>
+    <string name="Bulletinboard/Hunt">Убить &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
+    <string name="Bulletinboard/MonthAgo">месяц назад</string>
+    <string name="Bulletinboard/MonthsAgo">месяца назад</string>
+    <string name="Bulletinboard/Photograph">Сфотографировать &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/TalkTo">Поговорить с &lt;npcName&gt;</string>
+    <string name="Bulletinboard/ThePhotograph">фотографию</string>
+    <string name="Bulletinboard/ToADropOffPoint">в точку доставки за двойное вознаграждение</string>
+    <string name="Bulletinboard/Today">сегодня</string>
+    <string name="Bulletinboard/WeekAgo">неделю назад</string>
+    <string name="Bulletinboard/WeeksAgo">недели назад</string>
+    <string name="Bulletinboard/YearAgo">год назад</string>
+    <string name="Bulletinboard/YearsAgo">года назад</string>
+    <string name="Bulletinboard/Yesterday">вчера</string>
+    <string name="Bulletinboard/BringCaptured">Принести</string>
+    <string name="Bulletinboard/Show">Показать фотографию &lt;npcName&gt;</string>
+</resources>

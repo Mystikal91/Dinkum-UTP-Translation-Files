@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ToolTips/CancelConvo_0">算了</string>
+    <string name="ToolTips/GiveItem_0">给你！</string>
+    <string name="ToolTips/GiveItem_1">这是给你的！</string>
+    <string name="ToolTips/Tip_Buy">买</string>
+    <string name="ToolTips/Tip_Cancel">取消</string>
+    <string name="ToolTips/Tip_ClerkBusy">克莱克在忙</string>
+    <string name="ToolTips/Tip_Close">关闭</string>
+    <string name="ToolTips/AskToChat_1">有什么新消息？</string>
+    <string name="ToolTips/AskToChat_2">来聊聊！</string>
+    <string name="ToolTips/AskToHangOut_0">一起出去玩吧！</string>
+    <string name="ToolTips/AskForJob_1">需要什么？</string>
+    <string name="ToolTips/AskToChat_0">来聊天吧！</string>
+    <string name="ToolTips/AskToChat_3">什么事？</string>
+    <string name="ToolTips/Hover_Sitting">坐着</string>
+    <string name="ToolTips/Hover_Fullness">饱腹</string>
+</resources>

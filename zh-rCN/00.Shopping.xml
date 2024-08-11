@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Shopping/NoSpaceInInvToBuy_Intro_000">噢！&lt;shocked&gt;</string>
+    <string name="Shopping/TotalEqualsZero_Response_001_000">没关系，如果你想卖点其他的就回来找我。</string>
+    <string name="Shopping/AskAboutKeys_Response_001_000">嗯……</string>
+    <string name="Shopping/AskAboutBoomBox_Option_001">不了，谢谢。</string>
+    <string name="Shopping/AskAboutItem_Option_001">不了，谢谢。</string>
+    <string name="Shopping/AskAboutKeys_Option_001">不了，谢谢。</string>
+    <string name="Shopping/AskAboutRecipe_Option_001">不了，谢谢。</string>
+    <string name="Shopping/AskAboutSeeds_Option_001">不了，谢谢。</string>
+    <string name="Shopping/SomethingToSell_Option_001">不了，谢谢。</string>
+    <string name="Shopping/SomethingToSell_RaffleTickets_Option_001">不了，谢谢。</string>
+    <string name="Shopping/WantToBuyAnimalNonLocal_Option_001">不了，谢谢。</string>
+    <string name="Shopping/AskAboutAnimal_Option_001">不了，谢谢。</string>
+</resources>

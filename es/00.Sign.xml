@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Sign/AcceptingDonations_Intro_001">Por favor, considere hacer un donativo a nuestra ciudad.</string>
+    <string name="Sign/AcceptingDonations_Option_000">Donar</string>
+    <string name="Sign/AcceptingDonations_Option_001">No gracias.</string>
+    <string name="Sign/EditHouseSign_Option_000">Si</string>
+    <string name="Sign/HairDresserMirror_Option_000">Si</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MenuText/MainMenu_HostWorld">Laad Spel</string>
+    <string name="MenuText/MainMenu_JoinWorld">Multiplayer</string>
+    <string name="MenuText/MainMenu_NewGame">Nieuw Spel</string>
+    <string name="MenuText/MainMenu_Options">Opties</string>
+    <string name="MenuText/MainMenu_Back">Terug</string>
+    <string name="MenuText/Multiplayer" resizable="True">Multiplayer</string>
+</resources>

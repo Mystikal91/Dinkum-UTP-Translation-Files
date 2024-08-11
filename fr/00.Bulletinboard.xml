@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Bulletinboard/BringCaptured">Apportez capturé</string>
+    <string name="Bulletinboard/Collect">Collecter &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/DayAgo">il y a un jour</string>
+    <string name="Bulletinboard/DaysAgo">il y a quelques jours</string>
+    <string name="Bulletinboard/MonthAgo">il y a un mois</string>
+    <string name="Bulletinboard/MonthsAgo">il y a quelques mois</string>
+    <string name="Bulletinboard/Photograph">Photographie &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/TalkTo">Parle à &lt;npcName&gt;</string>
+    <string name="Bulletinboard/ThePhotograph">la photo</string>
+    <string name="Bulletinboard/ToADropOffPoint">à un point de dépôt pour une récompense accrue</string>
+    <string name="Bulletinboard/Today">aujourd\'hui</string>
+    <string name="Bulletinboard/WeekAgo">il y a une semaine</string>
+    <string name="Bulletinboard/WeeksAgo">il y a quelques semaines</string>
+    <string name="Bulletinboard/YearAgo">il y a un an</string>
+    <string name="Bulletinboard/YearsAgo">il y a des années</string>
+    <string name="Bulletinboard/Yesterday">hier</string>
+    <string name="Bulletinboard/Bring">Apportez &lt;npcName&gt; &lt;itemAmount&gt; &lt;itemName&gt;</string>
+    <string name="Bulletinboard/Capture">Apportez &lt;animalName&gt; à un point de dépôt pour une récompense accrue.</string>
+    <string name="Bulletinboard/Hunt">Chasse &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
+    <string name="Bulletinboard/Show">Montre la photo à &lt;npcName&gt;</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Quest/QuestName_Q_0_FirstQuest1">Una Base Operativa</string>
+    <string name="Quest/QuestDesc_Q_0_FirstQuest1">Sei arrivato sull\'isola! Fletch ti ha dato una Tenda Base e ti ha chiesto di guardarti intorno e di trovare un posto dove vorresti stabilirti.
+\n
+\nSentiti libero di fare domande a Fletch sull\'isola. Puoi trovarla in giro vicino al Molo.</string>
+    <string name="Quest/QuestName_Q_1_SetUpPlayerTent">La tua nuova casa!</string>
+    <string name="Quest/QuestDesc_Q_1_SetUpPlayerTent">Fletch ti ha dato la tua Tenda! Questa sarà la tua casa per il momento, quindi decidi con calma dove sistemarla. Fletch ha suggerito di sistemarla vicino alla Tenda Base.
+\n
+\nUna volta montata la tua tenda, parla con Fletch.
+\n</string>
+    <string name="Quest/QuestName_Q_2_SetupMarketplace">Un luogo per i visitatori</string>
+    <string name="Quest/QuestDesc_Q_2_SetupMarketplace">Fletch ti ha chiesto di trovare un posto per l\'Atto del Posto degli Ospiti. Una volta che questo atto sarà stato posizionato, il tuo accampamento sarà pronto ad accogliere viaggiatori da ogni dove!
+\n
+\nRitorna da Fletch una volta che l\'atto è stato posizionato.</string>
+    <string name="Quest/QuestName_Q_3_FindSomeFood">Raccoglitore</string>
+    <string name="Quest/QuestDesc_Q_3_FindSomeFood">Fletch ti ha chiesto di trovare della frutta e di cucinarla sul fuoco. Questa operazione sarà conteggiata tra i tuoi compiti giornalieri.</string>
+    <string name="Quest/QuestName_Q_4_WaitUntilNextDay">R n\' R</string>
+    <string name="Quest/QuestName_Q_5_GetTalbeSaw">Dink e Seghe da tavolo</string>
+    <string name="Quest/QuestDesc_Q_5_GetTalbeSaw">Fletch ti ha chiesto di acquistare una Sega da Banco nel negozio di John. Prova a vendere gli oggetti indesiderati a John per ottenere i Dink di cui hai bisogno.</string>
+    <string name="Quest/QuestName_Q_6_FurnaceQuest">Materiali da costruzione</string>
+    <string name="Quest/QuestName_Q_7_BringTinBar">Fusione del minerale</string>
+    <string name="Quest/QuestDesc_Q_7_BringTinBar">Realizza una Fornace Grezza, inserisci 5 Minerali di Stagno all\'interno e aspetta.
+\n
+\nPorta a Fletch il Lingotto di Stagno una volta completata la fusione.</string>
+    <string name="Quest/QuestName_Q_8_GetJohnToMoveIn">Convincere John a rimanere</string>
+    <string name="Quest/QuestName_Q_9_NPCMoveInQuest1">Costruire una casa</string>
+    <string name="Quest/QuestDesc_Q_9_NPCMoveInQuest1">Costruisci una casa per i nuovi cittadini.</string>
+    <string name="Quest/QuestName_Q_10_NPCMoveInQuest2">Costruire una casa</string>
+    <string name="Quest/QuestDesc_Q_10_NPCMoveInQuest2">Costruisci una casa per i nuovi cittadini.</string>
+    <string name="Quest/QuestName_Q_11_NPCMoveInQuest3">Costruire una casa</string>
+    <string name="Quest/QuestDesc_Q_11_NPCMoveInQuest3">Costruisci una casa per i nuovi cittadini.</string>
+    <string name="Quest/QuestName_Q_12_NPCMoveInQuest4">Costruire una casa</string>
+    <string name="Quest/QuestDesc_Q_12_NPCMoveInQuest4">Costruisci una casa per i nuovi cittadini.</string>
+    <string name="Quest/QuestName_Q_13_BuildBankQuest">Costruisci una banca</string>
+    <string name="Quest/QuestDesc_Q_13_BuildBankQuest">Costruisci una banca per la città.</string>
+    <string name="Quest/QuestName_Q_14_JohnLevel75">John livello 75</string>
+    <string name="Quest/QuestName_Q_16_IrwinLevel20">Posiziona la Cuccia per Cani</string>
+    <string name="Quest/QuestDesc_Q_16_IrwinLevel20">Posiziona la Cuccia per Cani e parla con Irwin.</string>
+    <string name="Quest/QuestName_Q_17_Get5Residents">In Cinque è una Città</string>
+    <string name="Quest/QuestName_Q_18_RayneLevel75">Rayne Livello 75</string>
+    <string name="Quest/QuestName_Q_19_GuestHouseQuest">Ottieni l\'Atto della Casa</string>
+    <string name="Quest/QuestName_Q_20_BuildTheBandStand">Costruisci il Chiosco della Musica</string>
+    <string name="Quest/QuestDesc_Q_20_BuildTheBandStand">Costruisci il chiosco della musica</string>
+    <string name="Quest/QuestName_Q_21FindBerkonium">Trova il Berkonio</string>
+    <string name="Quest/QuestDesc_Q_21FindBerkonium">Franklyn mi ha chiesto di trovare altro minerale di Berkonio e di consegnarglielo.</string>
+    <string name="Quest/QuestName_Q_22UnlockAirPort">Trova il Berkonio</string>
+    <string name="Quest/QuestDesc_Q_22UnlockAirPort">Franklyn mi ha chiesto di trovare altro minerale di Berkonio e di consegnarglielo.</string>
+    <string name="Quest/QuestDesc_Q_4_WaitUntilNextDay">Fletch non ha nient\'altro per te oggi. Dai un\'occhiata all\'isola, cattura qualche insetto o riposati un po\'.</string>
+    <string name="Quest/QuestDesc_Q_8_GetJohnToMoveIn">Fletch pensa che facendo favori ai visitatori e spendendo soldi nei loro negozi, questi potrebbero essere convinti a rimanere in modo permanente.</string>
+    <string name="Quest/QuestDesc_Q_6_FurnaceQuest">Fletch ti ha chiesto di acquistare una lista di oggetti. Dovrai creare un falò.
+\n
+\nUna volta raccolti gli oggetti, Fletch ti insegnerà a creare dei Lingotti di Stagno.</string>
+    <string name="Quest/QuestDesc_Q_17_Get5Residents">&lt;IslandName&gt; ha bisogno di 5 residenti permanenti prima che Città del Sud la riconosca come insediamento ufficiale.
+\n
+\nFare favori e spendere Dink nelle tende dei visitatori potrebbe incoraggiarli a rimanere.</string>
+    <string name="Quest/QuestName_Q_15_FranklynTeleporterQuest">Teletrasporto</string>
+</resources>

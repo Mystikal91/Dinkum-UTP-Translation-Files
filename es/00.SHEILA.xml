@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SHEILA/CompleteBirthday_000_Intro_000">&lt;pumped&gt;Oh, pero que regalo de &lt;birthday&gt; tan lindo!</string>
+    <string name="SHEILA/CompleteBirthday_000_Intro_001">&lt;yes&gt;Eres tan gentil conmigo, &lt;PlayerName&gt;.</string>
+    <string name="SHEILA/CompleteBirthday_000_Intro_002">&lt;glee&gt;¡Gracias!</string>
+</resources>

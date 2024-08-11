@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FRANKLIN/Arvo_Greeting 0_Intro_000">Oh, eine postmeridianische Interaktion?</string>
+    <string name="FRANKLIN/CrafterCurrentlyCrafting_Option_001">Ich möchte chatten.</string>
+    <string name="FRANKLIN/LearntNewTech_Intro_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FRANKLIN/CanMakeTechForYouNotEnoughMoney_Response_000_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FRANKLIN/CrafterShopConversation_Option_002">Ich möchte chatten.</string>
+</resources>

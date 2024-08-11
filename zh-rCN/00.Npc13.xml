@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc13/FishingCompConvo_InCompNotStarted_Intro_000">&lt;yes&gt;日安，&lt;PlayerName&gt;！</string>
+    <string name="Npc13/FishingCompConvo_InComp_Intro_000">&lt;yes&gt;日安，&lt;PlayerName&gt;！</string>
+    <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Option_002">算了吧。</string>
+    <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Response_000_000">&lt;glee&gt;噢，好的谢谢。</string>
+    <string name="Npc13/BugCatchingCompConvo_InComp_Option_002">算了吧。</string>
+    <string name="Npc13/BugCatchingCompConvo_InComp_Response_002_000">&lt;glee&gt;玩的开心！</string>
+    <string name="Npc13/BugCatchingCompConvo_InComp_Response_000_000">&lt;glee&gt;噢，好的谢谢。</string>
+    <string name="Npc13/BugCatchingCompEnded_Option_002">算了吧。</string>
+    <string name="Npc13/FishingCompConvo_InComp_Option_002">算了吧。</string>
+    <string name="Npc13/FishingCompConvo_InCompNotStarted_Option_002">算了吧。</string>
+    <string name="Npc13/BugCatchingCompEnded_Response_002_000">&lt;glee&gt;玩的开心！</string>
+    <string name="Npc13/FishingCompConvo_InCompNotStarted_Response_000_000">行。</string>
+    <string name="Npc13/BugCatchingCompEnded_Response_000_000">&lt;glee&gt;噢，好的谢谢。</string>
+    <string name="Npc13/FishingCompConvo_InComp_Response_000_000">我可以收走所有你有的鱼。</string>
+    <string name="Npc13/FishingCompEnded_Option_002">算了吧。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_002_000">行。</string>
+    <string name="Npc13/FishingCompConvo_InCompNotStarted_Response_002_000">回头见，&lt;PlayerName&gt;。</string>
+    <string name="Npc13/FishingCompEnded_Response_000_000">&lt;yes&gt;会的</string>
+    <string name="Npc13/FishingCompEnded_Response_002_000">&lt;glee&gt;玩的开心！</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_000_000">&lt;yes&gt;没错。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_000_001">&lt;compBook&gt;在桌子上，你可以去那里登记。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_000_002">规则也会在里面说明，以防你不知道竞赛是怎么进行的。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_001_000">只要你登记了，竞赛就开始了，尽你可能多地抓住&lt;itemName&gt;。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_001_001">每一个&lt;itemName&gt;都能拿一分。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_001_002">你在&lt;compBook&gt;中最后一次登记的分数将是你的最终分数。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Response_001_003">你可以在&lt;bugCompEndTime&gt;之前随时在&lt;compBook&gt;更新你的分数。</string>
+    <string name="Npc13/BugCatchingCompConvo_NotInComp_Option_002">不了，谢谢。</string>
+    <string name="Npc13/FishingCompConvo_NotInComp_Option_002">不了，谢谢。</string>
+</resources>

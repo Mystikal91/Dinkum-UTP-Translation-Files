@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc15/Npc15_Intro_000">Bom dia.</string>
+    <string name="Npc15/Npc15_Intro_001">Meu nome é &lt;myName&gt;.</string>
+    <string name="Npc15/Npc15_Intro_003">Falando em &lt;NPCName&gt;, ele mencionou que os &lt;itemName&gt; estão migrando nesta época do ano.</string>
+    <string name="Npc15/Npc15_Intro_004">Isso significa que hoje é um dos únicos dias em que você os encontrará durante todo o dia.</string>
+    <string name="Npc15/Npc15_Intro_006">Estas condições são PERFEITAS para um &lt;FishingComp&gt;.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_000">&lt;wave&gt;Olá.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_003">Você pode comprar um &lt;itemName&gt; aqui no balcão.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_004">Você só precisará de um &lt;itemName&gt; por viagem.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_005">Assim, você pode trazer quantas pessoas quiser com você.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_006">Ah, e lembre-se de que o aeroporto só oferecerá passeios de um dia aos domingos.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_000">Bem-vindo ao aeroporto &lt;IslandName&gt;.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_001">Estamos oferecendo passeios de um dia hoje!</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_002">Então, se você quiser fazer uma viagem, basta passar pela porta do &lt;AirShip&gt;</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_003">&lt;yes&gt;Ah, e certifique-se de ter seu &lt;itemName&gt; pronto para ser exibido quando você entrar.</string>
+    <string name="Npc15/Npc15_Intro_002">Eu sou o irmão mais novo do &lt;NPCName&gt;!</string>
+    <string name="Npc15/Npc15_Intro_005">&lt;haha&gt;Assim que ele mencionou isso, eu reservei minha passagem!</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_001">Meu nome é Nancy e seja bem-vindo ao aeroporto de &lt;IslandName&gt;!</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_002">&lt;glee&gt;Se você quiser fazer um passeio de um dia no &lt;AirShip&gt;, eu serei seu piloto.</string>
+</resources>

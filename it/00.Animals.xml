@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Animals/AlphaBushDevil">Diavolo dei Cespugli Alfa</string>
+    <string name="Animals/AlphaCroco">Coccodrillo Alfa</string>
+    <string name="Animals/AlphaShark">Squalo Alfa</string>
+    <string name="Animals/BabyChook">Pulcino</string>
+    <string name="Animals/BloomingFrilly">Frilly Fiorito</string>
+    <string name="Animals/Bug">Insetto</string>
+    <string name="Animals/BushDevil">Diavolo del Deserto</string>
+    <string name="Animals/CaveBat">Pipistrello delle Caverne</string>
+    <string name="Animals/Chook">Gallina</string>
+    <string name="Animals/Croco">Coccodrillo</string>
+    <string name="Animals/Diggo">Dingo</string>
+    <string name="Animals/Fish">Pesce</string>
+    <string name="Animals/Frilly">Frilly</string>
+    <string name="Animals/GlowingCroco">Coccodrillo Luminoso</string>
+    <string name="Animals/Grub">Grub</string>
+    <string name="Animals/GrubNest">Tana di Grub</string>
+    <string name="Animals/Jellyfish">Medusa</string>
+    <string name="Animals/Kidna">Echidna</string>
+    <string name="Animals/Maggie">Gazza</string>
+    <string name="Animals/Mu">Emu</string>
+    <string name="Animals/PetDiggo">Dingo da Compagnia</string>
+    <string name="Animals/Pleep">Platipo</string>
+    <string name="Animals/PleepPuggle">Cucciolo di Platipo</string>
+    <string name="Animals/ScrubTurkey">Tacchino di Boscaglia</string>
+    <string name="Animals/Shark">Squalo</string>
+    <string name="Animals/StoneFish">Pesce Pietra</string>
+    <string name="Animals/StoneFishLair">Tana del Pesce Pietra</string>
+    <string name="Animals/Toad">Rospo</string>
+    <string name="Animals/Vombat">Vombato</string>
+    <string name="Animals/VombatJoey">Cucciolo di Vombato</string>
+    <string name="Animals/WaryMu">Emu Aggressivo</string>
+    <string name="Animals/WhiteBoomer">Cervanguro Bianco</string>
+    <string name="Animals/AlphaJackaroo">Cervanguro Alfa</string>
+    <string name="Animals/WildVombat">Vombato Selvatico</string>
+    <string name="Animals/Cockatoo">Cacatua</string>
+    <string name="Animals/PincherPlant">Pianta Cobra</string>
+    <string name="Animals/UnderwaterCreature">Creatura subacquea</string>
+    <string name="Animals/Jackaroo">Cervanguro</string>
+</resources>

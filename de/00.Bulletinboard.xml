@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Bulletinboard/ThePhotograph">das Foto</string>
+    <string name="Bulletinboard/Bring">Bringen &lt;npcName&gt; &lt;itemAmount&gt; &lt;itemName&gt;</string>
+    <string name="Bulletinboard/Today">heute</string>
+    <string name="Bulletinboard/WeekAgo">vor einer woche</string>
+    <string name="Bulletinboard/TalkTo">Sprechen mit &lt;npcName&gt;</string>
+    <string name="Bulletinboard/Yesterday">gestern</string>
+</resources>

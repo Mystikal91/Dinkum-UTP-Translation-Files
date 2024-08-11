@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Time/dayName_0">Воскресенье</string>
+    <string name="Time/dayName_1">Понедельник</string>
+    <string name="Time/dayName_2">Вторник</string>
+    <string name="Time/dayName_3">Среда</string>
+    <string name="Time/dayName_4">Четверг</string>
+    <string name="Time/dayName_5">Пятница</string>
+    <string name="Time/dayName_6">Суббота</string>
+    <string name="Time/seasonName_0">Лето</string>
+    <string name="Time/seasonName_1">Осень</string>
+    <string name="Time/seasonName_2">Зима</string>
+    <string name="Time/seasonName_3">Весна</string>
+    <string name="Time/Years">Года</string>
+    <string name="Time/Month">Месяц</string>
+    <string name="Time/Months">Месяца</string>
+    <string name="Time/Day">День</string>
+    <string name="Time/All">Весь год</string>
+    <string name="Time/AllDay">Весь день</string>
+    <string name="Time/DuringTheDay">в течении дня</string>
+    <string name="Time/EarlyMornings">рано утром</string>
+    <string name="Time/AroundNoon">на закате</string>
+    <string name="Time/AfterDark">после заката</string>
+    <string name="Time/AllYear">Круглый год</string>
+    <string name="Time/m">м</string>
+    <string name="Time/s">с</string>
+    <string name="Time/t">т</string>
+    <string name="Time/Days">Дн.</string>
+    <string name="Time/Year">Год</string>
+</resources>

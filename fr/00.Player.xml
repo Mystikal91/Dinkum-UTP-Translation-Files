@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Player/TeleboxNeedsItems_Option_001">Laisse tomber.</string>
+    <string name="Player/ConstructionBox_Needs Items_Option_001">Laisse tomber.</string>
+</resources>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Time/dayName_0">Sunday</string>
+  <string name="Time/dayName_1">Monday</string>
+  <string name="Time/dayName_2">Tuesday</string>
+  <string name="Time/dayName_3">Wednesday</string>
+  <string name="Time/dayName_4">Thursday</string>
+  <string name="Time/dayName_5">Friday</string>
+  <string name="Time/dayName_6">Saturday</string>
+  <string name="Time/seasonName_0">Summer</string>
+  <string name="Time/seasonName_1">Autumn</string>
+  <string name="Time/seasonName_2">Winter</string>
+  <string name="Time/seasonName_3">Spring</string>
+  <string name="Time/Year">Year</string>
+  <string name="Time/Years">Years</string>
+  <string name="Time/Month">Month</string>
+  <string name="Time/Months">Months</string>
+  <string name="Time/Day">Day</string>
+  <string name="Time/Days">Days</string>
+  <!-- Used to refer to All Season -->
+  <string name="Time/All">All</string>
+  <string name="Time/AllDay">all day</string>
+  <string name="Time/DuringTheDay">during the day</string>
+  <string name="Time/EarlyMornings">early mornings</string>
+  <string name="Time/AroundNoon">around noon</string>
+  <string name="Time/AfterDark">after dark</string>
+  <!-- Short for Minute -->
+  <string name="Time/m">m</string>
+  <!-- Short for Second -->
+  <string name="Time/s">s</string>
+  <!-- Short for Tick -->
+  <string name="Time/t">t</string>
+  <!-- Used to refer to crops that grows all year -->
+  <string name="Time/AllYear">all year</string>
+  <string name="Time/DuringSpring">during Spring</string>
+  <string name="Time/DuringSummer">during Summer</string>
+  <string name="Time/DuringAutumn">during Autumn</string>
+  <string name="Time/DuringWinter">during Winter</string>
+  <string name="Time/Late">Late</string>
+</resources>

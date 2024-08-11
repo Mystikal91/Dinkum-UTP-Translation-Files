@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DescriptionDetails/Title_Stamina">体力值</string>
+    <string name="DescriptionDetails/Title_Health">健康值</string>
+</resources>

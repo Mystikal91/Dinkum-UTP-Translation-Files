@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Time/dayName_2">Mardi</string>
+    <string name="Time/dayName_3">Mercredi</string>
+    <string name="Time/dayName_4">Jeudi</string>
+    <string name="Time/dayName_5">Vendredi</string>
+    <string name="Time/dayName_6">Samedi</string>
+    <string name="Time/seasonName_0">Été</string>
+    <string name="Time/seasonName_1">Automne</string>
+    <string name="Time/seasonName_2">Hiver</string>
+    <string name="Time/seasonName_3">Printemps</string>
+    <string name="Time/dayName_0">Dimanche</string>
+    <string name="Time/dayName_1">Lundi</string>
+</resources>

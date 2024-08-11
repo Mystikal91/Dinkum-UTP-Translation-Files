@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TopNotification/PostOnBoard_acceptTask_TimeLimit">Эта просьба ограничена во времени.</string>
+    <string name="TopNotification/QuestManager_completeQuest_GuestHouseDeed">Доступны проекты гостевых домов!</string>
+    <string name="TopNotification/TownEventManager_RunIslandDay_IslandDay">Сегодня День &lt;IslandName&gt;!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SkyFest">Сегодня День неба!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_FlyingLantern">Начался праздник Летающих фонариков!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SpeakToFletch">Расспросите Флетч о правилах!</string>
+    <string name="TopNotification/TownEventManager_BandStand">Приходите отмечать на городскую эстраду!</string>
+    <string name="TopNotification/LicenceManager_checkForUnlocksOnLevelUp_NewLicenceIsAvailableTitle">Вам доступна новая лицензия!</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_RequestAddedBy">&lt;PlayerName&gt; добавляет просьбу в журнал</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcAddToMuseum_DonatedBy">Пожертвование от &lt;PlayerName&gt;</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishTitle">&lt;PlayerName&gt; загадывает желание</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishSubtitle">Что же случиться завтра?</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowTitle">Кошелёк полон</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowSubtitle">Остальные деньги переведены на ваш банковский счет</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NPCIsVisiting">&lt;NPCName&gt; посещает остров!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_SomeoneIsVisiting">Кто-то прибыл на остров!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NoOneIsVisiting">Сегодня гостей нет...</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasStarted">Сегодня День рыбака!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasStarted">Сегодня День жуколова!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_OneHourRemaining">Остался 1 час!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LogYourScore">Не забудьте записать свои достижения!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasEnded">День рыбака окончен!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasEnded">День жуколова окончен!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LetsSeeWhoWhon">Время определить победителя!</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_000">У хоста другая версия игры.</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_001">Убедитесь, что у всех игроков установлена последняя версия.</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_002">Некоторые объекты и предметы могут работать неправильно</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedTitle">Вам доступен новый проект!</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedSubtitle">Поговорите с Флетч о городе.</string>
+    <string name="TopNotification/EquipItemToChar_OnDisable_PlayerLeft">&lt;PlayerName&gt; покидает игру</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_LocalPlayerJoin">Добро пожаловать на &lt;IslandName&gt;</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_NonLocalPlayerJoin">&lt;PlayerName&gt; в игре</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedTitle">В почтовом ящике есть предмет</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedSubtitle">Нет места в инвентаре!</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedSubtitle">Эту просьбу нужно выполнить до конца дня.</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompletedBy">&lt;PlayerName&gt; выполняет просьбу!</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedTitle">Просьба добавлена в журнал</string>
+    <string name="TopNotification/PostOnBoard_completeTask_InvestigationRequestCompleted">Расследование завершено</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompleted">Просьба выполнена!</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_NewLocation">Место отмечено на карте.</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_GoodLuck">Удачи!</string>
+</resources>

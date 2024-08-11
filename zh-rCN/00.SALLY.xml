@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SALLY/CompleteBirthday_000_Intro_000">噢，&lt;PlayerName&gt;！</string>
+    <string name="SALLY/IslandDayGreeting_Night_008_Intro_000">哇哦！</string>
+    <string name="SALLY/SkyFest_Morning_008_Intro_000">嗨&lt;PlayerName&gt;。</string>
+    <string name="SALLY/HairDresserConvo_Option_002">不了，谢谢。</string>
+    <string name="SALLY/SkyFest_AfterNoon_008_Intro_000">你知道吗？</string>
+</resources>

@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Randomised/Afternoon_Greeting 0_Intro_000">The suns getting low.</string>
+  <string name="Randomised/Afternoon_Greeting 0_Response_003_000">&lt;thinking&gt;Well, I guess it's been a good day!</string>
+  <string name="Randomised/Afternoon_Greeting 1_Intro_000">I love sunsets! That orange glow warms my soul!</string>
+  <string name="Randomised/Afternoon_Greeting 1_Response_003_000">&lt;glee&gt;Have a good arvo!</string>
+  <string name="Randomised/Afternoon_Greeting 2_Intro_000">Good afternoon, &lt;PlayerName&gt;!</string>
+  <string name="Randomised/Afternoon_Greeting 2_Response_003_000">Sun will be down soon, be carefull, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Afternoon_Greeting 3_Intro_000">Sunset all ready!? It feels like the day just started!</string>
+  <string name="Randomised/Afternoon_Greeting 3_Response_003_000">&lt;haha&gt;Maybe I need to manage my time a bit better, eh?</string>
+  <string name="Randomised/Afternoon_Greeting 4_Intro_000">Sunset all ready!? It feels like the day just started!</string>
+  <string name="Randomised/Afternoon_Greeting 4_Response_003_000">&lt;thinking&gt;Maybe I need to manage my time a bit better, eh?</string>
+  <string name="Randomised/Afternoon_Greeting 5_Intro_000">The sun will be down soon, so please be careful! &lt;yes&gt; </string>
+  <string name="Randomised/Afternoon_Greeting 5_Response_003_000">&lt;wave&gt;Stay safe, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Cold_Greeting 0_Intro_000">It's a bit chilly, isn't it.</string>
+  <string name="Randomised/Cold_Greeting 0_Response_003_000">Stay warm, &lt;PlayerName&gt;! &lt;wave&gt;</string>
+  <string name="Randomised/Cold_Greeting 1_Intro_000">Brrrrr...</string>
+  <string name="Randomised/Cold_Greeting 1_Intro_001">Hey &lt;PlayerName&gt;</string>
+  <string name="Randomised/Cold_Greeting 1_Response_003_000">I'm going to try and warm up my hands, &lt;PlayerName&gt;! &lt;wave&gt;</string>
+  <string name="Randomised/Cold_Greeting 2_Intro_000">It's cold today.</string>
+  <string name="Randomised/Cold_Greeting 2_Response_003_000">Bye! &lt;wave&gt;</string>
+  <string name="Randomised/Cold_Greeting 3_Intro_000">You think the weather will warm up soon?</string>
+  <string name="Randomised/Cold_Greeting 3_Response_003_000">I hope so!</string>
+  <string name="Randomised/Cold_Greeting 4_Intro_000">I don't remember it being this cold last year!</string>
+  <string name="Randomised/Cold_Greeting 4_Response_003_000">Keep rugged up, okay? &lt;wave&gt;</string>
+  <string name="Randomised/Cold_Greeting 5_Intro_000">Another cold day!</string>
+  <string name="Randomised/Cold_Greeting 5_Response_003_000">See you? &lt;wave&gt;</string>
+  <string name="Randomised/Cold_Greeting 6_Intro_000">Nice and cool weather!</string>
+  <string name="Randomised/Cold_Greeting 6_Intro_001">Maybe it's a bit too cool though! &lt;haha&gt;</string>
+  <string name="Randomised/Cold_Greeting 6_Response_003_000">&lt;wave&gt;See you around, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Foggy_Greeting 0_Intro_000">It’s a bit spooky out today with all this fog!</string>
+  <string name="Randomised/Foggy_Greeting 0_Response_003_000">See you later, if this fog doesn't get thicker! &lt;wave&gt;</string>
+  <string name="Randomised/Foggy_Greeting 1_Intro_000">Everything looks like a dream in this haze!</string>
+  <string name="Randomised/Foggy_Greeting 1_Response_003_000">Wait, am I dreaming?! &lt;thinking&gt;</string>
+  <string name="Randomised/Foggy_Greeting 2_Intro_000">Thick fog today. I can barely see my feet!</string>
+  <string name="Randomised/Foggy_Greeting 2_Response_003_000">See you around! &lt;wave&gt;</string>
+  <string name="Randomised/Foggy_Greeting 3_Intro_000">It feels like a different place with all of this fog around.</string>
+  <string name="Randomised/Foggy_Greeting 3_Response_003_000">Now, where was I going again?&lt;wave&gt;</string>
+  <string name="Randomised/Foggy_Greeting 4_Intro_000">Who is that? ...</string>
+  <string name="Randomised/Foggy_Greeting 4_Intro_001">Is that you &lt;PlayerName&gt;? I can barely see you through this fog!</string>
+  <string name="Randomised/Foggy_Greeting 4_Response_003_000">What your step?&lt;wave&gt;</string>
+  <string name="Randomised/Greeting 0_Intro_000">Hey &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting 0_Intro_001">What's up?</string>
+  <string name="Randomised/Greeting 0_Response_003_000">All good. Catch you later.</string>
+  <string name="Randomised/Greeting 10_Intro_000">G'day.</string>
+  <string name="Randomised/Greeting 10_Response_003_000">All good. Catch you later. &lt;wave&gt;</string>
+  <string name="Randomised/Greeting 11_Intro_000">Oh, well if it isn't &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting 11_Response_003_000">Oh. Talk again soon, okay?</string>
+  <string name="Randomised/Greeting 12_Intro_000">&lt;PlayerName&gt;? Here to see lil' ol' me?</string>
+  <string name="Randomised/Greeting 12_Response_003_000">Seeya! &lt;wave&gt;</string>
+  <string name="Randomised/Greeting 13_Intro_000">It's &lt;PlayerName&gt;! The big cheese! The the top dog!</string>
+  <string name="Randomised/Greeting 13_Response_003_000">See you next time.</string>
+  <string name="Randomised/Greeting 14_Intro_000">Sorry, I just spaced out. &lt;haha&gt;</string>
+  <string name="Randomised/Greeting 14_Intro_001">What can I do for you?</string>
+  <string name="Randomised/Greeting 14_Response_003_000">All good, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting 15_Intro_000">Whoa!</string>
+  <string name="Randomised/Greeting 15_Intro_001">I just got deja vu! &lt;haha&gt;</string>
+  <string name="Randomised/Greeting 15_Intro_002">You wanted to chat?</string>
+  <string name="Randomised/Greeting 15_Response_003_000">I swear we've chatted</string>
+  <string name="Randomised/Greeting 16_Intro_000">Can I help you, &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Greeting 16_Response_003_000">Talk again soon, yeah? &lt;yes&gt;</string>
+  <string name="Randomised/Greeting 17_Intro_000">WOAH! &lt;shocked&gt;</string>
+  <string name="Randomised/Greeting 17_Intro_001">You scared me, &lt;PlayerName&gt;! &lt;haha&gt;</string>
+  <string name="Randomised/Greeting 17_Response_003_000">We'll catch up again soon. &lt;yes&gt;</string>
+  <string name="Randomised/Greeting 18_Intro_000">Huh?</string>
+  <string name="Randomised/Greeting 18_Response_003_000">Huh?</string>
+  <string name="Randomised/Greeting 1_Intro_000">Oh, if it isn't &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting 1_Intro_001">What can I do for you today?</string>
+  <string name="Randomised/Greeting 1_Response_003_000">All good. Catch you later.</string>
+  <string name="Randomised/Greeting 2_Intro_000">&lt;PlayerName&gt;! I swear I was just thinking about you. &lt;haha&gt;</string>
+  <string name="Randomised/Greeting 2_Intro_001">Do you need something?</string>
+  <string name="Randomised/Greeting 2_Response_003_000">Nice talking to you.</string>
+  <string name="Randomised/Greeting 3_Intro_000">Hey &lt;PlayerName&gt;. </string>
+  <string name="Randomised/Greeting 3_Intro_001">I had something to say to you!</string>
+  <string name="Randomised/Greeting 3_Intro_002">... I've forgotten. &lt;haha&gt;</string>
+  <string name="Randomised/Greeting 3_Response_003_000">Maybe I'll remember it. I'll get back to you.</string>
+  <string name="Randomised/Greeting 4_Intro_000">&lt;PlayerName&gt;, &lt;PlayerName&gt;, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting 4_Intro_001">What brings you to little ol' me?</string>
+  <string name="Randomised/Greeting 4_Response_003_000">Goodbye. &lt;wave&gt;</string>
+  <string name="Randomised/Greeting 5_Intro_000">&lt;PlayerName&gt; ! My favourite person!</string>
+  <string name="Randomised/Greeting 5_Response_003_000">Bye bye! &lt;wave&gt;</string>
+  <string name="Randomised/Greeting 6_Intro_000">Oh, it's &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting 6_Response_003_000">See you around then. &lt;wave&gt;</string>
+  <string name="Randomised/Greeting 7_Intro_000">Howdy!</string>
+  <string name="Randomised/Greeting 7_Response_003_000">Thanks for </string>
+  <string name="Randomised/Greeting 8_Intro_000">&lt;PlayerName&gt;!</string>
+  <string name="Randomised/Greeting 8_Response_003_000">Nice to see you!</string>
+  <string name="Randomised/Greeting 9_Intro_000">Hey, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting 9_Response_003_000">Alright then!</string>
+  <string name="Randomised/Hot_Greeting 0_Intro_000">G'day, &lt;PlayerName&gt;. Phewh! It's so hot already!</string>
+  <string name="Randomised/Hot_Greeting 0_Response_003_000">See you around! &lt;wave&gt;</string>
+  <string name="Randomised/Hot_Greeting 10_Intro_000">&lt;PlayerName&gt;. How things going? Keeping cool I hope!</string>
+  <string name="Randomised/Hot_Greeting 10_Response_003_000">See you later. &lt;wave&gt;</string>
+  <string name="Randomised/Hot_Greeting 1_Intro_000">Oh, &lt;PlayerName&gt;. How are you handling this heat?</string>
+  <string name="Randomised/Hot_Greeting 1_Intro_001">I'm so hot it feels like you could fry an egg on my head.</string>
+  <string name="Randomised/Hot_Greeting 1_Response_003_000">Stay cool if you can! &lt;wave&gt;</string>
+  <string name="Randomised/Hot_Greeting 2_Intro_000">Hey &lt;PlayerName&gt;. Is it just me or is it really hot today?</string>
+  <string name="Randomised/Hot_Greeting 2_Response_003_000">I don't think its just me.</string>
+  <string name="Randomised/Hot_Greeting 3_Intro_000">It's so hot, &lt;PlayerName&gt;. Like, how does it even get this hot?</string>
+  <string name="Randomised/Hot_Greeting 3_Intro_001">Did you want something?</string>
+  <string name="Randomised/Hot_Greeting 3_Response_003_000">A bit of a breeze wouldn't go to bad right </string>
+  <string name="Randomised/Hot_Greeting 4_Intro_000">Hello, &lt;PlayerName&gt;. Feels like it's going to be a scorcher today.</string>
+  <string name="Randomised/Hot_Greeting 4_Intro_001">How's things?</string>
+  <string name="Randomised/Hot_Greeting 4_Response_003_000">I'm going to try and keep cool.</string>
+  <string name="Randomised/Hot_Greeting 5_Intro_000">&lt;PlayerName&gt;. This heat. Not good. I'm sweating already.</string>
+  <string name="Randomised/Hot_Greeting 5_Intro_001">Oh, sorry did you have something to say?</string>
+  <string name="Randomised/Hot_Greeting 5_Response_003_000">Keep it cool, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Hot_Greeting 6_Intro_000">&lt;PlayerName&gt;! I hope you're keeping cool.</string>
+  <string name="Randomised/Hot_Greeting 6_Response_003_000">I hope it cools down for all of us soon.</string>
+  <string name="Randomised/Hot_Greeting 7_Intro_000">It's a hot one today, &lt;PlayerName&gt;. &lt;haha&gt;</string>
+  <string name="Randomised/Hot_Greeting 7_Intro_001">What's happening?</string>
+  <string name="Randomised/Hot_Greeting 7_Response_003_000">I hope it cools down soon. &lt;wave&gt;</string>
+  <string name="Randomised/Hot_Greeting 8_Intro_000">Are you hot, &lt;PlayerName&gt;? I'm hot.</string>
+  <string name="Randomised/Hot_Greeting 8_Intro_001">Oh, sorry, did you need something?</string>
+  <string name="Randomised/Hot_Greeting 8_Response_003_000">See you later. &lt;wave&gt;</string>
+  <string name="Randomised/Hot_Greeting 9_Intro_000">What brings &lt;PlayerName&gt; here on this hot, hot day?</string>
+  <string name="Randomised/Hot_Greeting 9_Response_003_000">See you later. &lt;wave&gt;</string>
+  <string name="Randomised/Midday Greeting 0_Intro_000">Things are really starting to shape up around here, huh?</string>
+  <string name="Randomised/Midday Greeting 0_Response_003_000">Keep up the good work, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Midday Greeting 1_Intro_000">Still a lot of day left, right, &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Midday Greeting 1_Response_003_000">Enjoy the rest of your day, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Midday Greeting 2_Intro_000">Ah, &lt;PlayerName&gt;! Keeping busy?</string>
+  <string name="Randomised/Midday Greeting 2_Response_003_000">Enjoy the rest of your day, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Midday Greeting 3_Intro_000">Good morning! Or is it the afternoon? &lt;haha&gt;</string>
+  <string name="Randomised/Midday Greeting 3_Intro_001">Anyway, how are you &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Midday Greeting 3_Response_003_000">I should figure out what time it is! &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Midday Greeting 4_Intro_000">I’m tired already! &lt;haha&gt;</string>
+  <string name="Randomised/Midday Greeting 4_Intro_001">How are you, &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Midday Greeting 4_Response_003_000">Maybe&lt;PlayerName&gt;.</string>
+  <string name="Randomised/Midday Greeting 5_Intro_000">You know, this is my favourite time of day.</string>
+  <string name="Randomised/Midday Greeting 5_Intro_001">How's things, &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Midday Greeting 5_Response_003_000">Catch you around then.</string>
+  <string name="Randomised/Midday Greeting 6_Intro_000">There's not much fishing to be had around this time of day. The morning and the night are the best times!</string>
+  <string name="Randomised/Midday Greeting 6_Response_003_000">See ya.</string>
+  <string name="Randomised/Midday Greeting 7_Intro_000">It might be nice to sit under a shady tree this time of day...</string>
+  <string name="Randomised/Midday Greeting 7_Intro_001">Oh, &lt;PlayerName&gt;! Need something?</string>
+  <string name="Randomised/Midday Greeting 7_Response_003_000">Catch you around then.</string>
+  <string name="Randomised/Morning Greeting 0_Intro_000">Oh, goodmorning &lt;PlayerName&gt;!</string>
+  <string name="Randomised/Morning Greeting 0_Response_003_000">Have good day, okay?</string>
+  <string name="Randomised/Morning Greeting 1_Intro_000">Oh, I just love a sunrise, don't you?</string>
+  <string name="Randomised/Morning Greeting 1_Intro_001">What's up &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Morning Greeting 1_Response_003_000">Have good day, okay?</string>
+  <string name="Randomised/Morning Greeting 2_Intro_000">Everything feels so fresh this morning!</string>
+  <string name="Randomised/Morning Greeting 2_Intro_001">What can I do for you &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Morning Greeting 2_Response_003_000">Enjoy your morning, &lt;PlayerName&gt;. &lt;glee&gt;</string>
+  <string name="Randomised/Morning Greeting 3_Intro_000">Oh, good morning, &lt;PlayerName&gt;. </string>
+  <string name="Randomised/Morning Greeting 3_Response_003_000">See you around. &lt;PlayerName&gt;!</string>
+  <string name="Randomised/Morning Greeting 4_Intro_000">Good morning &lt;PlayerName&gt;!</string>
+  <string name="Randomised/Morning Greeting 4_Intro_001">You're up and about nice and early, as usual.</string>
+  <string name="Randomised/Morning Greeting 4_Response_003_000">Have fun, mate.</string>
+  <string name="Randomised/Morning Greeting 5_Intro_000">Getting a nice and early start to your day, &lt;PlayerName&gt;! Good to see!</string>
+  <string name="Randomised/Morning Greeting 5_Intro_001">Do you need something?</string>
+  <string name="Randomised/Morning Greeting 5_Response_003_000">Keep it up! &lt;pumped&gt;</string>
+  <string name="Randomised/Morning Greeting 6_Intro_000">Ah! &lt;PlayerName&gt;! What a beautiful morning.</string>
+  <string name="Randomised/Morning Greeting 6_Intro_001">Nothing like fresh air, beautiful scenery, and a whole day left!</string>
+  <string name="Randomised/Morning Greeting 6_Response_003_000">Breath it all in! &lt;haha&gt;</string>
+  <string name="Randomised/Morning Greeting 7_Intro_000">Good morning, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Morning Greeting 7_Intro_001">I'm not usually a morning person, but I'm up and about anyway.</string>
+  <string name="Randomised/Morning Greeting 7_Response_003_000">Maybe I should head to bed &lt;haha&gt;</string>
+  <string name="Randomised/Morning Greeting 8_Intro_000">Here I was thinking my morning couldn't get better, when who do I see but &lt;PlayerName&gt;!</string>
+  <string name="Randomised/Morning Greeting 8_Intro_001">Is there something I can do for you?</string>
+  <string name="Randomised/Morning Greeting 8_Response_003_000">Thanks for brightening up my morning!</string>
+  <string name="Randomised/Morning Greeting 9_Intro_000">Morning, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Morning Greeting 9_Intro_001">I'm still a little sleepy! I don't think I got enough rest last night.</string>
+  <string name="Randomised/Morning Greeting 9_Intro_002">What brings you </string>
+  <string name="Randomised/Morning Greeting 9_Response_003_000">See you around, I guess.</string>
+  <string name="Randomised/Night_Greeting 0_Intro_000">&lt;PlayerName&gt;! Burning that midnight oil, I see.  </string>
+  <string name="Randomised/Night_Greeting 0_Response_003_000">Good night!</string>
+  <string name="Randomised/Night_Greeting 1_Intro_000">Never enough time in the day, is there?</string>
+  <string name="Randomised/Night_Greeting 1_Response_003_000">See you tomorrow, maybe?</string>
+  <string name="Randomised/Night_Greeting 2_Intro_000">Everything's so mysterious in the dark…</string>
+  <string name="Randomised/Night_Greeting 2_Intro_001">&lt;haha&gt;Even our little town!</string>
+  <string name="Randomised/Night_Greeting 2_Response_003_000">Night!</string>
+  <string name="Randomised/Night_Greeting 3_Intro_000">It's dark already.</string>
+  <string name="Randomised/Night_Greeting 3_Response_003_000">See you!</string>
+  <string name="Randomised/Night_Greeting 4_Intro_000">Some scary things come out at night!</string>
+  <string name="Randomised/Night_Greeting 4_Response_003_000">Stay safe, please &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Night_Greeting 5_Intro_000">The stars are so pretty tonight!</string>
+  <string name="Randomised/Night_Greeting 5_Response_003_000">I wonder what kind of </string>
+  <string name="Randomised/Night_Greeting 6_Intro_000">Oh, &lt;PlayerName&gt;. You're out late, aren't you?</string>
+  <string name="Randomised/Night_Greeting 6_Response_003_000">Maybe </string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Balloon -->
+  <string name="Randomised/OfferABalloon_Intro_000">Oh, here you go &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Balloon -->
+  <string name="Randomised/OfferABalloon_Intro_001">&lt;yes&gt;You looked like you needed a &lt;itemName&gt;.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Balloon -->
+  <string name="Randomised/OfferABalloon_Intro_002">Go have some fun.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Party Horn -->
+  <string name="Randomised/OfferAPartyHorn_Intro_000">Oh, here you go &lt;PlayerName&gt;.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Party Horn -->
+  <string name="Randomised/OfferAPartyHorn_Intro_001">&lt;yes&gt;You looked like you needed a &lt;itemName&gt;.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Party Horn -->
+  <string name="Randomised/OfferAPartyHorn_Intro_002">Go make some noise!</string>
+  <!-- Talking about Item: Old Gear -->
+  <string name="Randomised/RandomConvo_000_Intro_000">I noticed a &lt;itemName&gt; buried in the dirt the other day...</string>
+  <!-- Talking about Item: Old Gear -->
+  <string name="Randomised/RandomConvo_000_Intro_001">&lt;thinking&gt;I wonder where it came from?</string>
+  <!-- Talking about Item: Stone Grinder -->
+  <string name="Randomised/RandomConvo_001_Intro_000">Hey, did you know that you can crush stones and rocks in a &lt;itemName&gt;?</string>
+  <!-- Talking about Item: Stone Grinder -->
+  <string name="Randomised/RandomConvo_001_Intro_001">&lt;yes&gt;Normal stones can be crushed into cement and if you crush shiny stones you can find all sorts of stuff.</string>
+  <!-- Talking about Item: Stone Grinder -->
+  <string name="Randomised/RandomConvo_001_Intro_002">&lt;pumped&gt;You might even find an opal!</string>
+  <!-- Talking about Item: Furnace -->
+  <string name="Randomised/RandomConvo_002_Intro_000">Have you seen those tall towers around &lt;IslandName&gt;?</string>
+  <!-- Talking about Item: Furnace -->
+  <string name="Randomised/RandomConvo_002_Intro_001">&lt;thinking&gt;I wonder what those things do?</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="Randomised/RandomConvo_003_Intro_000">&lt;animalType&gt; come out in the dark.</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="Randomised/RandomConvo_003_Intro_001">&lt;worried&gt;&lt;animalType&gt; are nasty. Real nasty!</string>
+  <!-- Talking about Animal Type: Bush Devil -->
+  <string name="Randomised/RandomConvo_003_Intro_002">&lt;haha&gt;You might try and fight them but , I always just run away!</string>
+  <!-- Talking about Item: Bird Coop. Talking about Animal Type: Chook -->
+  <string name="Randomised/RandomConvo_004_Intro_000">I want to build a &lt;itemName&gt; so I can raise a &lt;animalType&gt;!</string>
+  <!-- Talking about Item: Bird Coop. Talking about Animal Type: Chook -->
+  <string name="Randomised/RandomConvo_004_Intro_001">If you love them and feed them every day they can really earn some money!</string>
+  <!-- Talking about Item: Bird Coop. Talking about Animal Type: Chook -->
+  <string name="Randomised/RandomConvo_004_Intro_002">Plus I think &lt;animalType&gt;s are cute! &lt;haha&gt;</string>
+  <!-- Talking about Item: Metal Detector -->
+  <string name="Randomised/RandomConvo_005_Intro_000">Have you got a &lt;itemName&gt;?</string>
+  <!-- Talking about Item: Metal Detector -->
+  <string name="Randomised/RandomConvo_005_Intro_001">With a good &lt;itemName&gt; you could find all sorts of treasures hidden under the ground!</string>
+  <!-- Talking about Item: Metal Detector -->
+  <string name="Randomised/RandomConvo_005_Intro_002">&lt;thinking&gt;I might get one myself...</string>
+  <!-- Talking about Animal Type: Mu -->
+  <string name="Randomised/RandomConvo_006_Intro_000">&lt;animalType&gt; are quick!</string>
+  <!-- Talking about Animal Type: Mu -->
+  <string name="Randomised/RandomConvo_006_Intro_001">&lt;haha&gt;They can't fly, but boy they can run!</string>
+  <!-- Talking about Animal Type: Jackaroo -->
+  <string name="Randomised/RandomConvo_007_Intro_000">&lt;animalType&gt; can be big pests around here.</string>
+  <!-- Talking about Animal Type: Jackaroo -->
+  <string name="Randomised/RandomConvo_007_Intro_001">&lt;no&gt;They will eat any crops they come across.</string>
+  <!-- Talking about Animal Type: Jackaroo -->
+  <string name="Randomised/RandomConvo_007_Intro_002">&lt;yes&gt;It's always a good idea to fence off your farms.</string>
+  <!-- Talking about Item: Cooked Giant Drumstick -->
+  <string name="Randomised/RandomConvo_008_Intro_000">Have you ever had a &lt;itemName&gt;?</string>
+  <!-- Talking about Item: Cooked Giant Drumstick -->
+  <string name="Randomised/RandomConvo_008_Intro_001">They are so big!</string>
+  <!-- Talking about Item: Cooked Giant Drumstick -->
+  <string name="Randomised/RandomConvo_008_Intro_002">&lt;no&gt;I can barely finish one!</string>
+  <!-- Talking about Item: Bush Lime -->
+  <string name="Randomised/RandomConvo_009_Intro_000">&lt;no&gt;I don't know if I'll ever be brave enough to go underground by myself.</string>
+  <!-- Talking about Item: Bush Lime -->
+  <string name="Randomised/RandomConvo_009_Intro_001">&lt;worried&gt;It's super creepy down there!</string>
+  <string name="Randomised/RandomConvo_010_Intro_000">&lt;yes&gt;Make sure you water your crops every day.</string>
+  <string name="Randomised/RandomConvo_010_Intro_001">The soil will stay wet for a day or so, but if you see the ground is dry give them a sprinkle.</string>
+  <string name="Randomised/RandomConvo_010_Intro_002">&lt;no&gt;If you dont water them, they wont grow.</string>
+  <!-- Talking about Item: Spinifex Tuft -->
+  <string name="Randomised/RandomConvo_011_Intro_000">You should try burning &lt;itemName&gt; in a campfire.</string>
+  <!-- Talking about Item: Spinifex Tuft -->
+  <string name="Randomised/RandomConvo_011_Intro_001">&lt;yes&gt;It makes this sticky stuff that is great for crafting items.</string>
+  <!-- Talking about Item: Scarecrow -->
+  <string name="Randomised/RandomConvo_012_Intro_000">&lt;yes&gt;If you are having trouble with birds eating your crops, try and craft a &lt;itemName&gt;.</string>
+  <!-- Talking about Item: Scarecrow -->
+  <string name="Randomised/RandomConvo_012_Intro_001">&lt;haha&gt;Those things scare me!</string>
+  <!-- Talking about Item: Scarecrow -->
+  <string name="Randomised/RandomConvo_012_Intro_002">Imagine how scared the birds must be!</string>
+  <!-- Talking about Item: Queen Bee -->
+  <string name="Randomised/RandomConvo_013_Intro_000">If you catch a &lt;itemName&gt; hang onto it.</string>
+  <!-- Talking about Item: Queen Bee -->
+  <string name="Randomised/RandomConvo_013_Intro_001">&lt;yes&gt;You can start your own hive with a queen if you know the right crafting recipe.</string>
+  <!-- Talking about Item: Copper Axe -->
+  <string name="Randomised/RandomConvo_014_Intro_000">&lt;yes&gt;If you want to cut down hard wood trees you are going to need a &lt;itemName&gt; or better.</string>
+  <!-- Talking about Item: Copper Axe -->
+  <string name="Randomised/RandomConvo_014_Intro_001">&lt;haha&gt;They don't call it HARD wood for nothing!</string>
+  <!-- Talking about Item: Basic Watering Can -->
+  <string name="Randomised/RandomConvo_015_Intro_000">You know how you can fill your &lt;itemName&gt; at the river?</string>
+  <!-- Talking about Item: Basic Watering Can -->
+  <string name="Randomised/RandomConvo_015_Intro_001">&lt;yes&gt;Well, did you know you can also fill it at a fountain or a well?</string>
+  <!-- Talking about Item: Yellow Hang Glider -->
+  <string name="Randomised/RandomConvo_016_Intro_000">&lt;thinking&gt;I've heard of a thing called a &lt;itemName&gt;...</string>
+  <!-- Talking about Item: Yellow Hang Glider -->
+  <string name="Randomised/RandomConvo_016_Intro_001">With one of those you can soar through the air like a bird!</string>
+  <!-- Talking about Item: Yellow Hang Glider -->
+  <string name="Randomised/RandomConvo_016_Intro_002">&lt;haha&gt;A non-flying, gliding bird!</string>
+  <string name="Randomised/RandomConvo_017_Intro_000">&lt;yes&gt;Doing jobs for people can really make them happy you know.</string>
+  <string name="Randomised/RandomConvo_017_Intro_001">&lt;glee&gt;Most of the time people have a little job you can do for them.</string>
+  <string name="Randomised/RandomConvo_017_Intro_002">&lt;yes&gt;Be sure to ask people if you can help them &lt;PlayerName&gt;!</string>
+  <!-- Talking about Item: Base Tent Deed -->
+  <string name="Randomised/RandomConvo_018_Intro_000">&lt;yes&gt;I always visit the donation box in the &lt;itemName&gt; when the town is in debt.</string>
+  <!-- Talking about Item: Base Tent Deed -->
+  <string name="Randomised/RandomConvo_018_Intro_001">Every &lt;Dink&gt; leads to a better &lt;IslandName&gt;!</string>
+  <!-- Talking about Item: Camera -->
+  <string name="Randomised/RandomConvo_019_Intro_000">&lt;yes&gt;The &lt;itemName&gt; were invented in &lt;SouthCity&gt; you know.</string>
+  <!-- Talking about Item: Camera -->
+  <string name="Randomised/RandomConvo_019_Intro_001">But they are somewhat common place these days.</string>
+  <!-- Talking about Item: Wooden Flower Bed -->
+  <string name="Randomised/RandomConvo_020_Intro_000">If you clear out some grass you might encourage flowers to grow there a few days later!</string>
+  <!-- Talking about Item: Wooden Flower Bed -->
+  <string name="Randomised/RandomConvo_020_Intro_001">But if you want to grow flowers very quickly. Craft some &lt;itemName&gt;. </string>
+  <!-- Talking about Item: Wooden Flower Bed -->
+  <string name="Randomised/RandomConvo_020_Intro_002">If you plant some flowers in a &lt;itemName&gt; and keep the &lt;itemName&gt; next to them empty...</string>
+  <!-- Talking about Item: Wooden Flower Bed -->
+  <string name="Randomised/RandomConvo_020_Intro_003">&lt;glee&gt;Some new flowers might sprout up next to them!</string>
+  <!-- Talking about Item: Rowboat -->
+  <string name="Randomised/RandomConvo_021_Intro_000">If you have a &lt;itemName&gt; you can go fishing out in the deep ocean!</string>
+  <!-- Talking about Item: Rowboat -->
+  <string name="Randomised/RandomConvo_021_Intro_001">&lt;thinking&gt;I heard there are some big fish out there!</string>
+  <!-- Talking about Item: Rowboat -->
+  <string name="Randomised/RandomConvo_021_Intro_002">&lt;haha&gt;Big fish worth big &lt;Dinks&gt;!</string>
+  <!-- Talking about Item: Camera -->
+  <string name="Randomised/RandomConvo_022_Intro_000">Do you have a &lt;itemName&gt;?</string>
+  <!-- Talking about Item: Camera -->
+  <string name="Randomised/RandomConvo_022_Intro_001">&lt;pumped&gt;I would love to take some photos of the wildlife around here!</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="Randomised/RandomConvo_023_Intro_000">I would love a &lt;animalType&gt;!</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="Randomised/RandomConvo_023_Intro_001">They are so cute! &lt;glee&gt;</string>
+  <!-- Talking about Animal Type: Diggo -->
+  <string name="Randomised/RandomConvo_023_Intro_002">&lt;pumped&gt;If only I could make friends with one long enough to pet it!</string>
+  <!-- Talking about Item: Birdwing Butterfly -->
+  <string name="Randomised/RandomConvo_024_Intro_000">There is a really rare butterfly called a &lt;itemName&gt;.</string>
+  <!-- Talking about Item: Birdwing Butterfly -->
+  <string name="Randomised/RandomConvo_024_Intro_001">I would love to see one some day...</string>
+  <string name="Randomised/RandomConvo_025_Intro_000">The Visitor was a great idea, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/RandomConvo_025_Intro_001">&lt;yes&gt;It's so easy for visitors to get all set up.</string>
+  <string name="Randomised/RandomConvo_025_Intro_002">&lt;haha&gt;And then we can trick them into staying for good!</string>
+  <!-- Talking about Item: Pearl -->
+  <string name="Randomised/RandomConvo_026_Intro_000">Have you been diving?</string>
+  <!-- Talking about Item: Pearl -->
+  <string name="Randomised/RandomConvo_026_Intro_001">I saw something sparkling in the ocean and dived down...</string>
+  <!-- Talking about Item: Pearl -->
+  <string name="Randomised/RandomConvo_026_Intro_002">&lt;glee&gt;Guess what I found?</string>
+  <!-- Talking about Item: Pearl -->
+  <string name="Randomised/RandomConvo_026_Intro_003">&lt;pumped&gt;It was a &lt;itemName&gt;!</string>
+  <!-- Talking about Item: Cooking Table -->
+  <string name="Randomised/RandomConvo_027_Intro_000">Have you done any cooking at a &lt;itemName&gt;.</string>
+  <!-- Talking about Item: Cooking Table -->
+  <string name="Randomised/RandomConvo_027_Intro_001">There are some great meals you can make there!</string>
+  <string name="Randomised/Storming_Greeting 0_Intro_000">It’s raining buckets! Buckets!</string>
+  <string name="Randomised/Storming_Greeting 0_Response_003_000">Stay safe. &lt;wave&gt;</string>
+  <string name="Randomised/Storming_Greeting 1_Intro_000">Oh jeeze. Nature can be pretty scary sometimes, huh?</string>
+  <string name="Randomised/Storming_Greeting 1_Response_003_000">Watch out of lightning! &lt;wave&gt;</string>
+  <string name="Randomised/Storming_Greeting 2_Intro_000">Storms like this make me want to shout!</string>
+  <string name="Randomised/Storming_Greeting 2_Response_003_000">AHHHHH!! &lt;angry&gt;</string>
+  <string name="Randomised/Storming_Greeting 3_Intro_000">Thunder is fine. Lightning scares the bejebus out of me.</string>
+  <string name="Randomised/Storming_Greeting 3_Response_003_000">Take care! &lt;wave&gt;</string>
+  <string name="Randomised/Storming_Greeting 4_Intro_000">I've heard that lighting can sometimes leave a thunder egg.</string>
+  <string name="Randomised/Storming_Greeting 4_Response_003_000">I wonder what they look like?</string>
+  <string name="Randomised/Storming_Greeting 5_Intro_000">Sometimes you can have too much rain, you know?</string>
+  <string name="Randomised/Storming_Greeting 5_Response_003_000">Like right now! Too much rain! &lt;wave&gt;</string>
+  <string name="Randomised/Storming_Greeting 6_Intro_000">Storming all day today I reckon.</string>
+  <string name="Randomised/Storming_Greeting 6_Response_003_000">Might be nice to stay  &lt;wave&gt;</string>
+  <string name="Randomised/Storming_Greeting 7_Intro_000">Thunder. Lightning. Yep. That's a storm alright! &lt;haha&gt;</string>
+  <string name="Randomised/Storming_Greeting 7_Response_003_000">Maybe we should try and stay indoors?</string>
+  <string name="Randomised/Storming_Greeting 8_Intro_000">Maybe we should try and stay indoors? Weather like this can be dangerous.</string>
+  <string name="Randomised/Storming_Greeting 8_Response_003_000">Good luck?</string>
+  <string name="Randomised/Windy_Greeting 0_Intro_000">I love windy days.</string>
+  <string name="Randomised/Windy_Greeting 0_Intro_001">How are you, &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Windy_Greeting 0_Response_003_000">See you around! &lt;wave&gt;</string>
+  <string name="Randomised/Windy_Greeting 1_Intro_000">Gotta love that breeze!</string>
+  <string name="Randomised/Windy_Greeting 1_Response_003_000">Bye! &lt;wave&gt;</string>
+  <string name="Randomised/Windy_Greeting 2_Intro_000">What a nice breezy day!</string>
+  <string name="Randomised/Windy_Greeting 2_Response_003_000">Catch you on the breeze! &lt;wave&gt;</string>
+  <string name="Randomised/Windy_Greeting 3_Intro_000">A little windy, but still a lovely day.</string>
+  <string name="Randomised/Windy_Greeting 3_Intro_001">Do you need something?</string>
+  <string name="Randomised/Windy_Greeting 3_Response_003_000">See you around, &lt;PlayerName&gt;. &lt;wave&gt;</string>
+  <string name="Randomised/Windy_Greeting 4_Intro_000">Who doesn't like a cool breeze?</string>
+  <string name="Randomised/Windy_Greeting 4_Response_003_000">Bye bye. &lt;wave&gt;</string>
+  <string name="Randomised/Windy_Greeting 5_Intro_000">Has the wind ruined my hair?</string>
+  <string name="Randomised/Windy_Greeting 5_Response_003_000">Maybe the wind will fix it then? &lt;haha&gt;</string>
+  <string name="Randomised/Greeting0_Intro_000">Hey &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting0_Intro_001">What's up?</string>
+  <string name="Randomised/Greeting0_Response_003_000">All good. Catch you later.</string>
+  <string name="Randomised/Greeting10_Intro_000">G'day.</string>
+  <string name="Randomised/Greeting10_Response_003_000">All good. Catch you later. &lt;wave&gt;</string>
+  <string name="Randomised/Greeting11_Intro_000">Oh, well if it isn't &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting11_Response_003_000">Oh. Talk again soon, okay?</string>
+  <string name="Randomised/Greeting12_Intro_000">&lt;PlayerName&gt;? Here to see lil' ol' me?</string>
+  <string name="Randomised/Greeting12_Response_003_000">Seeya! &lt;wave&gt;</string>
+  <string name="Randomised/Greeting13_Intro_000">It's &lt;PlayerName&gt;! The big cheese! The the top dog!</string>
+  <string name="Randomised/Greeting13_Response_003_000">See you next time.</string>
+  <string name="Randomised/Greeting14_Intro_000">Sorry, I just spaced out. &lt;haha&gt;</string>
+  <string name="Randomised/Greeting14_Intro_001">What can I do for you?</string>
+  <string name="Randomised/Greeting14_Response_003_000">All good, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting15_Intro_000">Whoa!</string>
+  <string name="Randomised/Greeting15_Intro_001">I just got deja vu! &lt;haha&gt;</string>
+  <string name="Randomised/Greeting15_Intro_002">You wanted to chat?</string>
+  <string name="Randomised/Greeting15_Response_003_000">I swear we've chatted</string>
+  <string name="Randomised/Greeting16_Intro_000">Can I help you, &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Greeting16_Response_003_000">Talk again soon, yeah? &lt;yes&gt;</string>
+  <string name="Randomised/Greeting17_Intro_000">WOAH! &lt;shocked&gt;</string>
+  <string name="Randomised/Greeting17_Intro_001">You scared me, &lt;PlayerName&gt;! &lt;haha&gt;</string>
+  <string name="Randomised/Greeting17_Response_003_000">We'll catch up again soon. &lt;yes&gt;</string>
+  <string name="Randomised/Greeting18_Intro_000">Huh?</string>
+  <string name="Randomised/Greeting18_Response_003_000">Huh?</string>
+  <string name="Randomised/Greeting1_Intro_000">Oh, if it isn't &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting1_Intro_001">What can I do for you today?</string>
+  <string name="Randomised/Greeting1_Response_003_000">All good. Catch you later.</string>
+  <string name="Randomised/Greeting2_Intro_000">&lt;PlayerName&gt;! I swear I was just thinking about you. &lt;haha&gt;</string>
+  <string name="Randomised/Greeting2_Intro_001">Do you need something?</string>
+  <string name="Randomised/Greeting2_Response_003_000">Nice talking to you.</string>
+  <string name="Randomised/Greeting3_Intro_000">Hey &lt;PlayerName&gt;. </string>
+  <string name="Randomised/Greeting3_Intro_001">I had something to say to you!</string>
+  <string name="Randomised/Greeting3_Intro_002">... I've forgotten. &lt;haha&gt;</string>
+  <string name="Randomised/Greeting3_Response_003_000">Maybe I'll remember it. I'll get back to you.</string>
+  <string name="Randomised/Greeting4_Intro_000">&lt;PlayerName&gt;, &lt;PlayerName&gt;, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting4_Intro_001">What brings you to little ol' me?</string>
+  <string name="Randomised/Greeting4_Response_003_000">Goodbye. &lt;wave&gt;</string>
+  <string name="Randomised/Greeting5_Intro_000">&lt;PlayerName&gt; ! My favourite person!</string>
+  <string name="Randomised/Greeting5_Response_003_000">Bye bye! &lt;wave&gt;</string>
+  <string name="Randomised/Greeting6_Intro_000">Oh, it's &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting6_Response_003_000">See you around then. &lt;wave&gt;</string>
+  <string name="Randomised/Greeting7_Intro_000">Howdy!</string>
+  <string name="Randomised/Greeting7_Response_003_000">Thanks for </string>
+  <string name="Randomised/Greeting8_Intro_000">&lt;PlayerName&gt;!</string>
+  <string name="Randomised/Greeting8_Response_003_000">Nice to see you!</string>
+  <string name="Randomised/Greeting9_Intro_000">Hey, &lt;PlayerName&gt;.</string>
+  <string name="Randomised/Greeting9_Response_003_000">Alright then!</string>
+  <string name="Randomised/Raining_Greeting 0_Intro_000">Wet enough for you? &lt;haha&gt;</string>
+  <string name="Randomised/Raining_Greeting 0_Response_003_000">Try and stay dry if you can. &lt;wave&gt;</string>
+  <string name="Randomised/Raining_Greeting 1_Intro_000">It's raining its pouring! &lt;haha&gt;</string>
+  <string name="Randomised/Raining_Greeting 1_Response_003_000">I wonder when it will stop?</string>
+  <string name="Randomised/Raining_Greeting 2_Intro_000">That pitter patter is so relaxing, don’t you think?</string>
+  <string name="Randomised/Raining_Greeting 2_Response_003_000">Catch you late, &lt;PlayerName&gt;. &lt;wave&gt;</string>
+  <string name="Randomised/Raining_Greeting 3_Intro_000">We needed a bit of rain!</string>
+  <string name="Randomised/Raining_Greeting 3_Response_003_000">Bye! &lt;wave&gt;</string>
+  <string name="Randomised/Raining_Greeting 4_Intro_000">Who doesn't like a bit of rain?</string>
+  <string name="Randomised/Raining_Greeting 4_Response_003_000">Talk later, okay &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Raining_Greeting 5_Intro_000">Rain is good fishing weather, I hear.</string>
+  <string name="Randomised/Raining_Greeting 5_Response_003_000">Going to throw out a line, &lt;PlayerName&gt;?</string>
+  <string name="Randomised/Raining_Greeting 6_Intro_000">I like to try and catch the drops on my tongue! &lt;haha&gt;</string>
+  <string name="Randomised/Raining_Greeting 6_Response_003_000">Enjo</string>
+  <string name="Randomised/Raining_Greeting 7_Intro_000">Great weather for ducks, eh?</string>
+  <string name="Randomised/Raining_Greeting 7_Response_003_000">Nice talking! &lt;wave&gt;</string>
+</resources>

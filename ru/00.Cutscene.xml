@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cutscene/Narration_002">Где с тех пор живут в холоде и без всякой надежды на будущее.</string>
+    <string name="Cutscene/Narration_004">Большинство местных даже не помышляют отсюда выбраться.</string>
+    <string name="Cutscene/Narration_007">Сегодня вы отправляетесь на остров &lt;IslandName&gt;.</string>
+    <string name="Cutscene/Narration_008">Чтобы, наконец, исполнить свою мечту!</string>
+    <string name="Cutscene/Narration_005">Но для вас это давняя мечта...</string>
+    <string name="Cutscene/Narration_000">Давным-давно всё пошло наперекосяк.</string>
+    <string name="Cutscene/Narration_001">Почти все вынуждены были перебраться в Южный город.</string>
+    <string name="Cutscene/Narration_003">Здесь вы родились и выросли.</string>
+    <string name="Cutscene/Narration_006">Разыскивается юноша или девушка для сопровождения старушки на её родину, остров &lt;IslandName&gt;. Путешествие и проживание за мой счёт. Если заинтересованы - приходите в аэропорт в первый день лета.</string>
+</resources>

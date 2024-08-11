@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Quest/QuestName_Q_0_FirstQuest1">Uma Base de Operações</string>
+    <string name="Quest/QuestDesc_Q_0_FirstQuest1">Você chegou na ilha! Fletch lhe deu uma Tenda Base e pediu para você olhar ao redor e encontrar um lugar onde você gostaria de se estabelecer.
+\n
+\nSinta-se à vontade para fazer perguntas a Fletch sobre a ilha. Ela pode ser encontrada vagando perto do cais.</string>
+    <string name="Quest/QuestName_Q_1_SetUpPlayerTent">Sua nova casa!</string>
+    <string name="Quest/QuestDesc_Q_1_SetUpPlayerTent">Fletch lhe deu sua própria Tenda! Esta será sua casa por enquanto, então tome seu tempo para decidir onde montá-la. Fletch sugeriu montá-la perto da Tenda Base.
+\n
+\nDepois que você tiver sua tenda montada, fale com Fletch.
+\n</string>
+    <string name="Quest/QuestName_Q_2_SetupMarketplace">Um lugar para visitantes</string>
+    <string name="Quest/QuestName_Q_3_FindSomeFood">Alimentos Silvestres</string>
+    <string name="Quest/QuestDesc_Q_3_FindSomeFood">Fletch pediu para você encontrar algumas frutas e cozinhá-las no fogo. Fazer isso contará para suas tarefas diárias.</string>
+    <string name="Quest/QuestName_Q_4_WaitUntilNextDay">R n\' R</string>
+    <string name="Quest/QuestDesc_Q_4_WaitUntilNextDay">Fletch não tem mais nada para você hoje. Dê uma olhada pela ilha um pouco, pegue alguns insetos ou descanse um pouco.</string>
+    <string name="Quest/QuestName_Q_5_GetTalbeSaw">Dinks e serras de mesa</string>
+    <string name="Quest/QuestName_Q_6_FurnaceQuest">Materiais de construção</string>
+    <string name="Quest/QuestDesc_Q_6_FurnaceQuest">Fletch pediu para você adquirir uma lista de itens. Você terá que criar uma fogueira.
+\n
+\nDepois de coletar os itens, Fletch lhe ensinará como fazer Barras de Minério de Estanho.</string>
+    <string name="Quest/QuestName_Q_7_BringTinBar">Fundição de minério</string>
+    <string name="Quest/QuestDesc_Q_7_BringTinBar">Crie um Forno Bruto, coloque 5 Minérios de Estanho dentro e espere.
+\n
+\nLeve a Barra de Estanho para a Fletch quando a fundição estiver concluída.</string>
+    <string name="Quest/QuestName_Q_8_GetJohnToMoveIn">Convença John a ficar</string>
+    <string name="Quest/QuestName_Q_9_NPCMoveInQuest1">Construir uma casa</string>
+    <string name="Quest/QuestDesc_Q_9_NPCMoveInQuest1">Construa uma casa para um novo cidadão.</string>
+    <string name="Quest/QuestName_Q_10_NPCMoveInQuest2">Construir uma casa</string>
+    <string name="Quest/QuestDesc_Q_10_NPCMoveInQuest2">Construa uma casa para um novo cidadão.</string>
+    <string name="Quest/QuestName_Q_11_NPCMoveInQuest3">Construir uma casa</string>
+    <string name="Quest/QuestDesc_Q_11_NPCMoveInQuest3">Construa uma casa para um novo cidadão.</string>
+    <string name="Quest/QuestName_Q_12_NPCMoveInQuest4">Construir uma casa</string>
+    <string name="Quest/QuestDesc_Q_12_NPCMoveInQuest4">Construa uma casa para um novo cidadão.</string>
+    <string name="Quest/QuestName_Q_13_BuildBankQuest">Construir um banco</string>
+    <string name="Quest/QuestDesc_Q_13_BuildBankQuest">Construa um banco para a cidade.</string>
+    <string name="Quest/QuestName_Q_14_JohnLevel75">John Nível 75</string>
+    <string name="Quest/QuestName_Q_16_IrwinLevel20">Coloque a casa do cão</string>
+    <string name="Quest/QuestName_Q_17_Get5Residents">Cinco é uma cidade</string>
+    <string name="Quest/QuestName_Q_18_RayneLevel75">Rayne Nível 75</string>
+    <string name="Quest/QuestName_Q_20_BuildTheBandStand">Construir o coreto</string>
+    <string name="Quest/QuestDesc_Q_20_BuildTheBandStand">Construir o coreto</string>
+    <string name="Quest/QuestName_Q_21FindBerkonium">Encontre Bercônio</string>
+    <string name="Quest/QuestName_Q_22UnlockAirPort">Encontre Bercônio</string>
+    <string name="Quest/QuestDesc_Q_22UnlockAirPort">Franklyn me pediu para encontrar mais minério de Berkonium e entregá-lo a ele.</string>
+    <string name="Quest/QuestDesc_Q_21FindBerkonium">Franklyn me pediu para encontrar mais Minério de Bercônio de Bercônio e entregá-lo a ele.</string>
+    <string name="Quest/QuestName_Q_19_GuestHouseQuest">Obter escrituras de imóveis</string>
+    <string name="Quest/QuestName_Q_15_FranklynTeleporterQuest">Teletransportador</string>
+    <string name="Quest/QuestDesc_Q_2_SetupMarketplace">Fletch pediu para você encontrar um lugar para a Escritura de visita ao local. Uma vez que esta escritura tenha sido colocada, seu acampamento estará pronto para acomodar viajantes de todos os lugares!
+\n
+\nRetorne para a Fletch uma vez que a escritura tenha sido colocada.</string>
+    <string name="Quest/QuestDesc_Q_5_GetTalbeSaw">Fletch pediu para você comprar uma serra de mesa na loja de John. Tente vender itens indesejados para o John para obter os dinks que você precisa.</string>
+    <string name="Quest/QuestDesc_Q_8_GetJohnToMoveIn">Fletch acredita que, fazendo favores aos visitantes e gastando dinheiro em suas lojas, eles podem ser convencidos a ficar permanentemente.</string>
+    <string name="Quest/QuestDesc_Q_16_IrwinLevel20">Coloque a casota de cachorro no chão e fale com Irwin.</string>
+    <string name="Quest/QuestDesc_Q_17_Get5Residents">&lt;IslandName&gt; precisa de 5 residentes permanentes antes que South City a reconheça como um assentamento oficial.
+\n
+\nFazer favores e gastar Dinks nas tendas dos Visitantes pode encorajá-los a ficar.</string>
+</resources>

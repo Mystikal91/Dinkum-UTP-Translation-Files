@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LicenceNames/Licence_1">Licencia de Minería</string>
+    <string name="LicenceNames/Licence_10">Licencia de Construcción</string>
+    <string name="LicenceNames/Licence_11">Licencia de Agricultura</string>
+    <string name="LicenceNames/Licence_13">Licencia de Minería Profunda</string>
+    <string name="LicenceNames/Licence_15">Licencia de Captura</string>
+    <string name="LicenceNames/Licence_16">Licencia de Excavación</string>
+    <string name="LicenceNames/Licence_17">Licencia de Irrigación</string>
+    <string name="LicenceNames/Licence_18">Licencia de Vehículos Agrícolas</string>
+    <string name="LicenceNames/Licence_19">Licencia de Escritura</string>
+    <string name="LicenceNames/Licence_2">Licencia de Tala Forestal</string>
+    <string name="LicenceNames/Licence_20">Licencia de Decoración Acuática</string>
+    <string name="LicenceNames/Licence_21">Licencia de Artesano Cervecero</string>
+    <string name="LicenceNames/Licence_22">Licencia de Procesamiento de Animales</string>
+    <string name="LicenceNames/Licence_5">Licencia de Paisajismo</string>
+    <string name="LicenceNames/Licence_6">Licencia de Detección de Metales</string>
+    <string name="LicenceNames/Licence_7">Licencia para Vehículos</string>
+    <string name="LicenceNames/Licence_8">Licencia de Comercio</string>
+    <string name="LicenceNames/Licence_23">Licencia de Acuicultura</string>
+    <string name="LicenceNames/Licence_3">Licencia de Pesca</string>
+    <string name="LicenceNames/Licence_4">Licencia de Caza</string>
+</resources>

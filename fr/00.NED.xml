@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NED/Ned_Salesman_Trapper_Option_001">Peux-tu me préparer quelque chose ?</string>
+    <string name="NED/Ned_Salesman_Trapper_Option_003">Laisse tomber</string>
+    <string name="NED/Introduction_005_Intro_001">Le nom est &lt;myName&gt;.</string>
+</resources>

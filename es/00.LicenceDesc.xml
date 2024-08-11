@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LicenceDesc/Licence_AgriculturalVehicle_1_Desc">Permite al propietario comprar Vehículos Agrícolas y utilizar el Accesorio de Cosecha</string>
+    <string name="LicenceDesc/Licence_AgriculturalVehicle_2_Desc">Permite al propietario utilizar el Accesorio de Arado en Vehículos Agrícolas.</string>
+    <string name="LicenceDesc/Licence_AgriculturalVehicle_3_Desc">Permite al propietario utilizar el Accesorio de Plantación en Vehículos Agrícolas.</string>
+</resources>

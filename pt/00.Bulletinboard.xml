@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Bulletinboard/Bring">Traga &lt;npcName&gt; &lt;itemAmount&gt; &lt;itemName&gt;</string>
+    <string name="Bulletinboard/TalkTo">Fale com &lt;npcName&gt;</string>
+    <string name="Bulletinboard/UsingLastLocation">usando sua última localização conhecida no mapa</string>
+    <string name="Bulletinboard/Days_Remaining">Dias restantes</string>
+    <string name="Bulletinboard/Capture">Leve &lt;animalName&gt; capturado para um ponto de entrega para ganhar uma recompensa maior.</string>
+    <string name="Bulletinboard/BringCaptured">Traga capturado</string>
+    <string name="Bulletinboard/Collect">Coletar &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/DayAgo">dia atrás</string>
+    <string name="Bulletinboard/DaysAgo">dias atrás</string>
+    <string name="Bulletinboard/Hunt">Caça &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
+    <string name="Bulletinboard/MonthAgo">mês atrás</string>
+    <string name="Bulletinboard/MonthsAgo">meses antes</string>
+    <string name="Bulletinboard/Photograph">Fotografia &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/Show">Mostre a &lt;npcName&gt; a fotografia</string>
+    <string name="Bulletinboard/ThePhotograph">a foto</string>
+    <string name="Bulletinboard/ToADropOffPoint">para um ponto de entrega para uma recompensa maior</string>
+    <string name="Bulletinboard/Today">hoje</string>
+    <string name="Bulletinboard/WeekAgo">uma semana atrás</string>
+    <string name="Bulletinboard/WeeksAgo">semanas atrás</string>
+    <string name="Bulletinboard/YearAgo">ano atrás</string>
+    <string name="Bulletinboard/YearsAgo">anos atrás</string>
+    <string name="Bulletinboard/Yesterday">ontem</string>
+    <string name="Bulletinboard/EXPIRED">EXPIRADO</string>
+    <string name="Bulletinboard/Last_Day">Último dia</string>
+    <string name="Bulletinboard/Trade">Troca</string>
+    <string name="Bulletinboard/with">com</string>
+    <string name="Bulletinboard/Speak_to">Falar com</string>
+    <string name="Bulletinboard/HuntDown">Caçar o</string>
+    <string name="Bulletinboard/VisitLocation">Visite o local no mapa para investigar</string>
+    <string name="Bulletinboard/Post_FirstPost_Content">Nossa cidade agora tem um Quadro de avisos! Sinta-se à vontade para deixar lembretes, anúncios ou solicitações aqui para a cidade ver!</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Content">Preciso enviar uma grande remessa de &lt;boardRequestItem&gt; de volta para casa.
+\n
+\nSe alguém puder me ajudar a preencher esta remessa, por favor, venha me ver com as mercadorias.</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt; Recompensa de captura</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Title">Solicitação de Compostagem</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Content">Estou fazendo composto. Se alguém me trouxer &lt;boardRequestItem&gt; eu darei a eles &lt;boardRewardItem&gt;.</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Title">Cozinhando um pouco de &lt;boardRewardItem&gt;</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Content">Estou fazendo &lt;boardRewardItem&gt; e estou com &lt;boardRequestItem&gt; a menos!
+\nSe alguém puder me trazer &lt;boardRequestItem&gt;, ficarei feliz em compartilhar um pouco de &lt;boardRewardItem&gt; com você!</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Title">Solicitação de criação</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Content">Estou procurando um artesão habilidoso que seja capaz de criar &lt;boardRequestItem&gt; para mim.
+\n
+\nRecompensa na entrega!</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt;</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Title">Solicitação de foto</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Content">Eu adoraria ver uma foto &lt;getAnimalsInPhotoList&gt;.</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Title">Solicitação de investigação</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Content">Você pode achar que sou louco, mas juro que vi Cangurus voando no céu ontem à noite.
+\n
+\nAcho que eles podem ter derrubado alguma coisa?
+\n
+\nAlguém deveria verificar isso!</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Title">---- Lembrete ----</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Content">Esta é uma postagem de lembrete.</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Title">Solicitação de investigação</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Title">Solicitação de Envio</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Title">Quer praticar fundição.</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Content">Tenho fundido um pouco de minério e acabei. Se alguém puder me trazer &lt;boardRequestItem&gt;, eu dou a eles &lt;boardRewardItem&gt; que tenho por aí.</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Title">Quer trocar</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Content">O Centro de Pesquisa Animal está oferecendo uma recompensa maior para cada &lt;boardHuntRequestAnimal&gt; entregue por um tempo limitado.
+\n
+\nVocê receberá esta recompensa para cada &lt;boardHuntRequestAnimal&gt; entregue durante este período.
+\n</string>
+    <string name="Bulletinboard/Post_FirstPost_Title">Quadro de avisos!</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Content">&lt;boardHuntRequestAnimal&gt; foi avistado neste local. Este é um animal Alfa muito perigoso e só deve ser caçado por um caçador experiente.</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Content">Juro que vi algo cair do céu na outra noite.
+\n
+\nTalvez alguém possa ir dar uma olhada?</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Content">Tenho um &lt;boardRewardItem&gt; que não quero mais. Estou disposto a trocar &lt;boardRequestItem&gt; por ele.
+\nSe alguém estiver interessado, por favor, venha me ver.</string>
+</resources>

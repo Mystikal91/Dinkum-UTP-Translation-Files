@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt;Ah! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">Olá, &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">Espero que você esteja sendo legal hoje!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_000">Você pode me fazer alguma coisa?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_001">Como estão suas férias?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_002">Deixa para lá</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_000">Aqui está minha lista.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_001">Verifique duas vezes!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt;Ah! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt;Eu adoro isso aqui em &lt;IslandName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt;Ah!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_003">Isto me lembra!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt;Parece que alguns dos meus &lt;animalName&gt; brancos desapareceram.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt;Tenho certeza que eles voltarão eventualmente.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_006">Mas se você vir um, você faria a gentileza de pegar um e deixá-lo em um &lt;itemName&gt;?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt;Muito obrigado, &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_008">Você sempre foi muito legal!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt;Tome um rippa!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt;Ah! Ho! Ho!</string>
+</resources>

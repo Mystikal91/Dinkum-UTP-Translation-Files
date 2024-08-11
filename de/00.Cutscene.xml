@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cutscene/Narration_000">Vor langer Zeit ging alles den Bach runter.</string>
+    <string name="Cutscene/Narration_001">Fast alle waren gezwungen, nach Südstadt zu ziehen.</string>
+    <string name="Cutscene/Narration_002">Das Leben der Menschen in der Südstadt ist kalt und erbärmlich.</string>
+    <string name="Cutscene/Narration_003">Du bist hier geboren.</string>
+    <string name="Cutscene/Narration_004">Die meisten Menschen haben keine Lust wegzugehen.</string>
+    <string name="Cutscene/Narration_005">Du aber schon, mehr als alles andere.</string>
+    <string name="Cutscene/Narration_006">Ich suche jemanden draufgängerisches, der mich in meine alte Heimat, &lt;IslandName&gt;, begleitet. Für Kosten und Logis ist gesorgt. Interessierte treffen mich bitte am 1. Sommer am Luftschiff-Terminal.</string>
+    <string name="Cutscene/Narration_007">Du brichst heute nach &lt;IslandName&gt; auf.</string>
+    <string name="Cutscene/Narration_008">Möglicherweise hast du einen Ausweg gefunden.</string>
+</resources>

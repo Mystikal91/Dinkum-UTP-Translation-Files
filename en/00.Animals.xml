@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Animals/Jackaroo">Jackaroo</string>
+  <string name="Animals/Fish">Fish</string>
+  <string name="Animals/Bug">Bug</string>
+  <string name="Animals/Croco">Croco</string>
+  <string name="Animals/Maggie">Maggie</string>
+  <string name="Animals/Shark">Shark</string>
+  <string name="Animals/Diggo">Diggo</string>
+  <string name="Animals/ScrubTurkey">Scrub Turkey</string>
+  <string name="Animals/Cockatoo">Cockatoo</string>
+  <string name="Animals/Chook">Chook</string>
+  <string name="Animals/BabyChook">Baby Chook</string>
+  <string name="Animals/Vombat">Vombat</string>
+  <string name="Animals/VombatJoey">Vombat Joey</string>
+  <string name="Animals/Mu">Mu</string>
+  <string name="Animals/BushDevil">Bush Devil</string>
+  <string name="Animals/Toad">Toad</string>
+  <string name="Animals/WaryMu">Wary Mu</string>
+  <string name="Animals/Pleep">Pleep</string>
+  <string name="Animals/Jellyfish">Jellyfish</string>
+  <string name="Animals/PetDiggo">Pet Diggo</string>
+  <string name="Animals/GlowingCroco">Glowing Croco</string>
+  <string name="Animals/WildVombat">Wild Vombat</string>
+  <string name="Animals/Kidna">Kidna</string>
+  <string name="Animals/UnderwaterCreature">Underwater Creature</string>
+  <string name="Animals/AlphaJackaroo">Alpha Jackaroo</string>
+  <string name="Animals/AlphaCroco">Alpha Croco</string>
+  <string name="Animals/AlphaBushDevil">Alpha Bush Devil</string>
+  <string name="Animals/CaveBat">Cave Bat</string>
+  <string name="Animals/Frilly">Frilly</string>
+  <string name="Animals/WhiteBoomer">White Boomer</string>
+  <string name="Animals/PincherPlant">Pincher Plant</string>
+  <string name="Animals/BloomingFrilly">Blooming Frilly</string>
+  <string name="Animals/PleepPuggle">Pleep Puggle</string>
+  <string name="Animals/Grub">Grub</string>
+  <string name="Animals/GrubNest">Grub Nest</string>
+  <string name="Animals/StoneFishLair">Stone Fish Lair</string>
+  <string name="Animals/StoneFish">Stone Fish</string>
+  <string name="Animals/AlphaShark">Alpha Shark</string>
+</resources>

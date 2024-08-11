@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GUIText/Sitting">坐着</string>
+    <string name="GUIText/Cancel">取消</string>
+</resources>

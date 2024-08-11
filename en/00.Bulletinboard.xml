@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="Bulletinboard/Bring">Bring &lt;npcName&gt; &lt;itemAmount&gt; &lt;itemName&gt;</string>
+  <string name="Bulletinboard/BringCaptured">Bring captured</string>
+  <string name="Bulletinboard/Capture">Bring captured &lt;animalName&gt; to a Drop Off Point for an increased reward.</string>
+  <string name="Bulletinboard/Collect">Collect &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+  <string name="Bulletinboard/DayAgo">day ago</string>
+  <string name="Bulletinboard/DaysAgo">days ago</string>
+  <string name="Bulletinboard/Hunt">Hunt &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
+  <string name="Bulletinboard/MonthAgo">month ago</string>
+  <string name="Bulletinboard/MonthsAgo">months ago</string>
+  <string name="Bulletinboard/Photograph">Photograph &lt;animalsInPhoto&gt;</string>
+  <string name="Bulletinboard/Show">Show &lt;npcName&gt; the photograph</string>
+  <string name="Bulletinboard/TalkTo">Talk to &lt;npcName&gt;</string>
+  <string name="Bulletinboard/ThePhotograph">the photo</string>
+  <string name="Bulletinboard/ToADropOffPoint">to a Drop Off Point for an increased reward</string>
+  <string name="Bulletinboard/Today">today</string>
+  <string name="Bulletinboard/WeekAgo">week ago</string>
+  <string name="Bulletinboard/WeeksAgo">weeks ago</string>
+  <string name="Bulletinboard/YearAgo">year ago</string>
+  <string name="Bulletinboard/YearsAgo">years ago</string>
+  <string name="Bulletinboard/Yesterday">yesterday</string>
+  <string name="Bulletinboard/EXPIRED">EXPIRED</string>
+  <string name="Bulletinboard/Last_Day">Last Day</string>
+  <string name="Bulletinboard/Days_Remaining">Days Remaining</string>
+  <!-- Used in: Trade <itemName> with <NpcName> -->
+  <string name="Bulletinboard/Trade">Trade</string>
+  <!-- Used in: Trade <itemName> with <NpcName> -->
+  <string name="Bulletinboard/with">with</string>
+  <!-- Used in: Speak to <NpcName> -->
+  <string name="Bulletinboard/Speak_to">Speak to</string>
+  <!-- Used in: Hunt down the <AnimalName> using its last know location on the map -->
+  <string name="Bulletinboard/HuntDown">Hunt down the</string>
+  <!-- Used in: Hunt down the <AnimalName> using its last know location on the map -->
+  <string name="Bulletinboard/UsingLastLocation">using its last know location on the map</string>
+  <!-- Used in: Visit the location on the map to investigate -->
+  <string name="Bulletinboard/VisitLocation">Visit the location on the map to investigate</string>
+  <string name="Bulletinboard/Post_FirstPost_Title">Bulletin Board!</string>
+  <string name="Bulletinboard/Post_FirstPost_Content">Our town now has a Bulletin board! Please feel free to leave any reminders, announcements or requests here for the town to see!</string>
+  <string name="Bulletinboard/Post_CaptureRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt; Capture Reward</string>
+  <string name="Bulletinboard/Post_CaptureRequestTemplate_Content">The Animal Research Centre is offering an increased reward for each &lt;boardHuntRequestAnimal&gt; delivered for a limited time.\n\nYou will receive this reward for each &lt;boardHuntRequestAnimal&gt; delivered during this period.\n</string>
+  <string name="Bulletinboard/Post_CompostRequestTemplate_Title">Compost Request</string>
+  <string name="Bulletinboard/Post_CompostRequestTemplate_Content">I'm making compost. If anyone brings me &lt;boardRequestItem&gt; I'll give them &lt;boardRewardItem&gt;.</string>
+  <string name="Bulletinboard/Post_CookingRequestTemplate_Title">Cooking some &lt;boardRewardItem&gt;</string>
+  <string name="Bulletinboard/Post_CookingRequestTemplate_Content">I'm making &lt;boardRewardItem&gt; and I'm short &lt;boardRequestItem&gt;!\nIf anyone can bring me &lt;boardRequestItem&gt;, I'll happily share some &lt;boardRewardItem&gt; with you!</string>
+  <string name="Bulletinboard/Post_CraftingRequestTemplate_Title">Crafting Request</string>
+  <string name="Bulletinboard/Post_CraftingRequestTemplate_Content">I'm looking for skilled crafter who is able to craft &lt;boardRequestItem&gt; for me.\n\nReward on delivery!</string>
+  <string name="Bulletinboard/Post_HuntingRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt;</string>
+  <string name="Bulletinboard/Post_HuntingRequestTemplate_Content">&lt;boardHuntRequestAnimal&gt; has been spotted at this location. This is a very dangerous Alpha animal and should only be taken on by an experienced hunter.</string>
+  <string name="Bulletinboard/Post_PhotoRequestTemplate_Title">Photo Request</string>
+  <string name="Bulletinboard/Post_PhotoRequestTemplate_Content">I would love to see a photo &lt;getAnimalsInPhotoList&gt;.</string>
+  <string name="Bulletinboard/Post_PresentDropBoardTemplate_Title">Investigation Request</string>
+  <string name="Bulletinboard/Post_PresentDropBoardTemplate_Content">You might think I'm crazy, but I swear I saw Jackaroo flying in the sky last night.\n\nI think they might have dropped something?\n\nSomeone should check that out!</string>
+  <string name="Bulletinboard/Post_CaptureRequestTemplate1_Title">---- Reminder ----</string>
+  <string name="Bulletinboard/Post_CaptureRequestTemplate1_Content">This is a reminder post.</string>
+  <string name="Bulletinboard/Post_SateliteTemplate_Title">Investigation Request</string>
+  <string name="Bulletinboard/Post_SateliteTemplate_Content">I swear I saw something fall out of the sky the other night. \n\nMaybe someone can go check it out?</string>
+  <string name="Bulletinboard/Post_ShippingRequestTemplate_Title">Shipping Request</string>
+  <string name="Bulletinboard/Post_ShippingRequestTemplate_Content">I need to send a big shipment of &lt;boardRequestItem&gt; back home.\n\nIf anyone can help me fill this shipment, please come and see me with the goods.</string>
+  <string name="Bulletinboard/Post_SmeltingRequestTemplate_Title">Want to practice smelting.</string>
+  <string name="Bulletinboard/Post_SmeltingRequestTemplate_Content">I've been smelting ore a bit and I've run out. If anyone can bring me  &lt;boardRequestItem&gt; I'll give them &lt;boardRewardItem&gt; I have laying around.</string>
+  <string name="Bulletinboard/Post_TradeRequestTemplate_Title">Want to Trade</string>
+  <string name="Bulletinboard/Post_TradeRequestTemplate_Content">I have a &lt;boardRewardItem&gt; I don't want anymore. I'm willing to trade &lt;boardRequestItem&gt; for it.\nIf anyone is interested, please come see me.</string>
+</resources>

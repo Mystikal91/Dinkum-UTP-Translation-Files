@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LicenceNames/Licence_13">Licenza da Minatore di Profondità</string>
+    <string name="LicenceNames/Licence_17">Licenza da Irrigatore</string>
+    <string name="LicenceNames/Licence_21">Licenza da Fermentatore</string>
+    <string name="LicenceNames/Licence_18">Licenza da Guidare Agricolo</string>
+    <string name="LicenceNames/Licence_1">Licenza da Minatore</string>
+    <string name="LicenceNames/Licence_10">Licenza da Costruttore</string>
+    <string name="LicenceNames/Licence_11">Licenza da Agricoltore</string>
+    <string name="LicenceNames/Licence_12">Licenza di Carico</string>
+    <string name="LicenceNames/Licence_14">Licenza da Tuttofare</string>
+    <string name="LicenceNames/Licence_15">Licenza da Catturatore</string>
+    <string name="LicenceNames/Licence_16">Licenza da Scavatore</string>
+    <string name="LicenceNames/Licence_19">Licenza da Cartellonista</string>
+    <string name="LicenceNames/Licence_2">Licenza da Falegname</string>
+    <string name="LicenceNames/Licence_20">Licenza da Paesaggista Acquatico</string>
+    <string name="LicenceNames/Licence_22">Licenza per Lavorazione Animali</string>
+    <string name="LicenceNames/Licence_3">Licenza da Pescatore</string>
+    <string name="LicenceNames/Licence_4">Licenza da Cacciatore</string>
+    <string name="LicenceNames/Licence_5">Licenza da Paesaggista</string>
+    <string name="LicenceNames/Licence_8">Licenza da Commerciante</string>
+    <string name="LicenceNames/Licence_7">Licenza da Guidatore</string>
+    <string name="LicenceNames/Licence_6">Licenza da Cerca Metalli</string>
+    <string name="LicenceNames/Licence_9">Licenza da Allevatore</string>
+    <string name="LicenceNames/Licence_23">Licenza da Allevatore di Pesci</string>
+</resources>

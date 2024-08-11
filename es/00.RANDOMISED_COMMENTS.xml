@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RandomisedComments/CharacterInTentComment_000_Intro_001">&lt;shy&gt;¡Podría haberles dado una pista de que deberían mudarse aquí de verdad!</string>
+    <string name="RandomisedComments/CharacterInTentComment_000_Intro_000">Entré y tuve una charla con &lt;marketPlaceNPCName&gt; en la carpa del Centro de Visitantes.</string>
+    <string name="RandomisedComments/CharacterInTentComment_001_Intro_000">&lt;marketPlaceNPCName&gt; esta de visita hoy!</string>
+    <string name="RandomisedComments/LowHealthComment_000_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+    <string name="RandomisedComments/LowStaminaComment_000_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+</resources>

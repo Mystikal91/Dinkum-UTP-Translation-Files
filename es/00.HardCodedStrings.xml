@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="HardCodedStrings/AnimalHouseMenu_fillData_SELL">VENDER</string>
+    <string name="HardCodedStrings/AnimalHouseMenu_openConfirm_000">Vender &lt;animalName&gt; por &lt;sprite=11&gt;&lt;sellValue&gt;?</string>
+    <string name="HardCodedStrings/GiveNPC_UpdateMenu_Donate">Donar</string>
+    <string name="HardCodedStrings/AnimalManager_fillAnimalLocation_UnknownLocation">Ubicación desconocida</string>
+    <string name="HardCodedStrings/BankMenu_openAsDonations_Donate">Donar</string>
+    <string name="HardCodedStrings/MailManager_getSentByName_Unknown">Desconocido</string>
+</resources>

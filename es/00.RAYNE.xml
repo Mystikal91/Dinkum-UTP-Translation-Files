@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RAYNE/Arvo_Greeting 0_Intro_000">¿Ya es tarde, no?</string>
+    <string name="RAYNE/Arvo_Greeting 0_Intro_001">&lt;no&gt;El tiempo paso volando hoy.</string>
+    <string name="RAYNE/Arvo_Greeting 0_Response_003_000">Que tengas una agradable tarde, colega.</string>
+    <string name="RAYNE/IslandDayGreeting_Noon_000_Intro_000">Oh, &lt;PlayerName&gt;!</string>
+</resources>

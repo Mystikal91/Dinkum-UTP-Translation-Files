@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Npc16/Nick_Salesman_Convo_Option_002">算了</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt;吼！吼！吼！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt;吼！吼！吼！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt;吼！吼！吼！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt;喔！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_003">这倒是提醒我了！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt;好像我的白色&lt;animalName&gt;走丢了。</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt;我想他们最终还会回来。</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_006">但是如果你看到一个，你可不可以好心抓一个放在&lt;itemName&gt;？</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt;非常感谢&lt;PlayerName&gt;！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_008">你一直都这么热心！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">你好啊，&lt;PlayerName&gt;！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">希望你度过愉快的一天！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_000">你可以给我做点东西吗？</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_001">你的假期过得如何？</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_000">这是我的清单。</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_001">再检查一下！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt;我喜欢&lt;IslandName&gt;！</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt;玩的开心！</string>
+</resources>

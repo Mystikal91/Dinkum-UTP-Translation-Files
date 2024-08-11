@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="FRANKLIN/Arvo_Greeting 0_Response_003_000">&lt;no&gt;Pero que desperdicio de mi tiempo.</string>
+    <string name="FRANKLIN/Arvo_Greeting 0_Intro_000">Oh, una interacción postmeridiana?</string>
+    <string name="FRANKLIN/LearntNewTech_Intro_000">&lt;thinking&gt;Hmmm...</string>
+    <string name="FRANKLIN/Arvo_Greeting 0_Response_003_001">Lamentablemente, hoy solo quedan unas pocas horas.</string>
+    <string name="FRANKLIN/CanMakeTechForYouNotEnoughMoney_Response_000_000">&lt;thinking&gt;Hmmm...</string>
+</resources>

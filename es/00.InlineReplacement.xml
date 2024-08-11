@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="InlineReplacement/SouthCity">Ciudad del Sur</string>
+    <string name="InlineReplacement/RaffleTickets">Boletos para el sorteo</string>
+    <string name="InlineReplacement/Snag">Snag</string>
+    <string name="InlineReplacement/Journal">Diario</string>
+</resources>

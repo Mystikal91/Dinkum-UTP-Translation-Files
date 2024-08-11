@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Bulletinboard/BringCaptured">Cattura e consegna</string>
+    <string name="Bulletinboard/Collect">Raccogli &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/DayAgo">giorno fa</string>
+    <string name="Bulletinboard/DaysAgo">giorni fa</string>
+    <string name="Bulletinboard/Hunt">Caccia &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
+    <string name="Bulletinboard/MonthAgo">mese fa</string>
+    <string name="Bulletinboard/MonthsAgo">mesi fa</string>
+    <string name="Bulletinboard/Photograph">Fotografa &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/Show">Mostra a &lt;npcName&gt; la fotografia</string>
+    <string name="Bulletinboard/TalkTo">Parla a &lt;npcName&gt;</string>
+    <string name="Bulletinboard/ThePhotograph">la foto</string>
+    <string name="Bulletinboard/Today">oggi</string>
+    <string name="Bulletinboard/WeekAgo">settimana fa</string>
+    <string name="Bulletinboard/WeeksAgo">settimane fa</string>
+    <string name="Bulletinboard/YearAgo">anno fa</string>
+    <string name="Bulletinboard/YearsAgo">anni fa</string>
+    <string name="Bulletinboard/Yesterday">ieri</string>
+    <string name="Bulletinboard/Bring">Consegna &lt;itemAmount&gt; &lt;itemName&gt; a &lt;npcName&gt;</string>
+    <string name="Bulletinboard/Capture">Cattura e consegna &lt;animalName&gt; a un Punto di Consegna per una ricompensa aumentata.</string>
+    <string name="Bulletinboard/ToADropOffPoint">ad un Punto di Consegna per una ricompensa aumentata</string>
+    <string name="Bulletinboard/EXPIRED">SCADUTA</string>
+    <string name="Bulletinboard/Last_Day">Ultimo Giorno</string>
+    <string name="Bulletinboard/Days_Remaining">Giorni Rimanenti</string>
+    <string name="Bulletinboard/Trade">Scambia</string>
+    <string name="Bulletinboard/with">con</string>
+    <string name="Bulletinboard/Speak_to">Parla con</string>
+    <string name="Bulletinboard/UsingLastLocation">usando l\'ultima posizione conosciuta sulla mappa</string>
+    <string name="Bulletinboard/VisitLocation">Visita la posizione sulla mappa per investigare</string>
+    <string name="Bulletinboard/HuntDown">Caccia</string>
+    <string name="Bulletinboard/Post_FirstPost_Content">La nostra città ha ora una Bacheca! Sentiti libero di lasciare qui qualsiasi promemoria, annuncio o richiesta che la città possa vedere!</string>
+    <string name="Bulletinboard/Post_FirstPost_Title">Bacheca!</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Title">Ricompensa per la cattura di &lt;boardHuntRequestAnimal&gt;</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Content">Sto preparando il compost. Se qualcuno mi porta &lt;boardRequestItem&gt; gli darò &lt;boardRewardItem&gt;.</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Title">Richiesta per Compost</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Title">Cucinare &lt;boardRewardItem&gt;</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Title">Richiesta di Costruzione</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt;</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Title">Richiesta di Foto</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Content">Mi piacerebbe vedere una foto di &lt;getAnimalsInPhotoList&gt;.</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Title">Richiesta di Indagine</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Content">Forse penserai che sono pazzo, ma giuro di aver visto dei Cervanguri volare nel cielo ieri sera.
+\n
+\nPensi che possano aver fatto cadere qualcosa?
+\n
+\nQualcuno dovrebbe controllare!</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Title">---- Promemoria ----</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Content">Questo è un post di promemoria.</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Title">Richiesta di Indagine</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Content">Giuro di aver visto qualcosa cadere dal cielo l\'altra notte.
+\n
+\nForse qualcuno può andare a controllare?</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Title">Richiesta di Spedizione</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Title">Voglio fare pratica con la fusione.</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Content">Ho fuso un po\' di minerale e l\'ho finito. Se qualcuno può portarmi &lt;boardRequestItem&gt; gli darò &lt;boardRewardItem&gt; che mi avanza.</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Title">Voglio Scambiare</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Content">Ho &lt;boardRewardItem&gt; che non mi serve più. Sono disposto a scambiare con &lt;boardRequestItem&gt;.
+\nSe qualcuno è interessato, venga a trovarmi.</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Content">Il Centro di Ricerca sugli Animali offre una ricompensa maggiore per ogni &lt;boardHuntRequestAnimal&gt; per un periodo di tempo limitato.
+\n
+\nRiceverai questa ricompensa per ogni consegna di &lt;boardHuntRequestAnimal&gt; durante questo periodo.
+\n</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Content">Sto preparando &lt;boardRewardItem&gt; e mi manca: &lt;boardRequestItem&gt;!
+\nSe qualcuno può portarmi &lt;boardRequestItem&gt;, sarò felice di condividere un po\' di &lt;boardRewardItem&gt;!</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Content">Sto cercando un abile artigiano che sia in grado di costruire &lt;boardRequestItem&gt; per me.
+\n
+\nRicompensa alla consegna!</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Content">Devo inviare un grosso carico di &lt;boardRequestItem&gt; a casa.
+\n
+\nSe qualcuno può aiutarmi a finire questa spedizione, per favore venga a trovarmi con la merce.</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Content">&lt;boardHuntRequestAnimal&gt; è stato avvistato in questo luogo. Si tratta di un animale Alfa molto pericoloso e dovrebbe essere affrontato solo da un cacciatore esperto.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DescriptionDetails/Title_AddsATemporary">aggiunge un temporaneo</string>
+    <string name="DescriptionDetails/Title_TilledSoil">Terreno lavorato</string>
+    <string name="DescriptionDetails/Title_Bury">Sotterra</string>
+    <string name="DescriptionDetails/Title_Consumable">Consumabile</string>
+    <string name="DescriptionDetails/Title_Consuming">Consumando</string>
+    <string name="DescriptionDetails/Title_ContinuesToProduce">Continua a produrre</string>
+    <string name="DescriptionDetails/Title_Damage">Danno</string>
+    <string name="DescriptionDetails/Title_Health">salute</string>
+    <string name="DescriptionDetails/Title_Plantable">Piantabile</string>
+    <string name="DescriptionDetails/Title_Produces">Produce</string>
+    <string name="DescriptionDetails/Title_Restores">recupera</string>
+    <string name="DescriptionDetails/Title_Stamina">resistenza</string>
+    <string name="DescriptionDetails/Title_GrowsOver">Cresce sopra</string>
+    <string name="DescriptionDetails/Title_Weapon">Arma</string>
+    <string name="DescriptionDetails/Title_days">giorni</string>
+</resources>

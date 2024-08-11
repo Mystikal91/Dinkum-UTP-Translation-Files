@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ToolTips/AskForJob_0">Du travail pour moi ?</string>
+    <string name="ToolTips/AskForJob_1">Besoin de quelque chose ?</string>
+    <string name="ToolTips/AskToChat_3">Quoi de neuf ?</string>
+    <string name="ToolTips/AskToHangOut_1">Tu veux sortir ?</string>
+    <string name="ToolTips/AskToHangOut_0">Sortons !</string>
+    <string name="ToolTips/AskToChat_0">Parlons !</string>
+    <string name="ToolTips/AskToChat_1">Quoi de neuf ?</string>
+    <string name="ToolTips/AskToChat_2">Discutons !</string>
+    <string name="ToolTips/AskToHangOut_2">Envie de sortir ?</string>
+    <string name="ToolTips/CancelConvo_0">Laisse tomber</string>
+    <string name="ToolTips/CancelConvo_1">À plus tard</string>
+    <string name="ToolTips/CancelConvo_2">Au revoir !</string>
+</resources>

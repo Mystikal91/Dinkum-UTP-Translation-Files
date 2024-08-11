@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Bulletinboard/Bring">Consigue &lt;itemAmount&gt; &lt;itemName&gt; para &lt;npcName&gt;</string>
+    <string name="Bulletinboard/BringCaptured">Captura y Entrega</string>
+    <string name="Bulletinboard/Collect">Recolecta &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/Capture">Captura y despacha &lt;animalName&gt; en el punto de entrega a cambio de una mayor recompensa.</string>
+</resources>

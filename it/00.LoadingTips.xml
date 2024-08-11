@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LoadingTips/Talkingtopeopleeverydaywillincreaseyourfriendshipwiththem">Parlare con le persone ogni giorno aumenterà la tua amicizia con loro.</string>
+    <string name="LoadingTips/WildAnimalswilleatyourcropsiftheyarentfencedoff">Gli animali selvatici mangeranno i tuoi raccolti se non sono recintati.</string>
+    <string name="LoadingTips/Sittingwillcauseyoutorecoverhealthfaster">Sedersi ti farà recuperare più velocemente la salute</string>
+    <string name="LoadingTips/CustomisationkitscanbeusedtoupgradeGuestHouses">I Kit di Personalizzazione Casa possono essere utilizzati per migliorare le Case per gli Ospiti</string>
+    <string name="LoadingTips/IfyouneedabedFletchkeepssleepingbagsintheBaseTent">Se hai bisogno di un letto, Fletch tiene dei sacchi a pelo nella Tenda Base.</string>
+    <string name="LoadingTips/Themineslayoutshiftsandchangeseveryday">La forma delle miniere cambia ogni giorno.</string>
+    <string name="LoadingTips/Promisingtocompleteataskandnotdeliveringisntagoodidea">Promettere di portare a termine un compito e non mantenerlo non è una buona idea.</string>
+    <string name="LoadingTips/Thebetteryouareataskillthelessstaminayoullusedoingit">Più sei bravo in un\'abilità, meno energia utilizzerai per farlo.</string>
+    <string name="LoadingTips/Ifitsshinyitsprobablyworthsomething">Se luccica, probabilmente vale qualcosa.</string>
+    <string name="LoadingTips/Almostanythingcanbesoldbutnoteverythingcanbebought">Quasi tutto può essere venduto, ma non tutto può essere comprato.</string>
+    <string name="LoadingTips/Toolswillbreakifyouusethemtoomuch">Gli strumenti si rompono se li usi troppo.</string>
+    <string name="LoadingTips/Crafteditemstendtobemorevaluablethantheiringredients">Gli oggetti creati tendono ad avere un valore maggiore rispetto ai loro ingredienti.</string>
+    <string name="LoadingTips/Passingoutwilldodamagetoyourtools">Svenire danneggia i tuoi strumenti.</string>
+    <string name="LoadingTips/DiggingisrealfunDiggingisrealfunDiggingisrealfun">Scavare è davvero divertente. Scavare è davvero divertente. Scavare è davvero divertente.</string>
+    <string name="LoadingTips/Sharksareonlytoughwhentheyareinthewater">Gli squali sono forti solo quando sono in acqua.</string>
+    <string name="LoadingTips/Sometimestreescandropotheritems">A volte gli alberi possono far cadere altri oggetti.</string>
+    <string name="LoadingTips/Youcanburyitemsbydroppingthemonthegroundandcoveringthemwithdirt">Puoi seppellire gli oggetti facendoli cadere e ricoprendoli di terra.</string>
+    <string name="LoadingTips/Foodmadeatacookingtablewilloffermorehealthandstamina">Il cibo preparato al tavolo da cucina darà più salute e resistenza.</string>
+    <string name="LoadingTips/Stayingoutlatewilltireyouout">Rimanere fuori fino a tardi ti stancherà.</string>
+    <string name="LoadingTips/Springiseggseason">La primavera è la stagione delle uova.</string>
+    <string name="LoadingTips/Ashadyvisitormightappearonrainymornings">Un visitatore losco potrebbe apparire nelle mattine di pioggia.</string>
+    <string name="LoadingTips/Fletchmightbeabletohelpyouupgradeyourhome">Fletch potrebbe aiutarti a migliorare la tua casa.</string>
+    <string name="LoadingTips/Animalscanbecaughtintrapseasieriftheyhavelowhealth">Gli animali possono essere catturati più facilmente nelle trappole se hanno una salute bassa.</string>
+    <string name="LoadingTips/Keepyourfarmanimalssafebyfencingthemofffrompredators">Tieni al sicuro gli animali della tua fattoria recintandoli dai predatori.</string>
+    <string name="LoadingTips/Trycookingallsortsoffood">Prova a cucinare ogni tipo di cibo.</string>
+    <string name="LoadingTips/Wheelbarrowscancarryotheritemsbesidesdirt">Le Carriole possono trasportare altri oggetti oltre alla terra.</string>
+    <string name="LoadingTips/Usethewhistleemotetocallfarmanimalstoyou">Usa il fischio per chiamare a te gli animali della fattoria.</string>
+    <string name="LoadingTips/Certainflowerscanbeplacedinabilly">Alcuni fiori possono essere messi in un Fuoco da Campo.</string>
+    <string name="LoadingTips/Fletchcanhelpyoumovebuildingsifyouneedto">Fletch può aiutarti a spostare gli edifici se necessario.</string>
+    <string name="LoadingTips/BewaryoftheWaryMu">Diffida dell\'Emu Aggressivo.</string>
+    <string name="LoadingTips/Cropsthatgrowallyearareworthlessthanseasonalcrops">Le colture che crescono tutto l\'anno valgono meno di quelle stagionali.</string>
+    <string name="LoadingTips/Youcanpickupvehiclesbydamagingthem">Puoi raccogliere i veicoli danneggiandoli.</string>
+    <string name="LoadingTips/Batsareannoying">I pipistrelli sono fastidiosi.</string>
+    <string name="LoadingTips/ThetravelbagintheBaseTentcanbeaccessedfromanyisland">La borsa da viaggio nella Tenda Base è accessibile da qualsiasi isola.</string>
+    <string name="LoadingTips/Youwillrecoverstaminaslowlyifyouarefull">Se sei sazio, recupererai lentamente l\'energia.</string>
+    <string name="LoadingTips/WildflowersgoawayafterSpring">I fiori selvatici spariscono dopo la primavera</string>
+    <string name="LoadingTips/YouhavetotaketheBugCompseriously">Devi prendere sul serio la Gara Acchiappainsetti</string>
+    <string name="LoadingTips/BillyCanKitscanmakemorethanteaandcoffee">Nella Cucina da Campo puoi fare molto di più di tè e caffè</string>
+    <string name="LoadingTips/Eatbeforeyouusestamina">Mangia prima di usare la tua energia</string>
+    <string name="LoadingTips/Wildmushroomswillwiltafternoon">I funghi selvatici appassiscono dopo mezzogiorno</string>
+    <string name="LoadingTips/Keepaneyeontheskyatnight">Tieni d\'occhio il cielo di notte</string>
+    <string name="LoadingTips/Youcanmoveafullcontainerusingatrolley">Puoi spostare un contenitore pieno utilizzando un carrello</string>
+    <string name="LoadingTips/SoonTM">Presto&lt;size=3&gt;TM</string>
+    <string name="LoadingTips/Laddersarecool">Le scale sono belle</string>
+    <string name="LoadingTips/Johnsellsdifferentfruitsandvegeveryday">John vende ogni giorno frutta e verdura diversa</string>
+    <string name="LoadingTips/Cookedfoodsareonlyasvaluableastheiringredients">I cibi cotti hanno un valore pari a quello degli ingredienti che li compongono</string>
+    <string name="LoadingTips/Onlyonewishcanbeactiveatatime">Solo un desiderio alla volta può essere attivo</string>
+    <string name="LoadingTips/RareDoggosarereal">I cani rari sono reali</string>
+    <string name="LoadingTips/Swimmingfortoolongcanbehazardoustoyourhealth">Nuotare troppo a lungo può essere pericoloso per la tua salute.</string>
+    <string name="LoadingTips/Wildanimalscanbekeptinapenifyoufencethemoff">Gli animali selvatici possono essere tenuti in un recinto.</string>
+    <string name="LoadingTips/Differentfishcanbefounddependingontheseasonbiomeandtimeofday">Si possono trovare diversi pesci a seconda della stagione, del bioma e dell\'ora del giorno.</string>
+    <string name="LoadingTips/Dontleavestuffintheminesifyouwanttokeepit">Non lasciare le cose nelle miniere se vuoi tenerle.</string>
+    <string name="LoadingTips/Youcanplacecarryableitemsonmostvehicles">Puoi mettere oggetti trasportabili sulla maggior parte dei veicoli.</string>
+    <string name="LoadingTips/Gemsareworthmorewholeratherthaninshards">Le gemme valgono di più intere piuttosto che in frammenti</string>
+</resources>

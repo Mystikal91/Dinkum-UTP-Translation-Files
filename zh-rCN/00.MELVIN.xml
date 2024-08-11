@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MELVIN/High_Friendship_Greeting 2_Intro_000">日安&lt;PlayerName&gt;。</string>
+    <string name="MELVIN/Low_Friendship_Greeting 0_Intro_000">日安。</string>
+    <string name="MELVIN/High_Friendship_Greeting 2_Response_003_000">没错，朋友。</string>
+    <string name="MELVIN/Highest_Friendship_Greeting 0_Intro_000">噢，&lt;PlayerName&gt;。</string>
+    <string name="MELVIN/BugComp_Greeting 000_Intro_000">日安。</string>
+    <string name="MELVIN/Highest_Friendship_Greeting 0_Intro_001">是什么让你想起了老&lt;myName&gt;？</string>
+    <string name="MELVIN/Low_Friendship_Greeting 0_Response_003_000">&lt;yes&gt;拜啦。</string>
+    <string name="MELVIN/SkyFest_Morning_003_Intro_000">日安&lt;PlayerName&gt;。</string>
+    <string name="MELVIN/Morning_Greeting 0_Response_003_000">行。</string>
+    <string name="MELVIN/BugComp_Greeting 000_Response_003_000">行。</string>
+    <string name="MELVIN/Morning_Greeting 1_Intro_000">&lt;yes&gt;起得挺早呀。</string>
+    <string name="MELVIN/High_Friendship_Greeting 0_Intro_000">嗨&lt;PlayerName&gt;。</string>
+    <string name="MELVIN/High_Friendship_Greeting 0_Intro_001">过得怎么样，朋友？</string>
+    <string name="MELVIN/High_Friendship_Greeting 1_Intro_000">过得咋样，&lt;PlayerName&gt;？</string>
+    <string name="MELVIN/Low_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;没错。</string>
+    <string name="MELVIN/Low_Friendship_Greeting 2_Intro_000">好吧，朋友。</string>
+    <string name="MELVIN/Low_Friendship_Greeting 2_Response_003_000">&lt;yes&gt;晚点找你。</string>
+    <string name="MELVIN/Medium_Friendship_Greeting 2_Response_003_000">拜啦。</string>
+    <string name="MELVIN/Morning_Greeting 1_Response_003_000">拜啦。</string>
+    <string name="MELVIN/Night_Greeting 2_Response_003_000">拜啦。</string>
+    <string name="MELVIN/TownMention_Level_001_Intro_000">嗨，&lt;PlayerName&gt;。</string>
+    <string name="MELVIN/High_Friendship_Greeting 1_Response_003_000">别工作得太累。</string>
+    <string name="MELVIN/High_Friendship_Greeting 0_Response_003_000">祝你好运。</string>
+    <string name="MELVIN/Arvo_Greeting 1_Intro_000">这下午是什么风把你吹到我这儿了？</string>
+    <string name="MELVIN/Arvo_Greeting 0_Intro_000">下午好，&lt;PlayerName&gt;！</string>
+    <string name="MELVIN/FurnitureShop_Convo_Option_002">算了吧。</string>
+    <string name="MELVIN/Arvo_Greeting 0_Response_003_000">祝你好运。</string>
+    <string name="MELVIN/Arvo_Greeting 2_Intro_000">喜欢美好的日落。</string>
+    <string name="MELVIN/Arvo_Greeting 2_Response_003_000">这样的日落让我想起一些美好的旧时光……</string>
+    <string name="MELVIN/Arvo_Greeting 1_Response_003_000">&lt;np&gt;剩下可以享受的日子不多了。</string>
+    <string name="MELVIN/FurnitureShop_Convo_Option_000">你可以给我做点东西吗？</string>
+    <string name="MELVIN/FurnitureShop_Convo_Option_001">我想聊聊天。</string>
+</resources>

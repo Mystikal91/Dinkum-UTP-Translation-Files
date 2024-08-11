@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/AcceptingDonations_Intro_001">Please consider donating to our town.</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/AcceptingDonations_Option_000">Donate</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/AcceptingDonations_Option_001">No Thanks.</string>
+  <!-- Talking about NPC: Irwin -->
+  <string name="Sign/AnimalShopSign_Intro_000">Irwin's Barn</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/BarberShopSign_Intro_000">&lt;NPCName&gt;'s Salon</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompClosedSign_Book_Intro_000">&lt;bugComp&gt; is now closed.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompClosedSign_Book_Intro_001">Congrats to the winners:</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompRunning_Book_Sign_Intro_000">What should I do?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompRunning_Book_Sign_Option_000">Log new score.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompRunning_Book_Sign_Option_001">Who is winning?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompRunning_Book_Sign_Option_002">Nevermind.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompRunning_Book_Sign_Response_001_000">Current Scoreboard</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Intro_000">Should I sign up for the &lt;bugComp&gt;?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Option_000">Sign Up</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Option_001">Rules</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Option_002">Nevermind.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Response_000_000">Thank you for signing up!</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Response_000_001">Please make sure you log your score in the &lt;compBook&gt; before the competition ends at &lt;bugCompEndTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Response_001_000">Once your signed up and the competition has started, catch as many bugs as you can.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Response_001_001">The rarer the bug is, the more points it's worth.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Response_001_002">The last score you enter into to the &lt;compBook&gt; will be your final score.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_Book_Response_001_003">You can use the &lt;compBook&gt; to update your score at any time, as long as it's before &lt;bugCompEndTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Intro_000">I'm signed up!</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Intro_001">The &lt;bugComp&gt; starts at &lt;bugCompStartTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Option_000">Rules</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Option_001">Nevermind.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_000_000">Once your signed up and the competition has started, catch as many bugs as you can.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_000_001">The rarer the bug is, the more points it's worth.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_000_002">The last score you enter into to the &lt;compBook&gt; will be your final score.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_000_003">You can use the &lt;compBook&gt; to update your score at any time, as long as it's before &lt;bugCompEndTime&gt;.</string>
+  <string name="Sign/ClosedSign_Intro_000">Closed</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/ClothShopSign_Intro_000">Threadspace.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/CompBookLoggedScoreTooLate_Sign_Intro_000">The &lt;bugComp&gt; is over, so I can't log my score.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/CompBookLoggedScore_Sign_Intro_000">Your new logged score is now &lt;compScore&gt;.</string>
+  <string name="Sign/ConfirmSleepSign_Intro_000">Sleep?</string>
+  <string name="Sign/ConfirmSleepSign_Option_000">Yes.</string>
+  <string name="Sign/ConfirmSleepSign_Option_001">Just resting my eyes.</string>
+  <string name="Sign/Crafters_Sign_Intro_000">Jolly Wrencher - Craftsman and Tinkerer</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/EditHouseSign_Option_000">Yes</string>
+  <!-- Talking about Item: Sleeping Bag -->
+  <string name="Sign/Fletch_Sleeping Bags_Intro_000">Those are some spare &lt;itemName&gt; I keep around. &lt;proud&gt;I'll tell yoy what, they come in handy!</string>
+  <!-- Talking about Item: Sleeping Bag -->
+  <string name="Sign/Fletch_Sleeping Bags_Intro_001">Do you need one, &lt;PlayerName&gt;?</string>
+  <!-- Talking about Item: Sleeping Bag -->
+  <string name="Sign/Fletch_Sleeping Bags_Option_000">Yes please!</string>
+  <!-- Talking about Item: Sleeping Bag -->
+  <string name="Sign/Fletch_Sleeping Bags_Option_001">No thanks.</string>
+  <!-- Talking about Item: Sleeping Bag -->
+  <string name="Sign/Fletch_Sleeping Bags_Response_000_000">&lt;glee&gt;Alright then, take one!</string>
+  <!-- Talking about Item: Sleeping Bag -->
+  <string name="Sign/Fletch_Sleeping Bags_Response_000_001">&lt;glee&gt;It's all yours!</string>
+  <!-- Talking about Item: Sleeping Bag -->
+  <string name="Sign/Fletch_Sleeping Bags_Response_001_000">&lt;glee&gt;Righto.</string>
+  <!-- Talking about NPC: Melvin -->
+  <string name="Sign/FurnitureShopSign_Intro_000">&lt;NPCName&gt;'s Furniture</string>
+  <!-- Talking about NPC: Rayne -->
+  <string name="Sign/GreenHouse_HourSign_Intro_000">&lt;NPCName&gt;'s Greenhouse.</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/HairDresserMirror_Intro_000">Should I use &lt;NPCName&gt;'s Mirror?</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/HairDresserMirror_Option_000">Yes</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/HairDresserMirror_Option_001">Not right now</string>
+  <!-- Talking about Item: Repair Kit -->
+  <string name="Sign/HasRepairKit_Option_000">Yes.</string>
+  <!-- Talking about NPC: John -->
+  <string name="Sign/Johns_HourSign_Intro_000">John's Goods</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_Convo_Option_000">Go down!</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_Convo_Option_001">Nevermind</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_NoPass_Intro_000">I need a &lt;itemName&gt; to use this.</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_NonLocal_Intro_000">I shouldn't use this.</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_Up_Convo_Intro_000">Should I go back up?</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_Up_Convo_Option_000">Go up!</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_Up_Convo_Option_001">Nevermind</string>
+  <!-- Talking about Item: Ruby Shard -->
+  <string name="Sign/MineLevel_AlreadySet_Intro_000">I can't use this, the mine level is already set today.</string>
+  <!-- Talking about Item: Ruby Shard -->
+  <string name="Sign/MineLevel_HasRubyShard_Intro_000">Should I insert 4 &lt;itemName&gt; to set the mine level?</string>
+  <!-- Talking about Item: Ruby Shard -->
+  <string name="Sign/MineLevel_HasRubyShard_Option_000">Set Level</string>
+  <!-- Talking about Item: Ruby Shard -->
+  <string name="Sign/MineLevel_HasRubyShard_Option_001">Nevermind</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineLevel_NotEnoughRubyShards_Intro_000">Looks like something shiny might go in here...</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sleeping Bag -->
+  <string name="Sign/NoFletch_Sleeping Bags_Intro_000">&lt;NPCName&gt; keeps these in case they need them.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sleeping Bag -->
+  <string name="Sign/NoFletch_Sleeping Bags_Intro_001">I'm sure she won't mind if I take one...</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sleeping Bag -->
+  <string name="Sign/NoFletch_Sleeping Bags_Option_000">Take one.</string>
+  <!-- Talking about NPC: Fletch. Talking about Item: Sleeping Bag -->
+  <string name="Sign/NoFletch_Sleeping Bags_Option_001">Don't take one.</string>
+  <!-- Talking about Item: Repair Kit -->
+  <string name="Sign/NoRepairKit_Intro_000">I need a &lt;itemName&gt; to use this.</string>
+  <string name="Sign/NoVisitorSign_Intro_000">Visitors Site</string>
+  <string name="Sign/NoVisitorSign_Intro_001">A place where anyone visiting &lt;IslandName&gt; can set up camp!</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/NotAcceptingDonations_Intro_000">The town is not currently accepting donations.</string>
+  <!-- Talking about Item: Prize Ticket -->
+  <string name="Sign/Raffle Sign_Intro_000">It’s the John's Goods Anniversary Event!</string>
+  <!-- Talking about Item: Prize Ticket -->
+  <string name="Sign/Raffle Sign_Intro_001">For every fish you sell to John’s Goods you will earn a &lt;itemName&gt;.</string>
+  <!-- Talking about Item: Prize Ticket -->
+  <string name="Sign/Raffle Sign_Intro_002">&lt;itemName&gt;s can be exchanged for prizes from the prize box inside the store.</string>
+  <!-- Talking about Item: Prize Ticket -->
+  <string name="Sign/Raffle Sign_Intro_003">This is a limited time event, so get fishing and start redeeming your prizes!</string>
+  <!-- Talking about Item: Prize Ticket -->
+  <string name="Sign/Raffle Sign_Intro_004">Happy fishing!</string>
+  <string name="Sign/Sign_Intro_000">Should I sign up for the &lt;FishingComp&gt;?</string>
+  <string name="Sign/Sign_Option_000">Sign Up</string>
+  <string name="Sign/Sign_Option_001">Rules</string>
+  <string name="Sign/Sign_Response_000_000">Thank you for signing up!</string>
+  <string name="Sign/Sign_Response_000_001">Please make sure you log your score in the &lt;compBook&gt; before the competition ends at &lt;bugCompEndTime&gt;.</string>
+  <string name="Sign/Sign_Response_001_000">Once you have signed up and the competition has started, catch as many &lt;itemName&gt; as you can.</string>
+  <string name="Sign/Sign_Response_001_001">Each &lt;itemName&gt; is worth 1 point.</string>
+  <string name="Sign/Sign_Response_001_002">The last score you enter into the &lt;compBook&gt; will be your final score.</string>
+  <string name="Sign/SleepHouseMove_Intro_000">This building is going to me moved.</string>
+  <string name="Sign/SleepUnderground_Intro_000">I don't want to sleep down here.</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/Town Debt Complete Convo_Intro_000">The town is now debt free!</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/Town Debt Complete Convo_Intro_001">Thank you for your contribution!</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/TownBook_Intro_000">This book tracks the towns awards.</string>
+  <string name="Sign/TuckshopSpecialSign_Intro_000">Tuckerbox Special!</string>
+  <string name="Sign/TuckshopSpecialSign_Intro_001">Currently paying top &lt;Dink&gt; for &lt;itemName&gt;.</string>
+  <string name="Sign/VisitorsSiteSign_Intro_000">Visitors Site</string>
+  <string name="Sign/VisitorsSiteSign_Intro_001">Open 8:00am to 4:00pm</string>
+  <string name="Sign/WeatherStationShowsForecast_Convo_Intro_000">Here is the Weather Station's forecast:</string>
+  <string name="Sign/Airport_TakeOff_Convo_Option_000">Let's go!</string>
+  <string name="Sign/Airport_TakeOff_Convo_Option_001">Not yet</string>
+  <string name="Sign/AnimalDropOffPointNoAnimal_Intro_000">Animal Collection Point. Place animal inside to recieve reward.</string>
+  <string name="Sign/BankSign_Intro_000">The Bank</string>
+  <string name="Sign/BugCatchingCompRunning_Book_Sign_Response_000_000">Your new logged score is now &lt;compScore&gt;.</string>
+  <string name="Sign/BugCatchingCompRunning_Book_Sign_Response_000_001">Current Scoreboard</string>
+  <string name="Sign/BugCatchingCompSign_Book_Response_000_002">The latest score added to the &lt;compBook&gt; before 5:00pm will be your final score.</string>
+  <string name="Sign/BugCatchingCompSign_Book_Response_000_003">Rules can be checked in the &lt;compBook&gt;.</string>
+  <string name="Sign/BugCatchingCompSign_Book_Response_001_004">Also have fun from &lt;NPCName&gt;.</string>
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Option_002">Nevermind.</string>
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_000">Once your signed up and the competition has started, catch as many bugs as you can.</string>
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_001">The rarer the bug is, the more points it's worth.</string>
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_002">The last score you enter into to the &lt;compBook&gt; will be your final score.</string>
+  <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_003">You can use the &lt;compBook&gt; to update your score at any time, as long as it's before &lt;bugCompEndTime&gt;.</string>
+  <string name="Sign/Inv_SnagOnBread_Intro_000">Wow!</string>
+  <string name="Sign/Inv_SnagOnBread_Intro_001">What an amazing &lt;itemName&gt;!</string>
+  <string name="Sign/Inv_SnagOnBread_Intro_002">It feels like I could eat even more now!</string>
+  <string name="Sign/MineControl_Convo_Option_002">Nevermind</string>
+  <string name="Sign/WeatherStationSign_Intro_000">Weather Station: </string>
+  <string name="Sign/WeatherStationSign_Option_000">Tomorrow's Weather</string>
+  <string name="Sign/WeatherStationSign_Option_001">Nevermind</string>
+  <string name="Sign/ATM Sign_Intro_000">Should I use the Automatic Dink Machine?</string>
+  <string name="Sign/ATM Sign_Option_000">Withdraw</string>
+  <string name="Sign/ATM Sign_Option_001">Nevermind</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/AcceptingDonations_Intro_000">The town is currently in &lt;TownDonateText&gt; debt and is looking for donations.</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmMoveOffIsland_Intro_000">Ready to take off?</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmMoveOffIsland_Option_000">Let's fly!</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmMoveOffIsland_Option_001">Nevermind</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmMoveOffIsland_Response_000_000">I'll just take your &lt;itemName&gt;...</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmMoveOffIsland_Response_000_001">Let's fly!</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmReturnHome_Intro_000">Ready to head home?</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmReturnHome_Option_000">Let's fly!</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmReturnHome_Option_001">Nevermind</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/ConfirmReturnHome_Response_000_000">Let's fly!</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/NoBoardingPass_Intro_000">Ready to take off?</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/NoBoardingPass_Option_000">Let's fly!</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/NoBoardingPass_Option_001">Nevermind</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/NoBoardingPass_Response_000_000">No &lt;itemName&gt;?</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/NoBoardingPass_Response_000_001">Can't take off until I see a &lt;itemName&gt;, sorry.</string>
+  <string name="Sign/AllPlayersMustBeInLift_Intro_000">Everyone must be in the lift.</string>
+  <!-- Talking about NPC: Sally. Talking about Item: Animal Food -->
+  <string name="Sign/CantInsertIntoSilo_Intro_000">I don't have any &lt;itemName&gt; to put in here.</string>
+  <!-- Talking about NPC: Sally. Talking about Item: Animal Food -->
+  <string name="Sign/FillSiloText_Intro_000">Should I put some &lt;itemName&gt; in the silo?</string>
+  <!-- Talking about NPC: Sally. Talking about Item: Animal Food -->
+  <string name="Sign/FillSiloText_Option_000">Fill Silo</string>
+  <!-- Talking about NPC: Sally. Talking about Item: Animal Food -->
+  <string name="Sign/FillSiloText_Option_001">Nevermind</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/MapStatue_Sign_Intro_000">In the depths of blue, with teeth so keen,</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/MapStatue_Sign_Intro_001">A secret waits, yet to be seen.</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/MapStatue_Sign_Intro_002">Five treasures golden, to my mouth you feed,</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/MapStatue_Sign_Intro_003">And the prize you seek, will be your deed.</string>
+  <!-- Talking about NPC: Sally. Talking about Item: Animal Food -->
+  <string name="Sign/PlayerFillingTileObjectOption_Intro_000">How many should I put in?</string>
+  <!-- Talking about NPC: Sally. Talking about Item: Animal Food -->
+  <string name="Sign/PlayerFillingTileObjectOption_Option_000">Fill</string>
+  <!-- Talking about NPC: Sally. Talking about Item: Animal Food -->
+  <string name="Sign/PlayerFillingTileObjectOption_Option_001">Nevermind</string>
+  <!-- Talking about NPC: Sally -->
+  <string name="Sign/SiloFullText_Intro_000">This is full.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompClosedSign_Book_Intro_000">&lt;FishingComp&gt; is now closed.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompClosedSign_Book_Intro_001">Congrats to the winners:</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Intro_000">Should I sign up for the &lt;FishingComp&gt;?</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Option_000">Sign Up</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Option_001">Rules</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Option_002">Nevermind.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Response_000_000">Thank you for signing up!</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Response_000_001">Please make sure you log your score in the &lt;compBook&gt; before the competition ends at &lt;bugCompEndTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Response_001_000">Once you have signed up and the competition has started, catch as many &lt;itemName&gt; as you can.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Response_001_001">Each &lt;itemName&gt; is worth 1 point.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Response_001_002">The last score you enter into the &lt;compBook&gt; will be your final score.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_Book_Response_001_003">You can use the &lt;compBook&gt; to update your score at any time, as long as it's before &lt;bugCompEndTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Intro_000">I'm signed up!</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Intro_001">The &lt;FishingComp&gt; starts at &lt;bugCompStartTime&gt;.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Option_000">Rules</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Option_001">Nevermind.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Response_000_000">Once you have signed up and the competition has started, catch as many &lt;itemName&gt; as you can.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Response_000_001">Each &lt;itemName&gt; is worth 1 point.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Response_000_002">The last score you enter into the &lt;compBook&gt; will be your final score.</string>
+  <!-- Talking about NPC: Theodore -->
+  <string name="Sign/FishingCompSign_SignedUpBeforeStart_Response_000_003">You can use the &lt;compBook&gt; to update your score at any time, as long as it's before &lt;bugCompEndTime&gt;.</string>
+  <string name="Sign/ConfirmSleep_CallItADay_Intro_000">Call it a day?</string>
+  <string name="Sign/ConfirmSleep_CallItADay_Option_000">Sleep until tomorrow</string>
+  <string name="Sign/ConfirmSleep_CallItADay_Option_001">Just resting my eyes</string>
+  <string name="Sign/SignMissingText_Intro_000">I can't read this...</string>
+  <string name="Sign/SignMissingText_Intro_001">Might be a bug.</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/EditHouseSign_Intro_000">Customise this house?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/EditHouseSign_Option_001">No</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/GuestHouseBeingMoved_Intro_000">I should wait until after this building is moved before upgrading it...</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/NoUpgradeForGuestHouseAvaliable_Intro_000">This building is fully upgraded...</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseNoMoney_Intro_000">Should I pay &lt;upgradeHouseCost&gt; to upgrade this building?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseNoMoney_Option_000">Pay for upgrade</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseNoMoney_Option_001">No</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseNoMoney_Response_000_000">I can't afford the upgrade right now...</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseWithMoney_Intro_000">Should I pay &lt;upgradeHouseCost&gt; to upgrade this building?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseWithMoney_Option_000">Pay for upgrade</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseWithMoney_Option_001">No</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseWithMoney_Response_000_000">The upgrade has started!</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeGuestHouseWithMoney_Response_000_001">I should place the materials in the constuction box...</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeOrCustomiseGuestHouse_Intro_000">Customise or upgrade this house?</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeOrCustomiseGuestHouse_Option_000">Customise</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeOrCustomiseGuestHouse_Option_001">Upgrade</string>
+  <!-- Talking about NPC: Milburn -->
+  <string name="Sign/UpgradeOrCustomiseGuestHouse_Option_002">No</string>
+  <!-- Talking about Item: Repair Kit -->
+  <string name="Sign/HasRepairKit_Intro_000">Should I use a &lt;itemName&gt; to repair all the tools in my pockets?</string>
+  <!-- Talking about Item: Repair Kit -->
+  <string name="Sign/HasRepairKit_Option_001">No.</string>
+  <!-- Talking about Item: Mine Pass -->
+  <string name="Sign/MineControl_Convo_Intro_000">Should I use a &lt;itemName&gt; for a trip down?</string>
+  <!-- Talking about NPC: Clover -->
+  <string name="Sign/NotAcceptingDonations_Intro_001">Thank you for your support!</string>
+  <string name="Sign/CupOfSunshineConvo_Intro_000">The sky is clearing...</string>
+  <string name="Sign/RainmakerSign_Intro_000">The air gets thicker.</string>
+  <string name="Sign/SleepHouseMove_Intro_001">I need to sleep outside so the movers don't wake me up.</string>
+  <string name="Sign/SleepOffIsland_Intro_000">I don't want to miss the &lt;AirShip&gt; home...</string>
+  <string name="SIGN/ConfirmSleepSign_Intro_000">Call it a day?</string>
+  <string name="SIGN/ConfirmSleepSign_Option_000">Sleep until tomorrow</string>
+  <!-- Talking about NPC: Franklyn -->
+  <string name="SIGN/Crafters_Sign_Intro_000">Laboratory</string>
+</resources>

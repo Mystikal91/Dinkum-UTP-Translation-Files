@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NED/Ned_Salesman_Trapper_Option_003">算了</string>
+    <string name="NED/TotalEqualsZeroTrapper_Response_000_000">没错，朋友。</string>
+    <string name="NED/Ned_Salesman_Trapper_Intro_000">啊，&lt;PlayerName&gt;！</string>
+    <string name="NED/Introduction_005_Intro_000">噢，日安。</string>
+    <string name="NED/Introduction_005_Intro_001">名字是&lt;myName&gt;。</string>
+    <string name="NED/Trapper AfterCraftingItem_Response_001_000">没错，朋友。</string>
+    <string name="NED/Ned_Salesman_Intro_000">啊，&lt;PlayerName&gt;！</string>
+    <string name="NED/TotalEqualsZeroTrapper_Response_000_001">干杯吧。</string>
+    <string name="NED/TotalEqualsZeroTrapper_Response_001_000">没关系，如果你想卖点其他的就回来找我。</string>
+    <string name="NED/Ned_Salesman_Intro_002">你需要什么东西吗？</string>
+    <string name="NED/Ned_Salesman_Option_000">你要做什么给我？</string>
+    <string name="NED/Ned_Salesman_Trapper_Option_001">你可以给我做点东西吗？</string>
+</resources>

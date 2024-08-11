@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BiomeNames/Billabong">Billabong</string>
+    <string name="BiomeNames/RoughSoil">Terreno grezzo</string>
+    <string name="BiomeNames/Beach">Spiaggia</string>
+    <string name="BiomeNames/Tropics">Tropici</string>
+    <string name="BiomeNames/Tropical">Tropicale</string>
+    <string name="BiomeNames/TropicalIsland">Isola Tropicale</string>
+    <string name="BiomeNames/BillabongWater">Acqua del Billabong</string>
+    <string name="BiomeNames/BillabongBank">Riva del Billabong</string>
+    <string name="BiomeNames/Bushland">Boscaglia</string>
+    <string name="BiomeNames/Bushlands">Boscaglia</string>
+    <string name="BiomeNames/Desert">Deserto</string>
+    <string name="BiomeNames/PineForest">Pineta</string>
+    <string name="BiomeNames/Plains">Pianure</string>
+    <string name="BiomeNames/Ocean">Oceano</string>
+    <string name="BiomeNames/River">Fiume</string>
+    <string name="BiomeNames/Unknown">Sconosciuto</string>
+    <string name="BiomeNames/Mangroves">Mangrovie</string>
+    <string name="BiomeNames/RockyIsland">Isola Rocciosa</string>
+    <string name="BiomeNames/WarmOcean">Oceano Caldo</string>
+    <string name="BiomeNames/ColdOcean">Oceano Freddo</string>
+    <string name="BiomeNames/OceanShallows">Fondali Marini</string>
+    <string name="BiomeNames/Quary">Miniera</string>
+    <string name="BiomeNames/CassowaryNest">Nido di Casuaro</string>
+    <string name="BiomeNames/BunyipDen">Tana di Bunyip</string>
+    <string name="BiomeNames/DingoDen">Tana di Dingo</string>
+    <string name="BiomeNames/ShellSpace">Spazio delle Conchiglie</string>
+    <string name="BiomeNames/InTheBillabong">nei billabongs</string>
+    <string name="BiomeNames/NorthernOceans">Oceani Settentrionali</string>
+    <string name="BiomeNames/Underground">Sotto terra</string>
+    <string name="BiomeNames/IslandReef">Barriera Corallina</string>
+    <string name="BiomeNames/InTheBushland">nella boscaglia</string>
+    <string name="BiomeNames/InTheDesert">nel deserto</string>
+    <string name="BiomeNames/InTheNorthernOcean">negli oceani settentrionali</string>
+    <string name="BiomeNames/InThePine">nella pineta</string>
+    <string name="BiomeNames/InThePlains">nelle pianure</string>
+    <string name="BiomeNames/InTheRiver">nei fiumi</string>
+    <string name="BiomeNames/InTheSouthernOcean">negli oceani meridionali</string>
+    <string name="BiomeNames/InTheTropics">nei tropici</string>
+    <string name="BiomeNames/InTheMangrove">nelle mangrovie</string>
+    <string name="BiomeNames/SouthernOceans">Oceani Meridionali</string>
+</resources>
