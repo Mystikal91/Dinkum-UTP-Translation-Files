@@ -101,7 +101,7 @@
     <string name="InventoryItemNames/InvItem_123">Кукуруза</string>
     <string name="InventoryItemNames/InvItem_124">Семена кукурузы</string>
     <string name="InventoryItemNames/InvItem_125">Проект магазина растений</string>
-    <string name="InventoryItemNames/InvItem_126">Быстрая лейка</string>
+    <string name="InventoryItemNames/InvItem_126">Динкомат</string>
     <string name="InventoryItemNames/InvItem_128">Лейка</string>
     <string name="InventoryItemNames/InvItem_129">Проект шахты</string>
     <string name="InventoryItemNames/InvItem_130">Каска шахтёра</string>
@@ -270,7 +270,7 @@
     <string name="InventoryItemNames/InvItem_331">Семена лука</string>
     <string name="InventoryItemNames/InvItem_333">Карп</string>
     <string name="InventoryItemNames/InvItem_334">Рыба-хирург</string>
-    <string name="InventoryItemNames/InvItem_335">Черный маколор</string>
+    <string name="InventoryItemNames/InvItem_335">Пятнистый маколор</string>
     <string name="InventoryItemNames/InvItem_336">Тупоголовый сом</string>
     <string name="InventoryItemNames/InvItem_337">Треска Мюррея</string>
     <string name="InventoryItemNames/InvItem_338">Угрехвостый сом</string>
@@ -958,14 +958,14 @@
     <string name="InventoryItemNames/InvItem_884">Плетёная корзина</string>
     <string name="InventoryItemNames/InvItem_889">Гирлянда</string>
     <string name="InventoryItemNames/InvItem_890">Лампа-гриб</string>
-    <string name="InventoryItemNames/InvItem_892">Статуя сумчатого дьявола</string>
+    <string name="InventoryItemNames/InvItem_892">Статуя кустарного дьявола</string>
     <string name="InventoryItemNames/InvItem_893">Хлеб</string>
     <string name="InventoryItemNames/InvItem_894">Сладкий хлеб</string>
     <string name="InventoryItemNames/InvItem_895">Пирожок с овощами</string>
     <string name="InventoryItemNames/InvItem_896">Молочный хлеб</string>
     <string name="InventoryItemNames/InvItem_897">Сосиска в тесте</string>
     <string name="InventoryItemNames/InvItem_898">Альфа-жаркое</string>
-    <string name="InventoryItemNames/InvItem_900">Золотая статуя сумчатого дьявола</string>
+    <string name="InventoryItemNames/InvItem_900">Золотая статуя кустарного дьявола</string>
     <string name="InventoryItemNames/InvItem_901">Ковано-бетонный забор</string>
     <string name="InventoryItemNames/InvItem_902">Медно-эвкалиптовый забор</string>
     <string name="InventoryItemNames/InvItem_903">Зонтик</string>
@@ -1270,7 +1270,7 @@
     <string name="InventoryItemNames/InvItem_1386">Рубашка спасателя</string>
     <string name="InventoryItemNames/InvItem_1472">Шведка полицейского</string>
     <string name="InventoryItemNames/InvItem_1587">Розовый худи</string>
-    <string name="InventoryItemNames/InvItem_1210">Статуя дигго</string>
+    <string name="InventoryItemNames/InvItem_1210">Статуя динго</string>
     <string name="InventoryItemNames/InvItem_1203">Футболка с призраком</string>
     <string name="InventoryItemNames/InvItem_1207">Футболка Moxie</string>
     <string name="InventoryItemNames/InvItem_1212">Футболка Caito</string>
@@ -1289,7 +1289,7 @@
     <string name="InventoryItemNames/InvItem_1218">Ящик квандонгов</string>
     <string name="InventoryItemNames/InvItem_1221">Воздушный шарик</string>
     <string name="InventoryItemNames/InvItem_1265">Чёрный капюшон</string>
-    <string name="InventoryItemNames/InvItem_1246">Плюшевый дигго</string>
+    <string name="InventoryItemNames/InvItem_1246">Плюшевый динго</string>
     <string name="InventoryItemNames/InvItem_1378">Лиловая праздничная шведка</string>
     <string name="InventoryItemNames/InvItem_1379">Оранжевая праздничная шведка</string>
     <string name="InventoryItemNames/InvItem_1380">Зелёная праздничная шведка</string>
@@ -1317,7 +1317,7 @@
     <string name="InventoryItemNames/InvItem_1236">Красная ковровая дорожка</string>
     <string name="InventoryItemNames/InvItem_1237">Морская капуста</string>
     <string name="InventoryItemNames/InvItem_1258">Штаны смокинга</string>
-    <string name="InventoryItemNames/InvItem_1239">Плюшевый сумчатый дьявол</string>
+    <string name="InventoryItemNames/InvItem_1239">Плюшевый кустарный дьявол</string>
     <string name="InventoryItemNames/InvItem_1241">Плюшевый плащенос</string>
     <string name="InventoryItemNames/InvItem_1255">Плюшевый плевун</string>
     <string name="InventoryItemNames/InvItem_1240">Дрон с камерой</string>
@@ -1728,4 +1728,6 @@
     <string name="InventoryItemNames/InvItem_1723">Призовой талон с Дня неба</string>
     <string name="InventoryItemNames/InvItem_1726">Звёздный забор</string>
     <string name="InventoryItemNames/InvItem_1727">Воздушная звёздочка</string>
+    <string name="InventoryItemNames/InvItem_1730">Плюшевый какаду</string>
+    <string name="InventoryItemNames/InvItem_1731">Плюшевый вомбат</string>
 </resources>

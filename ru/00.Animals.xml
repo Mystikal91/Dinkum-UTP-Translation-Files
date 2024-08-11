@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="Animals/Shark">Акула</string>
+    <string name="Animals/Diggo">Динго</string>
+    <string name="Animals/Cockatoo">Какаду</string>
+    <string name="Animals/Chook">Кура</string>
+    <string name="Animals/BabyChook">Курёнок</string>
+    <string name="Animals/Vombat">Вомбат</string>
+    <string name="Animals/VombatJoey">Детёныш вомбата</string>
+    <string name="Animals/Toad">Лягушка</string>
+    <string name="Animals/BushDevil">Кустарный дьявол</string>
+    <string name="Animals/WaryMu">Вари Му</string>
+    <string name="Animals/Pleep">Овценос</string>
+    <string name="Animals/Jellyfish">Медуза</string>
+    <string name="Animals/PetDiggo">Ручной динго</string>
+    <string name="Animals/WildVombat">Дикий вомбат</string>
+    <string name="Animals/Kidna">Ехидна</string>
+    <string name="Animals/UnderwaterCreature">Подводное существо</string>
+    <string name="Animals/Grub">Личинка</string>
+    <string name="Animals/GrubNest">Гнездо личинки</string>
+    <string name="Animals/StoneFish">Бородавчатка</string>
+    <string name="Animals/AlphaShark">Алфа-акула</string>
+    <string name="Animals/Fish">Рыба</string>
+    <string name="Animals/Bug">Жук</string>
+    <string name="Animals/Croco">Крокодил</string>
+    <string name="Animals/AlphaCroco">Альфа-крокодил</string>
+    <string name="Animals/AlphaJackaroo">Альфа-джекуру</string>
+    <string name="Animals/CaveBat">Пещерная летучая мышь</string>
+    <string name="Animals/Frilly">Плащенос</string>
+    <string name="Animals/WhiteBoomer">Белый джекуру</string>
+    <string name="Animals/PincherPlant">Плевун</string>
+    <string name="Animals/BloomingFrilly">Цветущий плащенос</string>
+    <string name="Animals/Mu">Му</string>
+    <string name="Animals/GlowingCroco">Светящийся крокодил</string>
+    <string name="Animals/PleepPuggle">Детёныш овценоса</string>
+    <string name="Animals/StoneFishLair">Логово бородавчатки</string>
+    <string name="Animals/Maggie">Мэгпай</string>
+    <string name="Animals/ScrubTurkey">Кустарная индейка</string>
+    <string name="Animals/Jackaroo">Джекуру</string>
+    <string name="Animals/AlphaBushDevil">Альфа-дьявол</string>
+</resources>
