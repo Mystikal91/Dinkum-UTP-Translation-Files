@@ -1,3 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="NPCNames/Fletch">Флетч</string>
+    <string name="NPCNames/Milburn">Милбурн</string>
+    <string name="NPCNames/Nancy">Нэнси</string>
+    <string name="NPCNames/Ramsey">Рэмси</string>
+    <string name="NPCNames/Ridley">Ридли</string>
+    <string name="NPCNames/Sally">Салли</string>
+    <string name="NPCNames/Sheila">Шейла</string>
+    <string name="NPCNames/Timber">Тимбер</string>
+    <string name="NPCNames/Clover">Кловер</string>
+    <string name="NPCNames/Franklyn">Франклин</string>
+    <string name="NPCNames/Ghost">Призрак</string>
+    <string name="NPCNames/Irwin">Ирвин</string>
+    <string name="NPCNames/Jimmy">Джимми</string>
+    <string name="NPCNames/John">Джон</string>
+    <string name="NPCNames/Julia">Джулия</string>
+    <string name="NPCNames/Max">Макс</string>
+    <string name="NPCNames/Melvin">Милвин</string>
+    <string name="NPCNames/Nick">Ник</string>
+    <string name="NPCNames/Oakley">Окли</string>
+    <string name="NPCNames/Rayne">Рейн</string>
+    <string name="NPCNames/Robin">Робин</string>
+    <string name="NPCNames/Sydney">Сидни</string>
+    <string name="NPCNames/TedSelly">Тэд Сэлли</string>
+    <string name="NPCNames/Theodore">Тэодор</string>
+    <string name="NPCNames/Clarke">Кларк</string>
+    <string name="NPCNames/Cypress">Сайпресс</string>
+</resources>
