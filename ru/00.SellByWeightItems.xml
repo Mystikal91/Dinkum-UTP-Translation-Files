@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="SellByWeightItems/AmberChunk">Кусок янтаря</string>
+    <string name="SellByWeightItems/WaryMuEgg">Яйцо вариму</string>
+    <string name="SellByWeightItems/BeeHive">Пчелиный улей</string>
+    <string name="SellByWeightItems/ThunderEgg">Гром-яйцо</string>
+    <string name="SellByWeightItems/Emerald">Изумруд</string>
+    <string name="SellByWeightItems/Aquamarine">Аквамарин</string>
+    <string name="SellByWeightItems/Meteorite">Метеорит</string>
+    <string name="SellByWeightItems/Fossil">Окаменелость</string>
+    <string name="SellByWeightItems/Ruby">Рубин</string>
+</resources>
