@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="InlineReplacement/Journal">Дневник</string>
+    <string name="InlineReplacement/Shift">Смена</string>
+    <string name="InlineReplacement/Shifts">Смены</string>
+    <string name="InlineReplacement/Licence">Лицензия</string>
+    <string name="InlineReplacement/Licences">Лицензии</string>
+    <string name="InlineReplacement/AirShip">Дирижабль</string>
+    <string name="InlineReplacement/AirShips">Дирижабли</string>
+    <string name="InlineReplacement/Nomad">Странник</string>
+    <string name="InlineReplacement/Nomads">Странники</string>
+    <string name="InlineReplacement/PermitPoints">Пропускные баллы</string>
+    <string name="InlineReplacement/birthday">День рождения</string>
+    <string name="InlineReplacement/SnagSizzle">Колбаска на гриле</string>
+    <string name="InlineReplacement/SnagSizzles">Колбаски на гриле</string>
+    <string name="InlineReplacement/Snag">Колбаска</string>
+    <string name="InlineReplacement/Snags">Колбаски</string>
+    <string name="InlineReplacement/SkyFest">День неба</string>
+    <string name="InlineReplacement/Kite">Воздушный змей</string>
+    <string name="InlineReplacement/PaperLantern">Небесный фонарик</string>
+    <string name="InlineReplacement/KiteMakingTable">Верстак для змеев</string>
+    <string name="InlineReplacement/Aurora">Северное сияние</string>
+    <string name="InlineReplacement/PetName_000">Дарл</string>
+    <string name="InlineReplacement/PetName_001">Любимчик</string>
+    <string name="InlineReplacement/PetName_002">Поссум</string>
+    <string name="InlineReplacement/bugComp">День энтомолога</string>
+    <string name="InlineReplacement/FishingComp">День рыбака</string>
+    <string name="InlineReplacement/compBook">Дневник конкурса</string>
+    <string name="InlineReplacement/NothingHappened">Ничего не произошло...</string>
+    <string name="InlineReplacement/RaffleTickets">Призовые талоны</string>
+    <string name="InlineReplacement/IslandDay">День &lt;IslandName&gt;</string>
+    <string name="InlineReplacement/SouthCity">Южный город</string>
+    <string name="InlineReplacement/Beginning">Начинается...</string>
+    <string name="InlineReplacement/PaperLanterns">Небесные фонарики</string>
+</resources>
