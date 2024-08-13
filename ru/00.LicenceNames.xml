@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="LicenceNames/Licence_1">Лицензия шахтёра</string>
+    <string name="LicenceNames/Licence_10">Лицензия строителя</string>
+    <string name="LicenceNames/Licence_11">Лицензия фермера</string>
+</resources>

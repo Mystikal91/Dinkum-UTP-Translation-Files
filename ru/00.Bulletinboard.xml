@@ -19,5 +19,17 @@
     <string name="Bulletinboard/YearsAgo">года назад</string>
     <string name="Bulletinboard/Yesterday">вчера</string>
     <string name="Bulletinboard/BringCaptured">Принести</string>
-    <string name="Bulletinboard/Show">Показать фотографию &lt;npcName&gt;</string>
+    <string name="Bulletinboard/Show">&lt;npcName&gt; ждёт фотографию</string>
+    <string name="Bulletinboard/EXPIRED">ИСТЕКЛО</string>
+    <string name="Bulletinboard/Last_Day">Последний день</string>
+    <string name="Bulletinboard/Days_Remaining">дня осталось</string>
+    <string name="Bulletinboard/Trade">Продать</string>
+    <string name="Bulletinboard/Speak_to">Поговорить с</string>
+    <string name="Bulletinboard/HuntDown">Убить</string>
+    <string name="Bulletinboard/VisitLocation">Обследовать место, указанное на карте</string>
+    <string name="Bulletinboard/Post_FirstPost_Title">Доска объявлений!</string>
+    <string name="Bulletinboard/Post_FirstPost_Content">В нашем городке появилась доска объявлений! Можете оставлять здесь напоминания, объявления или просьбы, чтобы жители могли их увидеть!</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Title">Награда за &lt;boardHuntRequestAnimal&gt;</string>
+    <string name="Bulletinboard/with">" "</string>
+    <string name="Bulletinboard/UsingLastLocation">ориентируясь на его последнее известное местоположение</string>
 </resources>

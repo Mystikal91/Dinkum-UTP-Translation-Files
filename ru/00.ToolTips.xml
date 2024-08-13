@@ -88,7 +88,7 @@
     <string name="ToolTips/Hover_HuntingBuff">Бонус охотника</string>
     <string name="ToolTips/Hover_Increasesweapondamage">Увеличивает урон оружия</string>
     <string name="ToolTips/Hover_StaminaRegen">Возврат выносливости</string>
-    <string name="ToolTips/Hover_Staminarecoveredpersecond">Возврат выносливости в секунду</string>
+    <string name="ToolTips/Hover_Staminarecoveredpersecond">Восстановление выносливости в секунду</string>
     <string name="ToolTips/Hover_Sleepless">Бессонница</string>
     <string name="ToolTips/Hover_ExperienceBuff">Бонус опыта</string>
     <string name="ToolTips/Hover_Increasesexperience">Увеличивает получаемый опыт</string>
@@ -98,7 +98,7 @@
     <string name="ToolTips/Hover_Slightstaminarecoveryforagoodnightsrest">Небольшой возврат выносливости за хороший ночной сон</string>
     <string name="ToolTips/Hover_Diligent">Аккуратность</string>
     <string name="ToolTips/Hover_Sickness">Болезнь</string>
-    <string name="ToolTips/Hover_Staminawontrecover">Выносливость не возвращается</string>
+    <string name="ToolTips/Hover_Staminawontrecover">Выносливость не восстанавливается</string>
     <string name="ToolTips/Hover_FishingBuff">Бонус рыбака</string>
     <string name="ToolTips/Hover_Increasesreelinspeed">Увеличивает скорость подтягивания рыбы</string>
     <string name="ToolTips/Hover_FarmingBuff">Бонус фермера</string>
