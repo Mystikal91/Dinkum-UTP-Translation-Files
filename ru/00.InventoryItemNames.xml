@@ -1716,7 +1716,7 @@
     <string name="InventoryItemNames/InvItem_1682">Дачная двухъярусная кровать</string>
     <string name="InventoryItemNames/InvItem_1683">Древнее устройство</string>
     <string name="InventoryItemNames/InvItem_1685">Соты</string>
-    <string name="InventoryItemNames/InvItem_1720">Бейсболка Северное сияние</string>
+    <string name="InventoryItemNames/InvItem_1720">Бейсболка \"Северное сияние\"</string>
     <string name="InventoryItemNames/InvItem_1717">Искристый шар</string>
     <string name="InventoryItemNames/InvItem_1721">Лунная лампа</string>
     <string name="InventoryItemNames/InvItem_1653">Дачная стена</string>
@@ -1730,4 +1730,8 @@
     <string name="InventoryItemNames/InvItem_1727">Воздушная звёздочка</string>
     <string name="InventoryItemNames/InvItem_1730">Плюшевый какаду</string>
     <string name="InventoryItemNames/InvItem_1731">Плюшевый вомбат</string>
+    <string name="InventoryItemNames/InvItem_1735">Венок</string>
+    <string name="InventoryItemNames/InvItem_1734">Праздничный колпак</string>
+    <string name="InventoryItemNames/InvItem_1733">Плюшевая акула</string>
+    <string name="InventoryItemNames/InvItem_1732">Плюшевый Вари Му</string>
 </resources>
