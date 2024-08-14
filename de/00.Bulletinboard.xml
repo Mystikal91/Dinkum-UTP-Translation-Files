@@ -6,4 +6,11 @@
     <string name="Bulletinboard/WeekAgo">vor einer woche</string>
     <string name="Bulletinboard/TalkTo">Sprechen mit &lt;npcName&gt;</string>
     <string name="Bulletinboard/Yesterday">gestern</string>
+    <string name="Bulletinboard/Hunt">Jage &lt;animalAmount&gt;&lt;animalName&gt;&lt;amountCompleted&gt;</string>
+    <string name="Bulletinboard/Photograph">Fotografiere &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/Trade">Handle</string>
+    <string name="Bulletinboard/with">mit</string>
+    <string name="Bulletinboard/Speak_to">Spreche mit</string>
+    <string name="Bulletinboard/Collect">Sammel &lt;itemAmount&gt;&lt;itemName&gt;&lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/Last_Day">Letzter Tag</string>
 </resources>

@@ -1,3 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="HardCodedStrings/Task_TreeSeeds">Baumsamen</string>
+    <string name="HardCodedStrings/Task_Fish">Fisch</string>
+    <string name="HardCodedStrings/FarmAnimalHarvest_harvestVerb_Milk">Milch</string>
+    <string name="HardCodedStrings/FarmAnimalHarvest_harvestVerb_Shear">Scheren</string>
+    <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_NewLicence">Neue Lizenz!</string>
+    <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_Level">Level</string>
+    <string name="HardCodedStrings/Task_CookSomething">Koche etwas am Kochtisch</string>
+    <string name="HardCodedStrings/Task_SmeltSomething">Schmelze Erze zu einen Barren</string>
+    <string name="HardCodedStrings/HouseExterior_HouseName_PlayersHouse">&lt;PlayerName&gt;\'s Haus</string>
+    <string name="HardCodedStrings/Task_Make">Verdiene</string>
+    <string name="HardCodedStrings/Task_Spend">Spende</string>
+    <string name="HardCodedStrings/Task_Travel">Reise</string>
+    <string name="HardCodedStrings/Task_TravelOnFoot">zu Fuß</string>
+    <string name="HardCodedStrings/Task_TravelByVeichle">mit einem Fahrzeug</string>
+    <string name="HardCodedStrings/Task_Meat">Fleisch</string>
+    <string name="HardCodedStrings/Task_Collect">Sammeln</string>
+    <string name="HardCodedStrings/Task_PetAnAnimal">Zähme ein Tier</string>
+    <string name="HardCodedStrings/Task_BuySomeNewClothes">Kaufe neue Kleidung</string>
+    <string name="HardCodedStrings/Task_Shells">Muschel</string>
+    <string name="HardCodedStrings/Task_Stones">Steine</string>
+    <string name="HardCodedStrings/Task_OreRocks">Erz Felsen</string>
+    <string name="HardCodedStrings/Task_Trees">Bäume</string>
+    <string name="HardCodedStrings/Task_TreeStump">Baumstümpfe</string>
+    <string name="HardCodedStrings/Task_Planks">Bretter</string>
+    <string name="HardCodedStrings/Task_Grass">Gras</string>
+    <string name="HardCodedStrings/Task_WildSeeds">Wilde Samen</string>
+    <string name="HardCodedStrings/Task_CropSeeds">Pflanzensamen</string>
+    <string name="HardCodedStrings/Task_Seeds">Samen</string>
+    <string name="HardCodedStrings/Task_Crops">Pflanzen</string>
+    <string name="HardCodedStrings/Task_Animals">Tiere</string>
+    <string name="HardCodedStrings/Task_EatSomething">Ess etwas</string>
+    <string name="HardCodedStrings/AnimalManager_fillAnimalTimeOfDay_AllDay">Jeden Tag</string>
+    <string name="HardCodedStrings/AnimalManager_fillBugPediaEntry_Everywhere">Überall</string>
+    <string name="HardCodedStrings/BuildingManager_getBuildingName_000">Kein Gebäude</string>
+    <string name="HardCodedStrings/BuildingManager_getBuildingName_001">Haus</string>
+    <string name="HardCodedStrings/BankMenu_depositButton_Deposit">Einzahlen</string>
+    <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_Of">von</string>
+    <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_OfA">Von einen</string>
+    <string name="HardCodedStrings/CalendarButton_Birthday">&lt;NPCName&gt;\'s Geburtstag</string>
+    <string name="HardCodedStrings/ChestWindow_openStashInWindow_TravelBag">Meine Reisetasche</string>
+    <string name="HardCodedStrings/ConversationManager_buttonTextChange_HappyBirthday">Herzlichen Glückwunsch zum Geburtstag!</string>
+    <string name="HardCodedStrings/CraftingManager_populateCraftList_DefaultButton">Herstellen</string>
+    <string name="HardCodedStrings/CraftingManager_populateCraftList_DefaultText">Herstellen</string>
+    <string name="HardCodedStrings/AnimalHouseMenu_fillData_SELL">Verkaufen</string>
+    <string name="HardCodedStrings/BugAndFishCelebration_openWindow_ICaughtA">Ich habe ein &lt;A_animalCaught&gt; gefangen!</string>
+    <string name="HardCodedStrings/CraftingManager_populateCraftList_CookingTableText">Kochen</string>
+    <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_NewCraftingRecipes">Neue Herstellungsrezepte</string>
+    <string name="HardCodedStrings/GiveNPC_UpdateMenu_Place">Plazieren</string>
+    <string name="HardCodedStrings/GiveNPC_UpdateMenu_Donate">Spenden</string>
+    <string name="HardCodedStrings/GiveNPC_UpdateMenu_Sell">Verkaufen</string>
+    <string name="HardCodedStrings/GiveNPC_UpdateMenu_Cancel">Abbrechen</string>
+    <string name="HardCodedStrings/HouseExterior_HouseName_GuestHouse">Gästehaus</string>
+    <string name="HardCodedStrings/GiveNPC_UpdateMenu_Give">Geben</string>
+    <string name="HardCodedStrings/AnimalHouseMenu_openConfirm_000">Verkaufe &lt;animalName&gt; für &lt;sprite=11&gt;&lt;sellValue&gt;?</string>
+    <string name="HardCodedStrings/BankMenu_openAsDonations_Donate">Spenden</string>
+    <string name="HardCodedStrings/CraftingManager_populateCraftList_CookingTableButton">Kochen</string>
+    <string name="HardCodedStrings/GiftedItemWindow_giveItemDelay_NewCraftingRecipe">Neues Herstellungsrezept</string>
+    <string name="HardCodedStrings/AnimalManager_fillAnimalLocation_UnknownLocation">Unbekannter Ort</string>
+    <string name="HardCodedStrings/BullitenBoardPost_getRequirementsNeededInPhoto_And">und</string>
+    <string name="HardCodedStrings/Task_Fruit">Frucht</string>
+    <string name="HardCodedStrings/Task_Rocks">Felsen</string>
+    <string name="HardCodedStrings/Task_Bring">Bringe</string>
+    <string name="HardCodedStrings/BuildingManager_getBuildingName_002">Spieler Haus</string>
+</resources>

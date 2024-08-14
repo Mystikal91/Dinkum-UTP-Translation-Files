@@ -174,7 +174,7 @@
     <string name="InventoryItemNames/InvItem_123">Mais</string>
     <string name="InventoryItemNames/InvItem_124">Maiskörner</string>
     <string name="InventoryItemNames/InvItem_125">Botanikladen-Kaufvertrag</string>
-    <string name="InventoryItemNames/InvItem_126">Flotte Gießkanne</string>
+    <string name="InventoryItemNames/InvItem_126">Bankautomat</string>
     <string name="InventoryItemNames/InvItem_127">Dunkles Einzelholzbett</string>
     <string name="InventoryItemNames/InvItem_128">Gießkanne</string>
     <string name="InventoryItemNames/InvItem_129">Bergwerks-Kaufvertrag</string>
@@ -298,7 +298,7 @@
     <string name="InventoryItemNames/InvItem_674">Einfacher blauer Teppich</string>
     <string name="InventoryItemNames/InvItem_675">Einfacher rosa Teppich</string>
     <string name="InventoryItemNames/InvItem_676">Einfacher lila Teppich</string>
-    <string name="InventoryItemNames/InvItem_677">Einfacher oranger Teppich</string>
+    <string name="InventoryItemNames/InvItem_677">Einfacher orangener Teppich</string>
     <string name="InventoryItemNames/InvItem_708">Tropische Grassamen</string>
     <string name="InventoryItemNames/InvItem_731">Dreiecksbrille</string>
     <string name="InventoryItemNames/InvItem_735">Gelbes Kleid</string>
@@ -457,4 +457,11 @@
     <string name="InventoryItemNames/InvItem_442">Schwarze, kurze Hosen</string>
     <string name="InventoryItemNames/InvItem_614">Schwarze Grille</string>
     <string name="InventoryItemNames/InvItem_1220">Bratwurst</string>
+    <string name="InventoryItemNames/InvItem_625">Blaumond Schmetterling</string>
+    <string name="InventoryItemNames/InvItem_1415">Blauer Strand Sonnenschim</string>
+    <string name="InventoryItemNames/InvItem_1411">Blaues Strandtuch</string>
+    <string name="InventoryItemNames/InvItem_940">Schwarze Holztruhe</string>
+    <string name="InventoryItemNames/InvItem_694">Schwarzholz Samen</string>
+    <string name="InventoryItemNames/InvItem_1423">Blauer Strandstuhl</string>
+    <string name="InventoryItemNames/InvItem_605">Schwarzfisch</string>
 </resources>
