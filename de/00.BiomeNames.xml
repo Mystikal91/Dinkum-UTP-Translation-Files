@@ -1,3 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="BiomeNames/BunyipDen">Bunyip Höhle</string>
+    <string name="BiomeNames/CassowaryNest">Kasuarnest</string>
+    <string name="BiomeNames/ColdOcean">Kalter Ozean</string>
+    <string name="BiomeNames/DingoDen">Dingo Höhle</string>
+    <string name="BiomeNames/Mangroves">Mangroven</string>
+    <string name="BiomeNames/OceanShallows">Untiefen des Ozeans</string>
+    <string name="BiomeNames/RockyIsland">Steinige Insel</string>
+    <string name="BiomeNames/ShellSpace">Muschelplatz</string>
+    <string name="BiomeNames/Unknown">Unbekannt</string>
+    <string name="BiomeNames/InTheDesert">In der Wüste</string>
+    <string name="BiomeNames/InThePlains">In den Ebenen</string>
+    <string name="BiomeNames/InTheTropics">in den Tropen</string>
+    <string name="BiomeNames/Beach">Strand</string>
+    <string name="BiomeNames/Billabong">Billabong</string>
+    <string name="BiomeNames/BillabongBank">Billabong Ufer</string>
+    <string name="BiomeNames/BillabongWater">Billabong Wasser</string>
+    <string name="BiomeNames/Bushland">Buschland</string>
+    <string name="BiomeNames/Bushlands">Buschlande</string>
+    <string name="BiomeNames/Desert">Wüste</string>
+    <string name="BiomeNames/IslandReef">Inselriff</string>
+    <string name="BiomeNames/NorthernOceans">Nördlicher Ozean</string>
+    <string name="BiomeNames/Ocean">Ozean</string>
+    <string name="BiomeNames/PineForest">Kiefernwald</string>
+    <string name="BiomeNames/Plains">Ebenen</string>
+    <string name="BiomeNames/River">Fluss</string>
+    <string name="BiomeNames/RoughSoil">Rauer Boden</string>
+    <string name="BiomeNames/SouthernOceans">Südlicher Ozean</string>
+    <string name="BiomeNames/Tropical">Tropisch</string>
+    <string name="BiomeNames/TropicalIsland">Tropische Insel</string>
+    <string name="BiomeNames/Tropics">Tropen</string>
+    <string name="BiomeNames/Underground">Untergrund</string>
+    <string name="BiomeNames/InTheBillabong">in den Billabongs</string>
+    <string name="BiomeNames/InTheBushland">In den Buschlanden</string>
+    <string name="BiomeNames/InTheNorthernOcean">Im nördlichen Ozean</string>
+    <string name="BiomeNames/InThePine">In den Kieferwäldern</string>
+    <string name="BiomeNames/InTheRiver">im Fluss</string>
+    <string name="BiomeNames/InTheSouthernOcean">im südlichen Ozean</string>
+    <string name="BiomeNames/WarmOcean">Warmer Ozean</string>
+    <string name="BiomeNames/InTheMangrove">In den Mangroven</string>
+</resources>
