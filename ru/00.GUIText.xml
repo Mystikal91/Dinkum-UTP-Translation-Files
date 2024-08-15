@@ -1,3 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="GUIText/KICK" resizable="True">ИЗГНАТЬ</string>
+    <string name="GUIText/NoTasksCurrently">Задач нет</string>
+    <string name="GUIText/TimeFound">Время суток</string>
+    <string name="GUIText/MyDetails">Обо мне</string>
+    <string name="GUIText/MyID">Мой паспорт</string>
+    <string name="GUIText/MyLicences">Мои лицензии</string>
+    <string name="GUIText/Farming">Фермерство</string>
+    <string name="GUIText/Foraging">Собирательство</string>
+    <string name="GUIText/Mining">Горное дело</string>
+    <string name="GUIText/Fishing">Рыбалка</string>
+    <string name="GUIText/BugCatching">Ловля насекомых</string>
+    <string name="GUIText/Photos">Фотоальбом</string>
+    <string name="GUIText/Animals">Животные</string>
+    <string name="GUIText/FarmAnimals" resizable="True">Домашние животные</string>
+    <string name="GUIText/All">Все</string>
+    <string name="GUIText/Options">Настройки</string>
+    <string name="GUIText/Help">Помощь</string>
+    <string name="GUIText/QuitToMainMenu" resizable="True">Главное меню</string>
+    <string name="GUIText/QuitToDesktop" resizable="True">Выйти из игры</string>
+    <string name="GUIText/SinglePlayer" resizable="True">Один игрок</string>
+    <string name="GUIText/Pause">Пауза</string>
+    <string name="GUIText/Paused">На паузе</string>
+    <string name="GUIText/Empty">Пусто</string>
+    <string name="GUIText/Multiplayer" resizable="True">Сетевая игра</string>
+    <string name="GUIText/LANIP">LAN IP</string>
+    <string name="GUIText/Open">Открыть</string>
+    <string name="GUIText/CollectDeleteAll">Собрать и удалить всё</string>
+    <string name="GUIText/SELECT">ВЫБРАТЬ</string>
+    <string name="GUIText/Bugs">Насекомые</string>
+    <string name="GUIText/Critters">Другие</string>
+    <string name="GUIText/People">Люди</string>
+    <string name="GUIText/NoCaught">Штук поймано</string>
+    <string name="GUIText/Habitat">Ареал</string>
+    <string name="GUIText/Season">Время года</string>
+    <string name="GUIText/Areyousureyouwanttoquit">Вы правда хотите выйти?</string>
+    <string name="GUIText/Cancel">Отмена</string>
+    <string name="GUIText/Quit">Выход</string>
+    <string name="GUIText/Back" autoSizeTextContainer="True">Назад</string>
+    <string name="GUIText/Milestones">Достижения</string>
+    <string name="GUIText/Tasks">Задачи</string>
+    <string name="GUIText/Fish">Рыба</string>
+    <string name="GUIText/DailyMilestones" resizable="True">Цели на сегодня</string>
+    <string name="GUIText/Pedia">Справочник</string>
+    <string name="GUIText/Hunting">Охота</string>
+    <string name="GUIText/Settings">Настройки</string>
+    <string name="GUIText/PressStartorEntertoreturntothegame">Нажмите \"Старт\" или \"Ввод\" для возврата в игру</string>
+    <string name="GUIText/Youwillloseallprogressfromthelasttimeyouslept">Весь прогресс с последнего пробуждения будет утерян!</string>
+    <string name="GUIText/INVITE" resizable="True">ПРИГЛАСИТЬ</string>
+    <string name="GUIText/NoNewMail">Писем нет</string>
+</resources>
