@@ -2,11 +2,11 @@
 <resources>
     <string name="InventoryItemNames_WithArticle/InvItem_2">Ein Käfernetz</string>
     <string name="InventoryItemNames_WithArticle/InvItem_6">Eine Schaufel</string>
-    <string name="InventoryItemNames_WithArticle/InvItem_8">Eine Standart Spitzhacke</string>
-    <string name="InventoryItemNames_WithArticle/InvItem_9">Eine Fackel</string>
-    <string name="InventoryItemNames_WithArticle/InvItem_17">Eine Busch Limette</string>
-    <string name="InventoryItemNames_WithArticle/InvItem_13">Ein BBQ Grill</string>
+    <string name="InventoryItemNames_WithArticle/InvItem_8">eine Einfache Spitzhacke</string>
+    <string name="InventoryItemNames_WithArticle/InvItem_9">eine Fackel</string>
+    <string name="InventoryItemNames_WithArticle/InvItem_17">eine Zitronenkaviar</string>
+    <string name="InventoryItemNames_WithArticle/InvItem_13">ein Grillen</string>
     <string name="InventoryItemNames_WithArticle/InvItem_14">Ein Knochen</string>
     <string name="InventoryItemNames_WithArticle/InvItem_4">Eine Angelrute</string>
-    <string name="InventoryItemNames_WithArticle/InvItem_0">Eine Standart Axt</string>
+    <string name="InventoryItemNames_WithArticle/InvItem_0">eine Einfache Axt</string>
 </resources>

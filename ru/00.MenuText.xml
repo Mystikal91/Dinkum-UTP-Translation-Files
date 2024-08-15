@@ -5,4 +5,109 @@
     <string name="MenuText/MainMenu_NewGame">Новая игра</string>
     <string name="MenuText/MainMenu_Options">Настройки</string>
     <string name="MenuText/MainMenu_HostWorld">Загрузить</string>
+    <string name="MenuText/Credits" resizable="True">Создатели</string>
+    <string name="MenuText/Multiplayer_FriendsOnly">Только друзья</string>
+    <string name="MenuText/Multiplayer_InviteOnly">Только приглашенные</string>
+    <string name="MenuText/Multiplayer_Public">Публичный</string>
+    <string name="MenuText/Multiplayer_LAN">LAN</string>
+    <string name="MenuText/Display">Экран</string>
+    <string name="MenuText/Normal">Норм</string>
+    <string name="MenuText/Space">Пробел</string>
+    <string name="MenuText/Escape">Escape</string>
+    <string name="MenuText/Join">Присоединиться</string>
+    <string name="MenuText/Resolution">Разрешение</string>
+    <string name="MenuText/UIScale">Размер интерфейса</string>
+    <string name="MenuText/Graphics">Графика</string>
+    <string name="MenuText/ChunkViewDistance">Дальность видимости чанков</string>
+    <string name="MenuText/RefreshRateExperimental">Частота обновления (Экспериментальная)</string>
+    <string name="MenuText/EffectVolume">Эффекты</string>
+    <string name="MenuText/LOW">НИЗК</string>
+    <string name="MenuText/MED">СРЕД</string>
+    <string name="MenuText/HIGH">ВЫС</string>
+    <string name="MenuText/Sound">Звук</string>
+    <string name="MenuText/WIDE">ШИРОК</string>
+    <string name="MenuText/DEFAULT">ОБЫЧН</string>
+    <string name="MenuText/MasterVolume">Общая громкость</string>
+    <string name="MenuText/UIVolume">Интерфейс</string>
+    <string name="MenuText/MusicVolume">Музыка</string>
+    <string name="MenuText/NPCVoiceOn">Голоса персонажей</string>
+    <string name="MenuText/VoiceChat">Голосовой чат</string>
+    <string name="MenuText/CameraSettings">Камера</string>
+    <string name="MenuText/AllowVoiceChatHostonly">Разрешить голосовой чат (Только хост)</string>
+    <string name="MenuText/InvertFreeCamera">Инвертировать свободную камеру</string>
+    <string name="MenuText/MouseAlwaysMoveCamera">Мышь всегда двигает камеру</string>
+    <string name="MenuText/HoldMiddleMouseorShifttoMoveCamera">СКМ+Мышь или Shift+Мышь двигает камеру</string>
+    <string name="MenuText/CameraXSpeed">Скорость камеры по X</string>
+    <string name="MenuText/CameraYSpeed">Скорость камеры по Y</string>
+    <string name="MenuText/Gameplay">Игра</string>
+    <string name="MenuText/RumbleOn">Вибрация</string>
+    <string name="MenuText/SnapCursorToUIControllerOnly">Приклеивать курсор к интерфейсу (Геймпад)</string>
+    <string name="MenuText/TextSpeed">Скорость текста</string>
+    <string name="MenuText/Fast">Быстро</string>
+    <string name="MenuText/Super">Супер</string>
+    <string name="MenuText/MiniMapAlwaysFacesNorth">Мини-карта всегда повёрнута на север</string>
+    <string name="MenuText/InvertX">По оси X</string>
+    <string name="MenuText/InvertY">По оси Y</string>
+    <string name="MenuText/AutoDetectController">Определять геймпад</string>
+    <string name="MenuText/OnlineNameTags">Имена над персонажами в сети</string>
+    <string name="MenuText/HideStaminaWheel">Скрыть колесо выносливости</string>
+    <string name="MenuText/Controls">Управление</string>
+    <string name="MenuText/ReturntoDefault">По умолчанию</string>
+    <string name="MenuText/Reset">Сброс</string>
+    <string name="MenuText/Primary">Основн.</string>
+    <string name="MenuText/MoveForward">Вперёд</string>
+    <string name="MenuText/MoveBack">Назад</string>
+    <string name="MenuText/MoveLeft">Влево</string>
+    <string name="MenuText/MoveRight">Вправо</string>
+    <string name="MenuText/Jump">Прыжок</string>
+    <string name="MenuText/UseItem">Использовать</string>
+    <string name="MenuText/InteractCollect">Взаимодействие / Сбор</string>
+    <string name="MenuText/PickUpRotateGetUp">Поднять / Вращать / Встать</string>
+    <string name="MenuText/Drop">Бросить</string>
+    <string name="MenuText/Accelerate">Вперёд</string>
+    <string name="MenuText/Reverse">Назад / Тормоз</string>
+    <string name="MenuText/VehicleUseItem">Использовать предмет</string>
+    <string name="MenuText/VehicleSwapItem">Переключить предмет</string>
+    <string name="MenuText/Other">Другое</string>
+    <string name="MenuText/OpenJournal">Дневник</string>
+    <string name="MenuText/OpenMap">Карта</string>
+    <string name="MenuText/OpenChatEmotes">Чат / Эмодзи</string>
+    <string name="MenuText/MoveCameraButton">Двигать камеру</string>
+    <string name="MenuText/SwapCameraMode">Режим камеры</string>
+    <string name="MenuText/LeftShift">Левый Shift</string>
+    <string name="MenuText/RightShift">Правый Shift</string>
+    <string name="MenuText/LeftControl">Левый Control</string>
+    <string name="MenuText/RightControl">Правый Control</string>
+    <string name="MenuText/SinglePlayer" resizable="True">Один игрок</string>
+    <string name="MenuText/Confirm">Принять</string>
+    <string name="MenuText/Whatsyourname">Как вас зовут?</string>
+    <string name="MenuText/CreateCharacter">Создать персонажа</string>
+    <string name="MenuText/Randomise">Случайно</string>
+    <string name="MenuText/Multiplayer" resizable="True">Сетевая игра</string>
+    <string name="MenuText/HostGame">Локальная игра</string>
+    <string name="MenuText/OpenGames">Открытые игры</string>
+    <string name="MenuText/LANIPConnect">Соединение по LAN / IP</string>
+    <string name="MenuText/sprite17FriendsGames">&lt;sprite=17&gt; Игры для друзей</string>
+    <string name="MenuText/sprite16FriendsGames">&lt;sprite=16&gt; Игры для друзей</string>
+    <string name="MenuText/sprite17PublicGames">&lt;sprite=17&gt; Публичные игры</string>
+    <string name="MenuText/QuitToDesktop" resizable="True">Выйти из игры</string>
+    <string name="MenuText/Fullscreen">Полный экран</string>
+    <string name="MenuText/IPAddress">IP-адрес</string>
+    <string name="MenuText/HostagameusingLANEnterthelocalIPintheLANIPConnecttabtojoin">Организовать игру по локальной сети (LAN). Для подключения введите локальный IP во вкладке \"Соединение по LAN/IP\".</string>
+    <string name="MenuText/VoiceChatVolume">Громкость чата</string>
+    <string name="MenuText/Vehicles">Транспорт</string>
+    <string name="MenuText/JournalOpenAnimation">Анимация открытия дневника</string>
+    <string name="MenuText/OpenPockets">Карманы</string>
+    <string name="MenuText/Enter">Ввод</string>
+    <string name="MenuText/RefreshList">Обновить список</string>
+    <string name="MenuText/sprite16PublicGames">&lt;sprite=16&gt; Публичные игры</string>
+    <string name="MenuText/OnlypeopleyouinvitewillbeabletojoinUsethesteamoverlaytoinvitepeopleoncethegameishosted">Присоединиться смогут только те, кого вы пригласили.
+\nПосле запуска сетевой игры используйте оверлей steam, чтобы пригласить людей.</string>
+    <string name="MenuText/AltKey">Дополнит.</string>
+    <string name="MenuText/Whatstheislandsname">Как назвать остров?</string>
+    <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Любой человек в списке друзей может присоединиться к этой игре!
+\nУбедитесь, что вы и ваши друзья сейчас в сети.</string>
+    <string name="MenuText/AnyonecanjointhisworldTheywillbeabletotakeyourstuffsobecareful">Любой может присоединиться к этому миру.
+\n&lt;color=red&gt;Осторожно, они смогут забрать ваши вещи!</string>
+    <string name="MenuText/Backspace">Backspace</string>
 </resources>

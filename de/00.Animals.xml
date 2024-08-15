@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Animals/Bug">Käfer</string>
+    <string name="Animals/Bug">Insekt</string>
     <string name="Animals/Croco">Krokodil</string>
     <string name="Animals/Fish">Fisch</string>
     <string name="Animals/Jackaroo">Känguru</string>
@@ -27,4 +27,13 @@
     <string name="Animals/WildVombat">Wildes Vombat</string>
     <string name="Animals/AlphaJackaroo">Alpha Känguru</string>
     <string name="Animals/Jellyfish">Qualle</string>
+    <string name="Animals/Maggie">Elster</string>
+    <string name="Animals/Mu">Mu</string>
+    <string name="Animals/PetDiggo">Hund</string>
+    <string name="Animals/Pleep">Schnabeltier</string>
+    <string name="Animals/PleepPuggle">Schnabeltier-Junges</string>
+    <string name="Animals/ScrubTurkey">Truthahn</string>
+    <string name="Animals/Toad">Kröte</string>
+    <string name="Animals/VombatJoey">Vombat-Junges</string>
+    <string name="Animals/WhiteBoomer">Weißes Känguru</string>
 </resources>

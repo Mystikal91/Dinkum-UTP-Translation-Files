@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="ChatNotification/FarmAnimal_onFarmAnimalDeath_PassedAway">&lt;AnimalName&gt; погибает</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_EveryoneMustBeInLift">Все должны быть в лифте</string>
+    <string name="ChatNotification/FarmAnimal_sendPetHomeNotification_Fainted">&lt;AnimalName&gt; перемещается домой</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_MinePassRequired">Требуется &lt;MinePass&gt;!</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_CantUseThis">Вы не можете это использовать</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveAboveGround_AllPlayersMustBeInLift">Все игроки должны быть в лифте</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcPlayTrapperSound_YouHearAWhistle">Вы слышите свисток</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcDeliverAnimal_PlayerDeliveredAnimal">&lt;PlayerName&gt; доставил(а) &lt;AnimalName&gt;</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcPayTownDebt_PlayerDonated">&lt;PlayerName&gt; покрывает &lt;sprite=11&gt;&lt;AmountDonated&gt; городского долга</string>
+    <string name="ChatNotification/NetworkNavMesh_onSleepingAmountChange_Sleeping">&lt;b&gt;&lt;color=purple&gt; Спит &lt;/color&gt;&lt;/b&gt;</string>
+    <string name="ChatNotification/NetworkNavMesh_onSleepingAmountChange_ReadyToSleep">&lt;b&gt;&lt;color=purple&gt; Готовится ко сну &lt;/color&gt;&lt;/b&gt; [&lt;CountCharsSleeping&gt;]</string>
+    <string name="ChatNotification/NetworkPlayersManager_saveButton_YouMustBeOutside">Сохраниться можно только снаружи</string>
+    <string name="ChatNotification/MailManager_takeAttachment_PocketsFull">Нет места</string>
+</resources>

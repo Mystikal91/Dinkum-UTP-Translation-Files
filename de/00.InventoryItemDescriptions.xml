@@ -22,7 +22,7 @@
     <string name="InventoryItemDescriptions/InvDesc_10">Transportiert Wasser von A nach B</string>
     <string name="InventoryItemDescriptions/InvDesc_14">Ein Knochen der benutzt werden kann um etwas herzustellen.</string>
     <string name="InventoryItemDescriptions/InvDesc_102">Eine gelbe Blume.</string>
-    <string name="InventoryItemDescriptions/InvDesc_150">Eine Urkunde zum Bau einer Möbelwerkstatt und zum Kauf von Möbeln für Ihr Zuhause.</string>
+    <string name="InventoryItemDescriptions/InvDesc_150">Bauunterlagen zum Bau einer Möbelwerkstatt und zum Kauf von Möbeln für Ihr Zuhause.</string>
     <string name="InventoryItemDescriptions/InvDesc_154">Ein Kaffeetisch</string>
     <string name="InventoryItemDescriptions/InvDesc_108">Eine schicke kleine Spinne.</string>
     <string name="InventoryItemDescriptions/InvDesc_115">Ein schnellerer Ofen, der auch Eisenerz verarbeiten kann</string>
@@ -51,10 +51,10 @@
     <string name="InventoryItemDescriptions/InvDesc_122">Hüpf!</string>
     <string name="InventoryItemDescriptions/InvDesc_123">Das ist der Knaller</string>
     <string name="InventoryItemDescriptions/InvDesc_124">Pflanze es in den Boden!</string>
-    <string name="InventoryItemDescriptions/InvDesc_125">Eine Urkunde für einen Laden für landwirtschaftliche Geräte und Saatgut.</string>
+    <string name="InventoryItemDescriptions/InvDesc_125">Bauunterlagen für einen Laden für landwirtschaftliche Geräte und Saatgut.</string>
     <string name="InventoryItemDescriptions/InvDesc_127">Ey fett. Ein rotes Bett. Das reimt sich.</string>
     <string name="InventoryItemDescriptions/InvDesc_128">Es ist leer. Fülle es mit Wasser.</string>
-    <string name="InventoryItemDescriptions/InvDesc_129">Eine Urkunde für eine unterirdische Mine. Ein großartiger Ort, um leicht Erze zu finden.</string>
+    <string name="InventoryItemDescriptions/InvDesc_129">Bauunterlagen für eine unterirdische Mine. Ein großartiger Ort, um leicht Erze zu finden.</string>
     <string name="InventoryItemDescriptions/InvDesc_13">Werfe etwas drauf. Es wird dann gekocht.</string>
     <string name="InventoryItemDescriptions/InvDesc_131">Ein einzelner Stuhl zum sitzen.</string>
     <string name="InventoryItemDescriptions/InvDesc_132">Ein Holz Tisch.</string>
@@ -78,4 +78,13 @@
     <string name="InventoryItemDescriptions/InvDesc_152">Ein Beistelltisch.</string>
     <string name="InventoryItemDescriptions/InvDesc_140">Ein grünes Sofa</string>
     <string name="InventoryItemDescriptions/InvDesc_141">Ein weißer Stuhl für eine Person</string>
+    <string name="InventoryItemDescriptions/InvDesc_342">Bauunterlagen für einen Tierladen mit Nutztieren.</string>
+    <string name="InventoryItemDescriptions/InvDesc_480">Bauunterlagen für einen Ort zur Aufbewahrung von Geld und zum Erhalten von Zinsen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_81">Bauunterlagen für eine Schneiderei.</string>
+    <string name="InventoryItemDescriptions/InvDesc_35">Bauunterlagen für ein Gebäude zum Erforschen und Entdecken neuer Bastelanleitungen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_380">Bauunterlagen für ein Museum, welches die gesamte Tierwelt der Insel katalogisiert.</string>
+    <string name="InventoryItemDescriptions/InvDesc_39">Bauunterlagen für einen Laden mit größerer Auswahl.</string>
+    <string name="InventoryItemDescriptions/InvDesc_1623">Bauunterlagen zum Umplatzieren eines Gästehauses</string>
+    <string name="InventoryItemDescriptions/InvDesc_1627">Bauunterlagen zum Umplatzieren eines Gästehauses</string>
+    <string name="InventoryItemDescriptions/InvDesc_1625">Bauunterlagen zum Umplatzieren eines Gästehauses</string>
 </resources>

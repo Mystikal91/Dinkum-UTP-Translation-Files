@@ -28,8 +28,49 @@
     <string name="Bulletinboard/HuntDown">Убить</string>
     <string name="Bulletinboard/VisitLocation">Обследовать место, указанное на карте</string>
     <string name="Bulletinboard/Post_FirstPost_Title">Доска объявлений!</string>
-    <string name="Bulletinboard/Post_FirstPost_Content">В нашем городке появилась доска объявлений! Можете оставлять здесь напоминания, объявления или просьбы, чтобы жители могли их увидеть!</string>
+    <string name="Bulletinboard/Post_FirstPost_Content">В нашем городке появилась доска объявлений! Можете оставлять здесь памятки, объявления или просьбы, чтобы жители могли их увидеть!</string>
     <string name="Bulletinboard/Post_CaptureRequestTemplate_Title">Награда за &lt;boardHuntRequestAnimal&gt;</string>
     <string name="Bulletinboard/with">" "</string>
     <string name="Bulletinboard/UsingLastLocation">ориентируясь на его последнее известное местоположение</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Title">Нужен ингредиент</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Content">Хочу приготовить &lt;boardRewardItem&gt;, но у меня нет &lt;boardRequestItem&gt;!
+\nЕсли кто-то принесёт мне &lt;boardRequestItem&gt;, я с радостью поделюсь &lt;boardRewardItem&gt;!</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Title">Нужен предмет</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Content">Ищу опытного мастера, способного сделать мне &lt;boardRequestItem&gt;.
+\n
+\nВознаграждение гарантирую!</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt;</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Content">На острове обнаружено опасное животное — &lt;boardHuntRequestAnimal&gt;! Требуется опытный охотник для скорейшего уничтожения.</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Title">Ищу фотографа</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Content">Мне нужна фотография &lt;getAnimalsInPhotoList&gt; за скромное вознаграждение.</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Title">Странные дела</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Title">---- Памятка ----</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Content">Просто заметка на память.</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Title">Странные дела</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Content">Центр изучения животных предлагает крупное вознаграждение за доставку местных животных.
+\n
+\nКаждый представитель вида &lt;boardHuntRequestAnimal&gt;, доставленный в указанный период времени, будет оплачен вдвойне.
+\n</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Content">Для получения компоста мне требуется &lt;boardRequestItem&gt;. Взамен предлагаю &lt;boardRewardItem&gt;.</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Title">Нужно сырьё</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Title">Начинающий сталевар</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Content">Практикую выплавку руды и вдруг оказалось, что мне больше нечего плавить!
+\n
+\nЕсли у вас есть &lt;boardRequestItem&gt;, я с удовольствием обменяю её на &lt;boardRewardItem&gt;.</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Title">Обмен</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Content">Обменяю &lt;boardRewardItem&gt; на &lt;boardRequestItem&gt;.</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Content">Мне нужно отправить домой большую партию товара. Это &lt;boardRequestItem&gt;.
+\n
+\nЕсли сможете доставить мне необходимое количество — я хорошо заплачу!</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Content">Вчера на закате что-то упало с неба к нам на остров.
+\n
+\nИ мне точно не показалось!
+\n
+\nЕсть желающие проверить?</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Content">Может я схожу с ума, но прошлым вечером в небе точно летали несколько джекуру.
+\n
+\nОни даже уронили или сбросили что-то на землю!
+\n
+\nЕсть желающие проверить?</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Title">Нужен товар</string>
 </resources>
