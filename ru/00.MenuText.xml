@@ -54,7 +54,7 @@
     <string name="MenuText/Controls">Управление</string>
     <string name="MenuText/ReturntoDefault">По умолчанию</string>
     <string name="MenuText/Reset">Сброс</string>
-    <string name="MenuText/Primary">Основн.</string>
+    <string name="MenuText/Primary">Основн</string>
     <string name="MenuText/MoveForward">Вперёд</string>
     <string name="MenuText/MoveBack">Назад</string>
     <string name="MenuText/MoveLeft">Влево</string>
@@ -103,7 +103,7 @@
     <string name="MenuText/sprite16PublicGames">&lt;sprite=16&gt; Публичные игры</string>
     <string name="MenuText/OnlypeopleyouinvitewillbeabletojoinUsethesteamoverlaytoinvitepeopleoncethegameishosted">Присоединиться смогут только те, кого вы пригласили.
 \nПосле запуска сетевой игры используйте оверлей steam, чтобы пригласить людей.</string>
-    <string name="MenuText/AltKey">Дополнит.</string>
+    <string name="MenuText/AltKey">Дополнит</string>
     <string name="MenuText/Whatstheislandsname">Как назвать остров?</string>
     <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Любой человек в списке друзей может присоединиться к этой игре!
 \nУбедитесь, что вы и ваши друзья сейчас в сети.</string>

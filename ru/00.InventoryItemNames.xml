@@ -289,7 +289,7 @@
     <string name="InventoryItemNames/InvItem_353">Нож ныряльщика</string>
     <string name="InventoryItemNames/InvItem_355">Панама</string>
     <string name="InventoryItemNames/InvItem_356">Шляпа гангстера</string>
-    <string name="InventoryItemNames/InvItem_357">Седло для эму</string>
+    <string name="InventoryItemNames/InvItem_357">Ездовой му</string>
     <string name="InventoryItemNames/InvItem_358">Кирпичный фонтан</string>
     <string name="InventoryItemNames/InvItem_359">Варочный стол</string>
     <string name="InventoryItemNames/InvItem_360">Ламингтон</string>
@@ -401,7 +401,7 @@
     <string name="InventoryItemNames/InvItem_406">Розовые штаны в горошек</string>
     <string name="InventoryItemNames/InvItem_407">Розовая футболка в горошек</string>
     <string name="InventoryItemNames/InvItem_409">Розовое платье в горошек</string>
-    <string name="InventoryItemNames/InvItem_410">"Футболка  с динозавром"</string>
+    <string name="InventoryItemNames/InvItem_410">Футболка с динозавром</string>
     <string name="InventoryItemNames/InvItem_411">Футболка с черепом</string>
     <string name="InventoryItemNames/InvItem_412">Футболка с перьями</string>
     <string name="InventoryItemNames/InvItem_413">Чёрная бейсболка</string>
@@ -1168,9 +1168,9 @@
     <string name="InventoryItemNames/InvItem_1099">Семена лилли пилли</string>
     <string name="InventoryItemNames/InvItem_1100">Семена мини лилли пилли</string>
     <string name="InventoryItemNames/InvItem_1101">Спортивный сачок</string>
-    <string name="InventoryItemNames/InvItem_1102">Золотой кубок ловца насекомых</string>
-    <string name="InventoryItemNames/InvItem_1103">Серебряный кубок ловца насекомых</string>
-    <string name="InventoryItemNames/InvItem_1104">Бронзовый кубок ловца насекомых</string>
+    <string name="InventoryItemNames/InvItem_1102">Золотой кубок энтомолога</string>
+    <string name="InventoryItemNames/InvItem_1103">Серебряный кубок энтомолога</string>
+    <string name="InventoryItemNames/InvItem_1104">Бронзовый кубок энтомолога</string>
     <string name="InventoryItemNames/InvItem_1105">Водосток с мостом</string>
     <string name="InventoryItemNames/InvItem_1106">Эстрада</string>
     <string name="InventoryItemNames/InvItem_1107">Шлем ныряльщика</string>

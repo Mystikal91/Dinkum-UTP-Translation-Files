@@ -53,7 +53,7 @@
 \n</string>
     <string name="Bulletinboard/Post_CompostRequestTemplate_Content">Для получения компоста мне требуется &lt;boardRequestItem&gt;. Взамен предлагаю &lt;boardRewardItem&gt;.</string>
     <string name="Bulletinboard/Post_CompostRequestTemplate_Title">Нужно сырьё</string>
-    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Title">Начинающий сталевар</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Title">Начинающий сталевар.</string>
     <string name="Bulletinboard/Post_SmeltingRequestTemplate_Content">Практикую выплавку руды и вдруг оказалось, что мне больше нечего плавить!
 \n
 \nЕсли у вас есть &lt;boardRequestItem&gt;, я с удовольствием обменяю её на &lt;boardRewardItem&gt;.</string>

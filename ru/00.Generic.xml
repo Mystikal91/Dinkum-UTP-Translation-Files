@@ -14,7 +14,6 @@
     <string name="Generic/13 NPC_Julia_Intro_005">&lt;no&gt;Я спросила нравятся ли тебе всякие жучки, но он ответил что не знает.</string>
     <string name="Generic/13 NPC_Julia_Intro_006">Так... Тебе нравятся жучки?</string>
     <string name="Generic/13 NPC_Julia_Intro_007">&lt;glee&gt;Ой, я их просто обожаю.</string>
-    <string name="Generic/13 NPC_Julia_Intro_008">&lt;NPCName&gt; пригласил меня сюда именно потому, что здесь полно разных жучков.</string>
     <string name="Generic/13 NPC_Julia_Intro_009">И знаешь что?</string>
     <string name="Generic/13 NPC_Julia_Intro_010">&lt;pumped&gt;Так и есть!</string>
     <string name="Generic/14 NPC_Ghost_Intro_000">О! Приветствую!</string>
@@ -36,7 +35,6 @@
     <string name="Generic/16 NPC_Nick_Intro_002">&lt;shy&gt;Кто я?</string>
     <string name="Generic/16 NPC_Nick_Intro_003">&lt;proud&gt;Я - &lt;myName&gt;!</string>
     <string name="Generic/16 NPC_Nick_Intro_004">Ты разве меня не помнишь?</string>
-    <string name="Generic/16 NPC_Nick_Intro_005">Я ведь каждый год навещал вас в Южном городе!</string>
     <string name="Generic/16 NPC_Nick_Intro_006">&lt;haha&gt;Хо-хо-хо!</string>
     <string name="Generic/16 NPC_Nick_Intro_007">Что меня привело на &lt;IslandName&gt;?</string>
     <string name="Generic/16 NPC_Nick_Intro_008">&lt;yes&gt;Видишь ли, сейчас наступает самое загруженное время года.</string>
