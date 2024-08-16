@@ -45,7 +45,7 @@
     <string name="GUIText/Pedia">Справочник</string>
     <string name="GUIText/Hunting">Охота</string>
     <string name="GUIText/Settings">Настройки</string>
-    <string name="GUIText/PressStartorEntertoreturntothegame">Нажмите \"Старт\" или \"Ввод\" для возврата в игру</string>
+    <string name="GUIText/PressStartorEntertoreturntothegame">Нажмите \"Старт\" или \"Enter\" для возврата в игру</string>
     <string name="GUIText/Youwillloseallprogressfromthelasttimeyouslept">Весь прогресс с последнего пробуждения будет утерян!</string>
     <string name="GUIText/INVITE" resizable="True">ПРИГЛАСИТЬ</string>
     <string name="GUIText/NoNewMail">Писем нет</string>
