@@ -110,4 +110,10 @@
     <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Chiunque nella tua lista di amici può partecipare a questo gioco!
 \nAssicurati che tu e i tuoi amici siate impostati per apparire online.</string>
     <string name="MenuText/Credits">Crediti</string>
+    <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Cancella tutte le preferenze del giocatore memorizzate. Dinkum si caricherà nuovamente con quelle predefinite.
+\n
+\n&lt;color=red&gt;Verranno cancellate tutte le impostazioni dei tasti, di visualizzazione e le del volume.</string>
+    <string name="MenuText/OpensthedirectorywhereyourDinkumsavesarestored">Apre la directory in cui sono conservati i salvataggi di Dinkum.</string>
+    <string name="MenuText/OpenSaveFileDirectory">Apri Directory Salvataggi</string>
+    <string name="MenuText/ClearPlayerPrefs">Cancella Pref. Giocatore</string>
 </resources>
