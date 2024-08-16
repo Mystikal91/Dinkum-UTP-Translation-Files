@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="Sign/AnimalShopSign_Intro_000">Зоомагазин</string>
+    <string name="Sign/BankSign_Intro_000">Банк</string>
+    <string name="Sign/ATM Sign_Option_001">Ничего</string>
+    <string name="Sign/Johns_HourSign_Intro_000">Товары Джона</string>
+</resources>

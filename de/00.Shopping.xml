@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="Shopping/AlreadyKnowRecipe_Intro_000">Ah, das ist die &lt;buyItemName&gt;-Anleitung.</string>
+</resources>

@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="HardCodedStrings/Task_Fish">Рыба</string>
+    <string name="HardCodedStrings/MailManager_getSentByName_Unknown">Неизвестно</string>
+    <string name="HardCodedStrings/FarmAnimalHarvest_harvestVerb_Milk">Мунги</string>
+    <string name="HardCodedStrings/HouseExterior_HouseName_GuestHouse">Гостевой дом</string>
+</resources>
