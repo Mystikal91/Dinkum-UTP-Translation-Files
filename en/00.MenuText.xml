@@ -115,6 +115,6 @@
   <string name="MenuText/HostagameusingLANEnterthelocalIPintheLANIPConnecttabtojoin">Host a game using LAN. Enter the local IP in the LAN/IP Connect tab to join.</string>
   <string name="MenuText/OpensthedirectorywhereyourDinkumsavesarestored">Opens the directory where your Dinkum saves are stored.</string>
   <string name="MenuText/OpenSaveFileDirectory">Open Save File Directory</string>
-  <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Clears all the Player Prefs stored to this device. Dinkum will then load again to set your settings to default.\n\n&lt;color=red&gt; This will clear all your all key bindings, display settings and volume settings to default.</string>
-  <string name="MenuText/ClearPlayerPrefs">Clear Player Prefs</string>
+  <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Clears all the Player Prefs stored to this device. Dinkum will then load again to set your settings to default.\n\n&lt;color=red&gt;This will clear all your all key bindings, display settings and volume settings to default.</string>
+  <string name="MenuText/ClearPlayerPrefs" resizable="True" autoSizeTextContainer="True">Clear Player Prefs</string>
 </resources>
