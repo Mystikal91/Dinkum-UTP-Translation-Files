@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Animals/Pleep">Pleep</string>
+    <string name="Animals/Pleep">Ornitorrinco</string>
+    <string name="Animals/Diggo">Dingo</string>
+    <string name="Animals/PleepPuggle">Cría de Ornitorrinco</string>
+    <string name="Animals/Shark">Tiburón</string>
+    <string name="Animals/Bug">Bicho</string>
+    <string name="Animals/Chook">Gallina</string>
+    <string name="Animals/Cockatoo">Cacatúa</string>
+    <string name="Animals/Croco">Cocodrilo</string>
+    <string name="Animals/Fish">Pez</string>
+    <string name="Animals/GlowingCroco">Cocodrilo Luminoso</string>
+    <string name="Animals/Grub">Larva</string>
+    <string name="Animals/Mu">Emu</string>
+    <string name="Animals/PetDiggo">Dingo Mascota</string>
+    <string name="Animals/ScrubTurkey">Pavo de Matorral</string>
+    <string name="Animals/Toad">Sapo</string>
+    <string name="Animals/Vombat">Vombat</string>
+    <string name="Animals/VombatJoey">Cría de Vombat</string>
+    <string name="Animals/WaryMu">Casuario</string>
+    <string name="Animals/WildVombat">Vombat Salvaje</string>
+    <string name="Animals/CaveBat">Murciélago</string>
+    <string name="Animals/Frilly">Lagarto Volante</string>
+    <string name="Animals/Jackaroo">Jackaroo</string>
+    <string name="Animals/Jellyfish">Medusa</string>
+    <string name="Animals/Kidna">Equidna</string>
+    <string name="Animals/Maggie">Maggie</string>
+    <string name="Animals/PincherPlant">Planta Carnívora</string>
+    <string name="Animals/UnderwaterCreature">Criatura Acuática</string>
 </resources>

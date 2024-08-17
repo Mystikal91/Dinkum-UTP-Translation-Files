@@ -749,7 +749,7 @@
     <string name="Generic/TuckshopMoveInRequest_Intro_002">&lt;yes&gt;Acho que finalmente chegou a hora de deixar &lt;SouthCity&gt; para sempre.</string>
     <string name="Generic/TuckshopMoveInRequest_Intro_003">&lt;proud&gt;Falei com &lt;NPCName&gt; e me inscrevi para um &lt;itemName&gt;.</string>
     <string name="Generic/TuckshopMoveInRequest_Intro_004">&lt;glee&gt;Espero que possamos colocá-lo em funcionamento em breve.</string>
-    <string name="Generic/Wrong Photo Convo_Intro_000">Quer dizer, esta é uma bela foto, mas não é o que eu procurava. . .</string>
+    <string name="Generic/Wrong Photo Convo_Intro_000">Quer dizer, esta é uma bela foto, mas não é o que eu procurava...</string>
     <string name="Generic/Wrong Photo Convo_Option_001">Deixa para lá.</string>
     <string name="Generic/Wrong Photo Convo_Response_000_000">Ah, você tem outra foto?</string>
     <string name="Generic/Wrong Photo Convo_Response_001_000">Sem problemas. Obrigado por tentar!</string>
