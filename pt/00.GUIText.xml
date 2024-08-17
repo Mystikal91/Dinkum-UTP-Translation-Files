@@ -153,4 +153,14 @@
     <string name="GUIText/Increasesthespeedyourcharactercanreelinfish">Aumenta a velocidade com que seu personagem pode puxar os Peixes</string>
     <string name="GUIText/OpenPockets">Abrir os Bolsos</string>
     <string name="GUIText/OpenJournal">Abrir o Diário</string>
+    <string name="GUIText/Revive">Reviver</string>
+    <string name="GUIText/Youhavepassedout">Você desmaiou!</string>
+    <string name="GUIText/Whatsitsay">O que diz?</string>
+    <string name="GUIText/Done">Feito</string>
+    <string name="GUIText/Movearound">Mover-se</string>
+    <string name="GUIText/Movecamera">Mover câmera</string>
+    <string name="GUIText/HoldWhilemovingmouse">(Segurar) Enquanto move o mouse</string>
+    <string name="GUIText/EnterFreeCam">Entrar no Modo Câmera Livre</string>
+    <string name="GUIText/Confirm Conversion">Confirmar conversão</string>
+    <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Acompanhando os ingredientes da Receita</string>
 </resources>
