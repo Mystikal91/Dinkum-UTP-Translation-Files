@@ -169,4 +169,6 @@
     <string name="GUIText/Whatsitsay">Cosa c\'è scritto?</string>
     <string name="GUIText/Done">Fatto</string>
     <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Traccia gli ingredienti della ricetta</string>
+    <string name="GUIText/Finishwiththemirrorandapplythesechanges">Finisci con lo specchio e applica queste modifiche?</string>
+    <string name="GUIText/Apply">Applica</string>
 </resources>
