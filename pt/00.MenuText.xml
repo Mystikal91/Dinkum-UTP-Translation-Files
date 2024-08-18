@@ -114,6 +114,6 @@
     <string name="MenuText/OpenSaveFileDirectory">Abrir Diretório de Arquivos Salvos</string>
     <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Limpa todas as Preferências do Jogador armazenadas neste dispositivo. Dinkum será reiniciado para definir suas configurações padrão.
 \n
-\n&lt;color=red&gt; Isso redefinirá todas as suas configurações de teclas, configurações de exibição e configurações de volume para o padrão.</string>
+\n&lt;color=red&gt;Isso redefinirá todas as suas configurações de teclas, configurações de exibição e configurações de volume para o padrão.</string>
     <string name="MenuText/ClearPlayerPrefs">Limpar Preferências do Jogador</string>
 </resources>
