@@ -60,7 +60,7 @@
   <!-- Used in the bank to clear the selected amount -->
   <string name="GUIText/C">C</string>
   <string name="GUIText/Confirm">Confirm</string>
-  <string name="GUIText/Confirm Conversion">Confirm Conversion</string>
+  <string name="GUIText/ConfirmConversion">Confirm Conversion</string>
   <string name="GUIText/FishStatus">Fish Status</string>
   <string name="GUIText/Feedthefishacritter">Feed the fish a critter?</string>
   <string name="GUIText/FishNursery">Fish Nursery</string>
@@ -71,6 +71,7 @@
   <string name="GUIText/DinksEarned" autoSizeTextContainer="True">Dinks Earned</string>
   <string name="GUIText/Teletothistower">Tele to this tower?</string>
   <string name="GUIText/loading">loading</string>
+  <string name="GUIText/saving">saving</string>
   <string name="GUIText/Today">Today</string>
   <string name="GUIText/Tomorrow">Tomorrow</string>
   <string name="GUIText/Bulletins">Bulletins</string>
@@ -100,6 +101,11 @@
   <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Keeping Track of recipe ingredients</string>
   <string name="GUIText/Finishwiththemirrorandapplythesechanges">Finish with the mirror and apply these changes?</string>
   <string name="GUIText/Apply">Apply</string>
+  <string name="GUIText/CompletedLicences">Completed Licences</string>
+  <string name="GUIText/TownDebtIncrease">Town Debt Increase</string>
+  <string name="GUIText/Buildingmaterialsrequiredoncedplaced">Building materials required onced placed</string>
+  <string name="GUIText/SelectImage">Select Image</string>
+  <string name="GUIText/GameSaved">Game Saved</string>
   <string name="GUIText/Staminaandhealth">Stamina and health</string>
   <string name="GUIText/Buffs">Buffs</string>
   <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1. 
