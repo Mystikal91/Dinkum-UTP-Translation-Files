@@ -202,7 +202,8 @@
     <string name="RAYNE/RandomConvo_027_Intro_000">Eu sempre soube que era especial?</string>
     <string name="RAYNE/RandomConvo_027_Intro_001">Tipo, destinado a alguma coisa?</string>
     <string name="RAYNE/RandomConvo_027_Intro_002">Espero que seja relacionado a plantas…</string>
-    <string name="RAYNE/RandomConvo_027_Intro_003">&lt;haha&gt; Porque eu estou tipo, apostando tudo nessa coisa de planta!</string>
+    <string name="RAYNE/RandomConvo_027_Intro_003">&lt;haha&gt;
+\nPorque eu estou tipo, apostando tudo nessa coisa de planta!</string>
     <string name="RAYNE/RandomConvo_028_Intro_000">&lt;no&gt;Você não pode fazer tudo sozinho...</string>
     <string name="RAYNE/RandomConvo_028_Intro_001">E mesmo se você pudesse, não acho que deveria?</string>
     <string name="RAYNE/RandomConvo_028_Intro_002">Você não vai a lugar nenhum tão cedo, certo &lt;PlayerName&gt;?</string>
@@ -236,7 +237,8 @@
     <string name="RAYNE/TownMention_Level_003_Intro_000">Adoro o que você tem feito por aqui, &lt;PlayerName&gt;.</string>
     <string name="RAYNE/TownMention_Level_003_Intro_001">&lt;yes&gt;Você obviamente colocou muito trabalho na cidade.</string>
     <string name="RAYNE/TownMention_Level_003_Intro_002">&lt;glee&gt;É tão bom ter você por perto de &lt;IslandName&gt;</string>
-    <string name="RAYNE/TownMention_Level_004_Intro_000">&lt;no&gt; Não acredito que esta é a mesma &lt;IslandName&gt; que eu costumava visitar na minha pequena barraca!</string>
+    <string name="RAYNE/TownMention_Level_004_Intro_000">&lt;no&gt;
+\nNão acredito que esta é a mesma &lt;IslandName&gt; que eu costumava visitar na minha pequena barraca!</string>
     <string name="RAYNE/TownMention_Level_004_Intro_001">&lt;pumped&gt;Esse lugar é, tipo, incrível e tudo mais.</string>
     <string name="RAYNE/TownMention_Level_004_Intro_002">&lt;yes&gt;Você deveria estar muito orgulhoso de si mesmo, &lt;PlayerName&gt;.</string>
     <string name="RAYNE/TownMention_Level_004_Intro_003">&lt;glee&gt;Continue com o excelente trabalho!</string>

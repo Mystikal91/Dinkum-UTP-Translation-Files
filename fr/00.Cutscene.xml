@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Cutscene/Narration_006">À la recherche d\'un jeune fonceur pour m\'accompagner dans mon ancienne maison, &lt;IslandName&gt;. Le voyage et l\'hébergement seront votre première compensation. Toute personne intéressée, veuillez me rencontrer au terminal Airship le 1er été.</string>
+    <string name="Cutscene/Narration_006">À la recherche d\'un jeune fonceur pour m\'accompagner dans mon ancienne maison, &lt;IslandName&gt;.
+\n
+\nLe voyage et l\'hébergement seront votre première compensation.
+\n
+\nToute personne intéressée, veuillez me rencontrer au terminal Airship le 1er été.</string>
     <string name="Cutscene/Narration_000">Il y a longtemps, tout a mal tourné.</string>
     <string name="Cutscene/Narration_004">La plupart des gens n\'ont aucune envie de partir.</string>
     <string name="Cutscene/Narration_001">Presque tout le monde a été obligé de déménager à South City.</string>

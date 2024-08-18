@@ -470,7 +470,8 @@
     <string name="Generic/IntroToQuest_Intro_014">&lt;haha&gt;我想到午餐时间了。</string>
     <string name="Generic/IntroToQuest_Intro_015">&lt;glee&gt;我看到这个岛上有水果而且好像很好吃！</string>
     <string name="Generic/IntroToQuest_Intro_016">&lt;yes&gt;你去找点水果回来我再告诉你怎么做一个&lt;itemName&gt;。</string>
-    <string name="Generic/IntroToQuest_Response_000_002">现在来说，木头？这个很简单。你砍下一棵树然后你就能得到一些木头。&lt;yes&gt;</string>
+    <string name="Generic/IntroToQuest_Response_000_002">现在来说，木头？这个很简单。你砍下一棵树然后你就能得到一些木头。
+\n&lt;yes&gt;</string>
     <string name="Generic/IntroToQuest_Response_000_005">去给这个小岛一个看起来像厕所的&lt;questRequiredItems&gt;。</string>
     <string name="Generic/IntroToQuest_Response_000_006">把它们带回这儿，我会告诉你我们如何把锡矿变成条状。&lt;glee&gt;</string>
     <string name="Generic/IntroToQuest_Response_000_001">我觉得我们需要木头和锡。</string>
@@ -541,7 +542,8 @@
     <string name="Generic/Quest_6_TalkToWhileNotComplete_Option_000">我需要什么来着？</string>
     <string name="Generic/Quest_6_TalkToWhileNotComplete_Option_001">我要去哪里获得一个篝火？</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_000">如果我们要在这里搭建什么建筑我们得需要一些材料。</string>
-    <string name="Generic/Quest_7_IntroToQuest_Response_000_002">现在来说，木头？这个很简单。你砍下一棵树然后你就能得到一些木头。&lt;yes&gt;</string>
+    <string name="Generic/Quest_7_IntroToQuest_Response_000_002">现在来说，木头？这个很简单。你砍下一棵树然后你就能得到一些木头。
+\n&lt;yes&gt;</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_005">去给这个小岛一个看起来像厕所的&lt;questRequiredItems&gt;。</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_006">把它们带回这儿，我会告诉你我们如何把锡矿变成条状。&lt;glee&gt;</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_004">现在，我们需要将锡矿熔炼成条状，然后才能造东西。&lt;thinking&gt;</string>
@@ -625,7 +627,8 @@
     <string name="Generic/MoveInRequest_Intro_003">希望我能快快搬进来！</string>
     <string name="Generic/MuseumMoveInRequest 1_Intro_001">我认为值得把它们都记录下来，对吗？&lt;yes&gt;</string>
     <string name="Generic/MuseumMoveInRequest 1_Intro_002">如果我们在这里建一座博物馆呢？</string>
-    <string name="Generic/MuseumMoveInRequest 1_Intro_003">一个我们能把这里所有奇妙事物都收集起来让大家观赏的地方？&lt;glee&gt;</string>
+    <string name="Generic/MuseumMoveInRequest 1_Intro_003">一个我们能把这里所有奇妙事物都收集起来让大家观赏的地方？
+\n&lt;glee&gt;</string>
     <string name="Generic/NoItemGiven_Intro_000">噢，你根本没有&lt;requestItem&gt;。</string>
     <string name="Generic/MuseumMoveInRequest 1_Intro_005">这太令人激动了！&lt;glee&gt;</string>
     <string name="Generic/NoItemGiven_Intro_001">如果找到&lt;requestItem&gt;请告诉我。</string>
@@ -936,7 +939,8 @@
     <string name="Generic/RandomConvo_003_Option_000">噢，可以！</string>
     <string name="Generic/RandomConvo_003_Option_001">不一定</string>
     <string name="Generic/RandomConvo_003_Response_000_000">&lt;glee&gt;你看，我就知道你喜欢天空！</string>
-    <string name="Generic/RandomConvo_003_Response_001_000">&lt;sigh&gt;啊，那太可惜了。我已经在一些罐子里收集到一堆标本……</string>
+    <string name="Generic/RandomConvo_003_Response_001_000">&lt;sigh&gt;
+\n啊，那太可惜了。我已经在一些罐子里收集到一堆标本…</string>
     <string name="Generic/RandomConvo_004_Intro_001">&lt;haha&gt;但他们说专注的时候时光飞逝！</string>
     <string name="Generic/RandomConvo_005_Intro_001">&lt;yes&gt;别担心，我会帮你填好需要的信息！</string>
     <string name="Generic/RandomConvo_005_Intro_002">&lt;glee&gt;这是我的荣幸！</string>

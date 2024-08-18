@@ -6,7 +6,11 @@
     <string name="Cutscene/Narration_003">Você nasceu aqui.</string>
     <string name="Cutscene/Narration_004">A maioria das pessoas não tem vontade de sair.</string>
     <string name="Cutscene/Narration_005">Mas você faz, mais do que tudo.</string>
-    <string name="Cutscene/Narration_006">Procuro um jovem empreendedor para me acompanhar até minha antiga casa, &lt;IslandName&gt;. Viagem e acomodação serão sua compensação inicial. Qualquer pessoa interessada, por favor, encontre-me no terminal Airship no dia 1º de verão.</string>
+    <string name="Cutscene/Narration_006">Procuro um jovem empreendedor para me acompanhar até minha antiga casa, &lt;IslandName&gt;.
+\n
+\nViagem e acomodação serão sua compensação inicial.
+\n
+\nQualquer pessoa interessada, por favor, encontre-me no terminal Airship no dia 1º de verão.</string>
     <string name="Cutscene/Narration_007">Você parte para &lt;IslandName&gt; hoje.</string>
     <string name="Cutscene/Narration_008">E você pode ter encontrado uma saída.</string>
 </resources>

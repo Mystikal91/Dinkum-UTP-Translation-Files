@@ -46,7 +46,8 @@
     <string name="CLOVER/Gossip_About_NPC_010_Intro_002">Ich stehe irgendwie darauf, weißt du?</string>
     <string name="CLOVER/Introduction_004_Intro_000">Hallo, ich bin &lt;myName&gt;.</string>
     <string name="CLOVER/Introduction_004_Intro_004">&lt;shy&gt;So now I travel around selling the clothes I like to make.</string>
-    <string name="CLOVER/Introduction_004_Intro_001">Freut mich, Sie kennenzulernen, &lt;PlayerName&gt; . &lt;thinking&gt; Ich habe das Gefühl, wir sind uns schon einmal begegnet?</string>
+    <string name="CLOVER/Introduction_004_Intro_001">Freut mich, Sie kennenzulernen, &lt;PlayerName&gt; .
+\n&lt;thinking&gt; Ich habe das Gefühl, wir sind uns schon einmal begegnet?</string>
     <string name="CLOVER/Introduction_004_Intro_002">Nein? Vielleicht war es in einem früheren Leben oder so.</string>
     <string name="CLOVER/Introduction_004_Intro_003">Ich bin vor einiger Zeit ein &lt;Nomad&gt; geworden, ich musste einfach aus &lt;SouthCity&gt; raus , weißt du?</string>
     <string name="CLOVER/Introduction_004_Intro_005">&lt;glee&gt; Wenn Sie etwas sehen, das Ihnen gefällt, lassen Sie es mich bitte wissen.</string>

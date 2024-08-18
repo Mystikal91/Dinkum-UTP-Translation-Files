@@ -166,7 +166,8 @@
     <string name="THEODORE/FullPhotoWithPhoto_Response_001_000">呼。我非常喜欢这个。</string>
     <string name="THEODORE/Introduction_009_Intro_000">&lt;worried&gt;哦，抱歉。</string>
     <string name="THEODORE/RandomConvo_003_Response_000_001">我会问问小镇上还有没有其他人也感兴趣！&lt;glee&gt;</string>
-    <string name="THEODORE/RandomConvo_003_Response_001_000">&lt;sigh&gt;啊，那太可惜了。我已经在一些罐子里收集到一堆标本……</string>
+    <string name="THEODORE/RandomConvo_003_Response_001_000">&lt;sigh&gt;
+\n啊，那太可惜了。我已经在一些罐子里收集到一堆标本……</string>
     <string name="THEODORE/SkyFest_Noon_009_Intro_002">&lt;shy&gt;这样我就不需要共享任何设备。</string>
     <string name="THEODORE/SkyFest_Morning_009_Intro_002">我想参加&lt;SkyFest&gt;的庆祝会更好。</string>
     <string name="THEODORE/SkyFest_Morning_009_Intro_003">&lt;shy&gt;不过，我确实想过我们可以在室内庆祝……</string>

@@ -52,8 +52,10 @@
     <string name="FLETCH/ConfirmDeed_Response_001_000">Não se preocupe!</string>
     <string name="FLETCH/ConfirmDeed_Response_001_001">Por favor, venha me ver se mudar de ideia!</string>
     <string name="FLETCH/Fletch_Intro_000">Então, você queria falar sobre sua casa?</string>
-    <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt; Vou te dizer uma coisa, estou muito feliz que você tenha decidido me acompanhar nesta aventura, &lt;PlayerName&gt;.</string>
-    <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt; Eu estava começando a pensar que ninguém em &lt;SouthCity&gt; tinha coragem de se juntar a mim!</string>
+    <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt;
+\nVou te dizer uma coisa, estou muito feliz que você tenha decidido me acompanhar nesta aventura, &lt;PlayerName&gt;.</string>
+    <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt;
+\nEu estava começando a pensar que ninguém em &lt;SouthCity&gt; tinha coragem de se juntar a mim!</string>
     <string name="FLETCH/Fletch_Intro_003">&lt;haha&gt;Quando você foi a primeira e única pessoa a responder ao meu anúncio, eu soube que você era a pessoa certa para o trabalho!</string>
     <string name="FLETCH/Fletch_Intro_004">&lt;no&gt;Ah, querido, olhe o velho waffle do &lt;myName&gt;...</string>
     <string name="FLETCH/Fletch_Intro_005">Vamos começar, &lt;PlayerName&gt;!</string>
@@ -223,7 +225,8 @@
     <string name="FLETCH/Medium_Friendship_Greeting 0_Intro_001">Precisas de alguma coisa?</string>
     <string name="FLETCH/Medium_Friendship_Greeting 0_Response_003_000">Te vejo daqui a pouco!</string>
     <string name="FLETCH/Medium_Friendship_Greeting 1_Intro_000">Como vai, &lt;PlayerName&gt;?</string>
-    <string name="FLETCH/Medium_Friendship_Greeting 1_Response_003_000">&lt;yes&gt; Tudo bem, vejo você mais tarde.</string>
+    <string name="FLETCH/Medium_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;
+\nTudo bem, vejo você mais tarde.</string>
     <string name="FLETCH/Medium_Friendship_Greeting 2_Intro_000">&lt;haha&gt;Vou te dizer uma coisa, eu estava pensando em você, &lt;PlayerName&gt;!</string>
     <string name="FLETCH/Medium_Friendship_Greeting 2_Intro_001">Eu posso te ajudar com alguma coisa?</string>
     <string name="FLETCH/Medium_Friendship_Greeting 2_Response_003_000">Tomar cuidado.</string>
@@ -306,7 +309,8 @@
     <string name="FLETCH/RandomConvo_006_Intro_002">&lt;pumped&gt;Eu costumava ajudar as pessoas, assim como você.</string>
     <string name="FLETCH/RandomConvo_006_Intro_003">&lt;yes&gt;Eu estava sempre fazendo alguma coisa.</string>
     <string name="FLETCH/RandomConvo_007_Intro_000">&lt;IslandName&gt; tem muitos ecossistemas diferentes para uma área tão pequena.</string>
-    <string name="FLETCH/RandomConvo_007_Intro_001">Se bem me lembro, minha antiga casa estava localizada perto da costa Noroeste… Ou talvez fosse Sudeste?</string>
+    <string name="FLETCH/RandomConvo_007_Intro_001">Se bem me lembro, minha antiga casa estava localizada perto da costa Noroeste…
+\nOu talvez fosse Sudeste?</string>
     <string name="FLETCH/RandomConvo_007_Intro_002">&lt;thinking&gt;Hmmm…</string>
     <string name="FLETCH/RandomConvo_007_Intro_003">Vou te contar uma coisa, quando eu lembrar, te aviso.</string>
     <string name="FLETCH/RandomConvo_008_Intro_000">Eu guardei aquele &lt;Journal&gt; que lhe dei durante anos em &lt;SouthCity&gt;.</string>
@@ -376,7 +380,8 @@
     <string name="FLETCH/RandomConvo_026_Intro_003">&lt;haha&gt;Vou te dizer uma coisa, você está conseguindo fazer isso.</string>
     <string name="FLETCH/RandomConvo_027_Intro_000">Vou te dizer uma coisa, a idade tem um jeito engraçado de se aproximar de você.</string>
     <string name="FLETCH/RandomConvo_027_Intro_001">Se você se mantiver ocupado e focado, você nem notará que isso está acontecendo!</string>
-    <string name="FLETCH/RandomConvo_027_Intro_002">&lt;haha&gt; Lembro-me de ver meu reflexo uma vez e pensar “Quem é essa senhora que está na minha casa?”</string>
+    <string name="FLETCH/RandomConvo_027_Intro_002">&lt;haha&gt;
+\nLembro-me de ver meu reflexo uma vez e pensar “Quem é essa senhora que está na minha casa?”</string>
     <string name="FLETCH/RandomConvo_028_Intro_000">Por muito tempo eu senti como se estivesse apenas andando na água e esperando que algo grande acontecesse.</string>
     <string name="FLETCH/RandomConvo_028_Intro_001">&lt;no&gt;Você realmente não pode ser assim.</string>
     <string name="FLETCH/RandomConvo_028_Intro_002">&lt;thinking&gt;Não se você quiser ser feliz.</string>
@@ -527,8 +532,10 @@
     <string name="FLETCH/SkyFest_Noon_006_Response_001_002">Não se esqueça que temos o evento &lt;PaperLantern&gt; às 15h!</string>
     <string name="FLETCH/SkyFest_Noon_006_Response_001_003">E, claro, você não pode esquecer a maravilhosa &lt;Aurora&gt; quando escurecer.</string>
     <string name="FLETCH/FirstIntroInGame_Intro_000">Parece que pousamos!</string>
-    <string name="FLETCH/FirstIntroInGame_Intro_001">&lt;glee&gt; Vou te dizer uma coisa, estou muito feliz que você tenha decidido me acompanhar nesta aventura, &lt;PlayerName&gt;.</string>
-    <string name="FLETCH/FirstIntroInGame_Intro_002">&lt;worried&gt; Eu estava começando a pensar que ninguém em &lt;SouthCity&gt; tinha coragem de se juntar a mim!</string>
+    <string name="FLETCH/FirstIntroInGame_Intro_001">&lt;glee&gt;
+\nVou te dizer uma coisa, estou muito feliz que você tenha decidido me acompanhar nesta aventura, &lt;PlayerName&gt;.</string>
+    <string name="FLETCH/FirstIntroInGame_Intro_002">&lt;worried&gt;
+\nEu estava começando a pensar que ninguém em &lt;SouthCity&gt; tinha coragem de se juntar a mim!</string>
     <string name="FLETCH/FirstIntroInGame_Intro_003">&lt;haha&gt;Quando você foi a primeira e única pessoa a responder ao meu anúncio, eu sabia que você era a pessoa certa para o trabalho!</string>
     <string name="FLETCH/FirstIntroInGame_Intro_004">&lt;no&gt;Ah, querido, olhe o velho waffle do &lt;myName&gt;...</string>
     <string name="FLETCH/FirstIntroInGame_Intro_005">Vamos começar, &lt;PlayerName&gt;!</string>

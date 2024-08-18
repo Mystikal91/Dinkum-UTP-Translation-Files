@@ -256,7 +256,8 @@
     <string name="Generic/IntroToQuest_Option_002">Non ancora.</string>
     <string name="Generic/IntroToQuest_Response_000_000">Se vogliamo costruire qualcosa qui attorno, avremo bisogno di materiali.</string>
     <string name="Generic/IntroToQuest_Response_000_001">Credo che avremo bisogno di Legno e di Stagno.</string>
-    <string name="Generic/IntroToQuest_Response_000_002">Ora, legno? Sembra facile. Abbatti un albero e ottieni del legno. &lt;yes&gt;</string>
+    <string name="Generic/IntroToQuest_Response_000_002">Ora, legno? Sembra facile. Abbatti un albero e ottieni del legno.
+\n&lt;yes&gt;</string>
     <string name="Generic/IntroToQuest_Response_000_003">Ma Stagno? Sembra più difficile. L\'ho visto in giro per l\'isola fare capolino dalle roccie qui e lì. È un minerale scuro. Quando lo vedrai lo riconoscerai.&lt;yes&gt;</string>
     <string name="Generic/IntroToQuest_Response_000_004">Ora, avremo bisogno di fonderlo in lingotti prima di usare il Minerale di Ferro per costruire.&lt;thinking&gt;</string>
     <string name="Generic/IntroToQuest_Response_000_005">Va\' in giro per l\'isola dando uno sguardo in giro per &lt;questRequiredItems&gt;.</string>
@@ -287,7 +288,8 @@
     <string name="Generic/MuseumMoveInRequest 1_Intro_000">Ci sono così tante meravigliose creature e piante su quest\'isola!&lt;pumped&gt;</string>
     <string name="Generic/MuseumMoveInRequest 1_Intro_001">Penso che possa valere la pena documentarle tutte, ho ragione?&lt;yes&gt;</string>
     <string name="Generic/MuseumMoveInRequest 1_Intro_002">Che ne pensi se costruissimo un museo qui?</string>
-    <string name="Generic/MuseumMoveInRequest 1_Intro_003">Un posto in cui raccogliere tutte le cose straordinarie che ci sono qui per farle vedere a tutti? &lt;glee&gt;</string>
+    <string name="Generic/MuseumMoveInRequest 1_Intro_003">Un posto in cui raccogliere tutte le cose straordinarie che ci sono qui per farle vedere a tutti?
+\n&lt;glee&gt;</string>
     <string name="Generic/MuseumMoveInRequest 1_Intro_004">Parlerò con &lt;NPCName&gt; per fare richiesta per un &lt;itemName&gt;.</string>
     <string name="Generic/MuseumMoveInRequest 1_Intro_005">È così eccitante! &lt;glee&gt;</string>
     <string name="Generic/NoItemGiven_Intro_000">Oh, tu non hai affatto &lt;requestItem&gt;.</string>
@@ -713,7 +715,8 @@
     <string name="Generic/Quest_7_IntroToQuest_Option_001">Non ancora.</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_000">Se vogliamo costruire qualcosa qui attorno, avremo bisogno di materiali.</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_001">Credo che avremo bisogno di Legno e di Stagno.</string>
-    <string name="Generic/Quest_7_IntroToQuest_Response_000_002">Ora, legno? Sembra facile. Abbatti un albero e ottieni del legno. &lt;yes&gt;</string>
+    <string name="Generic/Quest_7_IntroToQuest_Response_000_002">Ora, legno? Sembra facile. Abbatti un albero e ottieni del legno.
+\n&lt;yes&gt;</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_003">Ma Stagno? Sembra più difficile. L\'ho visto in giro per l\'isola fare capolino dalle roccie qui e lì. È un minerale scuro. Quando lo vedrai lo riconoscerai.&lt;yes&gt;</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_004">Ora, avremo bisogno di fonderlo in lingotti prima di usare il Minerale di Ferro per costruire.&lt;thinking&gt;</string>
     <string name="Generic/Quest_7_IntroToQuest_Response_000_005">Va\' in giro per l\'isola dando uno sguardo in giro per &lt;questRequiredItems&gt;.</string>
@@ -864,7 +867,8 @@
     <string name="Generic/RandomConvo_003_Option_001">Non proprio</string>
     <string name="Generic/RandomConvo_003_Response_000_000">&lt;glee&gt;Vedi, avevo il presentimento che anche tu fossi un fan dell\'aria!</string>
     <string name="Generic/RandomConvo_003_Response_000_001">Chiederò in giro per la città e vedrò se riesco a trovare altre persone interessate! &lt;glee&gt;</string>
-    <string name="Generic/RandomConvo_003_Response_001_000">&lt;sigh&gt; Ah, che peccato. Ho già raccolto un po\' di esemplari in alcuni barattoli...</string>
+    <string name="Generic/RandomConvo_003_Response_001_000">&lt;sigh&gt;
+\nAh, che peccato. Ho già raccolto un po\' di esemplari in alcuni barattoli...</string>
     <string name="Generic/RandomConvo_004_Intro_000">&lt;thinking&gt;Le scartoffie possono richiedere molto tempo.</string>
     <string name="Generic/RandomConvo_004_Intro_001">&lt;haha&gt;Ma si dice che il tempo vola quando ci si diverte!</string>
     <string name="Generic/RandomConvo_005_Intro_000">&lt;yes&gt;Se hai scattato una bella foto e vuoi metterla in mostra, vieni a esporla nel museo.</string>

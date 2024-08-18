@@ -75,7 +75,8 @@
     <string name="JOHN/Highest_Friendship_Greeting 1_Intro_000">Ah, &lt;PlayerName&gt;!</string>
     <string name="JOHN/Highest_Friendship_Greeting 1_Intro_001">&lt;yes&gt;É sempre bom ver um rosto amigável.</string>
     <string name="JOHN/Highest_Friendship_Greeting 1_Response_003_000">Espero que possamos nos atualizar logo, &lt;PlayerName&gt;.</string>
-    <string name="JOHN/Highest_Friendship_Greeting 2_Intro_000">Ah, é &lt;PlayerName&gt;. Vindo me ver?</string>
+    <string name="JOHN/Highest_Friendship_Greeting 2_Intro_000">Ah, é &lt;PlayerName&gt;.
+\nVindo me ver?</string>
     <string name="JOHN/Highest_Friendship_Greeting 2_Intro_001">&lt;haha&gt;Mas eu nem estou aberto!</string>
     <string name="JOHN/Highest_Friendship_Greeting 2_Response_003_000">Espero conversarmos novamente, ok?</string>
     <string name="JOHN/Hot_Greeting 0_Intro_000">O calor está me cobrando hoje!</string>
@@ -190,7 +191,7 @@
     <string name="JOHN/RandomConvo_004_Intro_001">&lt;haha&gt;Acontece que já tenho as melhores ofertas da cidade, então não ajustei os preços.</string>
     <string name="JOHN/RandomConvo_005_Intro_000">&lt;yes&gt;Tudo tem um valor para alguém, você sabe. Você só precisa encontrar as pessoas certas e o preço certo.</string>
     <string name="JOHN/RandomConvo_005_Intro_001">&lt;haha&gt;Felizmente, as pessoas em &lt;SouthCity&gt; não sabem o quão comuns certas coisas são por aqui, então posso cobrar um pouco mais delas!</string>
-    <string name="JOHN/RandomConvo_006_Intro_000">Você parece um pouco desanimado hoje, &lt;PlayerName&gt;. ..</string>
+    <string name="JOHN/RandomConvo_006_Intro_000">Você parece um pouco desanimado hoje, &lt;PlayerName&gt;...</string>
     <string name="JOHN/RandomConvo_006_Intro_001">Você já pensou em comprar algo?</string>
     <string name="JOHN/RandomConvo_006_Intro_002">&lt;yes&gt;Isso sempre me faz sentir melhor.</string>
     <string name="JOHN/RandomConvo_006_Intro_003">&lt;haha&gt;Você, comprando alguma coisa, quero dizer.</string>
@@ -295,7 +296,8 @@
     <string name="JOHN/RandomConvo_036_Intro_002">&lt;no&gt;Não foi fácil mudar para cá.</string>
     <string name="JOHN/RandomConvo_036_Intro_003">Mas correr um risco como esse? E ver tudo funcionar como está?</string>
     <string name="JOHN/RandomConvo_036_Intro_004">&lt;proud&gt;Tenho a sensação de que tudo vai valer a pena.</string>
-    <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Só preciso continuar trabalhando. Um dia de cada vez.</string>
+    <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Só preciso continuar trabalhando.
+\nUm dia de cada vez.</string>
     <string name="JOHN/RandomConvo_036_Intro_006">Obrigado por ouvir, &lt;PlayerName&gt;.</string>
     <string name="JOHN/RandomConvo_037_Intro_000">&lt;yes&gt;Sabe, deixei crescer essa barba quando era um pouco mais jovem.</string>
     <string name="JOHN/RandomConvo_037_Intro_001">Meu irmão perguntou se poderia me trocar algo pelo meu bigode.</string>

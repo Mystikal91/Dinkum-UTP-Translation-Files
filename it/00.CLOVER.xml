@@ -94,7 +94,8 @@
     <string name="CLOVER/RandomConvo_003_Intro_003">Quel posto era pieno di gente, ma assolutamente privo di vita in un modo strano...</string>
     <string name="CLOVER/RandomConvo_004_Intro_000">&lt;proud&gt;Mostrarsi bene é il primo step verso sentirsi bene.</string>
     <string name="CLOVER/RandomConvo_004_Intro_001">&lt;shy&gt;Cioé, ci sono un sacco di altri step, ma appena inizi a mostrarti bene all\'esterno, ti inizierai a sentirti bene all\'esterno, sai?</string>
-    <string name="CLOVER/RandomConvo_005_Intro_002">&lt;shy&gt;È per questo che cerco di vestire spesso di nero. Voglio provare a canticchiare il mio stesso motivetto ogni tanto.</string>
+    <string name="CLOVER/RandomConvo_005_Intro_002">&lt;shy&gt;È per questo che cerco di vestire spesso di nero.
+\nVoglio provare a canticchiare il mio stesso motivetto ogni tanto.</string>
     <string name="CLOVER/RandomConvo_005_Intro_001">È come se canticchiaste lo stesso motivetto universale, sai?</string>
     <string name="CLOVER/RandomConvo_006_Intro_000">&lt;thinking&gt;Ti guardavo dormire l\'altra sera e ti giravi e rigiravi molto, sai?</string>
     <string name="CLOVER/RandomConvo_006_Intro_001">Ti senti bene oggi, &lt;PlayerName&gt;?</string>
@@ -119,7 +120,8 @@
     <string name="CLOVER/RandomConvo_010_Intro_000">Hey, &lt;PlayerName&gt;.</string>
     <string name="CLOVER/RandomConvo_010_Intro_001">&lt;shy&gt;Ti ho mai detto che pratico la magia durante la notte ogni tanto.</string>
     <string name="CLOVER/RandomConvo_010_Intro_002">&lt;shy&gt;Oh, non preoccuparti, non scherzo con cose che non possa controllare.</string>
-    <string name="CLOVER/RandomConvo_005_Intro_000">&lt;thinking&gt; Se vesti gli stessi colori di qualcun altro, puoi veramente connetterti.</string>
+    <string name="CLOVER/RandomConvo_005_Intro_000">&lt;thinking&gt;
+\nSe vesti gli stessi colori di qualcun altro, puoi veramente connetterti.</string>
     <string name="CLOVER/RandomConvo_010_Intro_003">&lt;worried&gt;Almeno…</string>
     <string name="CLOVER/RandomConvo_010_Intro_004">&lt;worried&gt;Non penso di farlo?</string>
     <string name="CLOVER/RandomConvo_011_Intro_000">Di notte sento una strana voce fuori dalla mia finestra.</string>

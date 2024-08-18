@@ -18,7 +18,8 @@
     <string name="THEODORE/RandomConvo_003_Option_001">Non proprio</string>
     <string name="THEODORE/RandomConvo_003_Response_000_000">&lt;glee&gt;Vedi, avevo il presentimento che anche tu fossi un fan dell\'aria!</string>
     <string name="THEODORE/RandomConvo_003_Response_000_001">Chiederò in giro per la città e vedrò se riesco a trovare altre persone interessate! &lt;glee&gt;</string>
-    <string name="THEODORE/RandomConvo_003_Response_001_000">&lt;sigh&gt; Ah, che peccato. Ho già raccolto un po\' di esemplari in alcuni barattoli...</string>
+    <string name="THEODORE/RandomConvo_003_Response_001_000">&lt;sigh&gt;
+\nAh, che peccato. Ho già raccolto un po\' di esemplari in alcuni barattoli...</string>
     <string name="THEODORE/RandomConvo_004_Intro_000">&lt;thinking&gt;Le scartoffie possono richiedere molto tempo.</string>
     <string name="THEODORE/RandomConvo_004_Intro_001">&lt;haha&gt;Ma si dice che il tempo vola quando ci si diverte!</string>
     <string name="THEODORE/RandomConvo_005_Intro_000">&lt;yes&gt;Se hai scattato una bella foto e vuoi metterla in mostra, vieni a esporla nel museo.</string>

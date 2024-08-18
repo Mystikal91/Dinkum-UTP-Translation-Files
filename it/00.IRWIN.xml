@@ -88,11 +88,13 @@
     <string name="IRWIN/RandomConvo_002_Intro_000">Conosci il &lt;animalName&gt;?</string>
     <string name="IRWIN/RandomConvo_002_Intro_001">Questi animali sono bellissimi!</string>
     <string name="IRWIN/RandomConvo_002_Intro_002">&lt;glee&gt;Sono così grandi, ma così gentili.</string>
-    <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;Hanno un cuore grande, sai? Anzi, tre!</string>
+    <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;Hanno un cuore grande, sai?
+\nBen tre, in effetti!</string>
     <string name="IRWIN/RandomConvo_002_Intro_004">&lt;haha&gt;Assolutamente fantastico!</string>
     <string name="IRWIN/RandomConvo_003_Intro_000">La lana di &lt;animalName&gt; è una delle più morbide al mondo.</string>
     <string name="IRWIN/RandomConvo_003_Intro_001">&lt;haha&gt;Potrebbe avere a che fare con il fatto che è quasi sempre bagnato.</string>
-    <string name="IRWIN/RandomConvo_003_Intro_002">&lt;pumped&gt;Accidenti! Quelle creature amano l\'acqua!</string>
+    <string name="IRWIN/RandomConvo_003_Intro_002">&lt;pumped&gt;Accidenti!
+\nQuelle creature amano l\'acqua!</string>
     <string name="IRWIN/RandomConvo_003_Intro_003">&lt;glee&gt;Sono creature assolutamente meravigliose!</string>
     <string name="IRWIN/RandomConvo_004_Intro_000">&lt;animalName&gt; sono ottimi compagni.</string>
     <string name="IRWIN/RandomConvo_004_Intro_001">&lt;glee&gt;Sono fedeli, affettuosi e molto carini.</string>
@@ -233,7 +235,8 @@
     <string name="IRWIN/LongConvo_001_Intro_003">&lt;yes&gt;In effetti, lo sono stato!</string>
     <string name="IRWIN/LongConvo_001_Intro_005">&lt;thinking&gt;Credo che si possa dire che tutto sia andato a rotoli quando il vicino di casa mia si è lamentato per il rumore che proveniva dal mio appartamento...</string>
     <string name="IRWIN/LongConvo_001_Intro_004">&lt;no&gt;Vedi, ho adottato tutti gli animali di cui le persone di &lt;SouthCity&gt; non potevano più occuparsi...</string>
-    <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;Ha detto che sembrava uno zoo lì dentro! In un certo senso aveva ragione!</string>
+    <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;Ha detto che sembrava uno zoo lì dentro!
+\nIn un certo senso aveva ragione!</string>
     <string name="IRWIN/LongConvo_001_Intro_007">&lt;sigh&gt;Dopo di che sono stato... incoraggiato ad andarmene.</string>
     <string name="IRWIN/LongConvo_001_Intro_008">&lt;pumped&gt;Così, quando me ne sono andato, mi sono detto che avrei fatto un grande cambiamento e sarei andato in un posto migliore!</string>
     <string name="IRWIN/LongConvo_001_Intro_009">&lt;haha&gt;Non è poi così male, perché ora posso occuparmi di tutti gli animali soffici e pelosi che voglio!</string>

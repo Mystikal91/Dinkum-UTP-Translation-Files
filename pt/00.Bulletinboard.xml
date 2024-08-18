@@ -61,8 +61,7 @@
     <string name="Bulletinboard/Post_TradeRequestTemplate_Title">Quer trocar</string>
     <string name="Bulletinboard/Post_CaptureRequestTemplate_Content">O Centro de Pesquisa Animal está oferecendo uma recompensa maior para cada &lt;boardHuntRequestAnimal&gt; entregue por um tempo limitado.
 \n
-\nVocê receberá esta recompensa para cada &lt;boardHuntRequestAnimal&gt; entregue durante este período.
-\n</string>
+\nVocê receberá esta recompensa para cada &lt;boardHuntRequestAnimal&gt; entregue durante este período.</string>
     <string name="Bulletinboard/Post_FirstPost_Title">Quadro de avisos!</string>
     <string name="Bulletinboard/Post_HuntingRequestTemplate_Content">&lt;boardHuntRequestAnimal&gt; foi avistado neste local. Este é um animal Alfa muito perigoso e só deve ser caçado por um caçador experiente.</string>
     <string name="Bulletinboard/Post_SateliteTemplate_Content">Juro que vi algo cair do céu na outra noite.

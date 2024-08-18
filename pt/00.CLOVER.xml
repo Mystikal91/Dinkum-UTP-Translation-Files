@@ -29,7 +29,8 @@
     <string name="CLOVER/Gossip_About_NPC_009_Intro_000">&lt;NPCName&gt; é um cara legal e tudo mais…</string>
     <string name="CLOVER/Introduction_004_Intro_006">Ou simplesmente apareça quando quiser, sabe?</string>
     <string name="CLOVER/IslandDayGreeting_Night_004_Intro_000">&lt;thinking&gt;Eu sonhei que vi o céu assim uma vez.</string>
-    <string name="CLOVER/Introduction_004_Intro_001">Prazer em conhecê-lo, &lt;PlayerName&gt;. &lt;thinking&gt;Sinto que já nos conhecemos antes?</string>
+    <string name="CLOVER/Introduction_004_Intro_001">Prazer em conhecê-lo, &lt;PlayerName&gt;.
+\n&lt;thinking&gt;Sinto que já nos conhecemos antes?</string>
     <string name="CLOVER/RandomConvo_004_Intro_000">&lt;proud&gt;Ter uma ótima aparência é o primeiro passo para se sentir bem.</string>
     <string name="CLOVER/IslandDayGreeting_Noon_004_Intro_001">&lt;thinking&gt;O sabor me lembra algo que não consigo identificar…</string>
     <string name="CLOVER/IslandDayGreeting_Noon_004_Intro_002">&lt;shocked&gt;OH!</string>
@@ -107,9 +108,11 @@
     <string name="CLOVER/RandomConvo_003_Intro_000">&lt;IslandName&gt; é um lugar incrível, sabe?</string>
     <string name="CLOVER/RandomConvo_003_Intro_001">Toda a ilha está cheia de vida e energia.</string>
     <string name="CLOVER/RandomConvo_003_Intro_003">Aquele lugar estava cheio de gente, mas absolutamente sem vida de uma forma estranha...</string>
-    <string name="CLOVER/RandomConvo_005_Intro_000">&lt;thinking&gt; Se você usar as mesmas cores de alguém, você poderá realmente se conectar.</string>
+    <string name="CLOVER/RandomConvo_005_Intro_000">&lt;thinking&gt;
+\nSe você usar as mesmas cores de alguém, você poderá realmente se conectar.</string>
     <string name="CLOVER/RandomConvo_005_Intro_001">É como se você começasse a cantarolar na mesma melodia universal, sabe?</string>
-    <string name="CLOVER/RandomConvo_005_Intro_002">&lt;shy&gt;É por isso que tento usar preto bastante. Quero tentar cantarolar minha própria melodia às vezes.</string>
+    <string name="CLOVER/RandomConvo_005_Intro_002">&lt;shy&gt;É por isso que tento usar preto bastante.
+\nQuero tentar cantarolar minha própria melodia às vezes.</string>
     <string name="CLOVER/RandomConvo_006_Intro_000">&lt;thinking&gt;Eu estava observando você dormir outra noite e você estava se revirando muito, sabe?</string>
     <string name="CLOVER/RandomConvo_007_Intro_000">Você sabia que as cores vermelho e amarelo podem realmente deixar você com fome?</string>
     <string name="CLOVER/RandomConvo_007_Intro_001">&lt;thinking&gt;Por outro lado, o azul pode acalmar um pouco a larica.</string>

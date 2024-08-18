@@ -110,7 +110,8 @@
     <string name="FRANKLIN/GetCompletedTech_Intro_001">Penso troverai l\'oggetto davvero impressionante!</string>
     <string name="FRANKLIN/GetCompletedTech_Intro_002">&lt;yes&gt;Se c\'è qualcos\'altro che posso fare per te, fammelo sapere.</string>
     <string name="FRANKLIN/Gossip_About_NPC_000_Intro_001">&lt;thinking&gt;Un pomeriggio l\'ho vista studiare un fiore per oltre due ore.</string>
-    <string name="FRANKLIN/Gossip_About_NPC_000_Intro_002">&lt;sigh&gt;Due ore intere e non ha scritto nemmeno una pagina di appunti! Neanche una!</string>
+    <string name="FRANKLIN/Gossip_About_NPC_000_Intro_002">&lt;sigh&gt;Due ore intere e non ha scritto nemmeno una pagina di appunti!
+\nNeanche una!</string>
     <string name="FRANKLIN/Gossip_About_NPC_001_Intro_000">Gli strumenti di &lt;NPCName&gt; sono utilizzabili, per un principiante.</string>
     <string name="FRANKLIN/Gossip_About_NPC_001_Intro_001">&lt;proud&gt;Le mie invenzioni sono di gran lunga superiori, ovviamente.</string>
     <string name="FRANKLIN/Gossip_About_NPC_001_Intro_002">&lt;pumped&gt;Ci sono utensili, e poi ci sono gli ELETTROUTENSILI!</string>
@@ -295,12 +296,14 @@
     <string name="FRANKLIN/RandomConvo_035_Intro_002">&lt;no&gt;Fondamentalmente, non sarebbe la stessa persona a entrare e uscire dal dispositivo, anche se nessuno dei due se ne accorgerebbe mai.</string>
     <string name="FRANKLIN/RandomConvo_035_Intro_003">&lt;haha&gt;Probabilmente è meglio non pensarci troppo e godersi la meravigliosa comodità di tutto questo!</string>
     <string name="FRANKLIN/RandomConvo_036_Intro_000">&lt;yes&gt;Riuscirei a fare molto di più se potessi farmi crescere un paio di mani in più.</string>
-    <string name="FRANKLIN/RandomConvo_036_Intro_001">&lt;thinking&gt; Hmm... Forse…</string>
+    <string name="FRANKLIN/RandomConvo_036_Intro_001">&lt;thinking&gt;
+\nHmm... Forse…</string>
     <string name="FRANKLIN/RandomConvo_036_Intro_002">Nel frattempo, il tuo aiuto è quasi altrettanto utile.</string>
     <string name="FRANKLIN/RandomConvo_036_Intro_003">&lt;proud&gt;È utile quasi al 25%.</string>
     <string name="FRANKLIN/RandomConvo_037_Intro_000">Immagino che ti stia chiedendo perché i miei schemi sono sempre colorati di blu?</string>
     <string name="FRANKLIN/RandomConvo_037_Intro_001">&lt;yes&gt;Sento che ora siamo abbastanza legati per dirtelo.</string>
-    <string name="FRANKLIN/RandomConvo_037_Intro_002">&lt;haha&gt; La verità è che c\'è un aneddoto divertente che è spaventosamente interessante.</string>
+    <string name="FRANKLIN/RandomConvo_037_Intro_002">&lt;haha&gt;
+\nLa verità è che c\'è un aneddoto divertente che è spaventosamente interessante.</string>
     <string name="FRANKLIN/RandomConvo_037_Intro_003">Grazie per avermi ascoltato, &lt;PlayerName&gt;!</string>
     <string name="FRANKLIN/RandomConvo_038_Intro_000">&lt;worried&gt;I miei lavori precedenti avevano la terribile tendenza a esplodere se usati in modo non corretto...</string>
     <string name="FRANKLIN/RandomConvo_038_Intro_001">&lt;thinking&gt;...o usati correttamente, o lasciati in pace.</string>

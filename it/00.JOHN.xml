@@ -101,7 +101,8 @@
     <string name="JOHN/Highest_Friendship_Greeting 0_Intro_001">Cosa posso darti?</string>
     <string name="JOHN/Highest_Friendship_Greeting 0_Response_003_000">A dopo, &lt;PlayerName&gt;!</string>
     <string name="JOHN/Highest_Friendship_Greeting 1_Intro_001">&lt;yes&gt;È sempre bello vedere una faccia amica.</string>
-    <string name="JOHN/Highest_Friendship_Greeting 2_Intro_000">Oh, è &lt;PlayerName&gt;. Vieni a trovarmi?</string>
+    <string name="JOHN/Highest_Friendship_Greeting 2_Intro_000">Oh, è &lt;PlayerName&gt;.
+\nVieni a trovarmi?</string>
     <string name="JOHN/Highest_Friendship_Greeting 2_Intro_001">&lt;haha&gt;Ma non sono nemmeno aperto!</string>
     <string name="JOHN/Highest_Friendship_Greeting 2_Response_003_000">Spero che ci risentiremo, ok?</string>
     <string name="JOHN/Hot_Greeting 0_Intro_000">Il caldo mi sta caricando oggi!</string>
@@ -305,7 +306,8 @@
     <string name="JOHN/RandomConvo_036_Intro_003">Ma correre un rischio come questo? E vedere che tutto è andato per il verso giusto?</string>
     <string name="JOHN/RandomConvo_036_Intro_004">&lt;proud&gt;Avevo la sensazione che ne sarebbe valsa la pena.</string>
     <string name="JOHN/RandomConvo_037_Intro_001">Mio fratello mi chiese se poteva scambiare qualcosa per i miei baffi.</string>
-    <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Devo solo continuare a lavorare. Un giorno alla volta.</string>
+    <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Devo solo continuare a lavorare.
+\nUn giorno alla volta.</string>
     <string name="JOHN/RandomConvo_036_Intro_006">Grazie per aver ascoltato, &lt;PlayerName&gt;.</string>
     <string name="JOHN/RandomConvo_037_Intro_000">&lt;yes&gt;Sai, mi sono fatto crescere la barba quando ero un po\' più giovane.</string>
     <string name="JOHN/RandomConvo_037_Intro_002">Ho pensato che sarebbero ricresciuti, sai?</string>

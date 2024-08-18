@@ -14,14 +14,12 @@
 \n
 \nRecebemos uma armadilha vazia com apenas &lt;itemAttachedName&gt; dentro?
 \n
-\nAnexamos os &lt;itemAttachedName&gt; que foram encontrados dentro, caso isso tenha sido um engano.
-\n</string>
+\nAnexamos os &lt;itemAttachedName&gt; que foram encontrados dentro, caso isso tenha sido um engano.</string>
     <string name="Mail/Fishing Tips">&lt;b&gt;Aqui vai uma dica de pesca para &lt;season&gt;&lt;/b&gt;!
 \n
 \nUm peixe não descoberto foi avistado no &lt;biomeName&gt;.
 \n
-\nSe alguém quiser encontrá-lo, deve pescar em &lt;timeOfDay&gt;!
-\n</string>
+\nSe alguém quiser encontrá-lo, deve pescar em &lt;timeOfDay&gt;!</string>
     <string name="Mail/FishingCompLetter_2nd">Parabéns por ficar em 2º lugar na competição de pesca!
 \n
 \n
@@ -83,8 +81,7 @@
 \n
 \nEra &lt;timeOfDay&gt;. Havia um inseto no &lt;biomeName&gt; que eu nunca tinha visto antes.
 \n
-\nAchei que você gostaria de saber.
-\n</string>
+\nAchei que você gostaria de saber.</string>
     <string name="Mail/BugCompLetter_2nd">Parabéns por ficar em 2º lugar na Competição de Insetos!
 \n
 \n
@@ -102,8 +99,7 @@
 \n
 \nObrigado por participar da competição. Mal posso esperar para voltar e jogar novamente.
 \n
-\nAté breve!
-\n</string>
+\nAté breve!</string>
     <string name="Mail/Franklyn_Craft_Complete_Weekend">Aqui está o &lt;itemAttachedName&gt; que você pediu.
 \n
 \nMuito obrigado.</string>
@@ -116,8 +112,7 @@
 \n
 \nO espécime será estudado e solto de volta na natureza ileso.
 \n
-\nSua recompensa está anexada.
-\n</string>
+\nSua recompensa está anexada.</string>
     <string name="Mail/DeliveredAnimalSpecialDropLetter">O animal que você nos enviou parece ter deixado cair isso no caminho.
 \n
 \nComo não precisamos disso para nossa pesquisa, anexamos o &lt;itemAttachedName&gt; e o devolvemos a você.</string>
@@ -134,8 +129,7 @@
 \n
 \nObrigado por participar da competição. Mal posso esperar para voltar!
 \n
-\nAté breve!
-\n</string>
+\nAté breve!</string>
     <string name="Mail/Test Letter 1">Ei, aqui está um pouco de &lt;itemAttachedName&gt;. Não se preocupe com quanto tempo ele está na sua caixa de correio. Coma!
 \n
 \nVai ficar tudo bem!</string>

@@ -48,8 +48,10 @@
     <string name="FLETCH/ConfirmDeed_Response_001_000">Ne t\'inquiète pas !</string>
     <string name="FLETCH/ConfirmDeed_Response_001_001">N\'hésite pas à venir me voir si tu changes d\'avis !</string>
     <string name="FLETCH/Fletch_Intro_000">Alors, tu voulais parler de ta maison ?</string>
-    <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt; Je vais te dire, je suis très heureux que tu aies décidé de m\'accompagner dans cette aventure, &lt;PlayerName&gt;.</string>
-    <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt; Je commençais à penser que personne à &lt;SouthCity&gt; n\'était assez courageux pour se joindre à moi !</string>
+    <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt;
+\nJe vais te dire, je suis très heureux que tu aies décidé de m\'accompagner dans cette aventure, &lt;PlayerName&gt;.</string>
+    <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt;
+\nJe commençais à penser que personne à &lt;SouthCity&gt; n\'était assez courageux pour se joindre à moi !</string>
     <string name="FLETCH/Fletch_Intro_003">&lt;haha&gt;Lorsque vous avez été la première et la seule personne à répondre à mon annonce, je savais que vous étiez la bonne personne pour le poste !</string>
     <string name="FLETCH/Fletch_Intro_004">&lt;no&gt;Oh là là, regarde le vieux &lt;myName&gt; gesticuler...</string>
     <string name="FLETCH/Already Being Moved 1_Intro_000">&lt;thinking&gt;Hmmm...</string>

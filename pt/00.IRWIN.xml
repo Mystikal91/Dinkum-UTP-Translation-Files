@@ -32,7 +32,8 @@
     <string name="IRWIN/Gossip_About_NPC_010_Intro_001">&lt;haha&gt;Talvez traga duas pás!</string>
     <string name="IRWIN/Introduction_007_Intro_000">Bom dia, cara! O nome é &lt;myName&gt;.</string>
     <string name="IRWIN/Introduction_007_Intro_001">&lt;thinking&gt;Você está... não me diga!</string>
-    <string name="IRWIN/Introduction_007_Intro_002">Você é &lt;PlayerName&gt;, certo? É absolutamente maravilhoso conhecê-lo, companheiro!</string>
+    <string name="IRWIN/Introduction_007_Intro_002">Você é &lt;PlayerName&gt;, certo?
+\nÉ absolutamente maravilhoso conhecê-lo, companheiro!</string>
     <string name="IRWIN/Introduction_007_Intro_003">&lt;haha&gt;Meu nome é &lt;myName&gt;! Ah, eu já te contei isso, certo?</string>
     <string name="IRWIN/Introduction_007_Intro_004">Estou visitando &lt;IslandName&gt; tentando encontrar um lar para algumas lindas criaturinhas.</string>
     <string name="IRWIN/Introduction_007_Intro_005">Se você tem uma &lt;AnimalHandlingLicence&gt; venha falar comigo.</string>
@@ -62,7 +63,8 @@
     <string name="IRWIN/RandomConvo_002_Intro_000">Você conhece &lt;animalName&gt;?</string>
     <string name="IRWIN/RandomConvo_002_Intro_001">Esses animais são lindos!</string>
     <string name="IRWIN/RandomConvo_002_Intro_002">&lt;glee&gt;Eles são tão grandes, mas tão gentis.</string>
-    <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;Eles têm grandes corações, sabia? Na verdade, três deles!</string>
+    <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;Eles têm grandes corações, sabia?
+\nNa verdade, três deles!</string>
     <string name="IRWIN/RandomConvo_002_Intro_004">&lt;haha&gt;Absolutamente incrível!</string>
     <string name="IRWIN/RandomConvo_003_Intro_000">A lã &lt;animalName&gt; é uma das lãs mais macias do mundo.</string>
     <string name="IRWIN/RandomConvo_003_Intro_001">&lt;haha&gt;Pode ter algo a ver com o fato de que quase sempre está molhado.</string>
@@ -214,7 +216,8 @@
     <string name="IRWIN/LongConvo_001_Intro_002">&lt;haha&gt;Eu poderia ter sido expulso.</string>
     <string name="IRWIN/LongConvo_001_Intro_004">&lt;no&gt;Veja, eu estava adotando todos os animais que as pessoas em &lt;SouthCity&gt; não podiam mais cuidar...</string>
     <string name="IRWIN/LongConvo_001_Intro_005">&lt;thinking&gt;Acho que você poderia dizer que tudo desmoronou quando o vizinho abaixo de mim reclamou de todo o barulho vindo do meu apartamento...</string>
-    <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;Ele disse que parecia um zoológico lá dentro! Ele estava meio certo sobre isso!</string>
+    <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;Ele disse que parecia um zoológico lá dentro!
+\nEle estava meio certo sobre isso!</string>
     <string name="IRWIN/LongConvo_001_Intro_007">&lt;sigh&gt;Depois disso, fui... encorajado a sair.</string>
     <string name="IRWIN/LongConvo_001_Intro_008">&lt;pumped&gt;Então, quando saí, disse a mim mesmo que faria uma grande mudança e iria para um lugar melhor!</string>
     <string name="IRWIN/LongConvo_001_Intro_009">&lt;haha&gt;Acho que não é de todo ruim, porque agora posso cuidar de todos os animais fofinhos e peludos que eu quiser!</string>
@@ -236,7 +239,8 @@
     <string name="IRWIN/LongConvo_002_Intro_003">Ou que precisam de coisas como comida e água.</string>
     <string name="IRWIN/LongConvo_002_Intro_004">&lt;boohoo&gt;Sem falar que eles precisam de amor!</string>
     <string name="IRWIN/LongConvo_001_Intro_003">&lt;yes&gt;Na verdade, eu estava!</string>
-    <string name="IRWIN/RandomConvo_003_Intro_002">&lt;pumped&gt; Caramba! Essas criaturas amam a água!</string>
+    <string name="IRWIN/RandomConvo_003_Intro_002">&lt;pumped&gt;Caramba!
+\nEssas criaturas amam a água!</string>
     <string name="IRWIN/RandomConvo_003_Intro_003">&lt;glee&gt;Eles são criaturas absolutamente lindas!</string>
     <string name="IRWIN/RandomConvo_004_Intro_000">&lt;animalName&gt; são ótimos companheiros.</string>
     <string name="IRWIN/RandomConvo_008_Intro_000">Você já deu uma olhada naqueles &lt;animalName&gt;, cara?</string>

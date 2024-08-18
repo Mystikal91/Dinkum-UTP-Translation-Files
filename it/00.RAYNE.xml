@@ -205,7 +205,8 @@
     <string name="RAYNE/RandomConvo_027_Intro_001">Come se fossi destinata a qualcosa?</string>
     <string name="RAYNE/RandomConvo_027_Intro_002">Spero proprio che sia collegato alle piante…</string>
     <string name="RAYNE/RandomConvo_028_Intro_001">E anche se potessi, non credo che dovresti farlo, sai?</string>
-    <string name="RAYNE/RandomConvo_027_Intro_003">&lt;haha&gt; Perché sono tipo \"all-in\" su questa cosa delle piante!</string>
+    <string name="RAYNE/RandomConvo_027_Intro_003">&lt;haha&gt;
+\nPerché sono tipo \"all-in\" su questa cosa delle piante!</string>
     <string name="RAYNE/RandomConvo_028_Intro_000">&lt;no&gt;Non puoi fare tutto da solo...</string>
     <string name="RAYNE/RandomConvo_028_Intro_002">Ci metteresti solo più tempo a fare tutto, vero &lt;PlayerName&gt;?</string>
     <string name="RAYNE/RandomConvo_028_Option_000">Hai ragione!</string>
@@ -238,7 +239,8 @@
     <string name="RAYNE/TownMention_Level_003_Intro_000">Mi piace quello che stai facendo qui, &lt;PlayerName&gt;.</string>
     <string name="RAYNE/TownMention_Level_003_Intro_001">&lt;yes&gt;È ovvio che, tipo, ti stai impegnando molto per la città.</string>
     <string name="RAYNE/TownMention_Level_003_Intro_002">&lt;glee&gt;È così bello averti tra noi &lt;IslandName&gt;</string>
-    <string name="RAYNE/TownMention_Level_004_Intro_000">&lt;no&gt;Non posso credere che questa sia la stessa &lt;IslandName&gt; che visitavo nella mia piccola tenda!</string>
+    <string name="RAYNE/TownMention_Level_004_Intro_000">&lt;no&gt;
+\nNon posso credere che questa sia la stessa &lt;IslandName&gt; che visitavo nella mia piccola tenda!</string>
     <string name="RAYNE/TownMention_Level_004_Intro_001">&lt;pumped&gt;Questo posto è, tipo, fantastico e tutto.</string>
     <string name="RAYNE/TownMention_Level_004_Intro_002">&lt;yes&gt;Dovresti scoppiare di orgoglio, &lt;PlayerName&gt;.</string>
     <string name="RAYNE/TownMention_Level_004_Intro_003">&lt;glee&gt;Continua con questo fantastico lavoro!</string>
