@@ -142,8 +142,10 @@
     <string name="FLETCH/RandomConvo_000_Option_001">In realtà...</string>
     <string name="FLETCH/RandomConvo_011_Option_001">In realtà...</string>
     <string name="FLETCH/Upgrade House No Money_Option_000">Si!</string>
-    <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt; Sono felice che tu abbia deciso di accompagnarmi in questa avventura, &lt;PlayerName&gt;.</string>
-    <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt; Iniziavo a pensare che nessuno a &lt;SouthCity&gt; fosse così coraggioso da unirsi a me!</string>
+    <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt;
+\nSono felice che tu abbia deciso di accompagnarmi in questa avventura, &lt;PlayerName&gt;.</string>
+    <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt;
+\nIniziavo a pensare che nessuno a &lt;SouthCity&gt; fosse così coraggioso da unirsi a me!</string>
     <string name="FLETCH/GetSnag_Convo_Response_000_002">&lt;yes&gt;Ho messo molto amore in questo &lt;Snag&gt;.</string>
     <string name="FLETCH/GetSnag_Convo_Response_000_003">È solo un modo per ringraziarti per tutto quello che hai fatto per me nell\'ultimo anno.</string>
     <string name="FLETCH/GetSnag_Convo_Response_000_004">Per non parlare di tutto quello che hai fatto per &lt;IslandName&gt;.</string>
