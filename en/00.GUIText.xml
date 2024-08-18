@@ -116,6 +116,19 @@
   <string name="GUIText/UseyourHouseCustomisationKittoapplythesechanges">Use your 
 \n&lt;b&gt;House Customisation Kit&lt;/b&gt; 
 \nto apply these changes?</string>
+  <string name="GUIText/Youhavebeendisconnected">You have been disconnected.</string>
+  <string name="GUIText/Sessionhasended">Session has ended.</string>
+  <string name="GUIText/ReturnToMenu">Return To Menu</string>
+  <!-- Used in the window after buying a farm animal -->
+  <string name="GUIText/Whatsthename">What's the name?</string>
+  <!-- Used in the window after buying a farm animal -->
+  <string name="GUIText/Buy">Buy</string>
+  <!-- Used in the catalogue window -->
+  <string name="GUIText/Order">Order</string>
+  <!-- Used in the catalogue window -->
+  <string name="GUIText/Ordercomplete">Order complete!</string>
+  <!-- Used in the catalogue window -->
+  <string name="GUIText/Youwillrecievetheiteminthemailbytomorrow">You will recieve the item in the mail by tomorrow.</string>
   <string name="GUIText/Staminaandhealth">Stamina and health</string>
   <string name="GUIText/Buffs">Buffs</string>
   <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1. 
