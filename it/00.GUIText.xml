@@ -183,4 +183,12 @@
     <string name="GUIText/UseyourHouseCustomisationKittoapplythesechanges">Usi il tuo
 \n<b>Kit di Personalizzazione Casa</b>
 \nper applicare queste modifiche?</string>
+    <string name="GUIText/Whatsthename">Come si chiama?</string>
+    <string name="GUIText/Sessionhasended">La sessione è terminata.</string>
+    <string name="GUIText/ReturnToMenu">Torna Al Menu</string>
+    <string name="GUIText/Buy">Compra</string>
+    <string name="GUIText/Order">Ordina</string>
+    <string name="GUIText/Ordercomplete">Ordine completato!</string>
+    <string name="GUIText/Youwillrecievetheiteminthemailbytomorrow">Riceverai l\'articolo per posta domani.</string>
+    <string name="GUIText/Youhavebeendisconnected">Sei stato disconnesso.</string>
 </resources>
