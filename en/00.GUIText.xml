@@ -100,16 +100,45 @@
   <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Keeping Track of recipe ingredients</string>
   <string name="GUIText/Staminaandhealth">Stamina and health</string>
   <string name="GUIText/Buffs">Buffs</string>
-  <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1. \nThis circle represents your health tick.\nEvery time this circle is filled, you will regain health equal to your health per tick.\nA health tick is normally 20 seconds, but it can be sped up by sitting down, and by other means.</string>
-  <string name="GUIText/2ThiscirclerepresentsyourcurrentfullnessGenerallyyoucanonlyeat3thingsYoushouldpaycloseattentiontowhatfoodsyoueatasallfoodhascertainstrengthsandweaknesses">2.\nThis circle represents your current fullness.\nGenerally you can only eat 3 things.\nYou should pay close attention to what foods you eat, as all food has certain strengths and weaknesses.</string>
-  <string name="GUIText/3ThesearethecurrentfoodsthatyouhaveeatenThetimerbeloweachfoodshowshowlongthefoodseffectwilllastOnceitdoesafullnesswillberemovedfromyourfullnesscircle">3.\nThese are the current foods that you have eaten.\nThe timer below each food shows how long the food’s effect will last.\nOnce it does, a fullness will be removed from your fullness circle.</string>
-  <string name="GUIText/4ThisshowsthecurrentamountofhealthyouwillrecoveroneachhealthtickThisamountisdeterminedbythecurrenteffectofaneatenfoodAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">4.\nThis shows the current amount of health you will recover on each health tick.\nThis amount is determined by the current effect of an eaten food.\nA health tick is normally 20 seconds, but it can be sped up by sitting down, and by other means.</string>
-  <string name="GUIText/5ThisshowsthecurrentamountofstaminayouwillreceivepersecondThisamountisdeterminedbythecurrenteffectofaneatenfoodPlayersshouldmakethisnumberaslargeaspossiblewhendoingstrenuoustasks">5.\nThis shows the current amount of stamina you will receive per second.\nThis amount is determined by the current effect of an eaten food.\nPlayers should make this number as large as possible when doing strenuous tasks.</string>
-  <string name="GUIText/6HowlongacertainfoodseffectswillremainThisincludeshowlongthefoodwillkeepyoufull">6:\nHow long a certain food’s effects will remain.\nThis includes how long the food will keep you full.</string>
-  <string name="GUIText/7HowmuchhealthregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrenthealthregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">7:\nHow much health regen a certain food will give you once eaten.\nThis will add to your current health regen amount if eaten.\nThis will only last for the food's total effect time.</string>
-  <string name="GUIText/8HowmuchstaminaregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrentstaminaregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">8:\nHow much stamina regen a certain food will give you once eaten.\nThis will add to your current stamina regen amount if eaten.\nThis will only last for the food's total effect time.</string>
-  <string name="GUIText/9HowmuchyourhealthbarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrenthealthbarifeatenThiswillonlylastforthefoodstotaleffecttime">9:\nHow much your health bar will be increased by eating this food.\nThis will add to your current health bar if eaten.\nThis will only last for the food's total effect time.</string>
-  <string name="GUIText/10HowmuchyourstaminabarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrentstaminabarifeatenThiswillonlylastforthefoodstotaleffecttime">10:\nHow much your stamina bar will be increased by eating this food.\nThis will add to your current stamina bar if eaten.\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1. 
+\nThis circle represents your health tick.
+\nEvery time this circle is filled, you will regain health equal to your health per tick.
+\nA health tick is normally 20 seconds, but it can be sped up by sitting down, and by other means.</string>
+  <string name="GUIText/2ThiscirclerepresentsyourcurrentfullnessGenerallyyoucanonlyeat3thingsYoushouldpaycloseattentiontowhatfoodsyoueatasallfoodhascertainstrengthsandweaknesses">2.
+\nThis circle represents your current fullness.
+\nGenerally you can only eat 3 things.
+\nYou should pay close attention to what foods you eat, as all food has certain strengths and weaknesses.</string>
+  <string name="GUIText/3ThesearethecurrentfoodsthatyouhaveeatenThetimerbeloweachfoodshowshowlongthefoodseffectwilllastOnceitdoesafullnesswillberemovedfromyourfullnesscircle">3.
+\nThese are the current foods that you have eaten.
+\nThe timer below each food shows how long the food’s effect will last.
+\nOnce it does, a fullness will be removed from your fullness circle.</string>
+  <string name="GUIText/4ThisshowsthecurrentamountofhealthyouwillrecoveroneachhealthtickThisamountisdeterminedbythecurrenteffectofaneatenfoodAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">4.
+\nThis shows the current amount of health you will recover on each health tick.
+\nThis amount is determined by the current effect of an eaten food.
+\nA health tick is normally 20 seconds, but it can be sped up by sitting down, and by other means.</string>
+  <string name="GUIText/5ThisshowsthecurrentamountofstaminayouwillreceivepersecondThisamountisdeterminedbythecurrenteffectofaneatenfoodPlayersshouldmakethisnumberaslargeaspossiblewhendoingstrenuoustasks">5.
+\nThis shows the current amount of stamina you will receive per second.
+\nThis amount is determined by the current effect of an eaten food.
+\nPlayers should make this number as large as possible when doing strenuous tasks.</string>
+  <string name="GUIText/6HowlongacertainfoodseffectswillremainThisincludeshowlongthefoodwillkeepyoufull">6:
+\nHow long a certain food’s effects will remain.
+\nThis includes how long the food will keep you full.</string>
+  <string name="GUIText/7HowmuchhealthregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrenthealthregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">7:
+\nHow much health regen a certain food will give you once eaten.
+\nThis will add to your current health regen amount if eaten.
+\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/8HowmuchstaminaregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrentstaminaregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">8:
+\nHow much stamina regen a certain food will give you once eaten.
+\nThis will add to your current stamina regen amount if eaten.
+\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/9HowmuchyourhealthbarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrenthealthbarifeatenThiswillonlylastforthefoodstotaleffecttime">9:
+\nHow much your health bar will be increased by eating this food.
+\nThis will add to your current health bar if eaten.
+\nThis will only last for the food's total effect time.</string>
+  <string name="GUIText/10HowmuchyourstaminabarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrentstaminabarifeatenThiswillonlylastforthefoodstotaleffecttime">10:
+\nHow much your stamina bar will be increased by eating this food.
+\nThis will add to your current stamina bar if eaten.
+\nThis will only last for the food's total effect time.</string>
   <string name="GUIText/HealthRegen">Health Regen:</string>
   <string name="GUIText/Thisistheamountofhealthyouwillrecovereachhealthtick">This is the amount of health you will recover each health tick.</string>
   <string name="GUIText/StaminaRegen">Stamina Regen:</string>

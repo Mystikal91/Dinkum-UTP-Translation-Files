@@ -70,9 +70,11 @@
   <!-- Talking about NPC: Irwin -->
   <string name="JOHN/Gossip_About_NPC_007_Intro_000">Listen, &lt;NPCName&gt; is a great guy….</string>
   <!-- Talking about NPC: Irwin -->
-  <string name="JOHN/Gossip_About_NPC_007_Intro_001">&lt;thinking&gt;But be careful about spending too many dinks on animals.</string>
+  <string name="JOHN/Gossip_About_NPC_007_Intro_001">&lt;thinking&gt;But be careful about spending too many dinks on animals
+\n.</string>
   <!-- Talking about NPC: Irwin -->
-  <string name="JOHN/Gossip_About_NPC_007_Intro_002">&lt;no&gt;They’re not gonna get you out of a tough situation.</string>
+  <string name="JOHN/Gossip_About_NPC_007_Intro_002">&lt;no&gt;They’re not gonna get you out of a tough situation
+\n.</string>
   <!-- Talking about NPC: Irwin -->
   <string name="JOHN/Gossip_About_NPC_007_Intro_003">&lt;haha&gt;And they’re certainly not going to help you smelt ore like my goods can!</string>
   <!-- Talking about NPC: Theodore -->
@@ -101,7 +103,7 @@
   <string name="JOHN/Highest_Friendship_Greeting 1_Intro_001">&lt;yes&gt;Always nice to see a friendly face.</string>
   <string name="JOHN/Highest_Friendship_Greeting 1_Response_003_000">Hope we can catch up soon, &lt;PlayerName&gt;.</string>
   <string name="JOHN/Highest_Friendship_Greeting 2_Intro_000">Oh, it’s &lt;PlayerName&gt;.
-Coming to see me?</string>
+\nComing to see me?</string>
   <string name="JOHN/Highest_Friendship_Greeting 2_Intro_001">&lt;haha&gt;But I’m not even open!</string>
   <string name="JOHN/Highest_Friendship_Greeting 2_Response_003_000">Hope we chat again, okay?</string>
   <string name="JOHN/Hot_Greeting 0_Intro_000">The heat is charging me up today!</string>
@@ -243,7 +245,8 @@ Coming to see me?</string>
   <string name="JOHN/RandomConvo_004_Intro_001">&lt;haha&gt;The thing is, I already have the best deals in town, so I haven’t adjusted the prices. </string>
   <string name="JOHN/RandomConvo_005_Intro_000">&lt;yes&gt;Everything has a value to someone, you know. You just have to find the right people and the right price.</string>
   <string name="JOHN/RandomConvo_005_Intro_001">&lt;haha&gt;Luckily, the people in &lt;SouthCity&gt; don’t know how common things certain things are over here, so I can charge them a bit more!</string>
-  <string name="JOHN/RandomConvo_006_Intro_000">You look a little down today, &lt;PlayerName&gt;...</string>
+  <string name="JOHN/RandomConvo_006_Intro_000">You look a little down today, &lt;PlayerName&gt;.
+\n..</string>
   <string name="JOHN/RandomConvo_006_Intro_001">Have you considered buying something?</string>
   <string name="JOHN/RandomConvo_006_Intro_002">&lt;yes&gt;That always makes me feel better.</string>
   <string name="JOHN/RandomConvo_006_Intro_003">&lt;haha&gt;You, buying something, I mean.</string>
@@ -356,7 +359,8 @@ Coming to see me?</string>
   <string name="JOHN/RandomConvo_036_Intro_002">&lt;no&gt;It wasn’t easy, moving here.</string>
   <string name="JOHN/RandomConvo_036_Intro_003">But taking a risk like this? And seeing everything work out like it has?</string>
   <string name="JOHN/RandomConvo_036_Intro_004">&lt;proud&gt;I got a feeling like it’s all gonna be worth it.</string>
-  <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Just gotta keep working. One day at a time.</string>
+  <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Just gotta keep working.
+\n One day at a time.</string>
   <string name="JOHN/RandomConvo_036_Intro_006">Thanks for listening, &lt;PlayerName&gt;.</string>
   <string name="JOHN/RandomConvo_037_Intro_000">&lt;yes&gt;You know, I grew this beard when I was a bit younger.</string>
   <string name="JOHN/RandomConvo_037_Intro_001">My brother asked if he could trade me something for my moustache.</string>

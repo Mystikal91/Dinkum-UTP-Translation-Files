@@ -141,9 +141,11 @@
   <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SpeedUp8Tiles">Speeds up certain production devices for up to 8 tiles</string>
   <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_PullMaterials">Can pull materials from storage boxes 5 tiles out</string>
   <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_AutoStack">Will try and auto stack materials in storage boxes 10 tiles out</string>
-  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SprinklerDesc">Reaches &lt;Range&gt; tiles out.\n&lt;color=red&gt;Requires Water Tank&lt;/color&gt;</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SprinklerDesc">Reaches &lt;Range&gt; tiles out.
+\n&lt;color=red&gt;Requires Water Tank&lt;/color&gt;</string>
   <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_TankDesc">Provides water to sprinklers &lt;Range&gt; tiles out.</string>
-  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SiloDesc">Fills animal feeders &lt;Range&gt; tiles out.\n&lt;color=red&gt;Requires Animal Food&lt;/color&gt;</string>
+  <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_SiloDesc">Fills animal feeders &lt;Range&gt; tiles out.
+\n&lt;color=red&gt;Requires Animal Food&lt;/color&gt;</string>
   <string name="HardCodedStrings/InventoryItemDescription_fillItemDescription_BridgeTileWide">&lt;XSize&gt; x Tiles Wide</string>
   <!-- Example of output: "These grow during the Summer & Autumn." -->
   <string name="HardCodedStrings/Inventory_getExtraDetails_TheseGrow">These grow &lt;SeasonOfCrop&gt;.</string>
@@ -223,7 +225,8 @@
   <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooSick">Too sick</string>
   <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooFull">Too full</string>
   <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Title">&lt;ItemName&gt; Recipe</string>
-  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Desc">These items are required to craft &lt;ItemName&gt;\n Unpin this to stop tracking recipe.</string>
+  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Desc">These items are required to craft &lt;ItemName&gt;
+\n Unpin this to stop tracking recipe.</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_Title">Request for &lt;NPCName&gt;</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_Desc">&lt;NPCName&gt; has asked you to get &lt;DesiredItemName&gt;</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_questDateGiven">By the end of the day</string>

@@ -118,7 +118,8 @@
   <!-- Talking about Item: Coffee -->
   <string name="SHEILA/RandomConvo_016_Intro_002">I’ve only had one and I’m bouncing off the walls!</string>
   <string name="SHEILA/RandomConvo_017_Intro_000">&lt;thinking&gt;A lot of people don’t put much thought into what they’re having for tea.</string>
-  <string name="SHEILA/RandomConvo_017_Intro_001">&lt;no&gt;Shame for them I reckon.</string>
+  <string name="SHEILA/RandomConvo_017_Intro_001">&lt;no&gt;Shame for them I reckon
+\n.</string>
   <string name="SHEILA/RandomConvo_017_Intro_002">&lt;glee&gt;A tough day can fly by knowing a healthy home cooked feed is waiting at the end of it.</string>
   <string name="SHEILA/RandomConvo_018_Intro_000">Just because you like everything on the menu doesn’t mean you need to order it all at once, &lt;petName&gt;.</string>
   <string name="SHEILA/RandomConvo_018_Intro_001">&lt;haha&gt;You can always come back!</string>

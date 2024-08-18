@@ -7,10 +7,10 @@
   <string name="Cutscene/Narration_004">Most people have no desire to leave.</string>
   <string name="Cutscene/Narration_005">But you do, more than anything.</string>
   <string name="Cutscene/Narration_006">Looking for a young go-getter to accompany me to my old home, &lt;IslandName&gt;.
-
-Voyage and accommodation will be your initial compensation.
-
-Anyone interested, please meet me at the Airship terminal on Summer 1st.</string>
+\n
+\nVoyage and accommodation will be your initial compensation.
+\n
+\nAnyone interested, please meet me at the Airship terminal on Summer 1st.</string>
   <string name="Cutscene/Narration_007">You leave for &lt;IslandName&gt; today.</string>
   <string name="Cutscene/Narration_008">And you might have found a way out.</string>
 </resources>

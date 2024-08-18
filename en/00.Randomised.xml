@@ -140,7 +140,8 @@
   <string name="Randomised/Morning Greeting 1_Intro_000">Oh, I just love a sunrise, don't you?</string>
   <string name="Randomised/Morning Greeting 1_Intro_001">What's up &lt;PlayerName&gt;?</string>
   <string name="Randomised/Morning Greeting 1_Response_003_000">Have good day, okay?</string>
-  <string name="Randomised/Morning Greeting 2_Intro_000">Everything feels so fresh this morning!</string>
+  <string name="Randomised/Morning Greeting 2_Intro_000">Everything feels so fresh this morning
+\n!</string>
   <string name="Randomised/Morning Greeting 2_Intro_001">What can I do for you &lt;PlayerName&gt;?</string>
   <string name="Randomised/Morning Greeting 2_Response_003_000">Enjoy your morning, &lt;PlayerName&gt;. &lt;glee&gt;</string>
   <string name="Randomised/Morning Greeting 3_Intro_000">Oh, good morning, &lt;PlayerName&gt;. </string>

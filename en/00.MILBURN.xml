@@ -15,7 +15,8 @@
   <string name="MILBURN/CompleteRequest_000_Intro_002">I suppose you would like a reward now?</string>
   <string name="MILBURN/Introduction_010_Intro_000">&lt;PlayerName&gt; I assume?</string>
   <string name="MILBURN/Introduction_010_Intro_001">&lt;proud&gt;My name is &lt;myName&gt;.</string>
-  <string name="MILBURN/Introduction_010_Intro_002">&lt;yes&gt;I am the new banker here on &lt;IslandName&gt;.</string>
+  <string name="MILBURN/Introduction_010_Intro_002">&lt;yes&gt;I am the new banker here on &lt;IslandName&gt;
+\n.</string>
   <string name="MILBURN/Introduction_010_Intro_003">Am I to understand that you were instrumental in getting my magnificent bank built?</string>
   <string name="MILBURN/Introduction_010_Intro_004">&lt;proud&gt;Well, trust me, the honour is all yours for having &lt;myName&gt; here on your tiny little island.</string>
   <string name="MILBURN/Introduction_010_Intro_005">Hmph. Using my bank will be free, of course.</string>
@@ -136,7 +137,7 @@
   <string name="MILBURN/RandomConvo_024_Intro_002">&lt;haha&gt;It never fails to brighten my day.</string>
   <string name="MILBURN/RandomConvo_025_Intro_000">&lt;sigh&gt;Childhood was a difficult time for me.</string>
   <string name="MILBURN/RandomConvo_025_Intro_001">So much to learn, you see.
-Which bell to ring for afternoon tea?</string>
+\nWhich bell to ring for afternoon tea?</string>
   <string name="MILBURN/RandomConvo_025_Intro_002">Which spoon to use for what?</string>
   <string name="MILBURN/RandomConvo_025_Intro_003">&lt;yes&gt;Oh, the servants tried their best, of course.</string>
   <string name="MILBURN/RandomConvo_025_Intro_004">&lt;no&gt;It was impossible to find good help.</string>
@@ -165,7 +166,8 @@ Which bell to ring for afternoon tea?</string>
   <string name="MILBURN/RandomConvo_033_Intro_001">&lt;yes&gt;I’ve got to say, you are always very helpful when it comes to fulfilling my requests.</string>
   <string name="MILBURN/RandomConvo_033_Intro_002">Luckily, I always reward you accordingly, so a thanks isn’t really required here, is it?</string>
   <string name="MILBURN/RandomConvo_034_Intro_000">If I had to guess, you might be the second wealthiest person on &lt;IslandName&gt;, &lt;PlayerName&gt;.</string>
-  <string name="MILBURN/RandomConvo_034_Intro_001">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed...</string>
+  <string name="MILBURN/RandomConvo_034_Intro_001">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed.
+\n..</string>
   <string name="MILBURN/RandomConvo_035_Intro_000">&lt;shy&gt;&lt;IslandName&gt; isn’t that bad after you spend a while here, I guess.</string>
   <string name="MILBURN/RandomConvo_035_Intro_001">&lt;no&gt;Oh, please, don’t get me wrong, &lt;PlayerName&gt;.</string>
   <string name="MILBURN/RandomConvo_035_Intro_002">&lt;proud&gt;As soon as I get the chance I’m going to return to my lovely abode back in &lt;SouthCity&gt;.</string>
@@ -234,7 +236,8 @@ Which bell to ring for afternoon tea?</string>
   <string name="MILBURN/Buy_ATM_Convo_Response_000_001">I hope you enjoy it.</string>
   <!-- Talking about Item: ADM -->
   <string name="MILBURN/Buy_ATM_Convo_Response_001_000">&lt;no&gt;Very well then.</string>
-  <string name="MILBURN/">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed...</string>
+  <string name="MILBURN/">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed.
+\n..</string>
   <string name="MILBURN/JimmyWorkConvo_Intro_000">Welcome back, &lt;PlayerName&gt;.</string>
   <string name="MILBURN/JimmyWorkConvo_Intro_001">Are you here to talk business?</string>
   <string name="MILBURN/JimmyWorkConvo_Option_000">Want to buy anything?</string>

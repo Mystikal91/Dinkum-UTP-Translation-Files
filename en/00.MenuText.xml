@@ -109,12 +109,17 @@
   <string name="MenuText/sprite16PublicGames">&lt;sprite=16&gt; Public Games</string>
   <string name="MenuText/IPAddress">IP Address</string>
   <string name="MenuText/Join">Join</string>
-  <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Anyone on your friends list can join this game!\nMake sure you and your friends are set to appear online.</string>
-  <string name="MenuText/OnlypeopleyouinvitewillbeabletojoinUsethesteamoverlaytoinvitepeopleoncethegameishosted">Only people you invite will be able to join.\nUse the steam overlay to invite people once the game is hosted.</string>
-  <string name="MenuText/AnyonecanjointhisworldTheywillbeabletotakeyourstuffsobecareful">Anyone can join this world.\n&lt;color=red&gt;They will be able to take your stuff, so be careful!</string>
+  <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Anyone on your friends list can join this game!
+\nMake sure you and your friends are set to appear online.</string>
+  <string name="MenuText/OnlypeopleyouinvitewillbeabletojoinUsethesteamoverlaytoinvitepeopleoncethegameishosted">Only people you invite will be able to join.
+\nUse the steam overlay to invite people once the game is hosted.</string>
+  <string name="MenuText/AnyonecanjointhisworldTheywillbeabletotakeyourstuffsobecareful">Anyone can join this world.
+\n&lt;color=red&gt;They will be able to take your stuff, so be careful!</string>
   <string name="MenuText/HostagameusingLANEnterthelocalIPintheLANIPConnecttabtojoin">Host a game using LAN. Enter the local IP in the LAN/IP Connect tab to join.</string>
   <string name="MenuText/OpensthedirectorywhereyourDinkumsavesarestored">Opens the directory where your Dinkum saves are stored.</string>
   <string name="MenuText/OpenSaveFileDirectory">Open Save File Directory</string>
-  <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Clears all the Player Prefs stored to this device. Dinkum will then load again to set your settings to default.\n\n&lt;color=red&gt;This will clear all your all key bindings, display settings and volume settings to default.</string>
+  <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Clears all the Player Prefs stored to this device. Dinkum will then load again to set your settings to default.
+\n
+\n&lt;color=red&gt;This will clear all your all key bindings, display settings and volume settings to default.</string>
   <string name="MenuText/ClearPlayerPrefs" resizable="True" autoSizeTextContainer="True">Clear Player Prefs</string>
 </resources>

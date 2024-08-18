@@ -101,7 +101,7 @@
   <string name="FRANKLIN/Gossip_About_NPC_000_Intro_001">&lt;thinking&gt;One afternoon I witnessed her studying a flower for over two hours.</string>
   <!-- Talking about NPC: Rayne -->
   <string name="FRANKLIN/Gossip_About_NPC_000_Intro_002">&lt;sigh&gt;Two whole hours and she didn’t write a single page of notes!
-Not one!</string>
+\nNot one!</string>
   <!-- Talking about NPC: Rayne -->
   <string name="FRANKLIN/Gossip_About_NPC_000_Intro_003">&lt;no&gt;I have written three volumes on similar incidents and I am still no closer to the truth of the matter.</string>
   <!-- Talking about NPC: John -->
@@ -345,7 +345,8 @@ Not one!</string>
   <string name="FRANKLIN/RandomConvo_030_Intro_005">&lt;shy&gt;I read somewhere that you should ask your friends questions like that occasionally.</string>
   <string name="FRANKLIN/RandomConvo_031_Intro_000">I am quite pleased that you have come to visit me today, &lt;PlayerName&gt;.</string>
   <string name="FRANKLIN/RandomConvo_031_Intro_001">&lt;proud&gt;You are a very satifactory friend.</string>
-  <string name="FRANKLIN/RandomConvo_031_Intro_002">&lt;thinking&gt;In fact...</string>
+  <string name="FRANKLIN/RandomConvo_031_Intro_002">&lt;thinking&gt;In fact.
+\n..</string>
   <string name="FRANKLIN/RandomConvo_031_Intro_003">&lt;yes&gt;I think you might even be a good friend.</string>
   <string name="FRANKLIN/RandomConvo_032_Intro_000">&lt;no&gt;When I first arrived on &lt;IslandName&gt; I would never have thought that you were anything more than a nuisance to my work.</string>
   <string name="FRANKLIN/RandomConvo_032_Intro_001">&lt;shy&gt;As it turns out, you are a good friend and a great person.</string>
@@ -360,13 +361,15 @@ Not one!</string>
   <string name="FRANKLIN/RandomConvo_035_Intro_002">&lt;no&gt;Fundamentally, it would not be the same person entering and exiting the device, although neither of them would ever notice.</string>
   <string name="FRANKLIN/RandomConvo_035_Intro_003">&lt;haha&gt;Probably best not to overthink it and just enjoy the marvellous convenience of it all!</string>
   <string name="FRANKLIN/RandomConvo_036_Intro_000">&lt;yes&gt;I would get a lot more done if I could grow an extra pair of hands. </string>
-  <string name="FRANKLIN/RandomConvo_036_Intro_001">&lt;thinking&gt;Hmm… maybe…</string>
+  <string name="FRANKLIN/RandomConvo_036_Intro_001">&lt;thinking&gt;
+\nHmm… maybe…</string>
   <string name="FRANKLIN/RandomConvo_036_Intro_002">In the meantime, your help is almost as useful. </string>
   <string name="FRANKLIN/RandomConvo_036_Intro_003">&lt;proud&gt;Almost twenty-five percent as useful.</string>
   <string name="FRANKLIN/RandomConvo_036_Intro_004">Thank you, &lt;PlayerName&gt;.</string>
   <string name="FRANKLIN/RandomConvo_037_Intro_000">I suppose you are wondering why my schematics are always coloured blue?</string>
   <string name="FRANKLIN/RandomConvo_037_Intro_001">&lt;yes&gt;I feel we are close enough now that I can tell you. </string>
-  <string name="FRANKLIN/RandomConvo_037_Intro_002">&lt;haha&gt;The truth is, there is an amusing anecdote about it that is frightfully interesting.</string>
+  <string name="FRANKLIN/RandomConvo_037_Intro_002">&lt;haha&gt;
+\nThe truth is, there is an amusing anecdote about it that is frightfully interesting.</string>
   <string name="FRANKLIN/RandomConvo_037_Intro_003">Thank you for listening, &lt;PlayerName&gt;!</string>
   <string name="FRANKLIN/RandomConvo_038_Intro_000">&lt;worried&gt;My earlier work had an awful tendency to detonate when used incorrectly... </string>
   <string name="FRANKLIN/RandomConvo_038_Intro_001">&lt;thinking&gt;...or used correctly, or left alone.</string>

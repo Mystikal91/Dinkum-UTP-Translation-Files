@@ -90,7 +90,8 @@
   <string name="MELVIN/Medium_Friendship_Greeting 1_Response_003_000">Alright then.</string>
   <string name="MELVIN/Medium_Friendship_Greeting 2_Intro_000">Hows things then?</string>
   <string name="MELVIN/Medium_Friendship_Greeting 2_Response_003_000">Hooroo.</string>
-  <string name="MELVIN/Morning_Greeting 0_Intro_000">Mornin’ &lt;PlayerName&gt;.</string>
+  <string name="MELVIN/Morning_Greeting 0_Intro_000">Mornin’ &lt;PlayerName&gt;
+\n.</string>
   <string name="MELVIN/Morning_Greeting 0_Response_003_000">Righto.</string>
   <string name="MELVIN/Morning_Greeting 1_Intro_000">&lt;yes&gt;Up nice ‘n early.</string>
   <string name="MELVIN/Morning_Greeting 1_Response_003_000">Hooroo.</string>

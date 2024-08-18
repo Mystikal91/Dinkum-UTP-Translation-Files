@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Quest/QuestName_Q_0_FirstQuest1">A Base of Operations</string>
-  <string name="Quest/QuestDesc_Q_0_FirstQuest1">You've arrived on the island! Fletch has given you a Base Tent and has asked you to look around and find a spot where you would like to settle.\n\nFeel free to ask Fletch questions about the island. She can be found wandering around near the Dock.</string>
+  <string name="Quest/QuestDesc_Q_0_FirstQuest1">You've arrived on the island! Fletch has given you a Base Tent and has asked you to look around and find a spot where you would like to settle.
+\n
+\nFeel free to ask Fletch questions about the island. She can be found wandering around near the Dock.</string>
   <string name="Quest/QuestName_Q_1_SetUpPlayerTent">Your new home!</string>
-  <string name="Quest/QuestDesc_Q_1_SetUpPlayerTent">Fletch has given you your own Tent! This will be your home for the time being, so take your time deciding where to set it up. Fletch has suggested setting it up closeby to the Base Tent.\n\nOnce you’ve got your tent set up, speak to Fletch.\n</string>
+  <string name="Quest/QuestDesc_Q_1_SetUpPlayerTent">Fletch has given you your own Tent! This will be your home for the time being, so take your time deciding where to set it up. Fletch has suggested setting it up closeby to the Base Tent.
+\n
+\nOnce you’ve got your tent set up, speak to Fletch.</string>
   <string name="Quest/QuestName_Q_2_SetupMarketplace">A place for Visitors</string>
-  <string name="Quest/QuestDesc_Q_2_SetupMarketplace">Fletch has asked you to find a place for the Visiting Site Deed. Once this deed has been placed, your camp will be ready to accommodate travellers from all over the place!\n\nReturn to Fletch once the deed has been placed.</string>
+  <string name="Quest/QuestDesc_Q_2_SetupMarketplace">Fletch has asked you to find a place for the Visiting Site Deed. Once this deed has been placed, your camp will be ready to accommodate travellers from all over the place!
+\n
+\nReturn to Fletch once the deed has been placed.</string>
   <string name="Quest/QuestName_Q_3_FindSomeFood">Bush Tucker</string>
   <string name="Quest/QuestDesc_Q_3_FindSomeFood">Fletch has asked you to find some fruit and cook it on the fire. Doing this will count towards your dailytasks.</string>
   <string name="Quest/QuestName_Q_4_WaitUntilNextDay">R n' R</string>
@@ -13,9 +19,13 @@
   <string name="Quest/QuestName_Q_5_GetTalbeSaw">Dinks and Tablesaws</string>
   <string name="Quest/QuestDesc_Q_5_GetTalbeSaw">Fletch has asked you to buy a tablesaw from John's shop. Try selling unwanted items to John to get the dinks you need.</string>
   <string name="Quest/QuestName_Q_6_FurnaceQuest">Building Materials</string>
-  <string name="Quest/QuestDesc_Q_6_FurnaceQuest">Fletch has asked you to aquire a list of items. You will have to craft a campfire.\n\nOnce you have collected the items Fletch will teach you how to make Tin Ore Bars.</string>
+  <string name="Quest/QuestDesc_Q_6_FurnaceQuest">Fletch has asked you to aquire a list of items. You will have to craft a campfire.
+\n
+\nOnce you have collected the items Fletch will teach you how to make Tin Ore Bars.</string>
   <string name="Quest/QuestName_Q_7_BringTinBar">Smelting Ore</string>
-  <string name="Quest/QuestDesc_Q_7_BringTinBar">Craft a crude furnace, place 5 Tin Ore inside and wait. \n\nBring Fletch the Tin Bar once it is completed smelting.</string>
+  <string name="Quest/QuestDesc_Q_7_BringTinBar">Craft a crude furnace, place 5 Tin Ore inside and wait. 
+\n
+\nBring Fletch the Tin Bar once it is completed smelting.</string>
   <string name="Quest/QuestName_Q_8_GetJohnToMoveIn">Convince John to Stay</string>
   <string name="Quest/QuestDesc_Q_8_GetJohnToMoveIn">Fletch thinks that by doing favours for visitors and spending money at their stores, they might be convinced to stay permanently.</string>
   <string name="Quest/QuestName_Q_9_NPCMoveInQuest1">Build a House</string>
@@ -33,7 +43,9 @@
   <string name="Quest/QuestName_Q_16_IrwinLevel20">Place Dog House</string>
   <string name="Quest/QuestDesc_Q_16_IrwinLevel20">Place the Dog house down and speak to Irwin.</string>
   <string name="Quest/QuestName_Q_17_Get5Residents">Five's a Town</string>
-  <string name="Quest/QuestDesc_Q_17_Get5Residents">&lt;IslandName&gt; needs 5 permanent residents before South City will recognise it as an official settlement.\n\nDoing favours and spending Dinks at Visitor's tents might encourage them to stay.</string>
+  <string name="Quest/QuestDesc_Q_17_Get5Residents">&lt;IslandName&gt; needs 5 permanent residents before South City will recognise it as an official settlement.
+\n
+\nDoing favours and spending Dinks at Visitor's tents might encourage them to stay.</string>
   <string name="Quest/QuestName_Q_18_RayneLevel75">Rayne Level 75</string>
   <string name="Quest/QuestName_Q_19_GuestHouseQuest">Get House Deeds</string>
   <string name="Quest/QuestName_Q_20_BuildTheBandStand">Build the Bandstand</string>

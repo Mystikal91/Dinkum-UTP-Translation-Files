@@ -57,7 +57,7 @@
   <string name="CLOVER/Gossip_About_NPC_010_Intro_002">I’m kinda into it, y’know?</string>
   <string name="CLOVER/Introduction_004_Intro_000">Hey there, I’m &lt;myName&gt;. </string>
   <string name="CLOVER/Introduction_004_Intro_001">Pleasure to meet you, &lt;PlayerName&gt;.
-&lt;thinking&gt;I feel like we’ve met each other before?</string>
+\n&lt;thinking&gt;I feel like we’ve met each other before?</string>
   <string name="CLOVER/Introduction_004_Intro_002">No? Maybe it was in a past life or something.</string>
   <string name="CLOVER/Introduction_004_Intro_003">I became a &lt;Nomad&gt; a while back I just had to get out of &lt;SouthCity&gt;, y’know?</string>
   <string name="CLOVER/Introduction_004_Intro_004">&lt;shy&gt;So now I travel around selling the clothes I like to make.</string>
@@ -109,10 +109,11 @@
   <string name="CLOVER/RandomConvo_003_Intro_003">That place was full of people, but absolutely lifeless in a weird way...</string>
   <string name="CLOVER/RandomConvo_004_Intro_000">&lt;proud&gt;Looking great is the first step towards feeling great. </string>
   <string name="CLOVER/RandomConvo_004_Intro_001">&lt;shy&gt;I mean, there’s a lot of other steps too, but once you look good on the outside, you will start feeling good on the outside, y’know?</string>
-  <string name="CLOVER/RandomConvo_005_Intro_000">&lt;thinking&gt;If you wear the same colours as somebody, and you can really connect. </string>
+  <string name="CLOVER/RandomConvo_005_Intro_000">&lt;thinking&gt;
+\nIf you wear the same colours as somebody, and you can really connect. </string>
   <string name="CLOVER/RandomConvo_005_Intro_001">It’s like you start humming in the same universal tune, y'know? </string>
   <string name="CLOVER/RandomConvo_005_Intro_002">&lt;shy&gt;That’s why I try to wear black a lot.
-I want to try and hum my own tune sometimes.</string>
+\nI want to try and hum my own tune sometimes.</string>
   <string name="CLOVER/RandomConvo_006_Intro_000">&lt;thinking&gt;I was watching you sleep the other night and you were tossing and turning a lot, y’know?</string>
   <string name="CLOVER/RandomConvo_006_Intro_001">Are you feeling okay today, &lt;PlayerName&gt;?</string>
   <string name="CLOVER/RandomConvo_007_Intro_000">Did you know that the colours red and yellow can actually make you hungry? </string>

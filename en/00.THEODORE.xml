@@ -115,7 +115,8 @@
   <string name="THEODORE/RandomConvo_003_Option_001">Not Really</string>
   <string name="THEODORE/RandomConvo_003_Response_000_000">&lt;glee&gt; See, I had a feeling you were a fellow air-head!</string>
   <string name="THEODORE/RandomConvo_003_Response_000_001">I’ll ask around town and see if I can find some more people who are interested! &lt;glee&gt;</string>
-  <string name="THEODORE/RandomConvo_003_Response_001_000">&lt;sigh&gt;Ah, that’s a shame. I’ve already collected a bunch of specimens in some jars...</string>
+  <string name="THEODORE/RandomConvo_003_Response_001_000">&lt;sigh&gt;
+\nAh, that’s a shame. I’ve already collected a bunch of specimens in some jars...</string>
   <string name="THEODORE/RandomConvo_004_Intro_000">&lt;thinking&gt;Paperwork can be very time consuming.</string>
   <string name="THEODORE/RandomConvo_004_Intro_001">&lt;haha&gt;But they say time flies when you are having fun!</string>
   <string name="THEODORE/RandomConvo_005_Intro_000">&lt;yes&gt;If you ever take a great photo and you want to show it off, please come and display it in the museum.</string>

@@ -269,7 +269,8 @@
   <string name="Generic/IntroToQuest_Option_002">Not yet.</string>
   <string name="Generic/IntroToQuest_Response_000_000">If we are going to build anything around here we’re going to need materials.</string>
   <string name="Generic/IntroToQuest_Response_000_001">I reckon we need to wood and Tin. </string>
-  <string name="Generic/IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood. &lt;yes&gt;</string>
+  <string name="Generic/IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood.
+\n &lt;yes&gt;</string>
   <string name="Generic/IntroToQuest_Response_000_003">But Tin? That’s a bit trickier. I’ve seen it around the island poking out of rocks here and there. It’s a dark ore. You’ll know it if you see it.&lt;yes&gt;</string>
   <string name="Generic/IntroToQuest_Response_000_004">Now, we’re going to need to smelt it down into bars before we can use the Tin Ore for building things. &lt;thinking&gt;</string>
   <string name="Generic/IntroToQuest_Response_000_005">Go give the island a bit of a looky-loo for &lt;questRequiredItems&gt;.</string>
@@ -304,7 +305,8 @@
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
   <string name="Generic/MuseumMoveInRequest 1_Intro_002">What if we built a museum here?</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
-  <string name="Generic/MuseumMoveInRequest 1_Intro_003">Somewhere where we could gather all of the amazing things here for everyone to see? &lt;glee&gt;</string>
+  <string name="Generic/MuseumMoveInRequest 1_Intro_003">Somewhere where we could gather all of the amazing things here for everyone to see?
+\n &lt;glee&gt;</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
   <string name="Generic/MuseumMoveInRequest 1_Intro_004">I’ll talk to &lt;NPCName&gt; about applying for a &lt;itemName&gt;.</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
@@ -1058,7 +1060,8 @@
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_7_IntroToQuest_Response_000_001">I reckon we need to wood and Tin. </string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
-  <string name="Generic/Quest_7_IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood. &lt;yes&gt;</string>
+  <string name="Generic/Quest_7_IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood.
+\n &lt;yes&gt;</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_7_IntroToQuest_Response_000_003">But Tin? That’s a bit trickier. I’ve seen it around the island poking out of rocks here and there. It’s a dark ore. You’ll know it if you see it.&lt;yes&gt;</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
@@ -1235,7 +1238,8 @@
   <string name="Generic/RandomConvo_003_Option_001">Not Really</string>
   <string name="Generic/RandomConvo_003_Response_000_000">&lt;glee&gt; See, I had a feeling you were a fellow air-head!</string>
   <string name="Generic/RandomConvo_003_Response_000_001">I’ll ask around town and see if I can find some more people who are interested! &lt;glee&gt;</string>
-  <string name="Generic/RandomConvo_003_Response_001_000">&lt;sigh&gt;Ah, that’s a shame. I’ve already collected a bunch of specimens in some jars...</string>
+  <string name="Generic/RandomConvo_003_Response_001_000">&lt;sigh&gt;
+\nAh, that’s a shame. I’ve already collected a bunch of specimens in some jars...</string>
   <string name="Generic/RandomConvo_004_Intro_000">&lt;thinking&gt;Paperwork can be very time consuming.</string>
   <string name="Generic/RandomConvo_004_Intro_001">&lt;haha&gt;But they say time flies when you are having fun!</string>
   <string name="Generic/RandomConvo_005_Intro_000">&lt;yes&gt;If you ever take a great photo and you want to show it off, please come and display it in the museum.</string>

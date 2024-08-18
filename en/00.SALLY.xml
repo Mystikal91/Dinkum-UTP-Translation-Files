@@ -72,7 +72,8 @@
   <string name="SALLY/HairDresserInSeatConv_Response_001_000">Alright! Lets get started!</string>
   <string name="SALLY/HairDresserInSeatConv_Response_002_000">I see. Style isn't for everyone!</string>
   <string name="SALLY/Introduction_008_Intro_000">Hey there, I’m &lt;myName&gt;.</string>
-  <string name="SALLY/Introduction_008_Intro_001">&lt;glee&gt;I’m a hairstylist!</string>
+  <string name="SALLY/Introduction_008_Intro_001">&lt;glee&gt;I’m a hairstylist
+\n!</string>
   <string name="SALLY/Introduction_008_Intro_002">&lt;shy&gt;I’m kinda new at it though.</string>
   <string name="SALLY/Introduction_008_Intro_003">&lt;glee&gt;If you would like a haircut I could always use the practice!</string>
   <!-- Talking about NPC: Fletch -->

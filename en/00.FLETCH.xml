@@ -51,8 +51,10 @@
   <string name="FLETCH/ConfirmDeed_Response_001_000">Not a worry!</string>
   <string name="FLETCH/ConfirmDeed_Response_001_001">Please come see me if you change your mind!</string>
   <string name="FLETCH/Fletch_Intro_000">So, you wanted to talk about your home?</string>
-  <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt;I'll tell you what, I’m so glad you’ve decided to accompany me on this adventure, &lt;PlayerName&gt;.</string>
-  <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt;I was starting to think no one in &lt;SouthCity&gt; was brave enough to join me!</string>
+  <string name="FLETCH/Fletch_Intro_001">&lt;glee&gt;
+\nI'll tell you what, I’m so glad you’ve decided to accompany me on this adventure, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/Fletch_Intro_002">&lt;worried&gt;
+\nI was starting to think no one in &lt;SouthCity&gt; was brave enough to join me!</string>
   <string name="FLETCH/Fletch_Intro_003">&lt;haha&gt;When you were the first and only person to respond to my ad, I knew you were the right person for the job!</string>
   <string name="FLETCH/Fletch_Intro_004">&lt;no&gt;Oh dear, look at old &lt;myName&gt; waffle on...</string>
   <string name="FLETCH/Fletch_Intro_005">Let's get cracking, &lt;PlayerName&gt;!</string>
@@ -197,7 +199,8 @@
   <!-- Talking about NPC: Fletch -->
   <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Intro_000">G’day, &lt;PlayerName&gt;.</string>
   <!-- Talking about NPC: Fletch -->
-  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Intro_001">Hope you’re enjoying yourself.</string>
+  <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Intro_001">Hope you’re enjoying yourself
+\n.</string>
   <!-- Talking about NPC: Fletch -->
   <string name="FLETCH/IslandDayGreeting_AfterNoon_006_Option_000">What day is it?</string>
   <!-- Talking about NPC: Fletch -->
@@ -325,12 +328,14 @@
   <string name="FLETCH/Low_Friendship_Greeting 1_Response_003_000">&lt;no&gt;No worries.</string>
   <string name="FLETCH/Low_Friendship_Greeting 2_Intro_000">Hi, &lt;PlayerName&gt;.</string>
   <string name="FLETCH/Low_Friendship_Greeting 2_Intro_001">Can I help you?</string>
-  <string name="FLETCH/Low_Friendship_Greeting 2_Response_003_000">Hooroo!&lt;wave&gt;</string>
+  <string name="FLETCH/Low_Friendship_Greeting 2_Response_003_000">Hooroo
+\n!&lt;wave&gt;</string>
   <string name="FLETCH/Medium_Friendship_Greeting 0_Intro_000">Nice to see you, &lt;PlayerName&gt;.</string>
   <string name="FLETCH/Medium_Friendship_Greeting 0_Intro_001">Do you need anything?</string>
   <string name="FLETCH/Medium_Friendship_Greeting 0_Response_003_000">See you in a bit!</string>
   <string name="FLETCH/Medium_Friendship_Greeting 1_Intro_000">How’s it going, &lt;PlayerName&gt;?</string>
-  <string name="FLETCH/Medium_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;Alright, I’ll see you later.</string>
+  <string name="FLETCH/Medium_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;
+\nAlright, I’ll see you later.</string>
   <string name="FLETCH/Medium_Friendship_Greeting 2_Intro_000">&lt;haha&gt;I’ll tell you what, I was just thinking of you, &lt;PlayerName&gt;!</string>
   <string name="FLETCH/Medium_Friendship_Greeting 2_Intro_001">Can I help you with something?</string>
   <string name="FLETCH/Medium_Friendship_Greeting 2_Response_003_000">Take care.</string>
@@ -415,7 +420,7 @@
   <string name="FLETCH/RandomConvo_006_Intro_003">&lt;yes&gt;I was always doing something.</string>
   <string name="FLETCH/RandomConvo_007_Intro_000">&lt;IslandName&gt; has a lot of different ecosystems for such a small area.</string>
   <string name="FLETCH/RandomConvo_007_Intro_001">If I remember correctly, my old home was located on the near North-West coast…
-Or maybe it was South-East?</string>
+\nOr maybe it was South-East?</string>
   <string name="FLETCH/RandomConvo_007_Intro_002">&lt;thinking&gt;Hmmm…</string>
   <string name="FLETCH/RandomConvo_007_Intro_003">I’ll tell you what, when I remember, I’ll let you know.</string>
   <string name="FLETCH/RandomConvo_008_Intro_000">I’ve held onto that &lt;Journal&gt; I gave you for years back in &lt;SouthCity&gt;.</string>
@@ -471,12 +476,16 @@ Or maybe it was South-East?</string>
   <string name="FLETCH/RandomConvo_020_Intro_003">&lt;glee&gt;I’m sure you’ll reach them eventually!</string>
   <string name="FLETCH/RandomConvo_021_Intro_000">I’ll tell you what, it’s just really nice to get out and about every once in a while, eh?</string>
   <string name="FLETCH/RandomConvo_021_Intro_001">&lt;proud&gt;Exercise really gets my blood pumping!</string>
-  <string name="FLETCH/RandomConvo_022_Intro_000">&lt;thinking&gt;The animals on &lt;IslandName&gt; aren’t quite the same as I remember them...</string>
-  <string name="FLETCH/RandomConvo_022_Intro_001">&lt;yes&gt;I guess so much has happened since then.</string>
-  <string name="FLETCH/RandomConvo_022_Intro_002">For all of us.</string>
+  <string name="FLETCH/RandomConvo_022_Intro_000">&lt;thinking&gt;The animals on &lt;IslandName&gt; aren’t quite the same as I remember them
+\n...</string>
+  <string name="FLETCH/RandomConvo_022_Intro_001">&lt;yes&gt;I guess so much has happened since then
+\n.</string>
+  <string name="FLETCH/RandomConvo_022_Intro_002">For all of us
+\n.</string>
   <string name="FLETCH/RandomConvo_023_Intro_000">I don’t know why there’s so little motivation in &lt;SouthCity&gt;.</string>
   <string name="FLETCH/RandomConvo_023_Intro_001">Why people don’t have a sense of adventure or passion.</string>
-  <string name="FLETCH/RandomConvo_023_Intro_002">&lt;yes&gt;I suppose those that do just don’t last long there...</string>
+  <string name="FLETCH/RandomConvo_023_Intro_002">&lt;yes&gt;I suppose those that do just don’t last long there
+\n...</string>
   <string name="FLETCH/RandomConvo_024_Intro_000">I’ll tell you what, if I were younger...</string>
   <string name="FLETCH/RandomConvo_024_Intro_001">&lt;haha&gt;I still don’t think I’d be able to do all the things you do, &lt;PlayerName&gt;! </string>
   <string name="FLETCH/RandomConvo_025_Intro_000">I'll tell you what, &lt;PlayerName&gt;.</string>
@@ -488,7 +497,8 @@ Or maybe it was South-East?</string>
   <string name="FLETCH/RandomConvo_026_Intro_003">&lt;haha&gt;I tell you what, you’ve been getting it done.</string>
   <string name="FLETCH/RandomConvo_027_Intro_000">I’ll tell you what, age has a funny way of sneaking up on you.</string>
   <string name="FLETCH/RandomConvo_027_Intro_001">If you keep yourself busy and focused, you don’t notice it happening at all!</string>
-  <string name="FLETCH/RandomConvo_027_Intro_002">&lt;haha&gt;I remember catching my reflection once and thinking “Who’s this old lady in my house?”</string>
+  <string name="FLETCH/RandomConvo_027_Intro_002">&lt;haha&gt;
+\nI remember catching my reflection once and thinking “Who’s this old lady in my house?”</string>
   <string name="FLETCH/RandomConvo_028_Intro_000">For a long long time I felt like I was just treading water and waiting for something big to happen.</string>
   <string name="FLETCH/RandomConvo_028_Intro_001">&lt;no&gt;You really can’t be like that though.</string>
   <string name="FLETCH/RandomConvo_028_Intro_002">&lt;thinking&gt;Not if you want to be happy.</string>
@@ -678,8 +688,10 @@ Or maybe it was South-East?</string>
   <!-- Talking about NPC: Fletch -->
   <string name="FLETCH/SkyFest_Noon_006_Response_001_003">And of course, you can’t forget the wonderful &lt;Aurora&gt; once it’s dark.</string>
   <string name="FLETCH/FirstIntroInGame_Intro_000">Looks like we've landed!</string>
-  <string name="FLETCH/FirstIntroInGame_Intro_001">&lt;glee&gt;I'll tell you what, I’m so glad you’ve decided to accompany me on this adventure, &lt;PlayerName&gt;.</string>
-  <string name="FLETCH/FirstIntroInGame_Intro_002">&lt;worried&gt;I was starting to think no one in &lt;SouthCity&gt; was brave enough to join me!</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_001">&lt;glee&gt;
+\nI'll tell you what, I’m so glad you’ve decided to accompany me on this adventure, &lt;PlayerName&gt;.</string>
+  <string name="FLETCH/FirstIntroInGame_Intro_002">&lt;worried&gt;
+\nI was starting to think no one in &lt;SouthCity&gt; was brave enough to join me!</string>
   <string name="FLETCH/FirstIntroInGame_Intro_003">&lt;haha&gt;When you were the first and only person to respond to my ad, I knew you were the right person for the job!</string>
   <string name="FLETCH/FirstIntroInGame_Intro_004">&lt;no&gt;Oh dear, look at old &lt;myName&gt; waffle on...</string>
   <string name="FLETCH/FirstIntroInGame_Intro_005">Let's get cracking, &lt;PlayerName&gt;!</string>
