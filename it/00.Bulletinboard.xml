@@ -59,8 +59,7 @@
 \nSe qualcuno è interessato, venga a trovarmi.</string>
     <string name="Bulletinboard/Post_CaptureRequestTemplate_Content">Il Centro di Ricerca sugli Animali offre una ricompensa maggiore per ogni &lt;boardHuntRequestAnimal&gt; per un periodo di tempo limitato.
 \n
-\nRiceverai questa ricompensa per ogni consegna di &lt;boardHuntRequestAnimal&gt; durante questo periodo.
-\n</string>
+\nRiceverai questa ricompensa per ogni consegna di &lt;boardHuntRequestAnimal&gt; durante questo periodo.</string>
     <string name="Bulletinboard/Post_CookingRequestTemplate_Content">Sto preparando &lt;boardRewardItem&gt; e mi manca: &lt;boardRequestItem&gt;!
 \nSe qualcuno può portarmi &lt;boardRequestItem&gt;, sarò felice di condividere un po\' di &lt;boardRewardItem&gt;!</string>
     <string name="Bulletinboard/Post_CraftingRequestTemplate_Content">Sto cercando un abile artigiano che sia in grado di costruire &lt;boardRequestItem&gt; per me.

@@ -4,8 +4,7 @@
 \n
 \nErano circa le &lt;timeOfDay&gt;. C\'era un insetto nel bioma &lt;biomeName&gt; che non avevo mai visto prima.
 \n
-\nPensavo potesse interessarti
-\n</string>
+\nPensavo potesse interessarti</string>
     <string name="Mail/Test Letter 19">Ho rotto un a roccia ed è uscito questo: &lt;itemAttachedName&gt;.
 \n
 \nTi piace questo genere di cose, vero?</string>
@@ -23,20 +22,17 @@
 \n
 \nQuesto esemplare verrà studiato e verrà rilasciato libero senza un graffio.
 \n
-\nTrovi la tua ricompensa come allegato.
-\n</string>
+\nTrovi la tua ricompensa come allegato.</string>
     <string name="Mail/DeliveredChrissyAnimalLetter">L\'animale che ci hai mandato sembra essere scappato durante il viaggio.
 \n
 \nAbbiamo ricevuto una trappola vuota con dentro solo &lt;itemAttachedName&gt;, è normale?
 \n
-\nNel caso fosse stato un errore, abbiamo allegato &lt;itemAttachedName&gt;.
-\n</string>
+\nNel caso fosse stato un errore, abbiamo allegato &lt;itemAttachedName&gt;.</string>
     <string name="Mail/Fishing Tips">&lt;b&gt;Ecco un consiglio di pesca in &lt;season&gt;&lt;/b&gt;!
 \n
 \nUn pesce sconosciuto è stato avvistato nel bioma &lt;biomeName&gt;.
 \n
-\nSe qualcuno vuole trovarlo, deve pescare di &lt;timeOfDay&gt;!
-\n</string>
+\nSe qualcuno vuole trovarlo, deve pescare di &lt;timeOfDay&gt;!</string>
     <string name="Mail/FishingCompLetter_1st">Congratulazioni per aver ottenuto il 1° posto alla Gara di Pesca!
 \n
 \n
@@ -45,8 +41,7 @@
 \n
 \nGrazie per aver preso parte alla competizione. Non vedo l\'ora di tornare.
 \n
-\nAlla prossima!
-\n</string>
+\nAlla prossima!</string>
     <string name="Mail/FishingCompLetter_2nd">Congratulazioni per aver ottenuto il 2° posto alla Gara di Pesca!
 \n
 \n
@@ -106,8 +101,7 @@
 \n
 \nGrazie per aver preso parte alla competizione. Non vedo l\'ora di tornare e farla di nuovo.
 \n
-\nAlla prossima
-\n</string>
+\nAlla prossima</string>
     <string name="Mail/BugCompLetter_2nd">Congratulazioni per aver ottenuto il 2° posto alla Gara Acchiappainsetti!
 \n
 \n

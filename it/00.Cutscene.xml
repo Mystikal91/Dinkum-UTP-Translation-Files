@@ -2,7 +2,11 @@
 <resources>
     <string name="Cutscene/Narration_000">Tanto tempo fa, tutto andò a rotoli.</string>
     <string name="Cutscene/Narration_001">Quasi chiunque fù costretto a trasferirsi a Città del Sud.</string>
-    <string name="Cutscene/Narration_006">Cerco un giovane intraprendente che mi accompagni nella mia vecchia casa, &lt;IslandName&gt;. Il viaggio e l\'alloggio saranno il tuo compenso iniziale. Chiunque sia interessato, è pregato di incontrarmi al terminal delle Aeronavi il 1° giorno d\'Estate.</string>
+    <string name="Cutscene/Narration_006">Cerco un giovane intraprendente che mi accompagni nella mia vecchia casa, &lt;IslandName&gt;. 
+\n
+\nIl viaggio e l\'alloggio saranno il tuo compenso iniziale. 
+\n
+\nChiunque sia interessato, è pregato di incontrarmi al terminal delle Aeronavi il 1° giorno d\'Estate.</string>
     <string name="Cutscene/Narration_002">Le persone di Città del Sud vivevano una vita fredda e miserabile.</string>
     <string name="Cutscene/Narration_003">Tu sei nato lì.</string>
     <string name="Cutscene/Narration_004">Molte persone non hanno alcun desiderio di andarsene.</string>
