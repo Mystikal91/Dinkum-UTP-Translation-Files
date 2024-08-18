@@ -7,7 +7,7 @@
     <string name="Bulletinboard/Hunt">Caccia &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
     <string name="Bulletinboard/MonthAgo">mese fa</string>
     <string name="Bulletinboard/MonthsAgo">mesi fa</string>
-    <string name="Bulletinboard/Photograph">Fotografa &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/Photograph">Fotografia &lt;animalsInPhoto&gt;</string>
     <string name="Bulletinboard/Show">Mostra a &lt;npcName&gt; la fotografia</string>
     <string name="Bulletinboard/TalkTo">Parla a &lt;npcName&gt;</string>
     <string name="Bulletinboard/ThePhotograph">la foto</string>
