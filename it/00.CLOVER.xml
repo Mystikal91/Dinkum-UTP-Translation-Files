@@ -60,7 +60,8 @@
     <string name="CLOVER/Introduction_004_Intro_000">Hey ciao, sono &lt;myName&gt;.</string>
     <string name="CLOVER/Introduction_004_Intro_002">No? Forse era in una vita passata o qualcosa del genere.</string>
     <string name="CLOVER/Introduction_004_Intro_003">Sono diventata una &lt;Nomad&gt; un po\' di tempo fa, dovevo andarmene da &lt;SouthCity&gt;, capisci?</string>
-    <string name="CLOVER/Introduction_004_Intro_001">Piacere di conoscerti, &lt;PlayerName&gt;. &lt;thinking&gt;Sento come se ci fossimo incontrati prima?</string>
+    <string name="CLOVER/Introduction_004_Intro_001">Piacere di conoscerti, &lt;PlayerName&gt;. 
+\n&lt;thinking&gt;Sento come se ci fossimo incontrati prima?</string>
     <string name="CLOVER/Introduction_004_Intro_004">&lt;shy&gt; Così ora viaggio in giro vendendo i vestiti che mi piace fare.</string>
     <string name="CLOVER/Introduction_004_Intro_005">&lt;glee&gt;Se vedi qualcosa che ti piace, per favore fammi sapere.</string>
     <string name="CLOVER/Introduction_004_Intro_006">O passa da qui quando vuoi, sai?</string>
