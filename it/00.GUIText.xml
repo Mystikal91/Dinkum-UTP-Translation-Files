@@ -177,4 +177,10 @@
     <string name="GUIText/SelectImage">Seleziona Immagine</string>
     <string name="GUIText/GameSaved">Gioco Salvato</string>
     <string name="GUIText/TownDebtIncrease">Aumento Debito Città</string>
+    <string name="GUIText/MainColour">Colore Principale</string>
+    <string name="GUIText/TrimColour">Colore Travi</string>
+    <string name="GUIText/BuildingsName">Nome dell\'edificio</string>
+    <string name="GUIText/UseyourHouseCustomisationKittoapplythesechanges">Usi il tuo
+\n<b>Kit di Personalizzazione Casa</b>
+\nper applicare queste modifiche?</string>
 </resources>
