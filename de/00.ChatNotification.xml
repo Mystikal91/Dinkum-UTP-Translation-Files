@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcPlayTrapperSound_YouHearAWhistle">Du hörst ein Pfeifen</string>
+</resources>
