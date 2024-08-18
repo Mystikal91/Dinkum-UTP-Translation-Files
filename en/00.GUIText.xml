@@ -106,6 +106,16 @@
   <string name="GUIText/Buildingmaterialsrequiredoncedplaced">Building materials required onced placed</string>
   <string name="GUIText/SelectImage">Select Image</string>
   <string name="GUIText/GameSaved">Game Saved</string>
+  <!-- Used in House Customization Menu -->
+  <string name="GUIText/MainColour">Main Colour</string>
+  <!-- Used in House Customization Menu -->
+  <string name="GUIText/TrimColour">Trim Colour</string>
+  <!-- Used in House Customization Menu -->
+  <string name="GUIText/BuildingsName">Building's Name</string>
+  <!-- Used in House Customization Menu -->
+  <string name="GUIText/UseyourHouseCustomisationKittoapplythesechanges">Use your 
+\n&lt;b&gt;House Customisation Kit&lt;/b&gt; 
+\nto apply these changes?</string>
   <string name="GUIText/Staminaandhealth">Stamina and health</string>
   <string name="GUIText/Buffs">Buffs</string>
   <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1. 
