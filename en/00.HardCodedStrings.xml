@@ -225,7 +225,8 @@
   <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooSick">Too sick</string>
   <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooFull">Too full</string>
   <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Title">&lt;ItemName&gt; Recipe</string>
-  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Desc">These items are required to craft &lt;ItemName&gt; Unpin this to stop tracking recipe.</string>
+  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Desc">These items are required to craft &lt;ItemName&gt;
+\n Unpin this to stop tracking recipe.</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_Title">Request for &lt;NPCName&gt;</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_Desc">&lt;NPCName&gt; has asked you to get &lt;DesiredItemName&gt;</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_questDateGiven">By the end of the day</string>

@@ -356,7 +356,8 @@
   <string name="JOHN/RandomConvo_036_Intro_002">&lt;no&gt;It wasn’t easy, moving here.</string>
   <string name="JOHN/RandomConvo_036_Intro_003">But taking a risk like this? And seeing everything work out like it has?</string>
   <string name="JOHN/RandomConvo_036_Intro_004">&lt;proud&gt;I got a feeling like it’s all gonna be worth it.</string>
-  <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Just gotta keep working. One day at a time.</string>
+  <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Just gotta keep working.
+\n One day at a time.</string>
   <string name="JOHN/RandomConvo_036_Intro_006">Thanks for listening, &lt;PlayerName&gt;.</string>
   <string name="JOHN/RandomConvo_037_Intro_000">&lt;yes&gt;You know, I grew this beard when I was a bit younger.</string>
   <string name="JOHN/RandomConvo_037_Intro_001">My brother asked if he could trade me something for my moustache.</string>

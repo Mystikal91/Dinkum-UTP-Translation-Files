@@ -56,7 +56,8 @@
   <string name="IRWIN/Gossip_About_NPC_010_Intro_001">&lt;haha&gt;Maybe bring two shovels!</string>
   <string name="IRWIN/Introduction_007_Intro_000">G’day, mate! The name is &lt;myName&gt;.</string>
   <string name="IRWIN/Introduction_007_Intro_001">&lt;thinking&gt;You’re… don’t tell me!</string>
-  <string name="IRWIN/Introduction_007_Intro_002">You’re &lt;PlayerName&gt;, right? Absolutely wonderful to meet you, mate!</string>
+  <string name="IRWIN/Introduction_007_Intro_002">You’re &lt;PlayerName&gt;, right?
+\n Absolutely wonderful to meet you, mate!</string>
   <string name="IRWIN/Introduction_007_Intro_003">&lt;haha&gt;I’m &lt;myName&gt;! Oh, I already told you that, right?</string>
   <string name="IRWIN/Introduction_007_Intro_004">I’m visiting &lt;IslandName&gt; trying to find a home for some beautiful little creatures.</string>
   <string name="IRWIN/Introduction_007_Intro_005">If you have a &lt;AnimalHandlingLicence&gt; come by and talk to me.</string>
@@ -109,7 +110,8 @@
   <!-- Talking about Animal Type: Vombat -->
   <string name="IRWIN/RandomConvo_002_Intro_002">&lt;glee&gt;They’re so big, but so gentle.</string>
   <!-- Talking about Animal Type: Vombat -->
-  <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;They've got big hearts you know? Three of them in fact!</string>
+  <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;They've got big hearts you know?
+\n Three of them in fact!</string>
   <!-- Talking about Animal Type: Vombat -->
   <string name="IRWIN/RandomConvo_002_Intro_004">&lt;haha&gt;Absolutely amazing!</string>
   <!-- Talking about Animal Type: Pleep -->
@@ -329,7 +331,8 @@
   <string name="IRWIN/LongConvo_001_Intro_003">&lt;yes&gt;In fact, I was!</string>
   <string name="IRWIN/LongConvo_001_Intro_004">&lt;no&gt;You see, I had been adopting all the animals the people in &lt;SouthCity&gt; couldn’t look after anymore...</string>
   <string name="IRWIN/LongConvo_001_Intro_005">&lt;thinking&gt;I guess you could say that it all fell apart when the neighbour under me complained about all the noise coming from my apartment...</string>
-  <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;He said it sounded like a zoo in there! He was kind of right about that!</string>
+  <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;He said it sounded like a zoo in there!
+\n He was kind of right about that!</string>
   <string name="IRWIN/LongConvo_001_Intro_007">&lt;sigh&gt;After that I was...encouraged to leave.</string>
   <string name="IRWIN/LongConvo_001_Intro_008">&lt;pumped&gt;So when I left, I told myself I would make a big change and move on to a better place!</string>
   <string name="IRWIN/LongConvo_001_Intro_009">&lt;haha&gt;I guess it’s not all bad, because now I get to look after all the fluffy and furry animals I want!</string>
