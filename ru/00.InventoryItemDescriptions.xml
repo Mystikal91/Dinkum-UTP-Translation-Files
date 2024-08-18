@@ -110,7 +110,7 @@
     <string name="InventoryItemDescriptions/InvDesc_20">Какой милашка!</string>
     <string name="InventoryItemDescriptions/InvDesc_201">Голубая океанская рыба.</string>
     <string name="InventoryItemDescriptions/InvDesc_522">На нём сидят.</string>
-    <string name="InventoryItemDescriptions/InvDesc_523">В нём сидят.</string>
+    <string name="InventoryItemDescriptions/InvDesc_523">На нём сидят.</string>
     <string name="InventoryItemDescriptions/InvDesc_548">Не поломается?</string>
     <string name="InventoryItemDescriptions/InvDesc_56">В нём сидят.</string>
     <string name="InventoryItemDescriptions/InvDesc_567">На нём сидят</string>
@@ -131,7 +131,7 @@
     <string name="InventoryItemDescriptions/InvDesc_1550">Единение с природой</string>
     <string name="InventoryItemDescriptions/InvDesc_1661">В нём сидят.</string>
     <string name="InventoryItemDescriptions/InvDesc_174">В нём сидят.</string>
-    <string name="InventoryItemDescriptions/InvDesc_53">На нём сидят</string>
+    <string name="InventoryItemDescriptions/InvDesc_53">Хорошее классическое кресло.</string>
     <string name="InventoryItemDescriptions/InvDesc_542">Не поломается?</string>
     <string name="InventoryItemDescriptions/InvDesc_555">На нём сидят</string>
     <string name="InventoryItemDescriptions/InvDesc_875">Чтобы не примёрзнуть.</string>
@@ -495,4 +495,22 @@
     <string name="InventoryItemDescriptions/InvDesc_513">Для зимней прохлады.</string>
     <string name="InventoryItemDescriptions/InvDesc_515">Для зимней прохлады.</string>
     <string name="InventoryItemDescriptions/InvDesc_516">Для зимней прохлады.</string>
+    <string name="InventoryItemDescriptions/InvDesc_532">Пол \"по-восточному\".</string>
+    <string name="InventoryItemDescriptions/InvDesc_534">Стандартное окрашенное дерево.</string>
+    <string name="InventoryItemDescriptions/InvDesc_518">Дополнительный дом для города.</string>
+    <string name="InventoryItemDescriptions/InvDesc_519">Дополнительный дом для города.</string>
+    <string name="InventoryItemDescriptions/InvDesc_52">Добро пожаловать на реку. У нас есть окунь.</string>
+    <string name="InventoryItemDescriptions/InvDesc_520">Дополнительный дом для города.</string>
+    <string name="InventoryItemDescriptions/InvDesc_521">Дополнительный дом для города.</string>
+    <string name="InventoryItemDescriptions/InvDesc_524">С виду удобная!</string>
+    <string name="InventoryItemDescriptions/InvDesc_525">Чтобы кровать не скучала.</string>
+    <string name="InventoryItemDescriptions/InvDesc_526">Для книг.</string>
+    <string name="InventoryItemDescriptions/InvDesc_527">Жилище скелетов.</string>
+    <string name="InventoryItemDescriptions/InvDesc_528">Небольшой столик.</string>
+    <string name="InventoryItemDescriptions/InvDesc_529">Кушетка. Для одного или двоих.</string>
+    <string name="InventoryItemDescriptions/InvDesc_530">За ним едят.</string>
+    <string name="InventoryItemDescriptions/InvDesc_531">Красивая, но слабо светит.</string>
+    <string name="InventoryItemDescriptions/InvDesc_533">По-восточному.</string>
+    <string name="InventoryItemDescriptions/InvDesc_535">Просто книги.</string>
+    <string name="InventoryItemDescriptions/InvDesc_536">Копилка в виде вомбата.</string>
 </resources>
