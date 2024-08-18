@@ -161,6 +161,5 @@
     <string name="GUIText/Movecamera">Mover câmera</string>
     <string name="GUIText/HoldWhilemovingmouse">(Segurar) Enquanto move o mouse</string>
     <string name="GUIText/EnterFreeCam">Entrar no Modo Câmera Livre</string>
-    <string name="GUIText/Confirm Conversion">Confirmar conversão</string>
     <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Acompanhando os ingredientes da Receita</string>
 </resources>
