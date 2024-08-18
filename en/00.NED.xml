@@ -13,7 +13,7 @@
   <string name="NED/Introduction_005_Intro_001">The name is &lt;myName&gt;.</string>
   <string name="NED/Introduction_005_Intro_002">And you are?</string>
   <string name="NED/Introduction_005_Intro_003">&lt;thinking&gt;&lt;PlayerName&gt;, huh?</string>
-  <string name="NED/Introduction_005_Intro_004">&lt;yes&gt;Nice to meet you &lt;PlayerName&gt;. </string>
+  <string name="NED/Introduction_005_Intro_004">&lt;yes&gt;Nice to meet you &lt;PlayerName&gt;.</string>
   <string name="NED/Introduction_005_Intro_005">I've been visiting &lt;IslandName&gt; for a while now.</string>
   <string name="NED/Introduction_005_Intro_006">You must be one of the people I heard about getting settled here.</string>
   <string name="NED/Introduction_005_Intro_007">&lt;no&gt;Move here too? Nah, not old &lt;myName&gt;.</string>
@@ -44,7 +44,7 @@
   <string name="NED/RandomConvo 0_Intro_000">Stay alert, &lt;PlayerName&gt;.</string>
   <string name="NED/RandomConvo 0_Intro_001">&lt;yes&gt;Threats can emerge from anywhere out here.</string>
   <string name="NED/RandomConvo 10_Intro_000">Maintaining your equipment is not only Mission-Critical, it’s also the best way to spend a Sundy arvo.</string>
-  <string name="NED/RandomConvo 10_Intro_001">&lt;yes&gt;Fact. </string>
+  <string name="NED/RandomConvo 10_Intro_001">&lt;yes&gt;Fact.</string>
   <string name="NED/RandomConvo 11_Intro_000">I reckon everyone back in &lt;SouthCity&gt; needs to come here for a night or two.</string>
   <string name="NED/RandomConvo 11_Intro_001">When you're on &lt;IslandName&gt; you feel alive!</string>
   <string name="NED/RandomConvo 12_Intro_000">I've been coming to &lt;IslandName&gt; for years now.</string>

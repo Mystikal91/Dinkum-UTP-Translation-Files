@@ -225,8 +225,7 @@
   <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooSick">Too sick</string>
   <string name="HardCodedStrings/PocketsFullNotification_showTooFull_TooFull">Too full</string>
   <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Title">&lt;ItemName&gt; Recipe</string>
-  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Desc">These items are required to craft &lt;ItemName&gt;
-\n Unpin this to stop tracking recipe.</string>
+  <string name="HardCodedStrings/QuestTracker_displayTrackingRecipe_Desc">These items are required to craft &lt;ItemName&gt; Unpin this to stop tracking recipe.</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_Title">Request for &lt;NPCName&gt;</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_Desc">&lt;NPCName&gt; has asked you to get &lt;DesiredItemName&gt;</string>
   <string name="HardCodedStrings/QuestTracker_displayRequest_questDateGiven">By the end of the day</string>
@@ -280,7 +279,7 @@
   <string name="HardCodedStrings/UseBook_plantBookRoutine_MatureIn">Mature in</string>
   <string name="HardCodedStrings/WishManager_GetCurrentWishName_CurrentWish">A &lt;WishName&gt; is in effect right now</string>
   <string name="HardCodedStrings/WishManager_GetCurrentWishName_NoCurrentWish">No wish has been made...</string>
-  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_ItIsCurrently">It is currently &lt;CurrentTemperature&gt;° and </string>
+  <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_ItIsCurrently">It is currently &lt;CurrentTemperature&gt;° and</string>
   <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Storming">Storming</string>
   <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Raining">Raining</string>
   <string name="HardCodedStrings/WeatherManager_GetWeatherDescription_Foggy">Foggy</string>

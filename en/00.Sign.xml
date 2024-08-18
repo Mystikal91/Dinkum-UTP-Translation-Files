@@ -188,7 +188,7 @@
   <string name="Sign/Inv_SnagOnBread_Intro_001">What an amazing &lt;itemName&gt;!</string>
   <string name="Sign/Inv_SnagOnBread_Intro_002">It feels like I could eat even more now!</string>
   <string name="Sign/MineControl_Convo_Option_002">Nevermind</string>
-  <string name="Sign/WeatherStationSign_Intro_000">Weather Station: </string>
+  <string name="Sign/WeatherStationSign_Intro_000">Weather Station:</string>
   <string name="Sign/WeatherStationSign_Option_000">Tomorrow's Weather</string>
   <string name="Sign/WeatherStationSign_Option_001">Nevermind</string>
   <string name="Sign/ATM Sign_Intro_000">Should I use the Automatic Dink Machine?</string>

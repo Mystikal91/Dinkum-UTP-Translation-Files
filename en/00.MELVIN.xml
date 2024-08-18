@@ -3,7 +3,7 @@
   <string name="MELVIN/Arvo_Greeting 0_Intro_000">Afternoon, &lt;PlayerName&gt;!</string>
   <string name="MELVIN/Arvo_Greeting 0_Response_003_000">Have a gooden.</string>
   <string name="MELVIN/Arvo_Greeting 1_Intro_000">What brings you to me this arvo?</string>
-  <string name="MELVIN/Arvo_Greeting 1_Response_003_000">&lt;np&gt;Not a lot of day left to enjoy. </string>
+  <string name="MELVIN/Arvo_Greeting 1_Response_003_000">&lt;np&gt;Not a lot of day left to enjoy.</string>
   <string name="MELVIN/Arvo_Greeting 2_Intro_000">Love a good sunset.</string>
   <string name="MELVIN/Arvo_Greeting 2_Response_003_000">Sunsets like this remind me of the good ol' times…</string>
   <string name="MELVIN/BugComp_Greeting 000_Intro_000">G’day.</string>
@@ -90,8 +90,7 @@
   <string name="MELVIN/Medium_Friendship_Greeting 1_Response_003_000">Alright then.</string>
   <string name="MELVIN/Medium_Friendship_Greeting 2_Intro_000">Hows things then?</string>
   <string name="MELVIN/Medium_Friendship_Greeting 2_Response_003_000">Hooroo.</string>
-  <string name="MELVIN/Morning_Greeting 0_Intro_000">Mornin’ &lt;PlayerName&gt;
-\n.</string>
+  <string name="MELVIN/Morning_Greeting 0_Intro_000">Mornin’ &lt;PlayerName&gt;.</string>
   <string name="MELVIN/Morning_Greeting 0_Response_003_000">Righto.</string>
   <string name="MELVIN/Morning_Greeting 1_Intro_000">&lt;yes&gt;Up nice ‘n early.</string>
   <string name="MELVIN/Morning_Greeting 1_Response_003_000">Hooroo.</string>
@@ -142,7 +141,7 @@
   <string name="MELVIN/RandomConvo_008_Intro_000">&lt;shy&gt;Oooh.</string>
   <string name="MELVIN/RandomConvo_008_Intro_001">Me knees hurt today.</string>
   <string name="MELVIN/RandomConvo_008_Intro_002">&lt;thinking&gt;Might rain tomorrow, I reckon.</string>
-  <string name="MELVIN/RandomConvo_009_Intro_000">Be kind to your knees and teeth &lt;PlayerName&gt;! </string>
+  <string name="MELVIN/RandomConvo_009_Intro_000">Be kind to your knees and teeth &lt;PlayerName&gt;!</string>
   <string name="MELVIN/RandomConvo_009_Intro_001">&lt;yes&gt;You'll miss them when they're gone, trust me.</string>
   <string name="MELVIN/RandomConvo_010_Intro_000">&lt;no&gt;Never went to &lt;SouthCity&gt;.</string>
   <string name="MELVIN/RandomConvo_010_Intro_001">&lt;no&gt;Place sounds horrid if you ask me.</string>
@@ -156,13 +155,13 @@
   <string name="MELVIN/RandomConvo_012_Intro_001">Seen you at a &lt;itemName&gt; craftin’ things.</string>
   <string name="MELVIN/RandomConvo_013_Intro_000">&lt;thinking&gt;If ya take ya time, things always get done.</string>
   <string name="MELVIN/RandomConvo_013_Intro_001">&lt;no&gt;Ain’t no reason to run around like a headless chook.</string>
-  <string name="MELVIN/RandomConvo_014_Intro_000">When I’m buildin’ the whole world can melt away. </string>
+  <string name="MELVIN/RandomConvo_014_Intro_000">When I’m buildin’ the whole world can melt away.</string>
   <string name="MELVIN/RandomConvo_014_Intro_001">Me wife once told me that she said that all the time...</string>
   <string name="MELVIN/RandomConvo_015_Intro_000">&lt;proud&gt;Nothing’ that I can’t sand, varnish, or whittle into somethin’ comfortable.</string>
   <string name="MELVIN/RandomConvo_015_Intro_001">&lt;yes&gt;It’ll take time, but, so do all the best things.</string>
   <string name="MELVIN/RandomConvo_016_Intro_000">Yer gotta feel things out when you are makin’ furniture.</string>
-  <string name="MELVIN/RandomConvo_016_Intro_001">&lt;thinking&gt;Some things come out hard and functional. </string>
-  <string name="MELVIN/RandomConvo_016_Intro_002">&lt;shy&gt;Some come out soft and comfortable. </string>
+  <string name="MELVIN/RandomConvo_016_Intro_001">&lt;thinking&gt;Some things come out hard and functional.</string>
+  <string name="MELVIN/RandomConvo_016_Intro_002">&lt;shy&gt;Some come out soft and comfortable.</string>
   <string name="MELVIN/RandomConvo_016_Intro_003">&lt;haha&gt;I can’t control what comes out, I just go with the grain.</string>
   <string name="MELVIN/RandomConvo_017_Intro_000">&lt;thinking&gt;Seen a lot of things in my time.</string>
   <string name="MELVIN/RandomConvo_017_Intro_001">&lt;yes&gt;Me wife would tell you all about 'em if she were ‘ere.</string>
@@ -202,7 +201,7 @@
   <string name="MELVIN/RandomConvo_027_Intro_001">Days get longer though.</string>
   <string name="MELVIN/RandomConvo_027_Intro_002">Life’s a funny old thing.</string>
   <string name="MELVIN/RandomConvo_028_Intro_000">Look at us, eh?</string>
-  <string name="MELVIN/RandomConvo_028_Intro_001">Just two mates. </string>
+  <string name="MELVIN/RandomConvo_028_Intro_001">Just two mates.</string>
   <string name="MELVIN/RandomConvo_028_Intro_002">&lt;yes&gt;Tools down, havin a natter.</string>
   <string name="MELVIN/RandomConvo_029_Intro_000">Don’t tell anyone I told ya this, but,</string>
   <string name="MELVIN/RandomConvo_029_Intro_001">&lt;yes&gt;I feel like you’re part of the furniture here now.</string>
@@ -225,14 +224,14 @@
   <string name="MELVIN/RandomConvo_036_Intro_002">S’nice.</string>
   <string name="MELVIN/RandomConvo_037_Intro_000">Nah, I’m good.</string>
   <string name="MELVIN/RandomConvo_037_Intro_001">Don’t wanna talk yer ear off.</string>
-  <string name="MELVIN/TownMention_Level_001_Intro_000">Hey, &lt;PlayerName&gt;. </string>
+  <string name="MELVIN/TownMention_Level_001_Intro_000">Hey, &lt;PlayerName&gt;.</string>
   <string name="MELVIN/TownMention_Level_001_Intro_001">&lt;IslandName&gt; is well on its way.</string>
   <string name="MELVIN/TownMention_Level_001_Intro_002">&lt;yes&gt;It’s looking good.</string>
   <string name="MELVIN/TownMention_Level_002_Intro_000">&lt;IslandName&gt; is starting to get a bit busy, isn’t it?</string>
   <string name="MELVIN/TownMention_Level_002_Intro_001">&lt;no&gt;No need to go rushin’ things though.</string>
   <string name="MELVIN/TownMention_Level_002_Intro_002">&lt;yes&gt;Take yer time.</string>
-  <string name="MELVIN/TownMention_Level_003_Intro_000">I can tell you’ve put a lot of work into &lt;IslandName&gt;. </string>
-  <string name="MELVIN/TownMention_Level_003_Intro_001">Gettin’ things built all over the place. </string>
+  <string name="MELVIN/TownMention_Level_003_Intro_000">I can tell you’ve put a lot of work into &lt;IslandName&gt;.</string>
+  <string name="MELVIN/TownMention_Level_003_Intro_001">Gettin’ things built all over the place.</string>
   <string name="MELVIN/TownMention_Level_003_Intro_002">Take yer time, &lt;PlayerName&gt;.</string>
   <string name="MELVIN/TownMention_Level_003_Intro_003">&lt;no&gt;Never good to rush things.</string>
   <string name="MELVIN/TownMention_Level_004_Intro_000">&lt;yes&gt;I reckon you’ve made &lt;IslandName&gt; the best place to be, &lt;PlayerName&gt;.</string>
@@ -275,7 +274,7 @@
   <string name="MELVIN/LongConvo_001_Intro_002">Loved that lady.</string>
   <string name="MELVIN/LongConvo_001_Intro_003">&lt;yes&gt;Miss her.</string>
   <string name="MELVIN/LongConvo_001_Intro_004">&lt;yes&gt;But yer gotta keep on goin’.</string>
-  <string name="MELVIN/LongConvo_001_Intro_005">It’s what she would want, after all. </string>
+  <string name="MELVIN/LongConvo_001_Intro_005">It’s what she would want, after all.</string>
   <string name="MELVIN/LongConvo_002_Intro_000">I met me wife buildin’ a chair for her.</string>
   <string name="MELVIN/LongConvo_002_Intro_001">&lt;no&gt;I ain’t never seen a prettier lady.</string>
   <string name="MELVIN/LongConvo_002_Intro_002">&lt;yes&gt;Love at first seat you could say.</string>

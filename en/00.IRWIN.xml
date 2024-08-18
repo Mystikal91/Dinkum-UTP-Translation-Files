@@ -56,8 +56,7 @@
   <string name="IRWIN/Gossip_About_NPC_010_Intro_001">&lt;haha&gt;Maybe bring two shovels!</string>
   <string name="IRWIN/Introduction_007_Intro_000">G’day, mate! The name is &lt;myName&gt;.</string>
   <string name="IRWIN/Introduction_007_Intro_001">&lt;thinking&gt;You’re… don’t tell me!</string>
-  <string name="IRWIN/Introduction_007_Intro_002">You’re &lt;PlayerName&gt;, right?
-\n Absolutely wonderful to meet you, mate!</string>
+  <string name="IRWIN/Introduction_007_Intro_002">You’re &lt;PlayerName&gt;, right? Absolutely wonderful to meet you, mate!</string>
   <string name="IRWIN/Introduction_007_Intro_003">&lt;haha&gt;I’m &lt;myName&gt;! Oh, I already told you that, right?</string>
   <string name="IRWIN/Introduction_007_Intro_004">I’m visiting &lt;IslandName&gt; trying to find a home for some beautiful little creatures.</string>
   <string name="IRWIN/Introduction_007_Intro_005">If you have a &lt;AnimalHandlingLicence&gt; come by and talk to me.</string>
@@ -93,7 +92,7 @@
   <string name="IRWIN/IslandDayGreeting_Noon_007_Intro_002">It’s bloody beautiful, mate.</string>
   <!-- Talking about NPC: Fletch -->
   <string name="IRWIN/IslandDayGreeting_Noon_007_Intro_003">She’s a tops, that &lt;NPCName&gt;.</string>
-  <string name="IRWIN/RandomConvo_000_Intro_000">&lt;yes&gt;Animals are great listeners. </string>
+  <string name="IRWIN/RandomConvo_000_Intro_000">&lt;yes&gt;Animals are great listeners.</string>
   <string name="IRWIN/RandomConvo_000_Intro_001">&lt;pumped&gt;You can say whatever you want to them and they will barely interrupt you!</string>
   <!-- Talking about Animal Type: Baby Chook -->
   <string name="IRWIN/RandomConvo_001_Intro_000">Don’t you just think &lt;animalName&gt; are so cute!</string>
@@ -104,18 +103,17 @@
   <!-- Talking about Animal Type: Baby Chook -->
   <string name="IRWIN/RandomConvo_001_Intro_003">&lt;pumped&gt;Absolutely beautiful creatures!</string>
   <!-- Talking about Animal Type: Vombat -->
-  <string name="IRWIN/RandomConvo_002_Intro_000">You know about &lt;animalName&gt;? </string>
+  <string name="IRWIN/RandomConvo_002_Intro_000">You know about &lt;animalName&gt;?</string>
   <!-- Talking about Animal Type: Vombat -->
   <string name="IRWIN/RandomConvo_002_Intro_001">Those animals are beautiful!</string>
   <!-- Talking about Animal Type: Vombat -->
   <string name="IRWIN/RandomConvo_002_Intro_002">&lt;glee&gt;They’re so big, but so gentle.</string>
   <!-- Talking about Animal Type: Vombat -->
-  <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;They've got big hearts you know?
-\n Three of them in fact!</string>
+  <string name="IRWIN/RandomConvo_002_Intro_003">&lt;yes&gt;They've got big hearts you know? Three of them in fact!</string>
   <!-- Talking about Animal Type: Vombat -->
   <string name="IRWIN/RandomConvo_002_Intro_004">&lt;haha&gt;Absolutely amazing!</string>
   <!-- Talking about Animal Type: Pleep -->
-  <string name="IRWIN/RandomConvo_003_Intro_000">&lt;animalName&gt; wool is some of the softest wool in the world. </string>
+  <string name="IRWIN/RandomConvo_003_Intro_000">&lt;animalName&gt; wool is some of the softest wool in the world.</string>
   <!-- Talking about Animal Type: Pleep -->
   <string name="IRWIN/RandomConvo_003_Intro_001">&lt;haha&gt;It might have something to do with the fact that it's nearly always wet.</string>
   <!-- Talking about Animal Type: Pleep -->
@@ -124,7 +122,7 @@
   <!-- Talking about Animal Type: Pleep -->
   <string name="IRWIN/RandomConvo_003_Intro_003">&lt;glee&gt;Absolutely beautiful creatures they are!</string>
   <!-- Talking about Animal Type: Diggo -->
-  <string name="IRWIN/RandomConvo_004_Intro_000">&lt;animalName&gt; make great companions. </string>
+  <string name="IRWIN/RandomConvo_004_Intro_000">&lt;animalName&gt; make great companions.</string>
   <!-- Talking about Animal Type: Diggo -->
   <string name="IRWIN/RandomConvo_004_Intro_001">&lt;glee&gt;They are loyal, loving and struth, are they cute.</string>
   <!-- Talking about Animal Type: Diggo -->
@@ -144,19 +142,19 @@
   <string name="IRWIN/RandomConvo_006_Intro_002">&lt;pumped&gt;They've got razor sharp claws and are just brimming with attitude!</string>
   <string name="IRWIN/RandomConvo_007_Intro_000">&lt;no&gt;I don't get how some people don't like animals.</string>
   <string name="IRWIN/RandomConvo_007_Intro_001">What's not to like?</string>
-  <string name="IRWIN/RandomConvo_007_Intro_002">Some are slimy, some are poisonous and some even have crackin big teeth! </string>
-  <string name="IRWIN/RandomConvo_007_Intro_003">&lt;pumped&gt;Struth! </string>
+  <string name="IRWIN/RandomConvo_007_Intro_002">Some are slimy, some are poisonous and some even have crackin big teeth!</string>
+  <string name="IRWIN/RandomConvo_007_Intro_003">&lt;pumped&gt;Struth!</string>
   <string name="IRWIN/RandomConvo_007_Intro_004">&lt;glee&gt;I just love 'em all!</string>
   <!-- Talking about Animal Type: Bush Devil -->
   <string name="IRWIN/RandomConvo_008_Intro_000">Have you ever gotten a gander of those &lt;animalName&gt;, mate?</string>
   <!-- Talking about Animal Type: Bush Devil -->
-  <string name="IRWIN/RandomConvo_008_Intro_001">&lt;yes&gt;I’ve seen more than a few. </string>
+  <string name="IRWIN/RandomConvo_008_Intro_001">&lt;yes&gt;I’ve seen more than a few.</string>
   <!-- Talking about Animal Type: Bush Devil -->
   <string name="IRWIN/RandomConvo_008_Intro_002">&lt;haha&gt;Crikey, they're real bruteys!</string>
   <string name="IRWIN/RandomConvo_009_Intro_000">&lt;no&gt;A lot of people have told me that the &lt;BlobFish&gt; back in &lt;SouthCity&gt; was terrible.</string>
   <string name="IRWIN/RandomConvo_009_Intro_001">&lt;no&gt;I never could bring myself to eat them.</string>
   <string name="IRWIN/RandomConvo_009_Intro_002">&lt;pumped&gt;They are just too cute!</string>
-  <string name="IRWIN/RandomConvo_010_Intro_000">&lt;proud&gt;I reckon I’ve got one of the best noses in the world. </string>
+  <string name="IRWIN/RandomConvo_010_Intro_000">&lt;proud&gt;I reckon I’ve got one of the best noses in the world.</string>
   <string name="IRWIN/RandomConvo_010_Intro_001">&lt;yes&gt;Everybody’s always telling me how good it is.</string>
   <string name="IRWIN/RandomConvo_010_Intro_002">They always say “&lt;myName&gt;, you really smell, mate”</string>
   <string name="IRWIN/RandomConvo_011_Intro_000">&lt;yes&gt;I could watch animals all day long.</string>
@@ -266,7 +264,7 @@
   <string name="IRWIN/RandomConvo_034_Intro_004">They’d have all the room they needed AND all of their favourite foods.</string>
   <string name="IRWIN/RandomConvo_034_Intro_005">&lt;yes&gt;Everybody would love to see that.</string>
   <string name="IRWIN/RandomConvo_034_Intro_006">I reckon we’d take better care of nature if everybody saw how beautiful it could be.</string>
-  <string name="IRWIN/TownMention_Level_001_Intro_000">&lt;IslandName&gt; is well on the way to being a great place! </string>
+  <string name="IRWIN/TownMention_Level_001_Intro_000">&lt;IslandName&gt; is well on the way to being a great place!</string>
   <string name="IRWIN/TownMention_Level_001_Intro_001">&lt;yes&gt;You should be very proud of yourself, &lt;PlayerName&gt;.</string>
   <string name="IRWIN/TownMention_Level_001_Intro_002">&lt;glee&gt;I hope you keep up the great work!</string>
   <string name="IRWIN/TownMention_Level_002_Intro_000">&lt;IslandName&gt; is changing for the better, and it’s all because of your hard work, &lt;PlayerName&gt;!</string>
@@ -331,8 +329,7 @@
   <string name="IRWIN/LongConvo_001_Intro_003">&lt;yes&gt;In fact, I was!</string>
   <string name="IRWIN/LongConvo_001_Intro_004">&lt;no&gt;You see, I had been adopting all the animals the people in &lt;SouthCity&gt; couldn’t look after anymore...</string>
   <string name="IRWIN/LongConvo_001_Intro_005">&lt;thinking&gt;I guess you could say that it all fell apart when the neighbour under me complained about all the noise coming from my apartment...</string>
-  <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;He said it sounded like a zoo in there!
-\n He was kind of right about that!</string>
+  <string name="IRWIN/LongConvo_001_Intro_006">&lt;haha&gt;He said it sounded like a zoo in there! He was kind of right about that!</string>
   <string name="IRWIN/LongConvo_001_Intro_007">&lt;sigh&gt;After that I was...encouraged to leave.</string>
   <string name="IRWIN/LongConvo_001_Intro_008">&lt;pumped&gt;So when I left, I told myself I would make a big change and move on to a better place!</string>
   <string name="IRWIN/LongConvo_001_Intro_009">&lt;haha&gt;I guess it’s not all bad, because now I get to look after all the fluffy and furry animals I want!</string>

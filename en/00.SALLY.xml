@@ -72,8 +72,7 @@
   <string name="SALLY/HairDresserInSeatConv_Response_001_000">Alright! Lets get started!</string>
   <string name="SALLY/HairDresserInSeatConv_Response_002_000">I see. Style isn't for everyone!</string>
   <string name="SALLY/Introduction_008_Intro_000">Hey there, I’m &lt;myName&gt;.</string>
-  <string name="SALLY/Introduction_008_Intro_001">&lt;glee&gt;I’m a hairstylist
-\n!</string>
+  <string name="SALLY/Introduction_008_Intro_001">&lt;glee&gt;I’m a hairstylist!</string>
   <string name="SALLY/Introduction_008_Intro_002">&lt;shy&gt;I’m kinda new at it though.</string>
   <string name="SALLY/Introduction_008_Intro_003">&lt;glee&gt;If you would like a haircut I could always use the practice!</string>
   <!-- Talking about NPC: Fletch -->
@@ -117,12 +116,12 @@
   <string name="SALLY/RandomConvo_005_Intro_000">&lt;thinking&gt;I've been thinking about dying my hair.</string>
   <string name="SALLY/RandomConvo_005_Intro_001">&lt;no&gt;I wish knew a hairdresser…</string>
   <string name="SALLY/RandomConvo_005_Intro_002">&lt;shocked&gt;Oh wait!</string>
-  <string name="SALLY/RandomConvo_006_Intro_000">&lt;yes&gt;I've been pretty happy with myself lately, &lt;PlayerName&gt;. </string>
+  <string name="SALLY/RandomConvo_006_Intro_000">&lt;yes&gt;I've been pretty happy with myself lately, &lt;PlayerName&gt;.</string>
   <string name="SALLY/RandomConvo_006_Intro_001">&lt;proud&gt;I haven't cut anyone's ear off or anything since I started visiting &lt;IslandName&gt;.</string>
   <string name="SALLY/RandomConvo_007_Intro_000">&lt;thinking&gt;Before I was a hairdresser I had a part-time job as a pet stylist.</string>
   <string name="SALLY/RandomConvo_007_Intro_001">&lt;glee&gt;It's where I learnt my best cuts and styles!</string>
   <string name="SALLY/RandomConvo_007_Intro_002">&lt;yes&gt;They’re amazing innovative styles, so nobody asks for them a second time.</string>
-  <string name="SALLY/RandomConvo_008_Intro_000">Have you ever tried cutting topiaries? </string>
+  <string name="SALLY/RandomConvo_008_Intro_000">Have you ever tried cutting topiaries?</string>
   <string name="SALLY/RandomConvo_008_Intro_001">&lt;yes&gt;You should totally do it if you get the chance.</string>
   <string name="SALLY/RandomConvo_008_Intro_002">&lt;haha&gt;It's wonderfully fun and the plants don't even complain when you mess it up!</string>
   <string name="SALLY/RandomConvo_009_Intro_000">&lt;yes&gt;I've had a lot of jobs before I settled on hairstylist.</string>

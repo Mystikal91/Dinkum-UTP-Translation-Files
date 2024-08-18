@@ -6,7 +6,7 @@
   <string name="THEODORE/Ask if has Another donation_Option_000">I have another donation.</string>
   <string name="THEODORE/Ask if has Another donation_Option_001">Thats all!</string>
   <string name="THEODORE/Ask if has Another donation_Response_000_000">Oh? What else have you got?</string>
-  <string name="THEODORE/Ask if has Another donation_Response_001_000">Thank you again, &lt;PlayerName&gt;. </string>
+  <string name="THEODORE/Ask if has Another donation_Response_001_000">Thank you again, &lt;PlayerName&gt;.</string>
   <string name="THEODORE/CompleteBirthday_000_Intro_000">Many thanks, &lt;PlayerName&gt;.</string>
   <string name="THEODORE/CompleteRequest_000_Intro_000">Thank you, &lt;PlayerName&gt;.</string>
   <string name="THEODORE/CompleteRequest_000_Intro_001">&lt;shy&gt;I would shake your hand in thanks, but that might be inappropriate.</string>
@@ -110,7 +110,7 @@
   <string name="THEODORE/RandomConvo_002_Intro_001">&lt;yes&gt;That’s fine though.</string>
   <string name="THEODORE/RandomConvo_002_Intro_002">&lt;proud&gt;After all, things in a museum are for looking at, not touching.</string>
   <string name="THEODORE/RandomConvo_003_Intro_000">&lt;thinking&gt;I’ve been wondering if there could be a way to catalogue air?</string>
-  <string name="THEODORE/RandomConvo_003_Intro_001">Would you be interested in seeing an air exhibit, &lt;PlayerName&gt;? </string>
+  <string name="THEODORE/RandomConvo_003_Intro_001">Would you be interested in seeing an air exhibit, &lt;PlayerName&gt;?</string>
   <string name="THEODORE/RandomConvo_003_Option_000">Oh yeah!</string>
   <string name="THEODORE/RandomConvo_003_Option_001">Not Really</string>
   <string name="THEODORE/RandomConvo_003_Response_000_000">&lt;glee&gt; See, I had a feeling you were a fellow air-head!</string>
@@ -131,7 +131,7 @@
   <string name="THEODORE/RandomConvo_007_Intro_001">&lt;worried&gt; Oh no!</string>
   <string name="THEODORE/RandomConvo_007_Intro_002">&lt;no&gt;I don’t mean I’m going to cut them open!</string>
   <string name="THEODORE/RandomConvo_007_Intro_003">&lt;proud&gt;Here at the &lt;IslandName&gt; museum we only study by observing!</string>
-  <string name="THEODORE/RandomConvo_008_Intro_000"> &lt;thinking&gt;Imagine if we could take everything on &lt;IslandName&gt; and put it in a museum!</string>
+  <string name="THEODORE/RandomConvo_008_Intro_000">&lt;thinking&gt;Imagine if we could take everything on &lt;IslandName&gt; and put it in a museum!</string>
   <string name="THEODORE/RandomConvo_008_Intro_001">&lt;proud&gt;That way, when people wanted to see a certain thing, they could just make their way to that wing!</string>
   <string name="THEODORE/RandomConvo_009_Intro_000">Studying things is just my job.</string>
   <string name="THEODORE/RandomConvo_009_Intro_001">&lt;yes&gt;I have plenty of other hobbies.</string>

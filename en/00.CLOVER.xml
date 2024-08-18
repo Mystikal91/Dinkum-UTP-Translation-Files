@@ -44,7 +44,7 @@
   <!-- Talking about NPC: Irwin -->
   <string name="CLOVER/Gossip_About_NPC_007_Intro_001">They must harmonise, y’know?</string>
   <!-- Talking about NPC: Theodore -->
-  <string name="CLOVER/Gossip_About_NPC_009_Intro_000">&lt;NPCName&gt; is a nice guy and all… </string>
+  <string name="CLOVER/Gossip_About_NPC_009_Intro_000">&lt;NPCName&gt; is a nice guy and all…</string>
   <!-- Talking about NPC: Theodore -->
   <string name="CLOVER/Gossip_About_NPC_009_Intro_001">&lt;no&gt;But he’s got no zazz. No zip.</string>
   <!-- Talking about NPC: Theodore -->
@@ -55,7 +55,7 @@
   <string name="CLOVER/Gossip_About_NPC_010_Intro_001">It’s terrifying.</string>
   <!-- Talking about NPC: Milburn -->
   <string name="CLOVER/Gossip_About_NPC_010_Intro_002">I’m kinda into it, y’know?</string>
-  <string name="CLOVER/Introduction_004_Intro_000">Hey there, I’m &lt;myName&gt;. </string>
+  <string name="CLOVER/Introduction_004_Intro_000">Hey there, I’m &lt;myName&gt;.</string>
   <string name="CLOVER/Introduction_004_Intro_001">Pleasure to meet you, &lt;PlayerName&gt;.
 \n&lt;thinking&gt;I feel like we’ve met each other before?</string>
   <string name="CLOVER/Introduction_004_Intro_002">No? Maybe it was in a past life or something.</string>
@@ -98,25 +98,25 @@
   <string name="CLOVER/RandomConvo_000_Intro_000">Has anyone told you that you have a really nice aura about you?</string>
   <string name="CLOVER/RandomConvo_000_Intro_001">&lt;yes&gt;It just feels like you’re a trustworthy person, y’know?</string>
   <string name="CLOVER/RandomConvo_001_Intro_000">I have it on good authority that today is going to be a good day.</string>
-  <string name="CLOVER/RandomConvo_001_Intro_001">&lt;yes&gt;Trust me, this source is very reliable when it comes to predictions of the future. </string>
+  <string name="CLOVER/RandomConvo_001_Intro_001">&lt;yes&gt;Trust me, this source is very reliable when it comes to predictions of the future.</string>
   <string name="CLOVER/RandomConvo_001_Intro_002">&lt;thinking&gt;That is if I did the sacrifice correctly...</string>
-  <string name="CLOVER/RandomConvo_002_Intro_000">&lt;favouriteFood&gt; are full of powerful energy. </string>
+  <string name="CLOVER/RandomConvo_002_Intro_000">&lt;favouriteFood&gt; are full of powerful energy.</string>
   <string name="CLOVER/RandomConvo_002_Intro_001">If possible, I like to start my day with a &lt;favouriteFood&gt;.</string>
   <string name="CLOVER/RandomConvo_002_Intro_002">That way, a little bit of that power gets passed onto me, y’know?</string>
   <string name="CLOVER/RandomConvo_003_Intro_000">&lt;IslandName&gt; is an incredible place, y’know?</string>
   <string name="CLOVER/RandomConvo_003_Intro_001">The whole island is full of life and energy.</string>
   <string name="CLOVER/RandomConvo_003_Intro_002">It’s on a whole other level compared to &lt;SouthCity&gt;.</string>
   <string name="CLOVER/RandomConvo_003_Intro_003">That place was full of people, but absolutely lifeless in a weird way...</string>
-  <string name="CLOVER/RandomConvo_004_Intro_000">&lt;proud&gt;Looking great is the first step towards feeling great. </string>
+  <string name="CLOVER/RandomConvo_004_Intro_000">&lt;proud&gt;Looking great is the first step towards feeling great.</string>
   <string name="CLOVER/RandomConvo_004_Intro_001">&lt;shy&gt;I mean, there’s a lot of other steps too, but once you look good on the outside, you will start feeling good on the outside, y’know?</string>
   <string name="CLOVER/RandomConvo_005_Intro_000">&lt;thinking&gt;
-\nIf you wear the same colours as somebody, and you can really connect. </string>
-  <string name="CLOVER/RandomConvo_005_Intro_001">It’s like you start humming in the same universal tune, y'know? </string>
+\nIf you wear the same colours as somebody, and you can really connect.</string>
+  <string name="CLOVER/RandomConvo_005_Intro_001">It’s like you start humming in the same universal tune, y'know?</string>
   <string name="CLOVER/RandomConvo_005_Intro_002">&lt;shy&gt;That’s why I try to wear black a lot.
 \nI want to try and hum my own tune sometimes.</string>
   <string name="CLOVER/RandomConvo_006_Intro_000">&lt;thinking&gt;I was watching you sleep the other night and you were tossing and turning a lot, y’know?</string>
   <string name="CLOVER/RandomConvo_006_Intro_001">Are you feeling okay today, &lt;PlayerName&gt;?</string>
-  <string name="CLOVER/RandomConvo_007_Intro_000">Did you know that the colours red and yellow can actually make you hungry? </string>
+  <string name="CLOVER/RandomConvo_007_Intro_000">Did you know that the colours red and yellow can actually make you hungry?</string>
   <string name="CLOVER/RandomConvo_007_Intro_001">&lt;thinking&gt;On the flip side, blue can calm those munchies down a little.</string>
   <string name="CLOVER/RandomConvo_007_Intro_002">How crazy is that?</string>
   <string name="CLOVER/RandomConvo_007_Intro_003">&lt;glee&gt;Everything is connected, y’know?</string>
@@ -204,10 +204,10 @@
   <string name="CLOVER/RandomConvo_025_Intro_001">Some people just wear the same thing every day, y’know?</string>
   <string name="CLOVER/RandomConvo_025_Intro_002">&lt;haha&gt;Sometimes I stare at them, trying to make them change.</string>
   <string name="CLOVER/RandomConvo_025_Intro_003">&lt;no&gt;I guess some people just aren't programmed that way.</string>
-  <string name="CLOVER/RandomConvo_026_Intro_000">&lt;yes&gt;I heard about the mines deep underground. </string>
-  <string name="CLOVER/RandomConvo_026_Intro_001">&lt;glee&gt;Way down deep, and dark. </string>
+  <string name="CLOVER/RandomConvo_026_Intro_000">&lt;yes&gt;I heard about the mines deep underground.</string>
+  <string name="CLOVER/RandomConvo_026_Intro_001">&lt;glee&gt;Way down deep, and dark.</string>
   <string name="CLOVER/RandomConvo_026_Intro_002">They still &lt;Shift&gt; so they’re constantly changing.</string>
-  <string name="CLOVER/RandomConvo_026_Intro_003">&lt;thinking&gt;It’d be a really great place to hide something, y’know? </string>
+  <string name="CLOVER/RandomConvo_026_Intro_003">&lt;thinking&gt;It’d be a really great place to hide something, y’know?</string>
   <string name="CLOVER/RandomConvo_026_Intro_004">&lt;shy&gt;If you needed one, I mean.</string>
   <string name="CLOVER/RandomConvo_027_Intro_000">&lt;worried&gt;I had the weirdest feeling yesterday. I’m so glad to see you’re still with us, &lt;PlayerName&gt;.</string>
   <string name="CLOVER/RandomConvo_027_Intro_001">I’m pretty sure you’re going to be fine now, y’know?</string>
@@ -239,7 +239,7 @@
   <string name="CLOVER/RandomConvo_036_Intro_002">&lt;pumped&gt;Hold onto that energy as long as you can and use it for something really special.</string>
   <string name="CLOVER/RandomConvo_036_Intro_003">You never know how long you've got, y'know?</string>
   <string name="CLOVER/RandomConvo_037_Intro_000">Does it ever feel like I repeat myself too much?</string>
-  <string name="CLOVER/RandomConvo_037_Intro_001">Like I’m saying the same thing twice? </string>
+  <string name="CLOVER/RandomConvo_037_Intro_001">Like I’m saying the same thing twice?</string>
   <string name="CLOVER/RandomConvo_037_Option_000">Not at all.</string>
   <string name="CLOVER/RandomConvo_037_Option_001">Sometimes.</string>
   <string name="CLOVER/RandomConvo_037_Option_002">Maybe?</string>
@@ -275,7 +275,7 @@
   <!-- Talking about NPC: Fletch -->
   <string name="CLOVER/SkyFest_Morning_004_Intro_000">&lt;SkyFest&gt; is a day to be enjoyed, okay &lt;PlayerName&gt;?</string>
   <!-- Talking about NPC: Fletch -->
-  <string name="CLOVER/SkyFest_Morning_004_Intro_001">&lt;yes&gt;I worked hard to help make this &lt;Aurora&gt; happen. </string>
+  <string name="CLOVER/SkyFest_Morning_004_Intro_001">&lt;yes&gt;I worked hard to help make this &lt;Aurora&gt; happen.</string>
   <!-- Talking about NPC: Fletch -->
   <string name="CLOVER/SkyFest_Morning_004_Intro_002">So I’d be bummed out if you didn’t enjoy it, y’know?</string>
   <!-- Talking about NPC: Fletch -->
@@ -291,7 +291,7 @@
   <!-- Talking about NPC: Fletch -->
   <string name="CLOVER/SkyFest_Noon_004_Intro_000">I made my &lt;Kite&gt; last night, y’know?</string>
   <!-- Talking about NPC: Fletch -->
-  <string name="CLOVER/SkyFest_Noon_004_Intro_001">I just work better when it’s late. </string>
+  <string name="CLOVER/SkyFest_Noon_004_Intro_001">I just work better when it’s late.</string>
   <!-- Talking about NPC: Fletch -->
   <string name="CLOVER/SkyFest_Noon_004_Intro_002">&lt;no&gt;There is less noise to distract me, y’know.</string>
   <!-- Talking about NPC: Fletch -->
@@ -304,7 +304,7 @@
   <string name="CLOVER/ConversationManager_CheckLineForReplacement_buyItemDescription_005">The design just came to me, y'know?</string>
   <string name="CLOVER/ConversationManager_CheckLineForReplacement_buyItemDescription_006">Y'know, that would look great on you,</string>
   <string name="CLOVER/ConversationManager_CheckLineForReplacement_buyItemDescription_007">I put a lot of myself into this one.</string>
-  <string name="CLOVER/LongConvo_001_Intro_000">Hey, &lt;PlayerName&gt;. </string>
+  <string name="CLOVER/LongConvo_001_Intro_000">Hey, &lt;PlayerName&gt;.</string>
   <string name="CLOVER/LongConvo_001_Intro_001">Y'know, I’ve been wondering, why did you decide to leave &lt;SouthCity&gt;?</string>
   <string name="CLOVER/LongConvo_001_Option_000">It was terrible there!</string>
   <string name="CLOVER/LongConvo_001_Option_001">I needed a change</string>
@@ -317,7 +317,7 @@
   <string name="CLOVER/LongConvo_001_Response_001_002">&lt;yes&gt;Get things rolling in a different direction, y’know?</string>
   <string name="CLOVER/LongConvo_001_Response_002_000">&lt;yes&gt;I know exactly what you mean.</string>
   <string name="CLOVER/LongConvo_001_Response_002_001">People like that have a powerful aura about us, y’know?</string>
-  <string name="CLOVER/LongConvo_002_Intro_000">&lt;proud&gt;I left &lt;SouthCity&gt; because no one could handle my fashion. </string>
+  <string name="CLOVER/LongConvo_002_Intro_000">&lt;proud&gt;I left &lt;SouthCity&gt; because no one could handle my fashion.</string>
   <string name="CLOVER/LongConvo_002_Intro_001">&lt;no&gt;Feels like everyone there is happy wearing grey all day long.</string>
   <string name="CLOVER/LongConvo_002_Intro_002">I want my clothes to carry a bit of my energy, y’know?</string>
   <string name="CLOVER/LongConvo_002_Intro_003">I guess I like to think that everything I make contains a part of me, and I’m passing that energy onto whoever wears it.</string>
@@ -330,7 +330,7 @@
   <string name="CLOVER/LongConvo_003_Intro_001">&lt;yes&gt;You see, I didn’t believe myself until I came across an old book in the &lt;SouthCity&gt; library...</string>
   <string name="CLOVER/LongConvo_003_Intro_002">&lt;thinking&gt;This book describes an energy that runs through us all, y’know?</string>
   <string name="CLOVER/LongConvo_003_Intro_003">&lt;pumped&gt;An energy that makes up everything in our world.</string>
-  <string name="CLOVER/LongConvo_003_Intro_004">You can kind of feel it, a kind of rhythm playing in everything. </string>
+  <string name="CLOVER/LongConvo_003_Intro_004">You can kind of feel it, a kind of rhythm playing in everything.</string>
   <string name="CLOVER/LongConvo_003_Intro_005">I feel like it's close to a C-Sharp.</string>
   <string name="CLOVER/LongConvo_003_Intro_006">Anyway, I’ve been trying to harness that energy ever since I left &lt;SouthCity&gt;.</string>
   <string name="CLOVER/LongConvo_003_Intro_007">&lt;thinking&gt;It’s definitely easier to feel here on &lt;IslandName&gt;...</string>

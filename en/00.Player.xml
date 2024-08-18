@@ -40,7 +40,7 @@
   <string name="Player/TeleboxNeedsItems_Option_001">Nevermind.</string>
   <string name="Player/ConfirmDeedNotServer_Intro_000">This deed is for my island.</string>
   <!-- Talking about NPC: Milburn -->
-  <string name="Player/ConstructionBoxFull_Intro_000">All the materials are here. </string>
+  <string name="Player/ConstructionBoxFull_Intro_000">All the materials are here.</string>
   <!-- Talking about NPC: Milburn -->
   <string name="Player/TeleboxNeedsItems_Intro_000">This thing looks broken. There are parts missing.</string>
   <!-- Talking about NPC: Milburn -->

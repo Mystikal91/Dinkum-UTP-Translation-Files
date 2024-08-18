@@ -52,7 +52,7 @@
   <!-- Talking about NPC: Melvin. Talking about Item: Mine Pass -->
   <string name="JOHN/Gossip_About_NPC_003_Intro_002">&lt;no&gt;But between you and me? You just don’t need furniture!</string>
   <!-- Talking about NPC: Melvin. Talking about Item: Mine Pass -->
-  <string name="JOHN/Gossip_About_NPC_003_Intro_003">&lt;haha&gt;Your place looks great already! Save your &lt;Dinks&gt;, I reckon. </string>
+  <string name="JOHN/Gossip_About_NPC_003_Intro_003">&lt;haha&gt;Your place looks great already! Save your &lt;Dinks&gt;, I reckon.</string>
   <!-- Talking about NPC: Melvin. Talking about Item: Mine Pass -->
   <string name="JOHN/Gossip_About_NPC_003_Intro_004">Use them on something really important.</string>
   <!-- Talking about NPC: Melvin. Talking about Item: Mine Pass -->
@@ -70,17 +70,15 @@
   <!-- Talking about NPC: Irwin -->
   <string name="JOHN/Gossip_About_NPC_007_Intro_000">Listen, &lt;NPCName&gt; is a great guy….</string>
   <!-- Talking about NPC: Irwin -->
-  <string name="JOHN/Gossip_About_NPC_007_Intro_001">&lt;thinking&gt;But be careful about spending too many dinks on animals
-\n.</string>
+  <string name="JOHN/Gossip_About_NPC_007_Intro_001">&lt;thinking&gt;But be careful about spending too many dinks on animals.</string>
   <!-- Talking about NPC: Irwin -->
-  <string name="JOHN/Gossip_About_NPC_007_Intro_002">&lt;no&gt;They’re not gonna get you out of a tough situation
-\n.</string>
+  <string name="JOHN/Gossip_About_NPC_007_Intro_002">&lt;no&gt;They’re not gonna get you out of a tough situation.</string>
   <!-- Talking about NPC: Irwin -->
   <string name="JOHN/Gossip_About_NPC_007_Intro_003">&lt;haha&gt;And they’re certainly not going to help you smelt ore like my goods can!</string>
   <!-- Talking about NPC: Theodore -->
   <string name="JOHN/Gossip_About_NPC_009_Intro_000">You can donate your bugs and fish to &lt;NPCName&gt; if you want.</string>
   <!-- Talking about NPC: Theodore -->
-  <string name="JOHN/Gossip_About_NPC_009_Intro_001">&lt;pumped&gt;But remember, I’ll give you a better price for them. </string>
+  <string name="JOHN/Gossip_About_NPC_009_Intro_001">&lt;pumped&gt;But remember, I’ll give you a better price for them.</string>
   <!-- Talking about NPC: Theodore -->
   <string name="JOHN/Gossip_About_NPC_009_Intro_002">&lt;haha&gt;Best prices in town!</string>
   <!-- Talking about NPC: Milburn -->
@@ -129,7 +127,7 @@
   <!-- Talking about NPC: Fletch -->
   <string name="JOHN/Introduction_001_Intro_006">&lt;haha&gt;I guess you could say “exotic” means any of the items found here on &lt;IslandName&gt;.</string>
   <!-- Talking about NPC: Fletch -->
-  <string name="JOHN/Introduction_001_Intro_007">&lt;pumped&gt;So, if you find anything, and I do mean anything, you don’t want, please drop by and show me. </string>
+  <string name="JOHN/Introduction_001_Intro_007">&lt;pumped&gt;So, if you find anything, and I do mean anything, you don’t want, please drop by and show me.</string>
   <!-- Talking about NPC: Fletch -->
   <string name="JOHN/Introduction_001_Intro_008">&lt;haha&gt;I’ll offer you a great price for it!</string>
   <!-- Talking about NPC: Fletch -->
@@ -230,8 +228,8 @@
   <string name="JOHN/Rain_Greeting 1_Response_003_000">Don't catch a cold, &lt;PlayerName&gt;!</string>
   <string name="JOHN/Rain_Greeting 2_Intro_000">You reckon this rain will let up?</string>
   <string name="JOHN/Rain_Greeting 2_Response_003_000">&lt;haha&gt;I hope it doesn't!</string>
-  <string name="JOHN/RandomConvo_000_Intro_000">I get all my tools from back in &lt;SouthCity&gt;. </string>
-  <string name="JOHN/RandomConvo_000_Intro_001">&lt;shy&gt;I know they aren’t great quality and they break easily.. </string>
+  <string name="JOHN/RandomConvo_000_Intro_000">I get all my tools from back in &lt;SouthCity&gt;.</string>
+  <string name="JOHN/RandomConvo_000_Intro_001">&lt;shy&gt;I know they aren’t great quality and they break easily..</string>
   <string name="JOHN/RandomConvo_000_Intro_002">&lt;haha&gt;But, they’re the best tools you can get on &lt;IslandName&gt;.</string>
   <string name="JOHN/RandomConvo_001_Intro_000">&lt;proud&gt;I've been doing some stocktake recently and everything is looking real good.</string>
   <string name="JOHN/RandomConvo_001_Intro_001">&lt;haha&gt;Better than good, it’s John’s Goods!</string>
@@ -241,17 +239,16 @@
   <string name="JOHN/RandomConvo_003_Intro_000">The fish from this island are an incredible treat for those people back in &lt;SouthCity&gt;.</string>
   <string name="JOHN/RandomConvo_003_Intro_001">&lt;haha&gt;I mean, the only thing you can catch in &lt;SouthCity&gt; are &lt;Blobfish&gt;!</string>
   <string name="JOHN/RandomConvo_003_Intro_002">&lt;haha&gt;So eating anything else is always a treat!</string>
-  <string name="JOHN/RandomConvo_004_Intro_000">&lt;thinking&gt;I’ve been trying to get rid of some excess stock recently. </string>
-  <string name="JOHN/RandomConvo_004_Intro_001">&lt;haha&gt;The thing is, I already have the best deals in town, so I haven’t adjusted the prices. </string>
+  <string name="JOHN/RandomConvo_004_Intro_000">&lt;thinking&gt;I’ve been trying to get rid of some excess stock recently.</string>
+  <string name="JOHN/RandomConvo_004_Intro_001">&lt;haha&gt;The thing is, I already have the best deals in town, so I haven’t adjusted the prices.</string>
   <string name="JOHN/RandomConvo_005_Intro_000">&lt;yes&gt;Everything has a value to someone, you know. You just have to find the right people and the right price.</string>
   <string name="JOHN/RandomConvo_005_Intro_001">&lt;haha&gt;Luckily, the people in &lt;SouthCity&gt; don’t know how common things certain things are over here, so I can charge them a bit more!</string>
-  <string name="JOHN/RandomConvo_006_Intro_000">You look a little down today, &lt;PlayerName&gt;.
-\n..</string>
+  <string name="JOHN/RandomConvo_006_Intro_000">You look a little down today, &lt;PlayerName&gt;...</string>
   <string name="JOHN/RandomConvo_006_Intro_001">Have you considered buying something?</string>
   <string name="JOHN/RandomConvo_006_Intro_002">&lt;yes&gt;That always makes me feel better.</string>
   <string name="JOHN/RandomConvo_006_Intro_003">&lt;haha&gt;You, buying something, I mean.</string>
-  <string name="JOHN/RandomConvo_007_Intro_000">I wouldn’t trade trading for anything. </string>
-  <string name="JOHN/RandomConvo_007_Intro_001">&lt;thinking&gt;I mean… </string>
+  <string name="JOHN/RandomConvo_007_Intro_000">I wouldn’t trade trading for anything.</string>
+  <string name="JOHN/RandomConvo_007_Intro_001">&lt;thinking&gt;I mean…</string>
   <string name="JOHN/RandomConvo_007_Intro_002">&lt;haha&gt;Unless it was a really good deal!</string>
   <string name="JOHN/RandomConvo_008_Intro_000">The secret to trading is to buy low, and sell high.</string>
   <string name="JOHN/RandomConvo_008_Intro_001">&lt;thinking&gt;...</string>
@@ -285,8 +282,8 @@
   <string name="JOHN/RandomConvo_016_Intro_002">&lt;yes&gt;I hope he’s okay.</string>
   <string name="JOHN/RandomConvo_017_Intro_000">&lt;shy&gt;Thanks for doing so much business with me, &lt;PlayerName&gt;.</string>
   <string name="JOHN/RandomConvo_017_Intro_001">&lt;haha&gt;And remember, they ain’t good unless their John’s Goods!</string>
-  <string name="JOHN/RandomConvo_018_Intro_000">I got a scale in my shop for weighing up any big items you can bring me. </string>
-  <string name="JOHN/RandomConvo_018_Intro_001">&lt;yes&gt;Huge eggs and the like. </string>
+  <string name="JOHN/RandomConvo_018_Intro_000">I got a scale in my shop for weighing up any big items you can bring me.</string>
+  <string name="JOHN/RandomConvo_018_Intro_001">&lt;yes&gt;Huge eggs and the like.</string>
   <string name="JOHN/RandomConvo_018_Intro_002">I’ll give you a great price for them, so it’s worth hauling them in if you can!</string>
   <string name="JOHN/RandomConvo_019_Intro_000">&lt;thinking&gt;You don’t talk too much, but your wallet does.</string>
   <string name="JOHN/RandomConvo_019_Intro_001">&lt;yes&gt;I really like that about you, &lt;PlayerName&gt;.</string>
@@ -295,7 +292,7 @@
   <string name="JOHN/RandomConvo_020_Intro_002">&lt;yes&gt;Having this discussion is nearly as nice as making some &lt;Dinks&gt;.</string>
   <string name="JOHN/RandomConvo_021_Intro_000">You know what &lt;PlayerName&gt;?</string>
   <string name="JOHN/RandomConvo_021_Intro_001">&lt;yes&gt;I wish my brother was more like you.</string>
-  <string name="JOHN/RandomConvo_021_Intro_002">&lt;yes&gt;You work hard, you’re polite and you’re very kind. </string>
+  <string name="JOHN/RandomConvo_021_Intro_002">&lt;yes&gt;You work hard, you’re polite and you’re very kind.</string>
   <string name="JOHN/RandomConvo_021_Intro_003">&lt;haha&gt;He’s kind of ratbag sometimes!</string>
   <string name="JOHN/RandomConvo_022_Intro_000">&lt;no&gt;I’m sorry that the tools I sell break pretty often.</string>
   <string name="JOHN/RandomConvo_022_Intro_001">&lt;thinking&gt;I’ve asked my brother back in &lt;SouthCity&gt; to try and get higher quality products.</string>
@@ -303,7 +300,7 @@
   <string name="JOHN/RandomConvo_023_Intro_000">&lt;sigh&gt;I wish I didn’t have to run my shop for so many hours a day.</string>
   <string name="JOHN/RandomConvo_023_Intro_001">&lt;haha&gt;But you know what they say, “If you aren’t open then you aren’t making &lt;Dinks&gt;”</string>
   <string name="JOHN/RandomConvo_023_Intro_002">&lt;sigh&gt;I could really use some time off though...</string>
-  <string name="JOHN/RandomConvo_024_Intro_000">&lt;sigh&gt;Somebody asked me for a “Refund” the other day. </string>
+  <string name="JOHN/RandomConvo_024_Intro_000">&lt;sigh&gt;Somebody asked me for a “Refund” the other day.</string>
   <string name="JOHN/RandomConvo_024_Intro_001">Can you believe that? They wanted ALL their dinks back!</string>
   <string name="JOHN/RandomConvo_024_Intro_002">I gave them half. Fair’s fair, I reckon.</string>
   <string name="JOHN/RandomConvo_024_Intro_003">&lt;thinking&gt; Hey, do you want half a shovel?</string>
@@ -312,9 +309,9 @@
   <string name="JOHN/RandomConvo_024_Response_000_000">Suit yourself</string>
   <string name="JOHN/RandomConvo_024_Response_001_000">&lt;thinking&gt;Hmmm… I think I’ll hold onto it for now.</string>
   <string name="JOHN/RandomConvo_024_Response_001_001">&lt;no&gt;I didn’t expect it to be in such high demand!</string>
-  <string name="JOHN/RandomConvo_025_Intro_000">&lt;no&gt; Sometimes it can get quite lonely in my shop, working such long hours. </string>
+  <string name="JOHN/RandomConvo_025_Intro_000">&lt;no&gt; Sometimes it can get quite lonely in my shop, working such long hours.</string>
   <string name="JOHN/RandomConvo_025_Intro_001">Luckily, I have hundreds and hundreds of items to keep me company.</string>
-  <string name="JOHN/RandomConvo_025_Intro_002">&lt;haha&gt; Oh, and you, too! </string>
+  <string name="JOHN/RandomConvo_025_Intro_002">&lt;haha&gt; Oh, and you, too!</string>
   <string name="JOHN/RandomConvo_025_Intro_003">Thanks for making time for me, &lt;PlayerName&gt;.</string>
   <string name="JOHN/RandomConvo_026_Intro_000">&lt;no&gt; Even if it’s an absolute bargain, it can be sad to part with your hard-earned &lt;Dinks&gt;.</string>
   <string name="JOHN/RandomConvo_026_Intro_001">But boy, the rush you get from a massive sale? There’s just nothing like it!</string>
@@ -355,12 +352,11 @@
   <string name="JOHN/RandomConvo_035_Intro_003">&lt;yes&gt;Yeah. Go for good deals.</string>
   <string name="JOHN/RandomConvo_035_Intro_004">&lt;haha&gt;Honestly, that's all there is to it.</string>
   <string name="JOHN/RandomConvo_036_Intro_000">&lt;yes&gt;In life, you’ve always got to decide what to hold on to and what to let go.</string>
-  <string name="JOHN/RandomConvo_036_Intro_001">&lt;thinking&gt;There’s always a tradeoff… </string>
+  <string name="JOHN/RandomConvo_036_Intro_001">&lt;thinking&gt;There’s always a tradeoff…</string>
   <string name="JOHN/RandomConvo_036_Intro_002">&lt;no&gt;It wasn’t easy, moving here.</string>
   <string name="JOHN/RandomConvo_036_Intro_003">But taking a risk like this? And seeing everything work out like it has?</string>
   <string name="JOHN/RandomConvo_036_Intro_004">&lt;proud&gt;I got a feeling like it’s all gonna be worth it.</string>
-  <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Just gotta keep working.
-\n One day at a time.</string>
+  <string name="JOHN/RandomConvo_036_Intro_005">&lt;yes&gt;Just gotta keep working. One day at a time.</string>
   <string name="JOHN/RandomConvo_036_Intro_006">Thanks for listening, &lt;PlayerName&gt;.</string>
   <string name="JOHN/RandomConvo_037_Intro_000">&lt;yes&gt;You know, I grew this beard when I was a bit younger.</string>
   <string name="JOHN/RandomConvo_037_Intro_001">My brother asked if he could trade me something for my moustache.</string>
@@ -392,7 +388,7 @@
   <string name="JOHN/TownMention_Level_004_Intro_001">&lt;haha&gt;People aren’t going to want to visit my shop if you keep it looking this good, &lt;PlayerName&gt;!</string>
   <string name="JOHN/Wind_Greeting 0_Intro_000">My dad used to say “Windy weather is the best time to set sale!”</string>
   <string name="JOHN/Wind_Greeting 0_Intro_001">&lt;no&gt;No idea what he meant.</string>
-  <string name="JOHN/Wind_Greeting 0_Response_003_000">&lt;sigh&gt;Oh, okay then. </string>
+  <string name="JOHN/Wind_Greeting 0_Response_003_000">&lt;sigh&gt;Oh, okay then.</string>
   <string name="JOHN/Wind_Greeting 0_Response_003_001">See you &lt;PlayerName&gt;.</string>
   <string name="JOHN/Wind_Greeting 1_Intro_000">Ah, &lt;PlayerName&gt;!</string>
   <string name="JOHN/Wind_Greeting 1_Intro_001">Are you out here enjoying that breeze too?</string>

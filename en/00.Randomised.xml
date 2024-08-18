@@ -10,7 +10,7 @@
   <string name="Randomised/Afternoon_Greeting 3_Response_003_000">&lt;haha&gt;Maybe I need to manage my time a bit better, eh?</string>
   <string name="Randomised/Afternoon_Greeting 4_Intro_000">Sunset all ready!? It feels like the day just started!</string>
   <string name="Randomised/Afternoon_Greeting 4_Response_003_000">&lt;thinking&gt;Maybe I need to manage my time a bit better, eh?</string>
-  <string name="Randomised/Afternoon_Greeting 5_Intro_000">The sun will be down soon, so please be careful! &lt;yes&gt; </string>
+  <string name="Randomised/Afternoon_Greeting 5_Intro_000">The sun will be down soon, so please be careful! &lt;yes&gt;</string>
   <string name="Randomised/Afternoon_Greeting 5_Response_003_000">&lt;wave&gt;Stay safe, &lt;PlayerName&gt;.</string>
   <string name="Randomised/Cold_Greeting 0_Intro_000">It's a bit chilly, isn't it.</string>
   <string name="Randomised/Cold_Greeting 0_Response_003_000">Stay warm, &lt;PlayerName&gt;! &lt;wave&gt;</string>
@@ -70,7 +70,7 @@
   <string name="Randomised/Greeting 2_Intro_000">&lt;PlayerName&gt;! I swear I was just thinking about you. &lt;haha&gt;</string>
   <string name="Randomised/Greeting 2_Intro_001">Do you need something?</string>
   <string name="Randomised/Greeting 2_Response_003_000">Nice talking to you.</string>
-  <string name="Randomised/Greeting 3_Intro_000">Hey &lt;PlayerName&gt;. </string>
+  <string name="Randomised/Greeting 3_Intro_000">Hey &lt;PlayerName&gt;.</string>
   <string name="Randomised/Greeting 3_Intro_001">I had something to say to you!</string>
   <string name="Randomised/Greeting 3_Intro_002">... I've forgotten. &lt;haha&gt;</string>
   <string name="Randomised/Greeting 3_Response_003_000">Maybe I'll remember it. I'll get back to you.</string>
@@ -82,7 +82,7 @@
   <string name="Randomised/Greeting 6_Intro_000">Oh, it's &lt;PlayerName&gt;.</string>
   <string name="Randomised/Greeting 6_Response_003_000">See you around then. &lt;wave&gt;</string>
   <string name="Randomised/Greeting 7_Intro_000">Howdy!</string>
-  <string name="Randomised/Greeting 7_Response_003_000">Thanks for </string>
+  <string name="Randomised/Greeting 7_Response_003_000">Thanks for</string>
   <string name="Randomised/Greeting 8_Intro_000">&lt;PlayerName&gt;!</string>
   <string name="Randomised/Greeting 8_Response_003_000">Nice to see you!</string>
   <string name="Randomised/Greeting 9_Intro_000">Hey, &lt;PlayerName&gt;.</string>
@@ -98,7 +98,7 @@
   <string name="Randomised/Hot_Greeting 2_Response_003_000">I don't think its just me.</string>
   <string name="Randomised/Hot_Greeting 3_Intro_000">It's so hot, &lt;PlayerName&gt;. Like, how does it even get this hot?</string>
   <string name="Randomised/Hot_Greeting 3_Intro_001">Did you want something?</string>
-  <string name="Randomised/Hot_Greeting 3_Response_003_000">A bit of a breeze wouldn't go to bad right </string>
+  <string name="Randomised/Hot_Greeting 3_Response_003_000">A bit of a breeze wouldn't go to bad right</string>
   <string name="Randomised/Hot_Greeting 4_Intro_000">Hello, &lt;PlayerName&gt;. Feels like it's going to be a scorcher today.</string>
   <string name="Randomised/Hot_Greeting 4_Intro_001">How's things?</string>
   <string name="Randomised/Hot_Greeting 4_Response_003_000">I'm going to try and keep cool.</string>
@@ -140,11 +140,10 @@
   <string name="Randomised/Morning Greeting 1_Intro_000">Oh, I just love a sunrise, don't you?</string>
   <string name="Randomised/Morning Greeting 1_Intro_001">What's up &lt;PlayerName&gt;?</string>
   <string name="Randomised/Morning Greeting 1_Response_003_000">Have good day, okay?</string>
-  <string name="Randomised/Morning Greeting 2_Intro_000">Everything feels so fresh this morning
-\n!</string>
+  <string name="Randomised/Morning Greeting 2_Intro_000">Everything feels so fresh this morning!</string>
   <string name="Randomised/Morning Greeting 2_Intro_001">What can I do for you &lt;PlayerName&gt;?</string>
   <string name="Randomised/Morning Greeting 2_Response_003_000">Enjoy your morning, &lt;PlayerName&gt;. &lt;glee&gt;</string>
-  <string name="Randomised/Morning Greeting 3_Intro_000">Oh, good morning, &lt;PlayerName&gt;. </string>
+  <string name="Randomised/Morning Greeting 3_Intro_000">Oh, good morning, &lt;PlayerName&gt;.</string>
   <string name="Randomised/Morning Greeting 3_Response_003_000">See you around. &lt;PlayerName&gt;!</string>
   <string name="Randomised/Morning Greeting 4_Intro_000">Good morning &lt;PlayerName&gt;!</string>
   <string name="Randomised/Morning Greeting 4_Intro_001">You're up and about nice and early, as usual.</string>
@@ -163,9 +162,9 @@
   <string name="Randomised/Morning Greeting 8_Response_003_000">Thanks for brightening up my morning!</string>
   <string name="Randomised/Morning Greeting 9_Intro_000">Morning, &lt;PlayerName&gt;.</string>
   <string name="Randomised/Morning Greeting 9_Intro_001">I'm still a little sleepy! I don't think I got enough rest last night.</string>
-  <string name="Randomised/Morning Greeting 9_Intro_002">What brings you </string>
+  <string name="Randomised/Morning Greeting 9_Intro_002">What brings you</string>
   <string name="Randomised/Morning Greeting 9_Response_003_000">See you around, I guess.</string>
-  <string name="Randomised/Night_Greeting 0_Intro_000">&lt;PlayerName&gt;! Burning that midnight oil, I see.  </string>
+  <string name="Randomised/Night_Greeting 0_Intro_000">&lt;PlayerName&gt;! Burning that midnight oil, I see.</string>
   <string name="Randomised/Night_Greeting 0_Response_003_000">Good night!</string>
   <string name="Randomised/Night_Greeting 1_Intro_000">Never enough time in the day, is there?</string>
   <string name="Randomised/Night_Greeting 1_Response_003_000">See you tomorrow, maybe?</string>
@@ -177,9 +176,9 @@
   <string name="Randomised/Night_Greeting 4_Intro_000">Some scary things come out at night!</string>
   <string name="Randomised/Night_Greeting 4_Response_003_000">Stay safe, please &lt;PlayerName&gt;.</string>
   <string name="Randomised/Night_Greeting 5_Intro_000">The stars are so pretty tonight!</string>
-  <string name="Randomised/Night_Greeting 5_Response_003_000">I wonder what kind of </string>
+  <string name="Randomised/Night_Greeting 5_Response_003_000">I wonder what kind of</string>
   <string name="Randomised/Night_Greeting 6_Intro_000">Oh, &lt;PlayerName&gt;. You're out late, aren't you?</string>
-  <string name="Randomised/Night_Greeting 6_Response_003_000">Maybe </string>
+  <string name="Randomised/Night_Greeting 6_Response_003_000">Maybe</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Balloon -->
   <string name="Randomised/OfferABalloon_Intro_000">Oh, here you go &lt;PlayerName&gt;.</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Balloon -->
@@ -289,7 +288,7 @@
   <!-- Talking about Item: Wooden Flower Bed -->
   <string name="Randomised/RandomConvo_020_Intro_000">If you clear out some grass you might encourage flowers to grow there a few days later!</string>
   <!-- Talking about Item: Wooden Flower Bed -->
-  <string name="Randomised/RandomConvo_020_Intro_001">But if you want to grow flowers very quickly. Craft some &lt;itemName&gt;. </string>
+  <string name="Randomised/RandomConvo_020_Intro_001">But if you want to grow flowers very quickly. Craft some &lt;itemName&gt;.</string>
   <!-- Talking about Item: Wooden Flower Bed -->
   <string name="Randomised/RandomConvo_020_Intro_002">If you plant some flowers in a &lt;itemName&gt; and keep the &lt;itemName&gt; next to them empty...</string>
   <!-- Talking about Item: Wooden Flower Bed -->
@@ -392,7 +391,7 @@
   <string name="Randomised/Greeting2_Intro_000">&lt;PlayerName&gt;! I swear I was just thinking about you. &lt;haha&gt;</string>
   <string name="Randomised/Greeting2_Intro_001">Do you need something?</string>
   <string name="Randomised/Greeting2_Response_003_000">Nice talking to you.</string>
-  <string name="Randomised/Greeting3_Intro_000">Hey &lt;PlayerName&gt;. </string>
+  <string name="Randomised/Greeting3_Intro_000">Hey &lt;PlayerName&gt;.</string>
   <string name="Randomised/Greeting3_Intro_001">I had something to say to you!</string>
   <string name="Randomised/Greeting3_Intro_002">... I've forgotten. &lt;haha&gt;</string>
   <string name="Randomised/Greeting3_Response_003_000">Maybe I'll remember it. I'll get back to you.</string>
@@ -404,7 +403,7 @@
   <string name="Randomised/Greeting6_Intro_000">Oh, it's &lt;PlayerName&gt;.</string>
   <string name="Randomised/Greeting6_Response_003_000">See you around then. &lt;wave&gt;</string>
   <string name="Randomised/Greeting7_Intro_000">Howdy!</string>
-  <string name="Randomised/Greeting7_Response_003_000">Thanks for </string>
+  <string name="Randomised/Greeting7_Response_003_000">Thanks for</string>
   <string name="Randomised/Greeting8_Intro_000">&lt;PlayerName&gt;!</string>
   <string name="Randomised/Greeting8_Response_003_000">Nice to see you!</string>
   <string name="Randomised/Greeting9_Intro_000">Hey, &lt;PlayerName&gt;.</string>

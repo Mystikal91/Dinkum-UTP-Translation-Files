@@ -99,7 +99,7 @@
   <string name="ToolTips/Hover_WellRested">Well Rested</string>
   <string name="ToolTips/Hover_Slightstaminarecoveryforagoodnightsrest">Slight stamina recovery for a good night's rest</string>
   <string name="ToolTips/Hover_Diligent">Diligent</string>
-  <string name="ToolTips/Hover_Toolsandweaponswontconsumedurability">Tools and weapons won't consume durability </string>
+  <string name="ToolTips/Hover_Toolsandweaponswontconsumedurability">Tools and weapons won't consume durability</string>
   <string name="ToolTips/Hover_Sickness">Sickness</string>
   <string name="ToolTips/Hover_Staminawontrecover">Stamina won't recover</string>
   <string name="ToolTips/Hover_FishingBuff">Fishing Buff</string>
@@ -114,7 +114,7 @@
   <string name="ToolTips/Hover_Healthrecoveredper20sec">Health recovered per 20 sec</string>
   <string name="ToolTips/Hover_DefenceBuff">Defence Buff</string>
   <string name="ToolTips/Hover_Decreasesdamagetaken">Decreases damage taken</string>
-  <string name="ToolTips/Hover_Sitting">Sitting </string>
+  <string name="ToolTips/Hover_Sitting">Sitting</string>
   <string name="ToolTips/Hover_Increaseshealthrecoveryspeed">Increases health recovery speed</string>
   <string name="ToolTips/Hover_SpeedBuff">Speed Buff</string>
   <string name="ToolTips/Hover_Increasesmovementspeed">Increases movement speed</string>

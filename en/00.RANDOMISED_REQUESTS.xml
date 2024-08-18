@@ -10,7 +10,7 @@
   <string name="RandomisedRequests/AcceptHangOut_003_Intro_000">I'd love to hang out. &lt;glee&gt;</string>
   <string name="RandomisedRequests/AcceptHangOut_003_Intro_001">Lead the way!</string>
   <string name="RandomisedRequests/AlreadyHangingOutWithSomeone_000_Intro_000">Oh, I'm okay thanks. You and &lt;followedByName&gt; have fun, okay?</string>
-  <string name="RandomisedRequests/AlreadyHangingOutWithSomeone_001_Intro_000">Actually, it looks like you and &lt;followedByName&gt; are having a good time. </string>
+  <string name="RandomisedRequests/AlreadyHangingOutWithSomeone_001_Intro_000">Actually, it looks like you and &lt;followedByName&gt; are having a good time.</string>
   <string name="RandomisedRequests/AlreadyHangingOutWithSomeone_001_Intro_001">I'd hate to be a third wheel! &lt;haha&gt;</string>
   <string name="RandomisedRequests/AlreadyHangingOutWithSomeone_002_Intro_000">Nah, it's okay thanks. You and &lt;followedByName&gt; have a good time!</string>
   <string name="RandomisedRequests/Birthday_GiftConvo_001_Intro_000">Oh, I can't believe you remembered my birthday!</string>
@@ -123,7 +123,7 @@
   <string name="RandomisedRequests/RequestItemInInv_001_Intro_001">I would like to buy &lt;requestItem&gt; you are carrying. How does &lt;buyRequestAmount&gt; sound?</string>
   <string name="RandomisedRequests/RequestItemInInv_001_Option_000">Deal.</string>
   <string name="RandomisedRequests/RequestItemInInv_001_Option_001">No deal.</string>
-  <string name="RandomisedRequests/RequestItemInInv_001_Response_000_000">Thank you so much! </string>
+  <string name="RandomisedRequests/RequestItemInInv_001_Response_000_000">Thank you so much!</string>
   <string name="RandomisedRequests/RequestItemInInv_001_Response_001_000">No worries.</string>
   <string name="RandomisedRequests/RequestLogging_001_Intro_000">Oh, &lt;PlayerName&gt;. You have a logging licence, right?</string>
   <string name="RandomisedRequests/RequestLogging_001_Intro_001">Think you could help me out and russle up &lt;requestItem&gt;?</string>

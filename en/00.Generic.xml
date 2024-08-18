@@ -248,10 +248,10 @@
   <string name="Generic/GivenCorrectShippingItem_Intro_002">Here is your &lt;BulletinBoardReward&gt;!</string>
   <string name="Generic/GivenSmeltingIngredient_Intro_000">Thank you, &lt;PlayerName&gt;.</string>
   <string name="Generic/GivenSmeltingIngredient_Intro_001">Take these &lt;BulletinBoardReward&gt;. I just like smelting them and I don't really need them.</string>
-  <string name="Generic/IntroToQuest_Intro_001"> You up for it?</string>
+  <string name="Generic/IntroToQuest_Intro_001">You up for it?</string>
   <string name="Generic/IntroToQuest_Intro_002">That’s a tool I think will be very handy, indeed!</string>
   <string name="Generic/IntroToQuest_Intro_003">I think we should try and make enough money to buy a &lt;itemName&gt; from &lt;NPCName&gt;.</string>
-  <string name="Generic/IntroToQuest_Intro_004">Here is my half of the Dinks. The rest is up to you! </string>
+  <string name="Generic/IntroToQuest_Intro_004">Here is my half of the Dinks. The rest is up to you!</string>
   <string name="Generic/IntroToQuest_Intro_005">Maybe you could go catch some of the bugs around here?</string>
   <string name="Generic/IntroToQuest_Intro_006">Or maybe you could cook some of that fruit you found?</string>
   <string name="Generic/IntroToQuest_Intro_007">&lt;glee&gt;For every milestone you surpass, you’ll be rewarded with &lt;PermitPoints&gt;.</string>
@@ -268,9 +268,8 @@
   <string name="Generic/IntroToQuest_Option_001">Not yet.</string>
   <string name="Generic/IntroToQuest_Option_002">Not yet.</string>
   <string name="Generic/IntroToQuest_Response_000_000">If we are going to build anything around here we’re going to need materials.</string>
-  <string name="Generic/IntroToQuest_Response_000_001">I reckon we need to wood and Tin. </string>
-  <string name="Generic/IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood.
-\n &lt;yes&gt;</string>
+  <string name="Generic/IntroToQuest_Response_000_001">I reckon we need to wood and Tin.</string>
+  <string name="Generic/IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood. &lt;yes&gt;</string>
   <string name="Generic/IntroToQuest_Response_000_003">But Tin? That’s a bit trickier. I’ve seen it around the island poking out of rocks here and there. It’s a dark ore. You’ll know it if you see it.&lt;yes&gt;</string>
   <string name="Generic/IntroToQuest_Response_000_004">Now, we’re going to need to smelt it down into bars before we can use the Tin Ore for building things. &lt;thinking&gt;</string>
   <string name="Generic/IntroToQuest_Response_000_005">Go give the island a bit of a looky-loo for &lt;questRequiredItems&gt;.</string>
@@ -295,7 +294,7 @@
   <string name="Generic/Intro_Intro_006">I’ve already applied for the &lt;itemName&gt;.</string>
   <string name="Generic/Intro_Intro_007">&lt;yes&gt;So, come and speak to me if you think we are ready to build it.</string>
   <string name="Generic/MoveInRequest_Intro_000">Hey, &lt;PlayerName&gt;.</string>
-  <string name="Generic/MoveInRequest_Intro_001">I've decided I really like it here. </string>
+  <string name="Generic/MoveInRequest_Intro_001">I've decided I really like it here.</string>
   <string name="Generic/MoveInRequest_Intro_002">So, I spoke to Fletch, and I've applied for a deed so I can set up a permanent store here in town.</string>
   <string name="Generic/MoveInRequest_Intro_003">I hope I can move in soon!</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
@@ -305,8 +304,7 @@
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
   <string name="Generic/MuseumMoveInRequest 1_Intro_002">What if we built a museum here?</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
-  <string name="Generic/MuseumMoveInRequest 1_Intro_003">Somewhere where we could gather all of the amazing things here for everyone to see?
-\n &lt;glee&gt;</string>
+  <string name="Generic/MuseumMoveInRequest 1_Intro_003">Somewhere where we could gather all of the amazing things here for everyone to see? &lt;glee&gt;</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
   <string name="Generic/MuseumMoveInRequest 1_Intro_004">I’ll talk to &lt;NPCName&gt; about applying for a &lt;itemName&gt;.</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Museum Deed -->
@@ -325,7 +323,7 @@
   <string name="Generic/Q_0_CompleteQuest_Intro_006">So please take your time to place your &lt;itemName&gt;.</string>
   <string name="Generic/Q_0_CompleteQuest_Intro_007">&lt;yes&gt;You’ll probably be visiting the Base Tent a fair bit.</string>
   <string name="Generic/Q_0_CompleteQuest_Intro_008">&lt;thinking&gt;So keep that in mind while you are looking for a spot to claim as your own.</string>
-  <string name="Generic/Q_0_CompleteQuest_Intro_009">I’ll be inside the Base Tent getting things ready. </string>
+  <string name="Generic/Q_0_CompleteQuest_Intro_009">I’ll be inside the Base Tent getting things ready.</string>
   <string name="Generic/Q_0_CompleteQuest_Intro_010">Come and speak to me once you’ve placed your &lt;itemName&gt;.</string>
   <!-- Talking about NPC: John. Talking about Item: Tent -->
   <string name="Generic/Quest_0_CompleteQuest_Intro_000">So, this is where you decided to build, huh?</string>
@@ -346,7 +344,7 @@
   <!-- Talking about NPC: John. Talking about Item: Tent -->
   <string name="Generic/Quest_0_CompleteQuest_Intro_008">&lt;thinking&gt;So keep that in mind while you are looking for a spot to claim as your own.</string>
   <!-- Talking about NPC: John. Talking about Item: Tent -->
-  <string name="Generic/Quest_0_CompleteQuest_Intro_009">I’ll be inside the Base Tent getting things ready. </string>
+  <string name="Generic/Quest_0_CompleteQuest_Intro_009">I’ll be inside the Base Tent getting things ready.</string>
   <!-- Talking about NPC: John. Talking about Item: Tent -->
   <string name="Generic/Quest_0_CompleteQuest_Intro_010">Come and speak to me once you’ve placed your &lt;itemName&gt;.</string>
   <!-- Talking about NPC: Fletch. Talking about Item: Base Tent -->
@@ -383,7 +381,7 @@
   <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_006">To the east and west of the island are flat open plains. The ground is nice and flat, so it would be easy to build there.</string>
   <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_007">The coasts are a great place for fishing year-round. So if you like throwing a line, it might be worth setting up the &lt;itemName&gt; near the beach.</string>
   <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_008">&lt;haha&gt;The centre of the island is a desert. It’s hot and dry there, and it’s full of bugs!</string>
-  <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_009">&lt;yes&gt;But no matter where you decide we should build, being close to water is always a good idea. </string>
+  <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_009">&lt;yes&gt;But no matter where you decide we should build, being close to water is always a good idea.</string>
   <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_010">So if you want to set up inland anywhere, try and do it close to a river.</string>
   <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_000_011">&lt;haha&gt;I feel like that’s a lot to take in. Sorry about that, &lt;PlayerName&gt;!</string>
   <string name="Generic/Quest_0_TalkToWhileNotComplete_Response_001_000">It’s been a long time since I was here last! I was a little girl back then, so I’ll let you figure out how long ago that was! &lt;shy&gt;</string>
@@ -647,9 +645,9 @@
   <!-- Talking about Item: Berkonium Ore -->
   <string name="Generic/Quest_21_Intro_Intro_005">Please come back and speak to me once you have collected the &lt;itemName&gt;.</string>
   <!-- Talking about NPC: John. Talking about Item: Adventurer's Journal -->
-  <string name="Generic/Quest_2_CompleteQuest_Intro_000">So, we're all set for visitors, huh? </string>
+  <string name="Generic/Quest_2_CompleteQuest_Intro_000">So, we're all set for visitors, huh?</string>
   <!-- Talking about NPC: John. Talking about Item: Adventurer's Journal -->
-  <string name="Generic/Quest_2_CompleteQuest_Intro_001">Well done &lt;PlayerName&gt;! </string>
+  <string name="Generic/Quest_2_CompleteQuest_Intro_001">Well done &lt;PlayerName&gt;!</string>
   <!-- Talking about NPC: John. Talking about Item: Adventurer's Journal -->
   <string name="Generic/Quest_2_CompleteQuest_Intro_002">&lt;pumped&gt;We’ve only been here for a little while, but you’ve achieved so much already!</string>
   <!-- Talking about NPC: John. Talking about Item: Adventurer's Journal -->
@@ -835,7 +833,7 @@
   <!-- Talking about NPC: John. Talking about Item: Bug Net -->
   <string name="Generic/Quest_4_IntroToQuest_Option_001">I'm ready for bed!</string>
   <!-- Talking about NPC: John. Talking about Item: Bug Net -->
-  <string name="Generic/Quest_4_IntroToQuest_Response_000_000">&lt;haha&gt;I’m sure you will! </string>
+  <string name="Generic/Quest_4_IntroToQuest_Response_000_000">&lt;haha&gt;I’m sure you will!</string>
   <!-- Talking about NPC: John. Talking about Item: Bug Net -->
   <string name="Generic/Quest_4_IntroToQuest_Response_000_001">Oh and before I forget, take this &lt;itemName&gt; too.</string>
   <!-- Talking about NPC: John. Talking about Item: Bug Net -->
@@ -865,7 +863,7 @@
   <!-- Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Intro_000">We've done some good work today, &lt;PlayerName&gt;!</string>
   <!-- Talking about Item: Visiting Site Deed -->
-  <string name="Generic/Quest_4_TalkToWhileNotComplete_Intro_001">Take the rest of the day off! </string>
+  <string name="Generic/Quest_4_TalkToWhileNotComplete_Intro_001">Take the rest of the day off!</string>
   <!-- Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Intro_002">&lt;yes&gt;We've got more work to do tomorrow!</string>
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Option_000">Crafting a fire?</string>
@@ -879,7 +877,7 @@
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_001_001">&lt;yes&gt;Then all that's left to do it pop it on and wait!</string>
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_001_002">&lt;thinking&gt;You'll want to eat a lot of food to keep your energy up!</string>
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_002_000">There are a lot of bugs found only here on &lt;IslandName&gt;.</string>
-  <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_002_001">&lt;yes&gt;Everytime you catch a new one it will be added to your Pedia. </string>
+  <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_002_001">&lt;yes&gt;Everytime you catch a new one it will be added to your Pedia.</string>
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_002_002">Maybe you could challenge yourself to find them all?</string>
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_003_000">&lt;haha&gt;If you're ready for tomorrow, then sleeping will definetly bring tomorrow here faster!</string>
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_003_001">Just pop your &lt;itemName&gt; down on the floor.</string>
@@ -887,7 +885,7 @@
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_003_003">&lt;no&gt;If you want to sleep under the stars, I'm not going to stop you.</string>
   <string name="Generic/Quest_4_TalkToWhileNotComplete_Response_004_000">Thanks again for your help, &lt;PlayerName&gt;!</string>
   <!-- Talking about NPC: John. Talking about Item: Table Saw -->
-  <string name="Generic/Quest_5_CompleteQuest_Intro_000">Oh! So you bought the &lt;itemName&gt;! </string>
+  <string name="Generic/Quest_5_CompleteQuest_Intro_000">Oh! So you bought the &lt;itemName&gt;!</string>
   <!-- Talking about NPC: John. Talking about Item: Table Saw -->
   <string name="Generic/Quest_5_CompleteQuest_Intro_001">Well done, &lt;PlayerName&gt;!</string>
   <!-- Talking about NPC: John. Talking about Item: Table Saw -->
@@ -913,7 +911,7 @@
   <!-- Talking about NPC: John. Talking about Item: Table Saw -->
   <string name="Generic/Quest_5_IntroToQuest_Intro_003">I think we should try and make enough money to buy a &lt;itemName&gt; from &lt;NPCName&gt;.</string>
   <!-- Talking about NPC: John. Talking about Item: Table Saw -->
-  <string name="Generic/Quest_5_IntroToQuest_Intro_004">Here is my half of the Dinks. The rest is up to you! </string>
+  <string name="Generic/Quest_5_IntroToQuest_Intro_004">Here is my half of the Dinks. The rest is up to you!</string>
   <!-- Talking about Item: Table Saw -->
   <string name="Generic/Quest_5_TalkToWhileNotComplete_Intro_000">How goes the money making, &lt;PlayerName&gt;.</string>
   <!-- Talking about Item: Table Saw -->
@@ -965,7 +963,7 @@
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_6_IntroToQuest_Intro_000">&lt;shy&gt;I’ve got another job for you, &lt;PlayerName&gt;.</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
-  <string name="Generic/Quest_6_IntroToQuest_Intro_001"> You up for it?</string>
+  <string name="Generic/Quest_6_IntroToQuest_Intro_001">You up for it?</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_6_IntroToQuest_Option_000">I'm ready!</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
@@ -1058,10 +1056,9 @@
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_7_IntroToQuest_Response_000_000">If we are going to build anything around here we’re going to need materials.</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
-  <string name="Generic/Quest_7_IntroToQuest_Response_000_001">I reckon we need to wood and Tin. </string>
+  <string name="Generic/Quest_7_IntroToQuest_Response_000_001">I reckon we need to wood and Tin.</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
-  <string name="Generic/Quest_7_IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood.
-\n &lt;yes&gt;</string>
+  <string name="Generic/Quest_7_IntroToQuest_Response_000_002">Now, wood? That’s easy. You chop down a tree and then you’ve got some wood. &lt;yes&gt;</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
   <string name="Generic/Quest_7_IntroToQuest_Response_000_003">But Tin? That’s a bit trickier. I’ve seen it around the island poking out of rocks here and there. It’s a dark ore. You’ll know it if you see it.&lt;yes&gt;</string>
   <!-- Talking about NPC: John. Talking about Item: Visiting Site Deed -->
@@ -1171,7 +1168,7 @@
   <string name="Generic/TalkToWhileNotComplete_Response_000_006">To the east and west of the island are flat open plains. The ground is nice and flat, so it would be easy to build there.</string>
   <string name="Generic/TalkToWhileNotComplete_Response_000_007">The coasts are a great place for fishing year-round. So if you like throwing a line, it might be worth setting up the &lt;itemName&gt; near the beach.</string>
   <string name="Generic/TalkToWhileNotComplete_Response_000_008">&lt;haha&gt;The centre of the island is a desert. It’s hot and dry there, and it’s full of bugs!</string>
-  <string name="Generic/TalkToWhileNotComplete_Response_000_009">&lt;yes&gt;But no matter where you decide we should build, being close to water is always a good idea. </string>
+  <string name="Generic/TalkToWhileNotComplete_Response_000_009">&lt;yes&gt;But no matter where you decide we should build, being close to water is always a good idea.</string>
   <string name="Generic/TalkToWhileNotComplete_Response_000_010">So if you want to set up inland anywhere, try and do it close to a river.</string>
   <string name="Generic/TalkToWhileNotComplete_Response_000_011">&lt;haha&gt;I feel like that’s a lot to take in. Sorry about that, &lt;PlayerName&gt;!</string>
   <string name="Generic/TalkToWhileNotComplete_Response_001_000">You can craft the &lt;itemName&gt; at the Crafting Table in the Base Tent.</string>
@@ -1196,7 +1193,7 @@
   <string name="Generic/TradeCompleteConvo_Option_001">No thank you.</string>
   <string name="Generic/TradeCompleteConvo_Response_000_000">Alright, let's see what you have!</string>
   <string name="Generic/TradeCompleteConvo_Response_001_000">No problems.</string>
-  <string name="Generic/TradeSameItem_Intro_000">Wait a second. . . This is a &lt;BulletinBoardReward&gt; . I'm trying to get rid of my &lt;BulletinBoardReward&gt; ! </string>
+  <string name="Generic/TradeSameItem_Intro_000">Wait a second. . . This is a &lt;BulletinBoardReward&gt; . I'm trying to get rid of my &lt;BulletinBoardReward&gt; !</string>
   <string name="Generic/TradeSameItem_Intro_001">&lt;haha&gt; I guess we're right where we started! Here, you can have this back.</string>
   <string name="Generic/TradeWrongTypeOfItem_Intro_000">Ah . . . This isn't what I'm after.</string>
   <string name="Generic/TradeWrongTypeOfItem_Intro_001">You can have this back.</string>
@@ -1233,7 +1230,7 @@
   <string name="Generic/RandomConvo_002_Intro_001">&lt;yes&gt;That’s fine though.</string>
   <string name="Generic/RandomConvo_002_Intro_002">&lt;proud&gt;After all, things in a museum are for looking at, not touching.</string>
   <string name="Generic/RandomConvo_003_Intro_000">&lt;thinking&gt;I’ve been wondering if there could be a way to catalogue air?</string>
-  <string name="Generic/RandomConvo_003_Intro_001">Would you be interested in seeing an air exhibit, &lt;PlayerName&gt;? </string>
+  <string name="Generic/RandomConvo_003_Intro_001">Would you be interested in seeing an air exhibit, &lt;PlayerName&gt;?</string>
   <string name="Generic/RandomConvo_003_Option_000">Oh yeah!</string>
   <string name="Generic/RandomConvo_003_Option_001">Not Really</string>
   <string name="Generic/RandomConvo_003_Response_000_000">&lt;glee&gt; See, I had a feeling you were a fellow air-head!</string>
@@ -1254,7 +1251,7 @@
   <string name="Generic/RandomConvo_007_Intro_001">&lt;worried&gt; Oh no!</string>
   <string name="Generic/RandomConvo_007_Intro_002">&lt;no&gt;I don’t mean I’m going to cut them open!</string>
   <string name="Generic/RandomConvo_007_Intro_003">&lt;proud&gt;Here at the &lt;IslandName&gt; museum we only study by observing!</string>
-  <string name="Generic/RandomConvo_008_Intro_000"> &lt;thinking&gt;Imagine if we could take everything on &lt;IslandName&gt; and put it in a museum!</string>
+  <string name="Generic/RandomConvo_008_Intro_000">&lt;thinking&gt;Imagine if we could take everything on &lt;IslandName&gt; and put it in a museum!</string>
   <string name="Generic/RandomConvo_008_Intro_001">&lt;proud&gt;That way, when people wanted to see a certain thing, they could just make their way to that wing!</string>
   <string name="Generic/RandomConvo_009_Intro_000">Studying things is just my job.</string>
   <string name="Generic/RandomConvo_009_Intro_001">&lt;yes&gt;I have plenty of other hobbies.</string>
@@ -1346,7 +1343,7 @@
   <string name="Generic/Quest_TalkAboutFoodIntro_Option_004">Nevermind</string>
   <string name="Generic/Quest_TalkAboutFoodIntro_Response_000_000">Hard yakka requires stamina!</string>
   <string name="Generic/Quest_TalkAboutFoodIntro_Response_000_001">That means, for every task you do, you’ll use up your stamina.</string>
-  <string name="Generic/Quest_TalkAboutFoodIntro_Response_000_002">So, it's a good idea to eat before you do tasks. </string>
+  <string name="Generic/Quest_TalkAboutFoodIntro_Response_000_002">So, it's a good idea to eat before you do tasks.</string>
   <string name="Generic/Quest_TalkAboutFoodIntro_Response_000_003">&lt;proud&gt;That will help keep your stamina up.</string>
   <string name="Generic/Quest_TalkAboutFoodIntro_Response_000_004">&lt;shy&gt;Some foods offer more stamina than others, but you’ll get the hang of that.</string>
   <string name="Generic/Quest_TalkAboutFoodIntro_Response_000_005">&lt;worried&gt;If you run out of stamina, you’re going to get tired.</string>

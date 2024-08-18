@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="RandomisedComments/CharacterInTentComment_000_Intro_000">I went in and had a chat to &lt;marketPlaceNPCName&gt; in the tent at the Visitor's Site. </string>
+  <string name="RandomisedComments/CharacterInTentComment_000_Intro_000">I went in and had a chat to &lt;marketPlaceNPCName&gt; in the tent at the Visitor's Site.</string>
   <string name="RandomisedComments/CharacterInTentComment_000_Intro_001">&lt;shy&gt;I might have given them a hint that they should move here for real!</string>
   <string name="RandomisedComments/CharacterInTentComment_001_Intro_000">&lt;marketPlaceNPCName&gt; is visiting today!</string>
   <string name="RandomisedComments/CharacterInTentComment_001_Intro_001">&lt;pumped&gt;I might have to go visit!</string>

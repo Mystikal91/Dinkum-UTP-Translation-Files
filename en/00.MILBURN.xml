@@ -15,8 +15,7 @@
   <string name="MILBURN/CompleteRequest_000_Intro_002">I suppose you would like a reward now?</string>
   <string name="MILBURN/Introduction_010_Intro_000">&lt;PlayerName&gt; I assume?</string>
   <string name="MILBURN/Introduction_010_Intro_001">&lt;proud&gt;My name is &lt;myName&gt;.</string>
-  <string name="MILBURN/Introduction_010_Intro_002">&lt;yes&gt;I am the new banker here on &lt;IslandName&gt;
-\n.</string>
+  <string name="MILBURN/Introduction_010_Intro_002">&lt;yes&gt;I am the new banker here on &lt;IslandName&gt;.</string>
   <string name="MILBURN/Introduction_010_Intro_003">Am I to understand that you were instrumental in getting my magnificent bank built?</string>
   <string name="MILBURN/Introduction_010_Intro_004">&lt;proud&gt;Well, trust me, the honour is all yours for having &lt;myName&gt; here on your tiny little island.</string>
   <string name="MILBURN/Introduction_010_Intro_005">Hmph. Using my bank will be free, of course.</string>
@@ -85,7 +84,7 @@
   <string name="MILBURN/RandomConvo_008_Intro_001">&lt;proud&gt;I was constantly getting recognised.</string>
   <string name="MILBURN/RandomConvo_008_Intro_002">&lt;no&gt;Why, I could hardly walk down the street without being booed.</string>
   <string name="MILBURN/RandomConvo_009_Intro_000">&lt;thinking&gt;They say &lt;Dinks&gt; make the world go around...</string>
-  <string name="MILBURN/RandomConvo_009_Intro_001">But go around where? </string>
+  <string name="MILBURN/RandomConvo_009_Intro_001">But go around where?</string>
   <string name="MILBURN/RandomConvo_009_Intro_002">How many?</string>
   <string name="MILBURN/RandomConvo_009_Intro_003">&lt;angry&gt;And, more importantly, what’s the world doing going around with my &lt;Dinks&gt;?</string>
   <string name="MILBURN/RandomConvo_010_Intro_000">&lt;no&gt;I don’t really have time to talk right now.</string>
@@ -142,14 +141,14 @@
   <string name="MILBURN/RandomConvo_025_Intro_003">&lt;yes&gt;Oh, the servants tried their best, of course.</string>
   <string name="MILBURN/RandomConvo_025_Intro_004">&lt;no&gt;It was impossible to find good help.</string>
   <string name="MILBURN/RandomConvo_026_Intro_000">&lt;yes&gt;People in charge should stay in charge.</string>
-  <string name="MILBURN/RandomConvo_026_Intro_001">&lt;thinking&gt;It’s so obvious, really. </string>
+  <string name="MILBURN/RandomConvo_026_Intro_001">&lt;thinking&gt;It’s so obvious, really.</string>
   <string name="MILBURN/RandomConvo_026_Intro_002">Experience, see.</string>
   <string name="MILBURN/RandomConvo_026_Intro_003">&lt;no&gt;Can’t beat it.</string>
   <string name="MILBURN/RandomConvo_027_Intro_000">&lt;no&gt;I feel like there are FAR too many resources here on &lt;IslandName&gt;!</string>
   <string name="MILBURN/RandomConvo_027_Intro_001">If everybody has everything they need, what’s the point of being rich?</string>
   <string name="MILBURN/RandomConvo_027_Intro_002">&lt;proud&gt;Hmph.</string>
   <string name="MILBURN/RandomConvo_027_Intro_003">&lt;thinking&gt;How will people know I’m better than them?</string>
-  <string name="MILBURN/RandomConvo_028_Intro_000">Remember, &lt;PlayerName&gt;, if everybody can afford your services, </string>
+  <string name="MILBURN/RandomConvo_028_Intro_000">Remember, &lt;PlayerName&gt;, if everybody can afford your services,</string>
   <string name="MILBURN/RandomConvo_028_Intro_001">&lt;pumped&gt;You aren’t charging enough.</string>
   <string name="MILBURN/RandomConvo_029_Intro_000">&lt;glee&gt;You’ll be happy to hear that I’ve reinforced the pockets of my suit.</string>
   <string name="MILBURN/RandomConvo_029_Intro_001">&lt;yes&gt;&lt;Dinks&gt; can be quite heavy, you know.</string>
@@ -166,14 +165,13 @@
   <string name="MILBURN/RandomConvo_033_Intro_001">&lt;yes&gt;I’ve got to say, you are always very helpful when it comes to fulfilling my requests.</string>
   <string name="MILBURN/RandomConvo_033_Intro_002">Luckily, I always reward you accordingly, so a thanks isn’t really required here, is it?</string>
   <string name="MILBURN/RandomConvo_034_Intro_000">If I had to guess, you might be the second wealthiest person on &lt;IslandName&gt;, &lt;PlayerName&gt;.</string>
-  <string name="MILBURN/RandomConvo_034_Intro_001">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed.
-\n..</string>
+  <string name="MILBURN/RandomConvo_034_Intro_001">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed...</string>
   <string name="MILBURN/RandomConvo_035_Intro_000">&lt;shy&gt;&lt;IslandName&gt; isn’t that bad after you spend a while here, I guess.</string>
   <string name="MILBURN/RandomConvo_035_Intro_001">&lt;no&gt;Oh, please, don’t get me wrong, &lt;PlayerName&gt;.</string>
   <string name="MILBURN/RandomConvo_035_Intro_002">&lt;proud&gt;As soon as I get the chance I’m going to return to my lovely abode back in &lt;SouthCity&gt;.</string>
   <string name="MILBURN/RandomConvo_035_Intro_003">&lt;yes&gt;I have an indoor swimming pool there you know.</string>
   <string name="MILBURN/RandomConvo_035_Intro_004">&lt;proud&gt;It’s full of &lt;Dinks&gt;!</string>
-  <string name="MILBURN/TownMention_Level_001_Intro_000">&lt;proud&gt;Hmph, &lt;SouthCity&gt; is so much better than &lt;IslandName&gt;. </string>
+  <string name="MILBURN/TownMention_Level_001_Intro_000">&lt;proud&gt;Hmph, &lt;SouthCity&gt; is so much better than &lt;IslandName&gt;.</string>
   <string name="MILBURN/TownMention_Level_001_Intro_001">&lt;yes&gt;There are so many more people willing to put money into banks and the like.</string>
   <string name="MILBURN/TownMention_Level_002_Intro_000">Hmph, I must admit, &lt;IslandName&gt; is somewhat of an up and coming place to be.</string>
   <string name="MILBURN/TownMention_Level_002_Intro_001">&lt;thinking&gt;Maybe I should invest in some property here...</string>
@@ -215,7 +213,7 @@
   <!-- Talking about NPC: Fletch -->
   <string name="MILBURN/SkyFest_Noon_010_Intro_003">&lt;angry&gt;Poorly planned.</string>
   <!-- Talking about Item: ADM -->
-  <string name="MILBURN/Buy_ATM_Convo_Intro_000">Hmmph. </string>
+  <string name="MILBURN/Buy_ATM_Convo_Intro_000">Hmmph.</string>
   <!-- Talking about Item: ADM -->
   <string name="MILBURN/Buy_ATM_Convo_Intro_001">So that &lt;buyItemName&gt; has caught your eye?</string>
   <!-- Talking about Item: ADM -->
@@ -236,8 +234,7 @@
   <string name="MILBURN/Buy_ATM_Convo_Response_000_001">I hope you enjoy it.</string>
   <!-- Talking about Item: ADM -->
   <string name="MILBURN/Buy_ATM_Convo_Response_001_000">&lt;no&gt;Very well then.</string>
-  <string name="MILBURN/">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed.
-\n..</string>
+  <string name="MILBURN/">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed...</string>
   <string name="MILBURN/JimmyWorkConvo_Intro_000">Welcome back, &lt;PlayerName&gt;.</string>
   <string name="MILBURN/JimmyWorkConvo_Intro_001">Are you here to talk business?</string>
   <string name="MILBURN/JimmyWorkConvo_Option_000">Want to buy anything?</string>
@@ -253,7 +250,7 @@
   <string name="MILBURN/LongConvo_001_Intro_003">Unfortunately she demanded that I get out of &lt;SouthCity&gt;.</string>
   <string name="MILBURN/LongConvo_001_Intro_004">&lt;no&gt;Can you believe she demanded that I go start a business if I wanted to inherit her money!</string>
   <string name="MILBURN/LongConvo_001_Intro_005">&lt;no&gt;Even in death, that woman is so selfish.</string>
-  <string name="MILBURN/LongConvo_002_Intro_000">My family were some of the first to make it to &lt;SouthCity&gt; back when the world was going south. </string>
+  <string name="MILBURN/LongConvo_002_Intro_000">My family were some of the first to make it to &lt;SouthCity&gt; back when the world was going south.</string>
   <string name="MILBURN/LongConvo_002_Intro_001">We got in very early. I guess you could say we had first class tickets!</string>
   <string name="MILBURN/LongConvo_002_Intro_002">I’ve been told that things were very good before more and more riff-raff started turning up.</string>
   <string name="MILBURN/LongConvo_002_Intro_003">&lt;no&gt;Wanting to be fed, wanting a place to sleep and generally just wanting more than they could afford.</string>
