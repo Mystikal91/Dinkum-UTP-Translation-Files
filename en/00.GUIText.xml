@@ -98,6 +98,8 @@
   <!-- On sign writing window -->
   <string name="GUIText/Done">Done</string>
   <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Keeping Track of recipe ingredients</string>
+  <string name="GUIText/Finishwiththemirrorandapplythesechanges">Finish with the mirror and apply these changes?</string>
+  <string name="GUIText/Apply">Apply</string>
   <string name="GUIText/Staminaandhealth">Stamina and health</string>
   <string name="GUIText/Buffs">Buffs</string>
   <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1. 
