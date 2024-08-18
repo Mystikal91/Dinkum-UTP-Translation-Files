@@ -68,7 +68,7 @@
   <string name="GUIText/Thefishlookhappy">The fish look happy!</string>
   <string name="GUIText/Map">Map</string>
   <string name="GUIText/ItemsRequired">Items Required</string>
-  <string name="GUIText/DinksEarned" autoSizeTextContainer="True">Dinks Earned</string>
+  <string name="GUIText/DinksEarned" resizable="True">Dinks Earned</string>
   <string name="GUIText/Teletothistower">Tele to this tower?</string>
   <string name="GUIText/loading">loading</string>
   <string name="GUIText/saving">saving</string>
