@@ -38,7 +38,7 @@
     <string name="Bulletinboard/Post_CraftingRequestTemplate_Title">Richiesta di Costruzione</string>
     <string name="Bulletinboard/Post_HuntingRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt;</string>
     <string name="Bulletinboard/Post_PhotoRequestTemplate_Title">Richiesta di Foto</string>
-    <string name="Bulletinboard/Post_PhotoRequestTemplate_Content">Mi piacerebbe vedere una foto di &lt;getAnimalsInPhotoList&gt;.</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Content">Mi piacerebbe vedere una foto &lt;getAnimalsInPhotoList&gt;.</string>
     <string name="Bulletinboard/Post_PresentDropBoardTemplate_Title">Richiesta di Indagine</string>
     <string name="Bulletinboard/Post_PresentDropBoardTemplate_Content">Forse penserai che sono pazzo, ma giuro di aver visto dei Cervanguri volare nel cielo ieri sera.
 \n
