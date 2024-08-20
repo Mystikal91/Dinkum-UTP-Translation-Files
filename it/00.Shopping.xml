@@ -19,13 +19,13 @@
     <string name="Shopping/NeedLicence_Intro_001">Sfortunatamente non posso vendertelo fin quando non hai una &lt;licenceType&gt;. &lt;no&gt;</string>
     <string name="Shopping/NoSpaceInInvToBuy_Intro_002">Torna a trovarmi quando avrai meno cose da portare in giro! &lt;haha&gt;</string>
     <string name="Shopping/AskAboutBoomBox_Response_000_001">&lt;boohoo&gt;Per favore, prenditi cura di lei.</string>
-    <string name="Shopping/AskAboutBoomBox_Intro_004">Immagino che possa lasciarla andare per &lt;buyItemPrice&gt;?</string>
+    <string name="Shopping/AskAboutBoomBox_Intro_004">Immagino che possa lasciarlo andare per &lt;buyItemPrice&gt;?</string>
     <string name="Shopping/AskAboutItem_Intro_002">Il prezzo é di &lt;buyItemPrice&gt;?</string>
     <string name="Shopping/AskAboutSeeds_Intro_002">Costano &lt;buyItemPrice&gt; l\'uno. Interessano?</string>
     <string name="Shopping/SomethingToSell_Intro_001">In tutto, posso offrirti &lt;$&gt;?</string>
     <string name="Shopping/AskAboutSeeds_Response_001_000">Non preoccuparti! Non farti problemi a chiedere riguardo i nostri altri prodotti. &lt;glee&gt;</string>
     <string name="Shopping/AskAboutBoomBox_Response_001_000">È tutto okay, &lt;PlayerName&gt;.</string>
-    <string name="Shopping/AskAboutBoomBox_Response_001_001">&lt;shy&gt;Non so se sarei riuscito a venderla comunque...</string>
+    <string name="Shopping/AskAboutBoomBox_Response_001_001">&lt;shy&gt;Non so se sarei riuscito a venderlo comunque...</string>
     <string name="Shopping/AskAboutBoomBox_Response_001_002">Come ho detto, é unica nel suo genere...</string>
     <string name="Shopping/AskAboutItem_Option_000">Ci sto!</string>
     <string name="Shopping/AskAboutItem_Response_000_000">Molto bene! &lt;yes&gt;</string>
@@ -59,7 +59,7 @@
     <string name="Shopping/AskAboutBoomBox_Intro_003">&lt;thinking&gt;A meno che...</string>
     <string name="Shopping/AskAboutBoomBox_Option_000">La prendo!</string>
     <string name="Shopping/AskAboutBoomBox_Response_000_000">&lt;yes&gt;Mi hai convinto con le parole, &lt;PlayerName&gt;.</string>
-    <string name="Shopping/AskAboutBoomBox_Intro_001">È un cimelio di famiglia. Unica nel suo genere.</string>
+    <string name="Shopping/AskAboutBoomBox_Intro_001">È un cimelio di famiglia. Unico nel suo genere.</string>
     <string name="Shopping/AskAboutAnimal_Intro_000">Oh! Quello é un &lt;buyItemName&gt;.</string>
     <string name="Shopping/NotEnoughMoneyToBuy_Intro_000">Oh... Sembra che tu non possa permettertelo al momento. &lt;shy&gt;</string>
     <string name="Shopping/SomethingToSell_Intro_000">&lt;thinking&gt;Fammi vedere...</string>
