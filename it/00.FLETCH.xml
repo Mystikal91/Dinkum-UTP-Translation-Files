@@ -592,7 +592,7 @@
     <string name="FLETCH/SkyFest_Morning_006_Response_000_004">&lt;glee&gt;Spero che anche tu ti unisca a noi, &lt;PlayerName&gt;.</string>
     <string name="FLETCH/SkyFest_Morning_006_Response_002_001">Non dimenticare di tornare più tardi per ricevere il tuo &lt;itemName&gt;!</string>
     <string name="FLETCH/FirstIntroInGame_Intro_003">&lt;haha&gt;Quando sei stata la prima e unica persona a rispondere al mio annuncio, ho capito che eri la persona giusta per questo lavoro!</string>
-    <string name="FLETCH/Quest_22_Intro_Intro_001">&lt;glee&gt;&lt;PlayerName&gt;Mi è stata appena inviata l\'autorizzazione per costruire un aeroporto qui su &lt;IslandName&gt;.</string>
+    <string name="FLETCH/Quest_22_Intro_Intro_001">&lt;glee&gt;&lt;PlayerName&gt;, mi è stata appena inviata l\'autorizzazione per costruire un aeroporto qui su &lt;IslandName&gt;.</string>
     <string name="FLETCH/SkyFest_Morning_006_Response_001_000">Verso le 11:00 tutti si metteranno a realizzare un &lt;Kite&gt;!</string>
     <string name="FLETCH/SkyFest_Morning_006_Response_001_001">Vieni a parlare con me verso le 11:00 per ottenere il tuo &lt;itemName&gt;.</string>
     <string name="FLETCH/SkyFest_Morning_006_Response_001_002">&lt;proud&gt;Ne ho abbastanza per tutti!</string>
@@ -627,7 +627,7 @@
     <string name="FLETCH/FirstIntroInGame_Intro_004">&lt;no&gt;Oh perbacco, guarda la vecchia &lt;myName&gt; come blatera...</string>
     <string name="FLETCH/FirstIntroInGame_Intro_005">All\'opera, &lt;PlayerName&gt;!</string>
     <string name="FLETCH/FirstIntroInGame_Intro_006">Ci vediamo fuori, okay?</string>
-    <string name="FLETCH/Quest_22_Intro_Intro_002">&lt;thinking&gt;Vedi, attualmente un\'&lt;AirShips&gt; può solo atterrare su &lt;IslandName&gt;.</string>
+    <string name="FLETCH/Quest_22_Intro_Intro_002">&lt;thinking&gt;Vedi, attualmente le &lt;AirShips&gt; possono solo atterrare su &lt;IslandName&gt;.</string>
     <string name="FLETCH/Quest_22_Intro_Intro_003">&lt;yes&gt;Ma, con un aeroporto, potremmo partire da &lt;IslandName&gt; e visitare alcune delle isole minori nel grande ignoto!</string>
     <string name="FLETCH/Quest_22_Intro_Intro_004">&lt;glee&gt;Ti prego di venire a parlare con me degli atti disponibili quando vorrai costruire l\'aeroporto.</string>
     <string name="FLETCH/CloseDeedWindow_Intro_002">Ti prego di venire a trovarmi se cambierai di nuovo idea! &lt;haha&gt;</string>
