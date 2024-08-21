@@ -163,4 +163,26 @@
     <string name="GUIText/EnterFreeCam">Entrar no Modo Câmera Livre</string>
     <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Acompanhando os ingredientes da Receita</string>
     <string name="GUIText/ConfirmConversion">Confirmar conversão</string>
+    <string name="GUIText/Finishwiththemirrorandapplythesechanges">Terminar com o espelho e aplicar essas alterações?</string>
+    <string name="GUIText/Apply">Aplicar</string>
+    <string name="GUIText/saving">salvando</string>
+    <string name="GUIText/CompletedLicences">Licenças concluídas</string>
+    <string name="GUIText/TownDebtIncrease">Aumento da dívida da cidade</string>
+    <string name="GUIText/Buildingmaterialsrequiredoncedplaced">Materiais de construção necessários uma vez colocados</string>
+    <string name="GUIText/SelectImage">Selecione a imagem</string>
+    <string name="GUIText/GameSaved">Jogo salvo</string>
+    <string name="GUIText/MainColour">Cor Principal</string>
+    <string name="GUIText/TrimColour">Cor do acabamento</string>
+    <string name="GUIText/BuildingsName">Nome do edifício</string>
+    <string name="GUIText/UseyourHouseCustomisationKittoapplythesechanges">Use o seu
+\n<b>Kit de personalização de casa</b>
+\npara aplicar essas mudanças?</string>
+    <string name="GUIText/Sessionhasended">A sessão terminou.</string>
+    <string name="GUIText/ReturnToMenu">Retornar ao menu</string>
+    <string name="GUIText/Whatsthename">Qual é o nome?</string>
+    <string name="GUIText/Buy">Comprar</string>
+    <string name="GUIText/Order">Encomendar</string>
+    <string name="GUIText/Ordercomplete">Encomenda concluída!</string>
+    <string name="GUIText/Youhavebeendisconnected">Você foi desconectado.</string>
+    <string name="GUIText/Youwillrecievetheiteminthemailbytomorrow">Você receberá o item pelo correio até amanhã.</string>
 </resources>
