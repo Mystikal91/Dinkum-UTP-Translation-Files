@@ -325,184 +325,363 @@
   <string name="IRWIN/SkyFest_Noon_007_Intro_002">I’ve made a beauty of a &lt;Kite&gt;.</string>
   <!-- Talking about NPC: Fletch -->
   <string name="IRWIN/SkyFest_Noon_007_Intro_003">Can’t wait to fly it around!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_0">You seem like you’ve got a really kind heart.</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_1">That’s so sweet. What makes you say that?</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_2">The effort you put into nurturing those plants. It’s unreal!</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_3">Everything deserves a chance to like, grow, right?</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_4">Spot on, I reckon.</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_0">You ever thought about getting a pet?</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_1">No way. I mean, like, Pleep are so soft and friendly, but, I get like, really forgetful sometimes?</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_2">You're worried you wouldn’t be able to take care of one properly?</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_3">Yeah, exactly!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_4">Don’t worry about that, mate, they’re pretty good at reminding you if they’re hungry.</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_5">Just like people, then!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_6">Too right!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_2_Line_0">How’s the soil game, love?</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_2_Line_1">It’s been like, off the hook!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_2_Line_2">Aw yeah?</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_2_Line_3">Yeah. I keep unearthing strange machines and freaky greasy parts.</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="IRWIN/BackAndForthConvo_Rayne_2_Line_4">People just throwing them away, eh? No respect for nature, I reckon.</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Rayne_2_Line_5">Yeah. It’s a little sad, but I kinda love it? It’s like a little adventure every time!</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_0_Line_0">Hey mate, I’ve been meaning to talk to you about that shovel you sold me.</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_0_Line_1">Don’t you just love it?</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_0_Line_2">Not really mate, no, the handle snapped off first time I used it.</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_0_Line_3">Aw yeah? I reckon I musta sold you a newer model by mistake.</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_0_Line_4">What’s the difference?</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_0_Line_5">Well, it’s convertible, yeah? Folds away for easy storage.</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_0_Line_6">Storage? Mate, I’m storing it in my bin.</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_1_Line_0">How do you know you’re getting good quality Bush Limes in?</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_1_Line_1">No worries there, I don’t eat my own stock.</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_1_Line_2">What? Why not?</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_1_Line_3">Why would I eat my profits? Mate, they grow outside for free!</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_2_Line_0">I found this huge chunk of amber the other day. A real beauty, it was.</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_2_Line_1">Bring it round the shop mate, I’ll give you a great price for it.</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_2_Line_2">Aw yeah? How much?</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_2_Line_3">Depends how much it weighs. Just chuck it on the scales at the shop, and I’ll tell you.</string>
+  <!-- Said by Irwin talking to John -->
   <string name="IRWIN/BackAndForthConvo_John_2_Line_4">Can’t I just weigh it myself?</string>
+  <!-- Said by John talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_John_2_Line_5">Nah. I got these scales made special. Real special.</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_0_Line_0">So have you done any work on critters before?</string>
+  <!-- Said by Franklyn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_0_Line_1">No, but how hard can it possibly be? We are just simple machines, after all.</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_0_Line_2">I think there’s a bit more to it than that, mate.</string>
+  <!-- Said by Franklyn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_0_Line_3">I do not see you wearing a white coat.</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_0_Line_4">I’ve been meaning to ask you about that. What’s the go with it?</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_1_Line_0">It’s nice to see you turning all that trash into something useful.</string>
+  <!-- Said by Franklyn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_1_Line_1">It is only trash to the layman. There is a font of knowledge beneath our feet.</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_1_Line_2">The main thing is, you’re helping keep &lt;IslandName&gt; beautiful.</string>
+  <!-- Said by Franklyn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_1_Line_3">That is not the main thing.</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_1_Line_4">In a way, you’re sort of a bin-man extraordinaire!</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_2_Line_0">Another hard night of work, mate?</string>
+  <!-- Said by Franklyn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_2_Line_1">We shall see what tonight brings, yes.</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_2_Line_2">I don’t know how you do it. If I don’t get a solid ten hours rest, I’m bushed!</string>
+  <!-- Said by Franklyn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_2_Line_3">Ten whole hours of downtime? That sounds incredibly wasteful.</string>
+  <!-- Said by Irwin talking to Franklyn -->
   <string name="IRWIN/BackAndForthConvo_Franklyn_2_Line_4">I’d never call a good night’s sleep a waste!</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_0_Line_0">You musta seen some crazy things in your time.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_0_Line_1">Yeah mate.</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_0_Line_2">Must have a few stories, yeah?</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_0_Line_3">Yeah mate.</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_0_Line_4">Nice.</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_1_Line_0">You can tell you put a lot of care into your work.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_1_Line_1">No other way to do it.</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_1_Line_2">I admire that, I do, mate.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_1_Line_3">What’s that?</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_1_Line_4">A bit of care and attention. Professionalism. You’re a bloody legend, mate.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_1_Line_5">Nah. Just a fella with a chisel and a bit of free time, is all.</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_2_Line_0">You been gettin in those quality winks, old mate?</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_2_Line_1">Always do.</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="IRWIN/BackAndForthConvo_Melvin_2_Line_2">You beauty.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_0_Line_0">What do you reckon is your favourite material to work with?</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_0_Line_1">Dreams… always dreams. Only dreams.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_0_Line_2">That material will last a while, then?</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_0_Line_3">My, yes. The right one will last you a lifetime. The worst ones too.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_0">You got any new designs coming in?</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_1">Yeah! I’ve been working on a new stealth shirt.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_2">Aw yeah? Solid black then?</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_3">Not even close. It’s super bright with all kinds of patterns and colours.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_4">How’s that work? Everybody would be staring at you, yeah?</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_5">No way! It’s impossible to look at without throwing up.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_6">Oh.. cool? Nearly finished that one then?</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_1_Line_7">I don’t know. I just don’t know.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_2_Line_0">Hey, you were right about that thing the other day.</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_2_Line_1">I usually am.</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_2_Line_2">I just don’t get how you could possibly have known.</string>
+  <!-- Said by Clover talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Clover_2_Line_3">I get hunches sometimes, y’know?</string>
+  <!-- Said by Irwin talking to Clover -->
   <string name="IRWIN/BackAndForthConvo_Clover_2_Line_4">Yeah mate… but khaki? What are the odds I would have worn khaki that day?!</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_0">I swear this Jackaroo was trying to talk to me the other day.</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_1">Talk to you? With it’s voice?</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_2">Yeah! Well, sort of. It was kind of clicking? I understood it though, I think.</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_3">Wow. What did it say?</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_4">Something about little Timmy and a well?</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_5">Who’s Timmy?</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_6">Not sure. Must be one of his mates or something?</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_7">Makes sense. What happened next?</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_8">Well, it just hopped away!</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_9">Did you follow it?</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_0_Line_10">I tried, mate, but far out, are they fast!</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_1_Line_0">I can see why you wanted to come back here, this place is unreal!</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_1_Line_1">Yeah, there’s something about &lt;IslandName&gt; I just can’t shake, I’ll tell you what!</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_1_Line_2">It’s like I didn’t know I was alive til I had a Wary Mu bearing down on me. Crikey! The sight of it crashing through that lush beautiful foliage!</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_1_Line_3">It’s their island too, mate.</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_1_Line_4">Don’t I know it! I wouldn’t have it any other way.</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_2_Line_0">Your dad sounds like a true blue legend.</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_2_Line_1">He sure was, I’ll tell you what!</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_2_Line_2">Always doing something, always on the go, breaking new ground.</string>
+  <!-- Said by Fletch talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Fletch_2_Line_3">Yeah. I think that’s why &lt;SouthCity&gt; was so hard on him. All that potential and energy, and nothing to do with it.</string>
+  <!-- Said by Irwin talking to Fletch -->
   <string name="IRWIN/BackAndForthConvo_Fletch_2_Line_4">Such a shame. I reckon he’d be proud of you though, hey.</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_0_Line_0">Hey Shazza! Haven’t seen you in ages.</string>
+  <!-- Said by Sally talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sally_0_Line_1">Yeah, it’s been a while.</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_0_Line_2">You still shearing?</string>
+  <!-- Said by Sally talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sally_0_Line_3">Until I figure something else out, yeah.</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_0_Line_4">You do something you love, you never work a day in your life!</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_1_Line_0">Don’t come near me with those scissors, hey. I’m letting these little fellas grow out.</string>
+  <!-- Said by Sally talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sally_1_Line_1">I don’t think my scissors would be able to. Your hair’s so thick!</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_1_Line_2">Thanks! Sunlight and exercise, mate.</string>
+  <!-- Said by Sally talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sally_1_Line_3">I better start running on the beach then!</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_2_Line_0">G’day Shazza! Any new goss?</string>
+  <!-- Said by Sally talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sally_2_Line_1">You know I can’t breach barber-patron confidentiality!</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_2_Line_2">That’s a thing, is it?</string>
+  <!-- Said by Sally talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sally_2_Line_3">Well, it is now, since you’ve been blabbing all my juicy stories all over town!</string>
+  <!-- Said by Irwin talking to Sally -->
   <string name="IRWIN/BackAndForthConvo_Sally_2_Line_4">To be fair, they were great stories.</string>
+  <!-- Said by Sally talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sally_2_Line_5">I know! I’ve got so many more too!</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_0_Line_0">How’s a fella like you get so adventurous?</string>
+  <!-- Said by Theodore talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Theodore_0_Line_1">Oh. Um. I’m not sure what you mean?</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_0_Line_2">Well, packing it all up and moving to &lt;IslandName&gt;. You don’t strike me as the outdoors type.</string>
+  <!-- Said by Theodore talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Theodore_0_Line_3">Not typically, but there’s so much research to be done here, it’s a fascinating place.</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_1_Line_0">You’ll have to give me a tour of your place, mate.</string>
+  <!-- Said by Theodore talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Theodore_1_Line_1">That’d be grand! I’d love that. Just wait until you see my collection of paperclips!</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_1_Line_2">I was thinking more about the critters, to be honest.</string>
+  <!-- Said by Theodore talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Theodore_1_Line_3">They’ve already seen the paperclips. Oh! Only in their original order though. Maybe I could try reverse alphabetical?</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_1_Line_4">Yeah… righto mate. Sounds like a hoot.</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_2_Line_0">What kinda line have you been using for the fish you’re keeping?</string>
+  <!-- Said by Theodore talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Theodore_2_Line_1">Line?</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_2_Line_2">Yeah, what’re you reeling them in with?</string>
+  <!-- Said by Theodore talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Theodore_2_Line_3">Oh. Um. Mostly Permit Points.</string>
+  <!-- Said by Irwin talking to Theodore -->
   <string name="IRWIN/BackAndForthConvo_Theodore_2_Line_4">Is that successful?</string>
+  <!-- Said by Theodore talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Theodore_2_Line_5">Oh yes! You could fill a whole museum if you have enough!</string>
+  <!-- Said by Irwin talking to Milburn -->
   <string name="IRWIN/BackAndForthConvo_Milburn_0_Line_0">You been keeping alright, mate?</string>
+  <!-- Said by Milburn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Milburn_0_Line_1">Absolutely. Top of my game.</string>
+  <!-- Said by Irwin talking to Milburn -->
   <string name="IRWIN/BackAndForthConvo_Milburn_0_Line_2">What game’s that, then?</string>
+  <!-- Said by Milburn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Milburn_0_Line_3">The only game in town, my friend, &lt;Dinks&gt;, of course!</string>
+  <!-- Said by Irwin talking to Milburn -->
   <string name="IRWIN/BackAndForthConvo_Milburn_1_Line_0">How’s my account tracking along?</string>
+  <!-- Said by Milburn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Milburn_1_Line_1">Terrific. It’s precisely as empty as when you opened it.</string>
+  <!-- Said by Irwin talking to Milburn -->
   <string name="IRWIN/BackAndForthConvo_Milburn_1_Line_2">That’s a shame. No interest then?</string>
+  <!-- Said by Milburn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Milburn_1_Line_3">As I’ve told you before, you’ll need to deposit actual &lt;Dinks&gt; first</string>
+  <!-- Said by Irwin talking to Milburn -->
   <string name="IRWIN/BackAndForthConvo_Milburn_1_Line_4">Well, what am I paying you for, then?</string>
+  <!-- Said by Milburn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Milburn_1_Line_5">I can assure you, you’re not.</string>
+  <!-- Said by Irwin talking to Milburn -->
   <string name="IRWIN/BackAndForthConvo_Milburn_2_Line_0">You ever owned a pet, mate?</string>
+  <!-- Said by Milburn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Milburn_2_Line_1">Me? Don’t be absurd. All that work without any benefit sounds preposterous!</string>
+  <!-- Said by Irwin talking to Milburn -->
   <string name="IRWIN/BackAndForthConvo_Milburn_2_Line_2">It’s not work if you love doing it, besides, don’t you wish there was somebody or something that was happy to see you when you got home?</string>
+  <!-- Said by Milburn talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Milburn_2_Line_3">I’m happy enough, thank you very much, and I could see myself all day!</string>
+  <!-- Said by Irwin talking to Sheila -->
   <string name="IRWIN/BackAndForthConvo_Sheila_0_Line_0">How do you sterilise your equipment?</string>
+  <!-- Said by Sheila talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sheila_0_Line_1">Sterra what?</string>
+  <!-- Said by Irwin talking to Sheila -->
   <string name="IRWIN/BackAndForthConvo_Sheila_0_Line_2">I mean, how do you clean everything?</string>
+  <!-- Said by Sheila talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sheila_0_Line_3">Just good old fashioned elbow grease, darl</string>
+  <!-- Said by Irwin talking to Sheila -->
   <string name="IRWIN/BackAndForthConvo_Sheila_0_Line_4">…I feel ill.</string>
+  <!-- Said by Irwin talking to Sheila -->
   <string name="IRWIN/BackAndForthConvo_Sheila_1_Line_0">They are necessary for my work.</string>
+  <!-- Said by Sheila talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sheila_1_Line_1">I just never see you wear them.</string>
+  <!-- Said by Irwin talking to Sheila -->
   <string name="IRWIN/BackAndForthConvo_Sheila_1_Line_2">You never see me at work.</string>
+  <!-- Said by Sheila talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sheila_1_Line_3">You sure they’re just not for show?</string>
+  <!-- Said by Irwin talking to Sheila -->
   <string name="IRWIN/BackAndForthConvo_Sheila_2_Line_0">Do you know why the food has these effects?</string>
+  <!-- Said by Sheila talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sheila_2_Line_1">What difference does that make?</string>
+  <!-- Said by Irwin talking to Sheila -->
   <string name="IRWIN/BackAndForthConvo_Sheila_2_Line_2">To achieve a deeper understanding!</string>
+  <!-- Said by Sheila talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_Sheila_2_Line_3">Would that make it taste better?</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_morningFallbacks_0_Line_0">Bloody beauty of a morning!</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_morningFallbacks_1_Line_0">Yeah, I guess.</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_morningFallbacks_2_Line_0">Good morning, mate!</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_morningFallbacks_2_Line_1">Morning!</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_morningFallbacks_3_Line_0">Struth! You see that sunrise?</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_morningFallbacks_3_Line_1">I wasn't really paying attention...</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_dayFallbacks_0_Line_0">But they are so cute!</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_dayFallbacks_0_Line_1">I wouldn't say that...</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_dayFallbacks_1_Line_0">Oh, they string alright.</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_dayFallbacks_1_Line_1">Only if you touch them.</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_dayFallbacks_2_Line_0">Bloody beauty of a day!</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_dayFallbacks_2_Line_1">Yeah it is.</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_nightFallbacks_0_Line_0">Having a good one?</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_nightFallbacks_0_Line_1">It's not bad.</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_nightFallbacks_1_Line_0">Good to have a wind down.</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_nightFallbacks_1_Line_1">I reckon.</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_nightFallbacks_2_Line_0">What do you mean you won't?</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_nightFallbacks_2_Line_1">I can't look after a Chook, mate.</string>
+  <!-- Said by Irwin talking to any NPC -->
   <string name="IRWIN/BackAndForthConvo_rainingFallbacks_0_Line_0">Pleep would love this weather!</string>
+  <!-- Said by any NPC talking to Irwin -->
   <string name="IRWIN/BackAndForthConvo_rainingFallbacks_0_Line_1">Sure would!</string>
   <string name="IRWIN/LongConvo_001_Intro_000">Hey &lt;PlayerName&gt;. I actually have a confession to make.</string>
   <string name="IRWIN/LongConvo_001_Intro_001">&lt;shy&gt;I didn’t really choose to leave &lt;SouthCity&gt;.</string>

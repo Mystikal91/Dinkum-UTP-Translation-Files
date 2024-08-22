@@ -268,111 +268,217 @@
   <string name="MELVIN/Introduction_003_Intro_000">Hello there, I’m &lt;myName&gt;.</string>
   <string name="MELVIN/ConversationManager_CheckLineForReplacement_buyItemDescription_000">Finished that one off today!</string>
   <string name="MELVIN/ConversationManager_CheckLineForReplacement_buyItemDescription_001">Made by hand by yours truly!</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="MELVIN/BackAndForthConvo_Rayne_0_Line_0">You alright?</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Rayne_0_Line_1">Yeah, just tired.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="MELVIN/BackAndForthConvo_Rayne_0_Line_2">I hear ya.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="MELVIN/BackAndForthConvo_Rayne_1_Line_0">How yer plants treating ya.</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Rayne_1_Line_1">They are great. They’re always great.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="MELVIN/BackAndForthConvo_Rayne_1_Line_2">That’s real nice, mate.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="MELVIN/BackAndForthConvo_Rayne_2_Line_0">Done any diggin’ lately?</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Rayne_2_Line_1">A fair bit, yeah.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="MELVIN/BackAndForthConvo_Rayne_2_Line_2">Good on ya.</string>
+  <!-- Said by Melvin talking to John -->
   <string name="MELVIN/BackAndForthConvo_John_0_Line_0">How’s it going?</string>
+  <!-- Said by John talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_John_0_Line_1">Not bad, you?</string>
+  <!-- Said by Melvin talking to John -->
   <string name="MELVIN/BackAndForthConvo_John_0_Line_2">Yeah, can’t complain.</string>
+  <!-- Said by Melvin talking to John -->
   <string name="MELVIN/BackAndForthConvo_John_1_Line_0">Don’t work too much, alright.</string>
+  <!-- Said by John talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_John_1_Line_1">Someone has to run the store.</string>
+  <!-- Said by Melvin talking to John -->
   <string name="MELVIN/BackAndForthConvo_John_1_Line_2">Yer store will be fine for a bit.</string>
+  <!-- Said by John talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_John_1_Line_3">What about everyone here on &lt;IslandName&gt;?</string>
+  <!-- Said by Melvin talking to John -->
   <string name="MELVIN/BackAndForthConvo_John_1_Line_4">What about yer knees? Hmm?.</string>
+  <!-- Said by Melvin talking to John -->
   <string name="MELVIN/BackAndForthConvo_John_2_Line_0">How’s yer brother.</string>
+  <!-- Said by John talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_John_2_Line_1">Oh, he says he can’t come visit.</string>
+  <!-- Said by Melvin talking to John -->
   <string name="MELVIN/BackAndForthConvo_John_2_Line_2">Why not?</string>
+  <!-- Said by John talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_John_2_Line_3">He said he had to sell his boat.</string>
+  <!-- Said by Melvin talking to Franklyn -->
   <string name="MELVIN/BackAndForthConvo_Franklyn_0_Line_0">Reckon you could make me some new knees?</string>
+  <!-- Said by Franklyn talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Franklyn_0_Line_1">Most certainly.</string>
+  <!-- Said by Melvin talking to Franklyn -->
   <string name="MELVIN/BackAndForthConvo_Franklyn_0_Line_2">I’d like some fresh ones, I think.</string>
+  <!-- Said by Franklyn talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Franklyn_0_Line_3">The procedure would be excruciating, but certainly possible.</string>
+  <!-- Said by Melvin talking to Franklyn -->
   <string name="MELVIN/BackAndForthConvo_Franklyn_0_Line_4">Maybe I’ll stick with what I’ve got…</string>
+  <!-- Said by Franklyn talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Franklyn_0_Line_5">Very well.</string>
+  <!-- Said by Melvin talking to Clover -->
   <string name="MELVIN/BackAndForthConvo_Clover_0_Line_0">My knee is playin’ up again.</string>
+  <!-- Said by Clover talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Clover_0_Line_1">I have a crystal that might help?</string>
+  <!-- Said by Melvin talking to Clover -->
   <string name="MELVIN/BackAndForthConvo_Clover_0_Line_2">I’ll give it a go.</string>
+  <!-- Said by Melvin talking to Clover -->
   <string name="MELVIN/BackAndForthConvo_Clover_1_Line_0">How’s the shop going?</string>
+  <!-- Said by Clover talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Clover_1_Line_1">Great, thanks.</string>
+  <!-- Said by Melvin talking to Clover -->
   <string name="MELVIN/BackAndForthConvo_Clover_1_Line_2">Nice to hear.</string>
+  <!-- Said by Melvin talking to Fletch -->
   <string name="MELVIN/BackAndForthConvo_Fletch_0_Line_0">You been busy?</string>
+  <!-- Said by Fletch talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Fletch_0_Line_1">You know it! Never enough time in the day.</string>
+  <!-- Said by Melvin talking to Fletch -->
   <string name="MELVIN/BackAndForthConvo_Fletch_0_Line_2">Oath.</string>
+  <!-- Said by Melvin talking to Fletch -->
   <string name="MELVIN/BackAndForthConvo_Fletch_1_Line_0">All these whipper snappers.</string>
+  <!-- Said by Fletch talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Fletch_1_Line_1">What about them?</string>
+  <!-- Said by Melvin talking to Fletch -->
   <string name="MELVIN/BackAndForthConvo_Fletch_1_Line_2">Runnin’ around, doing things…</string>
+  <!-- Said by Fletch talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Fletch_1_Line_3">I’ll tell you what, they’re very active.</string>
+  <!-- Said by Melvin talking to Fletch -->
   <string name="MELVIN/BackAndForthConvo_Fletch_1_Line_4">Way too fast.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_0_Line_0">How’s the lil’ critters?</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_0_Line_1">Good thanks.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_0_Line_2">That’s good to hear.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_1_Line_0">How’s yer lil’ critters?</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_1_Line_1">They're great!</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_1_Line_2">That’s good to hear.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_2_Line_0">You’re a good bloke..</string>
+  <!-- Said by Irwin talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_2_Line_1">Thanks, mate.</string>
+  <!-- Said by Melvin talking to Irwin -->
   <string name="MELVIN/BackAndForthConvo_Irwin_2_Line_2">Got a good head on your shoulders.</string>
+  <!-- Said by Melvin talking to Sally -->
   <string name="MELVIN/BackAndForthConvo_Sally_0_Line_0">Thanks again for the trim.</string>
+  <!-- Said by Sally talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Sally_0_Line_1">Don’t mention it.</string>
+  <!-- Said by Melvin talking to Sally -->
   <string name="MELVIN/BackAndForthConvo_Sally_0_Line_2">I think it really suits me.</string>
+  <!-- Said by Sally talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Sally_0_Line_3">Me too, you big softy, it brings out your eyes.</string>
+  <!-- Said by Melvin talking to Theodore -->
   <string name="MELVIN/BackAndForthConvo_Theodore_0_Line_0">How’s the paperwork?</string>
+  <!-- Said by Theodore talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Theodore_0_Line_1">Oh, fascinating!</string>
+  <!-- Said by Melvin talking to Theodore -->
   <string name="MELVIN/BackAndForthConvo_Theodore_0_Line_2">Never understood it.</string>
+  <!-- Said by Theodore talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Theodore_0_Line_3">It’s actually really quite straightforward, it’s all about...</string>
+  <!-- Said by Melvin talking to Theodore -->
   <string name="MELVIN/BackAndForthConvo_Theodore_0_Line_4">Never wanted to.</string>
+  <!-- Said by Theodore talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Theodore_0_Line_5">…oh.</string>
+  <!-- Said by Melvin talking to Milburn -->
   <string name="MELVIN/BackAndForthConvo_Milburn_0_Line_0">You see, back in our day, it was never like that.</string>
+  <!-- Said by Milburn talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Milburn_0_Line_1">Our day?</string>
+  <!-- Said by Melvin talking to Milburn -->
   <string name="MELVIN/BackAndForthConvo_Milburn_0_Line_2">Yeah, there was a bit more patience back then.</string>
+  <!-- Said by Milburn talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Milburn_0_Line_3">I’m much, much younger than you.</string>
+  <!-- Said by Melvin talking to Milburn -->
   <string name="MELVIN/BackAndForthConvo_Milburn_0_Line_4">Whatever you say, mate</string>
+  <!-- Said by Melvin talking to Milburn -->
   <string name="MELVIN/BackAndForthConvo_Milburn_1_Line_0">They just don’t make ‘em like they used to.</string>
+  <!-- Said by Milburn talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Milburn_1_Line_1">Days?</string>
+  <!-- Said by Melvin talking to Milburn -->
   <string name="MELVIN/BackAndForthConvo_Milburn_1_Line_2">Yup. Too long now.</string>
+  <!-- Said by Milburn talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Milburn_1_Line_3">What are you talking about?</string>
+  <!-- Said by Melvin talking to Sheila -->
   <string name="MELVIN/BackAndForthConvo_Sheila_0_Line_0">Great day to relax, eh?</string>
+  <!-- Said by Sheila talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Sheila_0_Line_1">Speak for yourself, darl.</string>
+  <!-- Said by Melvin talking to Sheila -->
   <string name="MELVIN/BackAndForthConvo_Sheila_1_Line_0">They are necessary for my work.</string>
+  <!-- Said by Sheila talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Sheila_1_Line_1">I just never see you wear them.</string>
+  <!-- Said by Melvin talking to Sheila -->
   <string name="MELVIN/BackAndForthConvo_Sheila_1_Line_2">You never see me at work.</string>
+  <!-- Said by Sheila talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Sheila_1_Line_3">You sure they’re just not for show?</string>
+  <!-- Said by Melvin talking to Sheila -->
   <string name="MELVIN/BackAndForthConvo_Sheila_2_Line_0">Do you know why the food has these effects?</string>
+  <!-- Said by Sheila talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Sheila_2_Line_1">What difference does that make?</string>
+  <!-- Said by Melvin talking to Sheila -->
   <string name="MELVIN/BackAndForthConvo_Sheila_2_Line_2">To achieve a deeper understanding!</string>
+  <!-- Said by Sheila talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_Sheila_2_Line_3">Would that make it taste better?</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_morningFallbacks_0_Line_0">Mornin'</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_morningFallbacks_0_Line_1">A man of few words.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_morningFallbacks_1_Line_0">G’day.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_morningFallbacks_1_Line_1">Morning.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_morningFallbacks_2_Line_0">Nice mornin’</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_morningFallbacks_2_Line_1">It is isn’t it?</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_dayFallbacks_0_Line_0">Nice day.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_dayFallbacks_0_Line_1">Yeah, it is.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_dayFallbacks_1_Line_0">How are ya?</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_dayFallbacks_1_Line_1">I’m good thanks.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_dayFallbacks_1_Line_2">Good.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_dayFallbacks_2_Line_0">It’s nice today.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_dayFallbacks_2_Line_1">You always say that.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_nightFallbacks_0_Line_0">Evenin’</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_nightFallbacks_0_Line_1">Howdy!</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_nightFallbacks_1_Line_0">I’m off to bed soon.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_nightFallbacks_1_Line_1">Goodnight!</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_nightFallbacks_2_Line_0">Nice tonight.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_nightFallbacks_2_Line_1">Yeah, it is nice.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_nightFallbacks_2_Line_2">Really nice.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_rainingFallbacks_0_Line_0">Rain beats the snow.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_rainingFallbacks_0_Line_1">Too right.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_rainingFallbacks_1_Line_0">Rainin’ again.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_rainingFallbacks_1_Line_1">Yeah, I can see that.</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_rainingFallbacks_2_Line_0">My knees are playing up again.</string>
+  <!-- Said by any NPC talking to Melvin -->
   <string name="MELVIN/BackAndForthConvo_rainingFallbacks_2_Line_1">Why is that?</string>
+  <!-- Said by Melvin talking to any NPC -->
   <string name="MELVIN/BackAndForthConvo_rainingFallbacks_2_Line_2">Raining.</string>
   <string name="MELVIN/FurnitureShop_Convo_Response_001_000">Alright.</string>
   <string name="MELVIN/LongConvo_001_Intro_000">Thinkin’ about me wife lately.</string>

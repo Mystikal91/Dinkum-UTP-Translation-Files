@@ -304,157 +304,309 @@
   <string name="RAYNE/SkyFest_Noon_000_Intro_001">It’s like, totally bonza.</string>
   <!-- Talking about NPC: Fletch -->
   <string name="RAYNE/SkyFest_Noon_000_Intro_002">&lt;glee&gt;I can't wait to fly it!</string>
+  <!-- Said by Rayne talking to John -->
   <string name="RAYNE/BackAndForthConvo_John_0_Line_0">Do you miss your family a lot?</string>
+  <!-- Said by John talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_John_0_Line_1">I still keep in touch with my brother.</string>
+  <!-- Said by Rayne talking to John -->
   <string name="RAYNE/BackAndForthConvo_John_0_Line_2">That’s so sweet.</string>
+  <!-- Said by John talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_John_0_Line_3">You haven’t seen your family?</string>
+  <!-- Said by Rayne talking to John -->
   <string name="RAYNE/BackAndForthConvo_John_0_Line_4">Not for a while… it’s complicated.</string>
+  <!-- Said by Rayne talking to John -->
   <string name="RAYNE/BackAndForthConvo_John_1_Line_0">I don’t think I really need that?</string>
+  <!-- Said by John talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_John_1_Line_1">It’s top of the line, it’ll save you heaps of time!</string>
+  <!-- Said by Rayne talking to John -->
   <string name="RAYNE/BackAndForthConvo_John_1_Line_2">But like, I don’t really fish?</string>
+  <!-- Said by John talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_John_1_Line_3">Well, why not start today?</string>
+  <!-- Said by Rayne talking to John -->
   <string name="RAYNE/BackAndForthConvo_John_2_Line_0">Are your bananas ethically sourced?</string>
+  <!-- Said by John talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_John_2_Line_1">What? I don’t think the trees mind.</string>
+  <!-- Said by Rayne talking to John -->
   <string name="RAYNE/BackAndForthConvo_John_2_Line_2">Are they like, sustainable trees?</string>
+  <!-- Said by John talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_John_2_Line_3">They haven’t fallen over yet!</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_0_Line_0">Do you like, always speak your mind?</string>
+  <!-- Said by Franklyn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_0_Line_1">Approximately five percent of it, yes.</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_0_Line_2">What’s in the rest?</string>
+  <!-- Said by Franklyn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_0_Line_3">It is beyond words.</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_0_Line_4">Oh, so like, numbers and stuff?</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_1_Line_0">Do you ever miss South City?</string>
+  <!-- Said by Franklyn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_1_Line_1">Only the Blobfish.</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_1_Line_2">I heard they were like, completely bland and flavourless.</string>
+  <!-- Said by Franklyn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_1_Line_3">Precisely. They were not distracting.</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_2_Line_0">I think you’d really enjoy gardening.</string>
+  <!-- Said by Franklyn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_2_Line_1">Why do you say that?</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_2_Line_2">It can be really, like, chill?</string>
+  <!-- Said by Franklyn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_2_Line_3">I am quite “chill” enough.</string>
+  <!-- Said by Rayne talking to Franklyn -->
   <string name="RAYNE/BackAndForthConvo_Franklyn_2_Line_4">Um… if you say so…</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="RAYNE/BackAndForthConvo_Melvin_0_Line_0">I love your work. It’s a shame about the trees though.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Melvin_0_Line_1">Trees? Nah, I only use logs and planks.</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="RAYNE/BackAndForthConvo_Melvin_0_Line_2">Yeah but, they used to be trees, right?</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Melvin_0_Line_3">Well, we all gotta start somewhere.</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="RAYNE/BackAndForthConvo_Melvin_1_Line_0">Where’d you learn to make things?</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Melvin_1_Line_1">Here and there.</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="RAYNE/BackAndForthConvo_Melvin_1_Line_2">Oh, you like, taught yourself?</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Melvin_1_Line_3">Nah, I reckon the splinters taught me pretty well.</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="RAYNE/BackAndForthConvo_Melvin_2_Line_0">You seem like, really sad sometimes.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Melvin_2_Line_1">Just me face, I reckon.</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="RAYNE/BackAndForthConvo_Melvin_2_Line_2">So really you’re secretly feelin’ bonza?</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Melvin_2_Line_3">I get by, yeah.</string>
+  <!-- Said by Rayne talking to Melvin -->
   <string name="RAYNE/BackAndForthConvo_Melvin_2_Line_4">I’m gonna take that as a yes.</string>
+  <!-- Said by Melvin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Melvin_2_Line_5">Righto.</string>
+  <!-- Said by Rayne talking to Clover -->
   <string name="RAYNE/BackAndForthConvo_Clover_0_Line_0">I like, love your store.</string>
+  <!-- Said by Clover talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Clover_0_Line_1">Thanks, but she’s taken.</string>
+  <!-- Said by Rayne talking to Clover -->
   <string name="RAYNE/BackAndForthConvo_Clover_0_Line_2">No, I mean, I love your fashion!</string>
+  <!-- Said by Clover talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Clover_0_Line_3">So does she, y’know?</string>
+  <!-- Said by Rayne talking to Clover -->
   <string name="RAYNE/BackAndForthConvo_Clover_1_Line_0">Where do you come up with your ideas?</string>
+  <!-- Said by Clover talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Clover_1_Line_1">You just have to feel them, y’know?</string>
+  <!-- Said by Rayne talking to Clover -->
   <string name="RAYNE/BackAndForthConvo_Clover_1_Line_2">Like, kinda?</string>
+  <!-- Said by Clover talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Clover_1_Line_3">So take that “kinda”, and just run with it!</string>
+  <!-- Said by Rayne talking to Clover -->
   <string name="RAYNE/BackAndForthConvo_Clover_2_Line_0">I’m so exhausted from today.</string>
+  <!-- Said by Clover talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Clover_2_Line_1">Oh, you should meditate more.</string>
+  <!-- Said by Rayne talking to Clover -->
   <string name="RAYNE/BackAndForthConvo_Clover_2_Line_2">That’s like, doing nothing, right?</string>
+  <!-- Said by Clover talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Clover_2_Line_3">Sort of, but better, y’know?</string>
+  <!-- Said by Rayne talking to Fletch -->
   <string name="RAYNE/BackAndForthConvo_Fletch_0_Line_0">It’s pretty crazy you managed to make this happen.</string>
+  <!-- Said by Fletch talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Fletch_0_Line_1">Nothing crazy about it, just one foot in front of the other.</string>
+  <!-- Said by Rayne talking to Fletch -->
   <string name="RAYNE/BackAndForthConvo_Fletch_0_Line_2">Still, you like, started it all!</string>
+  <!-- Said by Fletch talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Fletch_0_Line_3">It’s like my Dad used to say. Get it done!</string>
+  <!-- Said by Rayne talking to Fletch -->
   <string name="RAYNE/BackAndForthConvo_Fletch_1_Line_0">So how old are you? Like, really?</string>
+  <!-- Said by Fletch talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Fletch_1_Line_1">I can’t answer that!</string>
+  <!-- Said by Rayne talking to Fletch -->
   <string name="RAYNE/BackAndForthConvo_Fletch_1_Line_2">Oh, you poor thing. I guess your memory must be going…</string>
+  <!-- Said by Fletch talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Fletch_1_Line_3">What?! No! I mean, it’s none of your bloody business!</string>
+  <!-- Said by Rayne talking to Fletch -->
   <string name="RAYNE/BackAndForthConvo_Fletch_2_Line_0">Hey, you’ve got some real pep in your step today!</string>
+  <!-- Said by Fletch talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Fletch_2_Line_1">Thanks dear. I’ve been doing my morning stretches every day this week.</string>
+  <!-- Said by Rayne talking to Fletch -->
   <string name="RAYNE/BackAndForthConvo_Fletch_2_Line_2">Well, keep at it, because it’s really working for you. You look amazing!</string>
+  <!-- Said by Fletch talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Fletch_2_Line_3">I sure will. So, which licences did you want to talk about?</string>
+  <!-- Said by Rayne talking to Fletch -->
   <string name="RAYNE/BackAndForthConvo_Fletch_2_Line_4">How did you know I like, wanted something?</string>
+  <!-- Said by Fletch talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Fletch_2_Line_5">You couldn’t be more obvious with a sign around your neck, I tell you what!</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="RAYNE/BackAndForthConvo_Irwin_0_Line_0">I love how much attention you give to your critters.</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Irwin_0_Line_1">They sure deserve it. We’re lucky to have them around.</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="RAYNE/BackAndForthConvo_Irwin_0_Line_2">Awwww, that’s so sweet!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Irwin_0_Line_3">Really though, I mean, how lucky are we? Unreal!</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="RAYNE/BackAndForthConvo_Irwin_1_Line_0">Croco’s are like, so scary!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Irwin_1_Line_1">Nah, they’re just misunderstood.</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="RAYNE/BackAndForthConvo_Irwin_1_Line_2">All those teeth, and they’re not afraid to use them!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Irwin_1_Line_3">They just like to keep to themselves, I reckon.</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="RAYNE/BackAndForthConvo_Irwin_2_Line_0">Do the Wary Mus scare you?</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Irwin_2_Line_1">Oh, those critters can sure run!</string>
+  <!-- Said by Rayne talking to Irwin -->
   <string name="RAYNE/BackAndForthConvo_Irwin_2_Line_2">I know, right? It’s like, calm down guys, I was leaving!</string>
+  <!-- Said by Irwin talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Irwin_2_Line_3">Such amazing critters, and the size of those eggs!</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_0_Line_0">Have you ever used a scythe?</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_0_Line_1">Who told you that?!</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_0_Line_2">N-n-nobody, I just, like, wheat is like hair, right?</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_0_Line_3">You’d think so…</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_0_Line_4">Um…</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_0_Line_5">You’d be wrong.</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_0_Line_6">Oh…</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_1_Line_0">So like, how’s the salon thing going?</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_1_Line_1">A little quiet actually, lately. Were you thinking of popping in?</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_1_Line_2">No way! Um, I mean, I was thinking of growing it out a little.</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_1_Line_3">Right, yeah, of course. If you change your mind though, you know where to find me.</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_1_Line_4">Totally. Awesome.</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_2_Line_0">So I heard you used to mine?</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_2_Line_1">Yeah. Back in &lt;SouthCity&gt; for a while.</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_2_Line_2">I bet things can get pretty freaky-deaky when you get super deep down, huh?</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_2_Line_3">Definitely. I think you’d like it though.</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_2_Line_4">What makes you say that?</string>
+  <!-- Said by Sally talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sally_2_Line_5">There’s all sorts of weird and whacky plants down there! One of them even tried to eat me!</string>
+  <!-- Said by Rayne talking to Sally -->
   <string name="RAYNE/BackAndForthConvo_Sally_2_Line_6">Oh wow! Now those? Those I have to see. Like, for reals.</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_0_Line_0">Why do you only get one of each?</string>
+  <!-- Said by Theodore talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Theodore_0_Line_1">One is all you need for the records.</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_0_Line_2">Don’t they like, get lonely?</string>
+  <!-- Said by Theodore talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Theodore_0_Line_3">Oh! Um. I hope not?</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_1_Line_0">I think I’d be lonely in a cage by myself.</string>
+  <!-- Said by Theodore talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Theodore_1_Line_1">They’re not by themselves! They have tons of friends!</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_1_Line_2">Yeah, but they’re all different types…</string>
+  <!-- Said by Theodore talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Theodore_1_Line_3">So are we, and we’re friends, right?</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_1_Line_4">Oh yeah! I guess you’re right.</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_2_Line_0">I’ve been loving your museum lately!</string>
+  <!-- Said by Theodore talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Theodore_2_Line_1">Oh, um, thank you.</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_2_Line_2">It’s like, so nice to appreciate all those creepy-crawlies when they’re not trying to eat my crops.</string>
+  <!-- Said by Theodore talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Theodore_2_Line_3">Why would they be doing that?</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_2_Line_4">I guess I can’t blame them. Everything’s gotta eat something!</string>
+  <!-- Said by Theodore talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Theodore_2_Line_5">Oh. Um. Are you sure? I’ve made a terrible mistake.</string>
+  <!-- Said by Rayne talking to Theodore -->
   <string name="RAYNE/BackAndForthConvo_Theodore_2_Line_6">You’re so funny, Teddy.</string>
+  <!-- Said by Rayne talking to Milburn -->
   <string name="RAYNE/BackAndForthConvo_Milburn_0_Line_0">I just think like, money’s not everything?</string>
+  <!-- Said by Milburn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Milburn_0_Line_1">That’s preposterous!</string>
+  <!-- Said by Rayne talking to Milburn -->
   <string name="RAYNE/BackAndForthConvo_Milburn_0_Line_2">There’s like, other things out there…</string>
+  <!-- Said by Milburn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Milburn_0_Line_3">And only one thing that matters!</string>
+  <!-- Said by Rayne talking to Milburn -->
   <string name="RAYNE/BackAndForthConvo_Milburn_1_Line_0">You could be a little nicer sometimes…</string>
+  <!-- Said by Milburn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Milburn_1_Line_1">Nicer? Where does nice get anybody?</string>
+  <!-- Said by Rayne talking to Milburn -->
   <string name="RAYNE/BackAndForthConvo_Milburn_1_Line_2">It doesn’t like, cost anything to be nice.</string>
+  <!-- Said by Milburn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Milburn_1_Line_3">Hmph. It doesn’t pay anything either!</string>
+  <!-- Said by Rayne talking to Milburn -->
   <string name="RAYNE/BackAndForthConvo_Milburn_2_Line_0">Is that like, an old person thing?</string>
+  <!-- Said by Milburn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Milburn_2_Line_1">Old?! I’m in the prime of my life!</string>
+  <!-- Said by Rayne talking to Milburn -->
   <string name="RAYNE/BackAndForthConvo_Milburn_2_Line_2">Oh! I didn’t mean to offend you!</string>
+  <!-- Said by Milburn talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Milburn_2_Line_3">Hmph.</string>
+  <!-- Said by Rayne talking to Sheila -->
   <string name="RAYNE/BackAndForthConvo_Sheila_0_Line_0">Have you ever like, tried going vegan?</string>
+  <!-- Said by Sheila talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sheila_0_Line_1">I eat mostly wheat, I reckon.</string>
+  <!-- Said by Rayne talking to Sheila -->
   <string name="RAYNE/BackAndForthConvo_Sheila_0_Line_2">Oh, yeah?</string>
+  <!-- Said by Sheila talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_Sheila_0_Line_3">Yeah, lotta pastry in me meat pies!</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_morningFallbacks_0_Line_0">Another begining to a beautiful day!</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_morningFallbacks_0_Line_1">I guess you could say that.</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_morningFallbacks_1_Line_0">Feeling good this morning?</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_morningFallbacks_1_Line_1">Nothing to complain about.</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_morningFallbacks_2_Line_0">It's just such a pretty morning.</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_morningFallbacks_2_Line_1">Oh, it is.</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_dayFallbacks_0_Line_0">Today's going quick!</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_dayFallbacks_0_Line_1">Not quick enough.</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_dayFallbacks_1_Line_0">Lovely weather we're having.</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_dayFallbacks_1_Line_1">Too right.</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_nightFallbacks_0_Line_0">Another day coming to an end.</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_nightFallbacks_0_Line_1">It gets dark quick!</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_nightFallbacks_1_Line_0">The stars a pretty tonight.</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_nightFallbacks_1_Line_1">Yeah, they are.</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_nightFallbacks_2_Line_0">You think it's a full moon?</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_nightFallbacks_2_Line_1">Just look up?</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_rainingFallbacks_0_Line_0">Wet enough for you?</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_rainingFallbacks_0_Line_1">You always say that.</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_rainingFallbacks_1_Line_0">This rain won't let up.</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_rainingFallbacks_1_Line_1">Why are you always wandering around in it?</string>
+  <!-- Said by Rayne talking to any NPC -->
   <string name="RAYNE/BackAndForthConvo_rainingFallbacks_2_Line_0">This rain is great for my plants.</string>
+  <!-- Said by any NPC talking to Rayne -->
   <string name="RAYNE/BackAndForthConvo_rainingFallbacks_2_Line_1">Happy to hear that.</string>
   <string name="RAYNE/LongConvo_001_Intro_000">Did you know, all the seeds I sell are from my own collection?</string>
   <string name="RAYNE/LongConvo_001_Intro_001">&lt;shy&gt;I started collecting the seeds when I was, like, just a little girl.</string>
