@@ -4,6 +4,8 @@
   <string name="InlineReplacement/SouthCity">South City</string>
   <!-- Plural of 'Prize Ticket' https://www.dinkum-utp.it/translate/Dutp/inventoryitemnames/en/?checksum=29a4fa02540dcca5  -->
   <string name="InlineReplacement/RaffleTickets">Raffle Tickets</string>
+  <!-- Plural of 'Dink' -->
+  <string name="InlineReplacement/Dinks">Dinks</string>
   <!-- Replace <Journal> -->
   <string name="InlineReplacement/Journal">Journal</string>
   <!-- Replace <Shift> -->
