@@ -428,4 +428,25 @@
     <string name="CLOVER/BackAndForthConvo_Milburn_0_Line_3">E deve averla, visto quanti &lt;Dinks&gt; ho speso per averlo!</string>
     <string name="CLOVER/BackAndForthConvo_Milburn_0_Line_4">Ricordi il prezzo ma non dove l\'hai acquistato?</string>
     <string name="CLOVER/BackAndForthConvo_Milburn_0_Line_5">Non dimentico mai una fattura, mia cara.</string>
+    <string name="CLOVER/BackAndForthConvo_Sheila_0_Line_3">Sì, dovresti dormire di più.</string>
+    <string name="CLOVER/BackAndForthConvo_morningFallbacks_0_Line_2">Fallo e basta, sai?</string>
+    <string name="CLOVER/BackAndForthConvo_Sheila_0_Line_2">Boooooo!</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_1_Line_0">Hai un\'aura molto potente.</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_1_Line_1">Cosa dovrebbe significare?</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_1_Line_2">È tutta... fulmini... e solitudine.</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_1_Line_4">Non ne sono sicura. È come... la tempesta più solitaria nella notte più buia.</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_1_Line_3">In che senso?</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_1_Line_5">Hmph.</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_1_Line_6">Sì, è proprio di questo che sto parlando! Mi piace, sai?</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_2_Line_0">I baffi ti donano molto.</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_2_Line_1">Ti ringrazio. Maestosi, vero?</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_2_Line_2">Significa forse \"Rah rah rah! Grrrrrr!\"? Perché sì. In tutto e per tutto sì.</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_2_Line_3">No!</string>
+    <string name="CLOVER/BackAndForthConvo_Milburn_2_Line_4">Awwww. È un peccato, sai?</string>
+    <string name="CLOVER/BackAndForthConvo_Sheila_0_Line_0">Dovresti rimanere aperta fino a notte fonda, sai?</string>
+    <string name="CLOVER/BackAndForthConvo_Sheila_0_Line_1">Tutti dobbiamo dormire prima o poi, tesoro.</string>
+    <string name="CLOVER/BackAndForthConvo_Sheila_0_Line_4">Boooooo!</string>
+    <string name="CLOVER/BackAndForthConvo_Sheila_0_Line_5">È l\'ora del pisolino per te, credo.</string>
+    <string name="CLOVER/BackAndForthConvo_morningFallbacks_0_Line_0">So che passerai una bella giornata.</string>
+    <string name="CLOVER/BackAndForthConvo_morningFallbacks_0_Line_1">Come lo sai?</string>
 </resources>
