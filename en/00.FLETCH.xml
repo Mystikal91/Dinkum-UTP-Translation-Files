@@ -720,6 +720,50 @@
   <string name="FLETCH/NotEnoughMoneyToMoveHouse_Response_001_000">Maybe some other time, hmm?</string>
   <string name="FLETCH/StartingConversation_Intro_000">So, you wanted to talk about your home?</string>
   <string name="FLETCH/StartingConvo_Intro_000">What exactly can I help you with?</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_morningFallbacks_0_Line_0">I'll tell you what, it's a bloody beauty of a morning.</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_morningFallbacks_0_Line_1">I guess you are right...</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_morningFallbacks_1_Line_0">Morning!</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_morningFallbacks_1_Line_1">Good morning.</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_morningFallbacks_1_Line_2">Hope you have a good one.</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_morningFallbacks_2_Line_0">Breath in that morning air.</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_morningFallbacks_2_Line_1">Alright.</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_dayFallbacks_0_Line_0">Lovely day, isn’t it?</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_dayFallbacks_0_Line_1">Sure is!</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_dayFallbacks_1_Line_0">Feel the serenity.</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_dayFallbacks_1_Line_1">&lt;IslandName&gt; is too nice.</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_dayFallbacks_1_Line_2">Sure is.</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_dayFallbacks_2_Line_0">I’ll tell you what, I’m having a nice day.</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_dayFallbacks_2_Line_1">That’s great to hear.</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_nightFallbacks_0_Line_0">Well, make sure you have your licences in order, okay?</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_nightFallbacks_0_Line_1">Righto.</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_nightFallbacks_1_Line_0">Sometimes I feel old.</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_nightFallbacks_1_Line_1">Sometimes?</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_nightFallbacks_2_Line_0">I’ll tell you what, it’s really lovely chatting with you.</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_nightFallbacks_2_Line_1">Likewise!</string>
+  <!-- Said by Fletch talking to any NPC -->
+  <string name="FLETCH/BackAndForthConvo_rainingFallbacks_0_Line_0">I’ll tell you what, it’s not dry is it?</string>
+  <!-- Said by any NPC talking to Fletch -->
+  <string name="FLETCH/BackAndForthConvo_rainingFallbacks_0_Line_1">Sure isn’t!</string>
   <string name="FLETCH/FirstDayFaintConvo_Intro_000">.........&lt;PlayerName&gt;.........</string>
   <string name="FLETCH/FirstDayFaintConvo_Intro_001">&lt;PlayerName&gt;.........</string>
   <string name="FLETCH/FirstDayFaintConvo_Intro_002">&lt;PlayerName&gt;?</string>

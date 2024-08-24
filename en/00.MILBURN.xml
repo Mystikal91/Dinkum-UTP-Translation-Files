@@ -234,6 +234,46 @@
   <string name="MILBURN/Buy_ATM_Convo_Response_000_001">I hope you enjoy it.</string>
   <!-- Talking about Item: ADM -->
   <string name="MILBURN/Buy_ATM_Convo_Response_001_000">&lt;no&gt;Very well then.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_morningFallbacks_0_Line_0">Hmph.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_morningFallbacks_0_Line_1">Morning.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_morningFallbacks_1_Line_0">Hmph.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_morningFallbacks_1_Line_1">What did I say?</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_morningFallbacks_2_Line_0">Hmph.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_morningFallbacks_2_Line_1">Alright then.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_dayFallbacks_0_Line_0">Rotten day.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_dayFallbacks_0_Line_1">If you say so.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_dayFallbacks_1_Line_0">What are you so happy about?</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_dayFallbacks_1_Line_1">This conversation will be over soon.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_dayFallbacks_2_Line_0">Hmph.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_dayFallbacks_2_Line_1">Whatever you say.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_nightFallbacks_0_Line_0">Hmph.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_nightFallbacks_0_Line_1">Whatever you say.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_nightFallbacks_1_Line_0">It’s ridiculous what they are charging.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_nightFallbacks_1_Line_1">I reckon it seems pretty fair.</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_nightFallbacks_2_Line_0">Out with it. Time is &lt;Dinks&gt;.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_nightFallbacks_2_Line_1">You were talking to me!</string>
+  <!-- Said by Milburn talking to any NPC -->
+  <string name="MILBURN/BackAndForthConvo_rainingFallbacks_0_Line_0">I wouldn’t pay for weather like this.</string>
+  <!-- Said by any NPC talking to Milburn -->
+  <string name="MILBURN/BackAndForthConvo_rainingFallbacks_0_Line_1">Luckily it’s free.</string>
   <string name="MILBURN/">&lt;proud&gt;Hmph, of course I’m including my future inheritance that I am owed...</string>
   <string name="MILBURN/JimmyWorkConvo_Intro_000">Welcome back, &lt;PlayerName&gt;.</string>
   <string name="MILBURN/JimmyWorkConvo_Intro_001">Are you here to talk business?</string>

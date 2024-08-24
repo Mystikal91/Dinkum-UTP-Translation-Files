@@ -211,6 +211,42 @@
   <!-- Talking about NPC: Fletch -->
   <string name="THEODORE/SkyFest_Noon_009_Intro_003">&lt;shy&gt;I just prefer to not share things like that.</string>
   <string name="THEODORE/CompleteBirthday_000_Intro_001">&lt;glee&gt;I don’t often receive &lt;birthday&gt; gifts, so this one is very appreciated.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_0">I reckon we should catalogue them all.</string>
+  <!-- Said by any NPC talking to Theodore -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_1">Sea shells?</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_2">Yes. So they’re not all over the beach willy-nilly.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_0">I miss standing at my desk.</string>
+  <!-- Said by any NPC talking to Theodore -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_1">You did that all day.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_2">Not all day.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_0">I miss standing at my desk.</string>
+  <!-- Said by any NPC talking to Theodore -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_1">You did that all day.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_2">Not all day.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_0">Do you think the museum is still nice and organised?</string>
+  <!-- Said by any NPC talking to Theodore -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_1">I’m sure it’s fine.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_2">Maybe I should quickly go and check?</string>
+  <!-- Said by any NPC talking to Theodore -->
+  <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_3">NO! Stay here, it’s fine.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_0">My fish are going crazy!</string>
+  <!-- Said by any NPC talking to Theodore -->
+  <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_1">Why is that?</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_2">They know it’s raining.</string>
+  <!-- Said by Theodore talking to any NPC -->
+  <string name="THEODORE/BackAndForthConvo_rainingFallbacks_1_Line_0">But what if the museum floods?</string>
+  <!-- Said by any NPC talking to Theodore -->
+  <string name="THEODORE/BackAndForthConvo_rainingFallbacks_1_Line_1">It’s not that much rain, mate.</string>
   <string name="Npc9/Introduction_009_Intro_004"> We could fill it with all the interesting things found here on &lt;IslandName&gt;!</string>
   <string name="Npc9/Introduction_009_Intro_005">So please speak to Fletch about building the museum as soon as possible!</string>
 </resources>
