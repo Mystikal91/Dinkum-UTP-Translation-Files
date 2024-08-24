@@ -639,4 +639,26 @@
     <string name="FLETCH/KiteWontFit_Convo_Intro_001">&lt;no&gt;Sembra che le tue tasche siano piene.</string>
     <string name="FLETCH/KiteWontFit_Convo_Intro_002">Fai un po\' di spazio e poi torna a parlare con me.</string>
     <string name="FLETCH/SkyFest_Night_006_Intro_002">&lt;shy&gt;Spero che sia stato divertente per te oggi, &lt;PlayerName&gt;.</string>
+    <string name="FLETCH/BackAndForthConvo_morningFallbacks_0_Line_0">Ti dirò, è una mattinata di una bellezza incredibile.</string>
+    <string name="FLETCH/BackAndForthConvo_morningFallbacks_0_Line_1">Credo che tu abbia ragione...</string>
+    <string name="FLETCH/BackAndForthConvo_morningFallbacks_1_Line_0">Buongiorno!</string>
+    <string name="FLETCH/BackAndForthConvo_morningFallbacks_1_Line_1">Buongiorno.</string>
+    <string name="FLETCH/BackAndForthConvo_morningFallbacks_1_Line_2">Ti auguro una buona giornata.</string>
+    <string name="FLETCH/BackAndForthConvo_morningFallbacks_2_Line_0">Respira l\'aria del mattino.</string>
+    <string name="FLETCH/BackAndForthConvo_morningFallbacks_2_Line_1">Va bene!</string>
+    <string name="FLETCH/BackAndForthConvo_dayFallbacks_0_Line_0">Una bella giornata, vero?</string>
+    <string name="FLETCH/BackAndForthConvo_dayFallbacks_1_Line_0">Senti la serenità.</string>
+    <string name="FLETCH/BackAndForthConvo_dayFallbacks_1_Line_1">&lt;IslandName&gt; è un posto fantastico.</string>
+    <string name="FLETCH/BackAndForthConvo_dayFallbacks_1_Line_2">Certo che lo è.</string>
+    <string name="FLETCH/BackAndForthConvo_dayFallbacks_2_Line_0">Ti dico una cosa, sto passando una bella giornata.</string>
+    <string name="FLETCH/BackAndForthConvo_dayFallbacks_2_Line_1">È un\'ottima notizia.</string>
+    <string name="FLETCH/BackAndForthConvo_nightFallbacks_0_Line_1">Ricevuto.</string>
+    <string name="FLETCH/BackAndForthConvo_nightFallbacks_1_Line_0">A volte mi sento vecchia.</string>
+    <string name="FLETCH/BackAndForthConvo_nightFallbacks_1_Line_1">A volte?</string>
+    <string name="FLETCH/BackAndForthConvo_nightFallbacks_2_Line_0">Ti dirò, è davvero piacevole chiacchierare con te.</string>
+    <string name="FLETCH/BackAndForthConvo_nightFallbacks_2_Line_1">Vale anche per me!</string>
+    <string name="FLETCH/BackAndForthConvo_rainingFallbacks_0_Line_0">Ti dico una cosa: non c\'è siccità, vero?</string>
+    <string name="FLETCH/BackAndForthConvo_rainingFallbacks_0_Line_1">Di certo no!</string>
+    <string name="FLETCH/BackAndForthConvo_dayFallbacks_0_Line_1">Certo che lo è!</string>
+    <string name="FLETCH/BackAndForthConvo_nightFallbacks_0_Line_0">Assicurati di avere le licenze in ordine, ok?</string>
 </resources>
