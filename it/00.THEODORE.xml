@@ -183,4 +183,22 @@
     <string name="THEODORE/CompleteBirthday_000_Intro_001">&lt;glee&gt;Non ricevo spesso regali di &lt;birthday&gt;, quindi questo è molto apprezzato.</string>
     <string name="Npc9/Introduction_009_Intro_005">Quindi, per favore, parla con Fletch per costruire il museo il prima possibile!</string>
     <string name="Npc9/Introduction_009_Intro_004">Potremmo riempirlo con tutte le cose interessanti che si trovano qui su &lt;IslandName&gt;!</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_1">Le conchiglie?</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_2">Sì, così non sarebbero sparse per la spiaggia a caso.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_0">Mi manca stare alla scrivania.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_1">L\'hai fatto per tutto il giorno.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_2">Non tutto il giorno.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_0">Mi manca stare alla scrivania.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_1">Tranquillo, di sicuro va tutto bene.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_2">Forse dovrei andare a controllare un attimo?</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_3">NO! Resta qui, va tutto bene.</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_0">I miei pesci stanno impazzendo!</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_1">Perché lo dici?</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_2">Sanno che sta piovendo.</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_1_Line_0">Ma cosa facciamo se il museo si allaga?</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_0">Credo che dovremmo catalogarle tutte.</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_1_Line_1">Non c\'è così tanta pioggia, amico.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_1">L\'hai fatto per tutto il giorno.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_2">Non tutto il giorno.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_0">Pensi che il museo sia ancora bello e organizzato?</string>
 </resources>
