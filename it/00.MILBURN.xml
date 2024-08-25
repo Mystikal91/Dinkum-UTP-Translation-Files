@@ -226,4 +226,24 @@
     <string name="MILBURN/Buy_ATM_Convo_Response_000_001">Spero che ti piaccia.</string>
     <string name="MILBURN/Buy_ATM_Convo_Option_000">La prendo!</string>
     <string name="MILBURN/Buy_ATM_Convo_Intro_001">Quindi quella &lt;buyItemName&gt; ha attirato la tua attenzione?</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_0_Line_1">Buongiorno.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_1_Line_0">Hmph.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_1_Line_1">Cos\'ho detto?</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_0_Line_0">Pessima giornata.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_0_Line_1">Se lo dici tu.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_1_Line_0">Perché sei così felice?</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_1_Line_1">Perché questa conversazione finirà presto.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_2_Line_0">Hmph.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_2_Line_1">Come vuoi tu.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_0_Line_0">Hmph.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_0_Line_1">Come vuoi tu.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_1_Line_0">È ridicolo quello che fanno pagare.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_2_Line_0">Finiscila. Il tempo è &lt;Dinks&gt;.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_2_Line_1">Ma sei stato tu a parlare con me!</string>
+    <string name="MILBURN/BackAndForthConvo_rainingFallbacks_0_Line_0">Non pagherei mai per un tempo come questo.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_0_Line_0">Hmph.</string>
+    <string name="MILBURN/BackAndForthConvo_rainingFallbacks_0_Line_1">Per fortuna è gratis.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_2_Line_0">Hmph.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_2_Line_1">E va bene.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_1_Line_1">Mi sembra abbastanza corretto.</string>
 </resources>
