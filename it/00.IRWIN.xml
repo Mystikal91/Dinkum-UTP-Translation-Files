@@ -254,4 +254,16 @@
     <string name="Npc7/IslandDayGreeting_Noon_007_Intro_003">È il top, quella &lt;NPCName&gt;.</string>
     <string name="Npc7/RandomConvo_009_Intro_000">Molte persone mi hanno detto che il sito &lt;BlobFish&gt; di &lt;SouthCity&gt; era terribile.</string>
     <string name="Npc7/RandomConvo_025_Intro_000">L\'unico insetto che posso apprezzare è l\'umile &lt;itemName&gt;.</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_2">L\'impegno che metti nel curare quelle piante. È incredibile!</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_1">Non fa per me. Voglio dire, i platipi sono così teneri e amichevoli, ma forse sono troppo sbadata per farlo?</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_4">Non preoccuparti, amica, sono molto bravi a farti notare che hanno fame.</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_0">Sembra una persona dal cuore davvero gentile.</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_1">È così dolce. Cosa te lo fa dire?</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_3">Tutto merita una possibilità di crescere, giusto?</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_0_Line_4">Concordo in pieno.</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_0">Hai mai pensato di prendere un animale domestico?</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_2">Hai paura di non essere in grado di prenderti cura di un animale in modo adeguato?</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_3">Sì, esattamente!</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_5">Proprio come le persone, quindi!</string>
+    <string name="IRWIN/BackAndForthConvo_Rayne_1_Line_6">Troppo vero!</string>
 </resources>
