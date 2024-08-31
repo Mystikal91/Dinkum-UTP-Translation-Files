@@ -933,4 +933,9 @@
     <string name="InventoryItemNames/InvItem_388">Hühnerpfeife</string>
     <string name="InventoryItemNames/InvItem_1412">Grünes Strandhandtuch</string>
     <string name="InventoryItemNames/InvItem_1560">Toilette</string>
+    <string name="InventoryItemNames/InvItem_710">Tele-Plattform</string>
+    <string name="InventoryItemNames/InvItem_299">Dink</string>
+    <string name="InventoryItemNames/InvItem_350">Milch</string>
+    <string name="InventoryItemNames/InvItem_401">Rathaus</string>
+    <string name="InventoryItemNames/InvItem_578">Palmenholzbrücke</string>
 </resources>
