@@ -1,4 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Time/dayName_0">Sonntag</string>
+    <string name="Time/AfterDark">nach Einbruch der Dunkelheit</string>
+    <string name="Time/dayName_1">Montag</string>
+    <string name="Time/Year">Jahr</string>
+    <string name="Time/dayName_2">Dienstag</string>
+    <string name="Time/dayName_3">Mittwoch</string>
+    <string name="Time/dayName_4">Donnerstag</string>
+    <string name="Time/dayName_5">Freitag</string>
+    <string name="Time/dayName_6">Samstag</string>
+    <string name="Time/seasonName_0">Sommer</string>
+    <string name="Time/seasonName_1">Herbst</string>
+    <string name="Time/seasonName_2">Winter</string>
+    <string name="Time/seasonName_3">Frühling</string>
+    <string name="Time/Years">Jahre</string>
+    <string name="Time/Month">Monat</string>
+    <string name="Time/Months">Monate</string>
+    <string name="Time/Day">Tag</string>
+    <string name="Time/Days">Tage</string>
+    <string name="Time/All">Alle</string>
+    <string name="Time/DuringTheDay">tagsüber</string>
+    <string name="Time/EarlyMornings">frühmorgens</string>
+    <string name="Time/AroundNoon">gegen Mittag</string>
+    <string name="Time/m">m</string>
+    <string name="Time/s">s</string>
+    <string name="Time/t">t</string>
+    <string name="Time/AllYear">ganzjährig</string>
+    <string name="Time/DuringSpring">im Frühling</string>
+    <string name="Time/DuringSummer">im Sommer</string>
+    <string name="Time/DuringAutumn">im Herbst</string>
+    <string name="Time/DuringWinter">im Winter</string>
+    <string name="Time/Late">Spät</string>
 </resources>
