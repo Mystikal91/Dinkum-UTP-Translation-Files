@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="LicenceNames/Licence_1">Bergbaulizenz</string>
+    <string name="LicenceNames/Licence_13">Tiefbaulizenz</string>
+    <string name="LicenceNames/Licence_14">Werkzeuggurt-Lizenz</string>
+    <string name="LicenceNames/Licence_15">Fanglizenz</string>
+    <string name="LicenceNames/Licence_16">Ausgrabungslizenz</string>
+    <string name="LicenceNames/Licence_17">Bewässerungslizenz</string>
+    <string name="LicenceNames/Licence_18">Landwirtschaftlicher Fahrzeugführerschein</string>
+    <string name="LicenceNames/Licence_19">Lizenz zum Unterschreiben</string>
+    <string name="LicenceNames/Licence_2">Protokollierungslizenz</string>
+    <string name="LicenceNames/Licence_20">Wassergestaltungslizenz</string>
+    <string name="LicenceNames/Licence_21">Brauereilizenz</string>
+    <string name="LicenceNames/Licence_22">Tierverarbeitungslizenz</string>
+    <string name="LicenceNames/Licence_3">Fischereischein</string>
+    <string name="LicenceNames/Licence_4">Jagdschein</string>
+    <string name="LicenceNames/Licence_5">Landschaftsbau Lizenz</string>
+    <string name="LicenceNames/Licence_10">Baugenehmigung</string>
+    <string name="LicenceNames/Licence_8">Handelslizenz</string>
+    <string name="LicenceNames/Licence_11">Landwirtschaftslizenz</string>
+    <string name="LicenceNames/Licence_12">Frachtlizenz</string>
+    <string name="LicenceNames/Licence_6">Metalldetektion</string>
+    <string name="LicenceNames/Licence_7">Fahrzeugschein</string>
 </resources>
