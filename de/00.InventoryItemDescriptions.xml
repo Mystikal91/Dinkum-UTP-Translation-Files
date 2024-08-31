@@ -165,4 +165,17 @@
     <string name="InventoryItemDescriptions/InvDesc_56">Ein einzelner Stuhl zum sitzen.</string>
     <string name="InventoryItemDescriptions/InvDesc_561">Ein einzelner Stuhl zum sitzen.</string>
     <string name="InventoryItemDescriptions/InvDesc_564">Ein Nachttisch aus Holz.</string>
+    <string name="InventoryItemDescriptions/InvDesc_572">Ein einzelner Stuhl zum sitzen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_63">Halte die Kuppel heiß</string>
+    <string name="InventoryItemDescriptions/InvDesc_699">Transportiert Wasser von A nach B</string>
+    <string name="InventoryItemDescriptions/InvDesc_66">Hüpf!</string>
+    <string name="InventoryItemDescriptions/InvDesc_700">Es ist leer. Fülle es mit Wasser.</string>
+    <string name="InventoryItemDescriptions/InvDesc_701">Transportiert Wasser von A nach B</string>
+    <string name="InventoryItemDescriptions/InvDesc_786">Ein einzelner Stuhl zum sitzen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_872">Ein Holztisch.</string>
+    <string name="InventoryItemDescriptions/InvDesc_844">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_846">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_848">Lege hier Sachen rein.</string>
+    <string name="InventoryItemDescriptions/InvDesc_580">Es kann nicht fliegen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_702">Es ist leer. Fülle es mit Wasser.</string>
 </resources>
