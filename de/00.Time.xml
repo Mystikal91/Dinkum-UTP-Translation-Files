@@ -31,4 +31,5 @@
     <string name="Time/DuringAutumn">im Herbst</string>
     <string name="Time/DuringWinter">im Winter</string>
     <string name="Time/Late">Spät</string>
+    <string name="Time/AllDay">Jeden Tag</string>
 </resources>
