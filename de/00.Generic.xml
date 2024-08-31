@@ -309,4 +309,5 @@
     <string name="Generic/Quest_19_Intro_Intro_003">&lt;thinking&gt;Mir wurde gesagt, wir können sie für jeden beliebigen Zweck verwenden.</string>
     <string name="Generic/Quest_19_Intro_Intro_005">&lt;yes&gt;Wir dürfen insgesamt drei hier auf &lt;IslandName&gt; haben.</string>
     <string name="Generic/Quest_19_Intro_Intro_006">Also frag mich einfach nach den Bauunterlagen wenn du eins bauen willst!</string>
+    <string name="Generic/Quest_15_BuildTeleporterRequest_Intro_004">&lt;yes&gt;Deshalb denke ich, dass wir nur eine bauen können.</string>
 </resources>
