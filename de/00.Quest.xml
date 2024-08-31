@@ -1,3 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="Quest/QuestDesc_Q_13_BuildBankQuest">Baue eine Bank für die Stadt.</string>
+    <string name="Quest/QuestDesc_Q_0_FirstQuest1">Du bist auf der Insel angekommen! Fletch hat dir ein Basiszelt gegeben und dich gebeten, dich umzusehen und einen Platz zu finden, an dem du dich niederlassen möchtest.
+\n
+\nDu kannst Fletch gerne Fragen über die Insel stellen. Du kannst sie in der Nähe des Stegs antreffen.</string>
+    <string name="Quest/QuestDesc_Q_4_WaitUntilNextDay">Fletch hat heute nichts mehr für dich. Sieh dich ein bisschen auf der Insel um, fang ein paar Insekten oder ruh dich aus.</string>
+    <string name="Quest/QuestDesc_Q_6_FurnaceQuest">Fletch hat dich gebeten, eine Liste von Gegenständen zu besorgen. Du wirst ein Lagerfeuer herstellen müssen.
+\n
+\nSobald du die Gegenstände gesammelt hast, zeigt dir Fletch, wie du Zinn-Erz-Riegel herstellen kannst.</string>
+    <string name="Quest/QuestDesc_Q_17_Get5Residents">&lt;IslandName&gt; braucht 5 ständige Einwohner, bevor South City sie als offizielle Siedlung anerkennt.
+\n
+\nWenn du ihnen Gefallen tust und Dinks in den Zelten der Besucher ausgibst, werden sie vielleicht bleiben.</string>
+    <string name="Quest/QuestName_Q_18_RayneLevel75">Rayne Stufe 75</string>
+    <string name="Quest/QuestDesc_Q_1_SetUpPlayerTent">Fletch hat dir dein eigenes Zelt geschenkt! Das wird für die nächste Zeit dein Zuhause sein, also lass dir Zeit bei der Entscheidung, wo du es aufstellen willst. Fletch hat vorgeschlagen, es in der Nähe des Basiszeltes aufzustellen.
+\n
+\nSobald du dein Zelt aufgebaut hast, sprich mit Fletch.</string>
+    <string name="Quest/QuestName_Q_0_FirstQuest1">Eine Basis für Operationen</string>
+    <string name="Quest/QuestName_Q_8_GetJohnToMoveIn">Überzeuge John zu bleiben</string>
+    <string name="Quest/QuestName_Q_9_NPCMoveInQuest1">Ein Haus bauen</string>
+    <string name="Quest/QuestName_Q_17_Get5Residents">Fünf ist eine Stadt</string>
+    <string name="Quest/QuestName_Q_1_SetUpPlayerTent">Dein neues Zuhause!</string>
+    <string name="Quest/QuestName_Q_2_SetupMarketplace">Ein Platz für Besucher</string>
+    <string name="Quest/QuestDesc_Q_2_SetupMarketplace">Fletch hat dich gebeten, einen Platz für die Campingplatz-Bauunterlagen zu finden. Sobald du diese Bauunterlagen platziert hast, ist dein Lager bereit, Reisende von überall her aufzunehmen!
+\n
+\nKehre zu Fletch zurück, sobald die Bauunterlagen platziert sind.</string>
+    <string name="Quest/QuestDesc_Q_3_FindSomeFood">Fletch hat dich gebeten, ein paar Früchte zu finden und sie auf dem Feuer zu kochen. Diese Aufgabe zählt zu deinen täglichen Aufgaben.</string>
+    <string name="Quest/QuestName_Q_5_GetTalbeSaw">Dinks und Tischsägen</string>
+    <string name="Quest/QuestDesc_Q_5_GetTalbeSaw">Fletch hat dich gebeten, in Johns Laden eine Tischsäge zu kaufen. Versuche, unerwünschte Gegenstände an John zu verkaufen, um die Dinks zu bekommen, die du brauchst.</string>
+    <string name="Quest/QuestName_Q_6_FurnaceQuest">Baumaterialien</string>
+    <string name="Quest/QuestName_Q_7_BringTinBar">Erz schmelzen</string>
+    <string name="Quest/QuestDesc_Q_7_BringTinBar">Stelle einen groben Brennofen her, lege 5 Zinn-Erz hinein und warte.
+\n
+\nBringe Fletch den Zinnbarren, sobald das Schmelzen abgeschlossen ist.</string>
+    <string name="Quest/QuestDesc_Q_8_GetJohnToMoveIn">Fletch glaubt, dass man Besucher davon überzeugen kann, dauerhaft zu bleiben, wenn man ihnen einen Gefallen tut und Geld in ihren Läden ausgibt.</string>
+    <string name="Quest/QuestDesc_Q_9_NPCMoveInQuest1">Baue ein Haus für einen neuen Bürger.</string>
+    <string name="Quest/QuestName_Q_10_NPCMoveInQuest2">Ein Haus bauen</string>
+    <string name="Quest/QuestDesc_Q_10_NPCMoveInQuest2">Baue ein Haus für einen neuen Bürger.</string>
+    <string name="Quest/QuestName_Q_11_NPCMoveInQuest3">Ein Haus bauen</string>
+    <string name="Quest/QuestDesc_Q_11_NPCMoveInQuest3">Baue ein Haus für einen neuen Bürger.</string>
+    <string name="Quest/QuestName_Q_12_NPCMoveInQuest4">Ein Haus bauen</string>
+    <string name="Quest/QuestDesc_Q_12_NPCMoveInQuest4">Baue ein Haus für einen neuen Bürger.</string>
+    <string name="Quest/QuestName_Q_13_BuildBankQuest">Baue eine Bank</string>
+    <string name="Quest/QuestName_Q_14_JohnLevel75">John Stufe 75</string>
+    <string name="Quest/QuestName_Q_15_FranklynTeleporterQuest">Teleporter</string>
+    <string name="Quest/QuestName_Q_16_IrwinLevel20">Platziere Hundehütte</string>
+    <string name="Quest/QuestDesc_Q_16_IrwinLevel20">Stelle die Hundehütte ab und sprich mit Irwin.</string>
+    <string name="Quest/QuestName_Q_19_GuestHouseQuest">Eigenheim-Bauunterlagen erhalten</string>
+    <string name="Quest/QuestName_Q_20_BuildTheBandStand">Baue den Musikpavillon</string>
+    <string name="Quest/QuestDesc_Q_20_BuildTheBandStand">Baue den Musikpavillon</string>
+    <string name="Quest/QuestName_Q_21FindBerkonium">Berkonium finden</string>
+    <string name="Quest/QuestDesc_Q_21FindBerkonium">Franklyn hat mich gebeten, mehr Berkonium Erz zu finden und es ihm zu liefern.</string>
+    <string name="Quest/QuestName_Q_22UnlockAirPort">Berkonium finden</string>
+    <string name="Quest/QuestDesc_Q_22UnlockAirPort">Franklyn hat mich gebeten, mehr Berkonium Erz zu finden und es ihm zu liefern.</string>
+</resources>
