@@ -1,4 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="InlineReplacement/Snag">Bratwurst</string>
+    <string name="InlineReplacement/SnagSizzles">Bratwürste brutzeln</string>
+    <string name="InlineReplacement/Beginning">Der Anfang...</string>
+    <string name="InlineReplacement/Dinks">Dinks</string>
+    <string name="InlineReplacement/Journal">Journal</string>
+    <string name="InlineReplacement/SouthCity">Südstadt</string>
+    <string name="InlineReplacement/RaffleTickets">Gewinnspielkarten</string>
+    <string name="InlineReplacement/Shifts">Schichten</string>
+    <string name="InlineReplacement/Shift">Schicht</string>
+    <string name="InlineReplacement/Licence">Lizenz</string>
+    <string name="InlineReplacement/Licences">Lizenzen</string>
+    <string name="InlineReplacement/AirShip">Luftschiff</string>
+    <string name="InlineReplacement/AirShips">Luftschiffe</string>
+    <string name="InlineReplacement/Nomads">Nomaden</string>
+    <string name="InlineReplacement/Nomad">Nomade</string>
+    <string name="InlineReplacement/PermitPoints">Erlaubnispunkte</string>
+    <string name="InlineReplacement/birthday">Geburtstag</string>
+    <string name="InlineReplacement/SnagSizzle">Bratwurst brutzeln</string>
+    <string name="InlineReplacement/Snags">Bratwürste</string>
+    <string name="InlineReplacement/IslandDay">&lt;IslandName&gt; Tag</string>
+    <string name="InlineReplacement/SkyFest">Himmelsfest</string>
+    <string name="InlineReplacement/Kite">Drachen</string>
+    <string name="InlineReplacement/PaperLantern">Fliegende Laterne</string>
+    <string name="InlineReplacement/PaperLanterns">Fliegende Laternen</string>
+    <string name="InlineReplacement/KiteMakingTable">Drachenbau-Tisch</string>
+    <string name="InlineReplacement/Aurora">Polarlicht</string>
+    <string name="InlineReplacement/PetName_000">Schatz</string>
+    <string name="InlineReplacement/PetName_001">Liebling</string>
+    <string name="InlineReplacement/PetName_002">Bärchen</string>
+    <string name="InlineReplacement/compBook">Fahrtenbuch</string>
+    <string name="InlineReplacement/NothingHappened">...ist nichts passiert...</string>
 </resources>
