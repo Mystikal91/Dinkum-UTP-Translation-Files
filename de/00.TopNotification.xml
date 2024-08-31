@@ -1,3 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SpeakToFletch">Sprich mit Fletch, um die Regeln zu erfahren!</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedTitle">Ein Item wurde an deinen Briefkasten gesendet</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_TimeLimit">Dieser Antrag ist zeitlich begrenzt.</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowSubtitle">Das restliche Geld wurde auf dein Bankkonto überwiesen</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NPCIsVisiting">&lt;NPCName&gt; besucht die Insel!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_SomeoneIsVisiting">Jemand besucht die Insel!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NoOneIsVisiting">Heute ist kein Besuch da...</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasStarted">Angelwettbewerb hat begonnen!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_GoodLuck">Viel Glück!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_OneHourRemaining">Noch eine Stunde!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LogYourScore">Achte darauf, dass du deinen Punktestand protokollierst!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasEnded">Angelwettbewerb ist zu Ende!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasEnded">Insektenwettbewerb ist zu Ende!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LetsSeeWhoWhon">Mal sehen, wer gewonnen hat!</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_001">Bitte stelle sicher, dass alle Spieler auf dem neuesten Stand sind.</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_002">Einige Gegenstände und Objekte funktionieren nicht richtig</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedTitle">Eine neue Bauunterlage ist verfügbar!</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedSubtitle">Sprich mit Fletch, um Bauunterlagen zu beantragen.</string>
+    <string name="TopNotification/EquipItemToChar_OnDisable_PlayerLeft">&lt;PlayerName&gt; ist gegangen</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_NonLocalPlayerJoin">&lt;PlayerName&gt; ist beigetreten</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedSubtitle">Deine Taschen waren voll!</string>
+    <string name="TopNotification/LicenceManager_checkForUnlocksOnLevelUp_NewLicenceIsAvailableTitle">Eine neue Lizenz ist verfügbar!</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcAddToMuseum_DonatedBy">Gespendet von &lt;PlayerName&gt;</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishTitle">&lt;PlayerName&gt; hat sich etwas gewünscht</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishSubtitle">Was wird morgen passieren?</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedTitle">Anfrage zum Journal hinzugefügt</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompletedBy">Anfrage abgeschlossen von &lt;PlayerName&gt;!</string>
+    <string name="TopNotification/PostOnBoard_completeTask_InvestigationRequestCompleted">Anfrage zur Untersuchung abgeschlossen</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompleted">Anfrage abgeschlossen!</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_RequestAddedBy">Anfrage zum Journal hinzugefügt von &lt;PlayerName&gt;</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_NewLocation">Ein Ort wurde zu deiner Karte hinzugefügt.</string>
+    <string name="TopNotification/TownEventManager_RunIslandDay_IslandDay">Es ist &lt;IslandName&gt; Tag!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasStarted">Insekten Wettbewerb hat begonnen!</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowTitle">Geldtasche voll</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_LocalPlayerJoin">Willkommen auf &lt;IslandName&gt;</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_FlyingLantern">Das Event \"Fliegende Laterne\" hat begonnen!</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_000">Der Host und du sind nicht auf der gleichen Version.</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SkyFest">Heute ist das Himmelsfest!</string>
+    <string name="TopNotification/TownEventManager_BandStand">Kommt bitte alle zum Musikpavillon, um zu feiern</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedSubtitle">Dieser Antrag muss bis zum Ende des Tages ausgefüllt werden.</string>
+    <string name="TopNotification/QuestManager_completeQuest_GuestHouseDeed">Gästehaus-Bauunterlagen sind verfügbar!</string>
+</resources>
