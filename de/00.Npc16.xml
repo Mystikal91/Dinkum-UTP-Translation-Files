@@ -3,4 +3,20 @@
     <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt; Ho! Ho! Ho!</string>
     <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt; Ho! Ho! Ho!</string>
     <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt; Ho! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">Hallo, &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt;Ich liebe es hier auf &lt;IslandName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_000">Kannst du mir etwas herstellen?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_006">Aber wenn du einen siehst, wärst du dann so nett, ihn zu fangen und ihn bei &lt;itemName&gt; abzugeben?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt;Viel Vergnügen!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt;Oh!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_003">Das erinnert mich an etwas!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt;Es scheint, dass einige meiner White &lt;animalName&gt; verschwunden sind.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt;Vielen Dank an &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_008">Du warst schon immer sehr nett!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">Ich hoffe, du bist heute nett zu mir!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_001">Wie ist dein Urlaub?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_002">Vergiss es</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_000">Hier ist meine Liste.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt;Ich bin sicher, dass sie irgendwann zurückkommen werden.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_001">Überprüfe es zweimal!</string>
 </resources>
