@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Npc15/Npc15_Intro_000">Tag auch.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_003">&lt;yes&gt;Oh, und stell sicher, dass du deine &lt;itemName&gt; bereit hast, sobald du drinnen bist.</string>
+    <string name="Npc15/Npc15_Intro_001">Mein Name ist &lt;myName&gt;.</string>
+    <string name="Npc15/Npc15_Intro_002">Ich bin der kleine Bruder von &lt;NPCName&gt;!</string>
+    <string name="Npc15/Npc15_Intro_003">Apropos &lt;NPCName&gt;, er hat erwähnt, dass &lt;itemName&gt; um diese Jahreszeit auf Wanderschaft ist.</string>
+    <string name="Npc15/Npc15_Intro_004">Das bedeutet, dass heute einer der einzigen Tage ist, an dem du sie den ganzen Tag über finden wirst.</string>
+    <string name="Npc15/Npc15_Intro_005">&lt;haha&gt;Sobald er das erwähnte, habe ich mein Ticket gebucht!</string>
+    <string name="Npc15/Npc15_Intro_006">Diese Bedingungen sind PERFEKT für &lt;FishingComp&gt;.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_000">&lt;wave&gt;Hallo Du.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_001">Mein Name ist Nancy und ich heiße dich im Flughafen von &lt;IslandName&gt; willkommen!</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_002">&lt;glee&gt;Wenn du einen Tagesausflug auf &lt;AirShip&gt; machen möchtest, werde ich dein Pilot sein.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_003">Du kannst eine &lt;itemName&gt; hier am Schalter kaufen.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_004">Du brauchst nur ein &lt;itemName&gt; pro Reise.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_005">Du kannst also so viele Leute mitbringen, wie du willst.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_006">Oh, und bedenke bitte, dass der Flughafen nur sonntags Tagesausflüge anbietet.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_000">Willkommen am Flughafen &lt;IslandName&gt;.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_001">Wir bieten heute Tagesausflüge an!</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_002">Wenn du also einen Ausflug machen möchtest, gehst du einfach durch die Tür in den &lt;AirShip&gt;</string>
 </resources>
