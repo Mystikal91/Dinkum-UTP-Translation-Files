@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="SellByWeightItems/WaryMuEgg">Krawall-Mu-Ei</string>
+    <string name="SellByWeightItems/BeeHive">Bienenstock</string>
+    <string name="SellByWeightItems/ThunderEgg">Donnerei</string>
+    <string name="SellByWeightItems/Emerald">Smaragd</string>
+    <string name="SellByWeightItems/Aquamarine">Aquamarin</string>
+    <string name="SellByWeightItems/Meteorite">Meteorit</string>
+    <string name="SellByWeightItems/Fossil">Fossil</string>
+    <string name="SellByWeightItems/Ruby">Rubin</string>
+</resources>
