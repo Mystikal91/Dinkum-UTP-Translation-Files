@@ -5,4 +5,7 @@
     <string name="MELVIN/FurnitureShop_Convo_Option_001">Ich möchte chatten.</string>
     <string name="MELVIN/TownMention_Level_001_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
     <string name="MELVIN/BugComp_Greeting 000_Intro_000">Tag auch.</string>
+    <string name="MELVIN/BackAndForthConvo_morningFallbacks_1_Line_0">Tag auch.</string>
+    <string name="MELVIN/SkyFest_Morning_003_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
+    <string name="MELVIN/High_Friendship_Greeting 2_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
 </resources>
