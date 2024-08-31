@@ -1,4 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="GUIText/Back" autoSizeTextContainer="True">Zurück</string>
+    <string name="GUIText/StaminaRegen">Ausdauer Regeneration:</string>
+    <string name="GUIText/INVITE" resizable="True">EINLADEN</string>
+    <string name="GUIText/KICK" resizable="True">RAUSWERFEN</string>
+    <string name="GUIText/Youhavepassedout">Du bist ohnmächtig geworden!</string>
+    <string name="GUIText/Whatsitsay">Was steht da?</string>
+    <string name="GUIText/Done">Fertig</string>
+    <string name="GUIText/Finishwiththemirrorandapplythesechanges">Mit dem Spiegel fertig werden und diese Änderungen übernehmen?</string>
+    <string name="GUIText/CompletedLicences">Abgeschlossene Lizenzen</string>
+    <string name="GUIText/ConfirmConversion">Umwandlung bestätigen</string>
+    <string name="GUIText/saving">speichern</string>
+    <string name="GUIText/TUE">DIE</string>
+    <string name="GUIText/WED">MIT</string>
+    <string name="GUIText/THU">DON</string>
+    <string name="GUIText/FRI">FRE</string>
+    <string name="GUIText/SAT">SAM</string>
+    <string name="GUIText/Reward">Belohnung</string>
+    <string name="GUIText/AcceptRequest">Anfrage annehmen</string>
+    <string name="GUIText/Revive">Wiederbeleben</string>
+    <string name="GUIText/TownDebtIncrease">Erhöhung der Stadtschulden</string>
+    <string name="GUIText/Buildingmaterialsrequiredoncedplaced">Benötigte Baumaterialien werden vor Ort platziert</string>
+    <string name="GUIText/SelectImage">Bild auswählen</string>
+    <string name="GUIText/GameSaved">Spiel gespeichert</string>
+    <string name="GUIText/MainColour">Hauptfarbe</string>
+    <string name="GUIText/TrimColour">Farbe der Zierleisten</string>
+    <string name="GUIText/BuildingsName">Name des Gebäudes</string>
+    <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1.
+\nDieser Kreis steht für dein Gesundheitstick.
+\nJedes Mal, wenn dieser Kreis gefüllt wird, erhältst du pro Tick die gleiche Menge an Gesundheit zurück.
+\nEin Gesundheitstick dauert normalerweise 20 Sekunden, kann aber durch Hinsetzen und andere Maßnahmen beschleunigt werden.</string>
+    <string name="GUIText/UseyourHouseCustomisationKittoapplythesechanges">Verwende deinen
+\n<b>Bausatz zur Hausanpassung</b>
+\num diese Änderungen anzuwenden?</string>
+    <string name="GUIText/Youhavebeendisconnected">Die Verbindung wurde unterbrochen.</string>
+    <string name="GUIText/Sessionhasended">Die Sitzung ist beendet.</string>
+    <string name="GUIText/ReturnToMenu">Zurück zum Menü</string>
+    <string name="GUIText/Whatsthename">Wie ist der Name?</string>
+    <string name="GUIText/Buy">Kaufen</string>
+    <string name="GUIText/Order">Bestellung</string>
+    <string name="GUIText/Ordercomplete">Bestellung abgeschlossen!</string>
+    <string name="GUIText/Thisistheamountofhealthyouwillrecovereachhealthtick">Dies ist die Menge an Lebenspunkten, die du mit jedem Lebenspunkte-Tick wiederherstellst.</string>
+    <string name="GUIText/Thisistheamountofstaminayouwillrecoverpersecond">Dies ist die Menge an Ausdauer, die du pro Sekunde wiederherstellst.</string>
+    <string name="GUIText/Youwillrecievetheiteminthemailbytomorrow">Du erhältst den Artikel morgen mit der Post.</string>
+    <string name="GUIText/Apply">Anwenden</string>
+    <string name="GUIText/Staminaandhealth">Ausdauer und Gesundheit</string>
+    <string name="GUIText/Nothinghere">Hier ist nichts</string>
+    <string name="GUIText/Thefishlookhappy">Der Fisch sieht glücklich aus!</string>
+    <string name="GUIText/HealthRegen">Gesundheit Regeneration:</string>
+    <string name="GUIText/Movearound">Bewegen</string>
+    <string name="GUIText/Calendar">Kalender</string>
+    <string name="GUIText/Milestones">Meilensteine</string>
+    <string name="GUIText/NoTasksCurrently">Zurzeit keine Aufgaben</string>
+    <string name="GUIText/BugCatching">Käfer fangen</string>
+    <string name="GUIText/Youwillloseallprogressfromthelasttimeyouslept">Du verlierst alle Fortschritte seit dem letzten Mal schlafen.</string>
+    <string name="GUIText/Quit">Beenden</string>
+    <string name="GUIText/Empty">Leer</string>
+    <string name="GUIText/Multiplayer" resizable="True">Multiplayer</string>
+    <string name="GUIText/LANIP">LAN IP</string>
+    <string name="GUIText/Open">Öffnen</string>
+    <string name="GUIText/NoNewMail">Keine neue Post</string>
+    <string name="GUIText/CollectDeleteAll">Alle sammeln &amp; löschen</string>
+    <string name="GUIText/SELECT">AUSWÄHLEN</string>
+    <string name="GUIText/MON">MON</string>
+    <string name="GUIText/SUN">SON</string>
+    <string name="GUIText/CraftedStack">Hergestellter Stapel:</string>
+    <string name="GUIText/Ingredients">Zutaten</string>
+    <string name="GUIText/Withdraw">Zurückziehen</string>
+    <string name="GUIText/Deposit">Einzahlung</string>
+    <string name="GUIText/C">C</string>
+    <string name="GUIText/Confirm">Bestätigen</string>
+    <string name="GUIText/Feedthefishacritter">Den Fisch mit einem Tier füttern?</string>
+    <string name="GUIText/sprite15Convert">&lt;sprite=15&gt;Umwandeln</string>
+    <string name="GUIText/MAX">MAX</string>
+    <string name="GUIText/FishStatus">Fisch Status</string>
+    <string name="GUIText/FishNursery">Fischzuchtstation</string>
+    <string name="GUIText/Map">Karte</string>
+    <string name="GUIText/ItemsRequired">Erforderliche Items</string>
+    <string name="GUIText/DinksEarned" resizable="True">Verdiente Dinks</string>
+    <string name="GUIText/loading">lädt</string>
+    <string name="GUIText/Today">Heute</string>
+    <string name="GUIText/Bulletins">Bulletins</string>
+    <string name="GUIText/QuitToDesktop" resizable="True">Beenden zum Desktop</string>
+    <string name="GUIText/DailyMilestones" resizable="True">Tägliche Meilensteine</string>
+    <string name="GUIText/Tasks">Aufgaben</string>
+    <string name="GUIText/Fish">Fische</string>
+    <string name="GUIText/Bugs">Käfer</string>
+    <string name="GUIText/People">Personen</string>
+    <string name="GUIText/Habitat">Lebensraum</string>
+    <string name="GUIText/TimeFound">Gefundene Zeit</string>
+    <string name="GUIText/Season">Jahreszeit</string>
+    <string name="GUIText/MyDetails">Meine Details</string>
+    <string name="GUIText/MyID">Meine ID</string>
+    <string name="GUIText/MyLicences">Meine Lizenzen</string>
+    <string name="GUIText/Farming">Landwirtschaft</string>
+    <string name="GUIText/Foraging">Nahrungssuche</string>
+    <string name="GUIText/Mining">Bergbau</string>
+    <string name="GUIText/Fishing">Angeln</string>
+    <string name="GUIText/Hunting">Jagen</string>
+    <string name="GUIText/Photos">Fotos</string>
+    <string name="GUIText/Animals">Tiere</string>
+    <string name="GUIText/FarmAnimals" resizable="True">Bauernhoftiere</string>
+    <string name="GUIText/All">Alle</string>
+    <string name="GUIText/Options">Optionen</string>
+    <string name="GUIText/Settings">Einstellungen</string>
+    <string name="GUIText/Help">Hilfe</string>
+    <string name="GUIText/SinglePlayer" resizable="True">Einzelspieler</string>
+    <string name="GUIText/Pause">Pause</string>
+    <string name="GUIText/Paused">Pausiert</string>
+    <string name="GUIText/PressStartorEntertoreturntothegame">Drücke Start oder Enter, um zum Spiel zurückzukehren</string>
+    <string name="GUIText/Areyousureyouwanttoquit">Bist du sicher, dass du aufhören willst?</string>
+    <string name="GUIText/Tomorrow">Morgen</string>
+    <string name="GUIText/QuitToMainMenu" resizable="True">Beenden zum Hauptmenü</string>
+    <string name="GUIText/Pedia">Pedia</string>
+    <string name="GUIText/NoCaught">Nr. Gefangen</string>
+    <string name="GUIText/Cancel">Abbrechen</string>
 </resources>
