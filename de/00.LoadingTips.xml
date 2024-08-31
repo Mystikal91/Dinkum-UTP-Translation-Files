@@ -1,3 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="LoadingTips/Talkingtopeopleeverydaywillincreaseyourfriendshipwiththem">Wenn du jeden Tag mit Menschen sprichst, wird deine Freundschaft mit ihnen wachsen.</string>
+    <string name="LoadingTips/Promisingtocompleteataskandnotdeliveringisntagoodidea">Es ist keine gute Idee, eine Aufgabe zu versprechen und sie dann nicht zu erfüllen.</string>
+    <string name="LoadingTips/Thebetteryouareataskillthelessstaminayoullusedoingit">Je besser du eine Fertigkeit beherrschst, desto weniger Ausdauer verbrauchst du für sie.</string>
+    <string name="LoadingTips/Swimmingfortoolongcanbehazardoustoyourhealth">Zu langes Schwimmen kann gefährlich für deine Gesundheit sein.</string>
+    <string name="LoadingTips/Ifitsshinyitsprobablyworthsomething">Wenn es glänzt, ist es wahrscheinlich etwas wert.</string>
+    <string name="LoadingTips/Almostanythingcanbesoldbutnoteverythingcanbebought">Fast alles kann verkauft werden, aber nicht alles kann gekauft werden.</string>
+    <string name="LoadingTips/Toolswillbreakifyouusethemtoomuch">Werkzeuge gehen kaputt, wenn du sie zu oft benutzt.</string>
+    <string name="LoadingTips/Crafteditemstendtobemorevaluablethantheiringredients">Hergestelltes ist meist wertvoller als seine Zutaten.</string>
+    <string name="LoadingTips/Passingoutwilldodamagetoyourtools">Wenn du in Ohnmacht fällst, schadet das deinem Werkzeug.</string>
+    <string name="LoadingTips/IfyouneedabedFletchkeepssleepingbagsintheBaseTent">Wenn du ein Bett brauchst, hält Fletch Schlafsäcke im Basiszelt bereit.</string>
+    <string name="LoadingTips/DiggingisrealfunDiggingisrealfunDiggingisrealfun">Graben macht wirklich Spaß. Graben macht wirklich Spaß. Graben macht wirklich Spaß.</string>
+    <string name="LoadingTips/Sharksareonlytoughwhentheyareinthewater">Haie sind nur stark, wenn sie im Wasser sind.</string>
+    <string name="LoadingTips/Sometimestreescandropotheritems">Manchmal können Bäume andere Gegenstände fallen lassen.</string>
+    <string name="LoadingTips/Wildanimalscanbekeptinapenifyoufencethemoff">Wildtiere können in einem Gehege gehalten werden, wenn du sie einzäunst.</string>
+    <string name="LoadingTips/Youcanburyitemsbydroppingthemonthegroundandcoveringthemwithdirt">Du kannst Gegenstände vergraben, indem du sie auf den Boden fallen lässt und mit Erde bedeckst.</string>
+    <string name="LoadingTips/Foodmadeatacookingtablewilloffermorehealthandstamina">Lebensmittel, die an einem Kochtisch zubereitet werden, bieten mehr Gesundheit und Ausdauer.</string>
+    <string name="LoadingTips/Youcanplacecarryableitemsonmostvehicles">Du kannst auf den meisten Fahrzeugen tragbare Gegenstände unterbringen.</string>
+    <string name="LoadingTips/Differentfishcanbefounddependingontheseasonbiomeandtimeofday">Je nach Jahreszeit, Biotop und Tageszeit sind verschiedene Fische zu finden.</string>
+    <string name="LoadingTips/Stayingoutlatewilltireyouout">Wenn du lange draußen bleibst, wirst du müde.</string>
+    <string name="LoadingTips/Ashadyvisitormightappearonrainymornings">An regnerischen Morgen kann ein schattiger Besucher auftauchen.</string>
+    <string name="LoadingTips/Fletchmightbeabletohelpyouupgradeyourhome">Fletch kann dir vielleicht helfen, dein Haus zu modernisieren.</string>
+    <string name="LoadingTips/Animalscanbecaughtintrapseasieriftheyhavelowhealth">Tiere können leichter in Fallen gefangen werden, wenn sie wenig Gesundheit haben.</string>
+    <string name="LoadingTips/WildAnimalswilleatyourcropsiftheyarentfencedoff">Wildtiere fressen deine Ernte, wenn diese nicht eingezäunt sind.</string>
+    <string name="LoadingTips/Keepyourfarmanimalssafebyfencingthemofffrompredators">Halte deine Nutztiere in Sicherheit, indem du sie vor Raubtieren abgrenzt.</string>
+    <string name="LoadingTips/Trycookingallsortsoffood">Versuche, alle Arten von Essen zu kochen.</string>
+    <string name="LoadingTips/Wheelbarrowscancarryotheritemsbesidesdirt">Schubkarren können neben Schmutz auch andere Dinge transportieren.</string>
+    <string name="LoadingTips/Usethewhistleemotetocallfarmanimalstoyou">Benutze das Pfeifen-Emoticon, um die Tiere auf dem Bauernhof zu dir zu rufen.</string>
+    <string name="LoadingTips/Certainflowerscanbeplacedinabilly">Bestimmte Blumen können in einem Billy platziert werden.</string>
+    <string name="LoadingTips/Themineslayoutshiftsandchangeseveryday">Das Layout der Minen ändert sich jeden Tag.</string>
+    <string name="LoadingTips/Fletchcanhelpyoumovebuildingsifyouneedto">Fletch kann dir helfen, Gebäude zu verschieben, wenn du es brauchst.</string>
+    <string name="LoadingTips/Cropsthatgrowallyearareworthlessthanseasonalcrops">Feldfrüchte, die das ganze Jahr über wachsen, sind weniger wert als saisonale Feldfrüchte.</string>
+    <string name="LoadingTips/Youcanpickupvehiclesbydamagingthem">Du kannst Fahrzeuge aufheben, indem du sie beschädigst.</string>
+    <string name="LoadingTips/Batsareannoying">Fledermäuse sind lästig.</string>
+    <string name="LoadingTips/Dontleavestuffintheminesifyouwanttokeepit">Lass keine Sachen in den Minen liegen, wenn du sie behalten willst.</string>
+    <string name="LoadingTips/ThetravelbagintheBaseTentcanbeaccessedfromanyisland">Die Reisetasche im Basiszelt kann von jeder Insel aus erreicht werden.</string>
+    <string name="LoadingTips/Youwillrecoverstaminaslowlyifyouarefull">Wenn du voll bist, erholst du deine Ausdauer nur langsam.</string>
+    <string name="LoadingTips/WildflowersgoawayafterSpring">Wildblumen verschwinden nach dem Frühling</string>
+    <string name="LoadingTips/Gemsareworthmorewholeratherthaninshards">Edelsteine sind als Ganzes mehr wert als in Scherben</string>
+    <string name="LoadingTips/YouhavetotaketheBugCompseriously">Du musst den Insektenwettbewerb ernst nehmen</string>
+    <string name="LoadingTips/Eatbeforeyouusestamina">Iss, bevor du deine Ausdauer einsetzt</string>
+    <string name="LoadingTips/Wildmushroomswillwiltafternoon">Wildpilze werden nach dem Mittag welk</string>
+    <string name="LoadingTips/Keepaneyeontheskyatnight">Behalte den Himmel bei Nacht im Auge</string>
+    <string name="LoadingTips/Youcanmoveafullcontainerusingatrolley">Du kannst einen vollen Container mit einem Wagen bewegen</string>
+    <string name="LoadingTips/Sittingwillcauseyoutorecoverhealthfaster">Im Sitzen erholst du deine Gesundheit schneller</string>
+    <string name="LoadingTips/SoonTM">Bald&lt;size=3&gt;TM</string>
+    <string name="LoadingTips/CustomisationkitscanbeusedtoupgradeGuestHouses">Bausätze zur Hausanpassung können zur Aufwertung von Gästehäusern verwendet werden</string>
+    <string name="LoadingTips/Laddersarecool">Leitern sind cool</string>
+    <string name="LoadingTips/Johnsellsdifferentfruitsandvegeveryday">John verkauft jeden Tag verschiedene Obst- und Gemüsesorten</string>
+    <string name="LoadingTips/Cookedfoodsareonlyasvaluableastheiringredients">Gekochte Lebensmittel sind nur so wertvoll wie ihre Zutaten</string>
+    <string name="LoadingTips/BewaryoftheWaryMu">Nimm dich vor der Krawall-Mu in Acht.</string>
+    <string name="LoadingTips/Onlyonewishcanbeactiveatatime">Nur ein Wunsch kann gleichzeitig aktiv sein</string>
+    <string name="LoadingTips/RareDoggosarereal">Seltene Doggos sind echt</string>
+    <string name="LoadingTips/Springiseggseason">Frühling ist Eierzeit.</string>
+</resources>
