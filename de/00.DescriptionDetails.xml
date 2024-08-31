@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="DescriptionDetails/Title_AddsATemporary">fügt eine temporäre</string>
+    <string name="DescriptionDetails/Title_Bury">Vergraben</string>
+    <string name="DescriptionDetails/Title_Consumable">Verbrauchsmaterial</string>
+    <string name="DescriptionDetails/Title_Consuming">Verzehr von</string>
+    <string name="DescriptionDetails/Title_Damage">Schaden</string>
+    <string name="DescriptionDetails/Title_GrowsOver">Wächst über</string>
+    <string name="DescriptionDetails/Title_Health">Gesundheit</string>
+    <string name="DescriptionDetails/Title_Plantable">Pflanzbar</string>
+    <string name="DescriptionDetails/Title_Produces">Produziert</string>
+    <string name="DescriptionDetails/Title_Stamina">Ausdauer</string>
+    <string name="DescriptionDetails/Title_TilledSoil">Gepflügter Boden</string>
+    <string name="DescriptionDetails/Title_days">Tage</string>
+    <string name="DescriptionDetails/Title_Restores">stellt wieder her</string>
+    <string name="DescriptionDetails/Title_ContinuesToProduce">Produziert auch weiterhin</string>
+    <string name="DescriptionDetails/Title_Weapon">Waffe</string>
 </resources>
