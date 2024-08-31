@@ -63,4 +63,5 @@
     <string name="HardCodedStrings/Task_Rocks">Felsen</string>
     <string name="HardCodedStrings/Task_Bring">Bringe</string>
     <string name="HardCodedStrings/BuildingManager_getBuildingName_002">Spieler Haus</string>
+    <string name="HardCodedStrings/MailManager_getSentByName_Unknown">Unbekannt</string>
 </resources>
