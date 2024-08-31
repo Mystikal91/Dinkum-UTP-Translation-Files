@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="InventoryItemNames_Plural/InvItem_1034">Kaffeebohnen</string>
+    <string name="InventoryItemNames_Plural/InvItem_324">Weizen</string>
+    <string name="InventoryItemNames_Plural/InvItem_116">Karotten</string>
+    <string name="InventoryItemNames_Plural/InvItem_123">Mais</string>
+    <string name="InventoryItemNames_Plural/InvItem_322">Kartoffeln</string>
+    <string name="InventoryItemNames_Plural/InvItem_330">Zwiebeln</string>
+    <string name="InventoryItemNames_Plural/InvItem_698">Flaschenbürsten</string>
+    <string name="InventoryItemNames_Plural/InvItem_102">Gelbe Akazie-Blüten</string>
+    <string name="InventoryItemNames_Plural/InvItem_799">Kokosnüsse</string>
+    <string name="InventoryItemNames_Plural/InvItem_843">Tomaten</string>
+    <string name="InventoryItemNames_Plural/InvItem_845">Grüne Bohnen</string>
+</resources>
