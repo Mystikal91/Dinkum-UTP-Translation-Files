@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ToolTips/AskForJob_0">Kann ich etwas für dich erledigen?</string>
+    <string name="ToolTips/Tip_Cancel">Abbrechen</string>
+    <string name="ToolTips/Tip_PlaceDeed">Plazieren</string>
+    <string name="ToolTips/Sell">Verkaufen</string>
 </resources>
