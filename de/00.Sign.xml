@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Sign/AcceptingDonations_Intro_001">Bitte denke darüber nach, für unsere Stadt zu Spenden.</string>
+    <string name="Sign/Johns_HourSign_Intro_000">John\'s Laden</string>
+    <string name="Sign/AcceptingDonations_Option_000">Spenden</string>
+    <string name="Sign/AnimalShopSign_Intro_000">Irwin\'s Stall</string>
+    <string name="Sign/WeatherStationShowsForecast_Convo_Intro_000">Hier ist die Vorhersage der Wetterstation:</string>
+    <string name="Sign/BankSign_Intro_000">Die Bank</string>
 </resources>
