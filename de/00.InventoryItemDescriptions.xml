@@ -149,4 +149,20 @@
     <string name="InventoryItemDescriptions/InvDesc_1">Ein Gutschein im Wert von 10.000 Dinks</string>
     <string name="InventoryItemDescriptions/InvDesc_172">Ein kleiner Tisch</string>
     <string name="InventoryItemDescriptions/InvDesc_184">Eine wirklich gute Spitzhacke.</string>
+    <string name="InventoryItemDescriptions/InvDesc_171">Ein Stuhl</string>
+    <string name="InventoryItemDescriptions/InvDesc_326">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_523">Ein einzelner Stuhl zum sitzen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_530">Ein Holztisch.</string>
+    <string name="InventoryItemDescriptions/InvDesc_321">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_323">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_325">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_329">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_331">Pflanze es in den Boden!</string>
+    <string name="InventoryItemDescriptions/InvDesc_527">Ein Holztisch.</string>
+    <string name="InventoryItemDescriptions/InvDesc_545">Ein Holztisch.</string>
+    <string name="InventoryItemDescriptions/InvDesc_548">Ein einzelner Stuhl zum sitzen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_558">Ein Holztisch.</string>
+    <string name="InventoryItemDescriptions/InvDesc_56">Ein einzelner Stuhl zum sitzen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_561">Ein einzelner Stuhl zum sitzen.</string>
+    <string name="InventoryItemDescriptions/InvDesc_564">Ein Nachttisch aus Holz.</string>
 </resources>
