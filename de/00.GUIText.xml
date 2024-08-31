@@ -115,4 +115,66 @@
     <string name="GUIText/Pedia">Pedia</string>
     <string name="GUIText/NoCaught">Nr. Gefangen</string>
     <string name="GUIText/Cancel">Abbrechen</string>
+    <string name="GUIText/Sitting">Sitzen</string>
+    <string name="GUIText/2ThiscirclerepresentsyourcurrentfullnessGenerallyyoucanonlyeat3thingsYoushouldpaycloseattentiontowhatfoodsyoueatasallfoodhascertainstrengthsandweaknesses">2.
+\nDieser Kreis steht für deine aktuelle Sättigung.
+\nIn der Regel kannst du nur 3 Dinge essen.
+\nDu solltest genau darauf achten, welche Lebensmittel du isst, denn alle Lebensmittel haben bestimmte Stärken und Schwächen.</string>
+    <string name="GUIText/3ThesearethecurrentfoodsthatyouhaveeatenThetimerbeloweachfoodshowshowlongthefoodseffectwilllastOnceitdoesafullnesswillberemovedfromyourfullnesscircle">3.
+\nDies sind die aktuellen Lebensmittel, die du gegessen hast.
+\nDer Timer unter jedem Lebensmittel zeigt an, wie lange die Wirkung des Lebensmittels anhält.
+\nSobald dies der Fall ist, wird eine Sättigung aus deinem Sättigungskreis entfernt.</string>
+    <string name="GUIText/4ThisshowsthecurrentamountofhealthyouwillrecoveroneachhealthtickThisamountisdeterminedbythecurrenteffectofaneatenfoodAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">4.
+\nHier wird die aktuelle Menge an Gesundheit angezeigt, die du bei jedem Gesundheitstick wiederherstellst.
+\nDiese Menge wird durch den aktuellen Effekt eines gegessenen Lebensmittels bestimmt.
+\nEin Gesundheitstick dauert normalerweise 20 Sekunden, aber er kann durch Hinsetzen oder andere Maßnahmen beschleunigt werden.</string>
+    <string name="GUIText/5ThisshowsthecurrentamountofstaminayouwillreceivepersecondThisamountisdeterminedbythecurrenteffectofaneatenfoodPlayersshouldmakethisnumberaslargeaspossiblewhendoingstrenuoustasks">5.
+\nHier wird die aktuelle Menge an Ausdauer angezeigt, die du pro Sekunde erhältst.
+\nDiese Menge wird durch den aktuellen Effekt einer gegessenen Nahrung bestimmt.
+\nSpieler/innen sollten diese Zahl so groß wie möglich machen, wenn sie anstrengende Aufgaben erledigen.</string>
+    <string name="GUIText/7HowmuchhealthregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrenthealthregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">7:
+\nWie viel Gesundheitswiederherstellung ein bestimmtes Lebensmittel dir gibt, wenn du es isst.
+\nWenn du sie isst, wird sie zu deiner aktuellen Gesundheitsregeneration hinzugefügt.
+\nDies gilt nur für die gesamte Wirkungsdauer des Lebensmittels.</string>
+    <string name="GUIText/8HowmuchstaminaregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrentstaminaregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">8:
+\nWie viel Ausdauerregeneration ein bestimmtes Lebensmittel dir gibt, wenn du es isst.
+\nWenn du sie isst, wird sie zu deiner aktuellen Ausdauerregeneration hinzugefügt.
+\nDies gilt nur für die gesamte Wirkungsdauer des Lebensmittels.</string>
+    <string name="GUIText/9HowmuchyourhealthbarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrenthealthbarifeatenThiswillonlylastforthefoodstotaleffecttime">9:
+\nUm wie viel deine Gesundheitsleiste durch den Verzehr dieses Lebensmittels erhöht wird.
+\nWenn du es isst, wird dein aktueller Lebensmittelbalken erhöht.
+\nDies gilt nur für die gesamte Wirkungsdauer des Lebensmittels.</string>
+    <string name="GUIText/IncreasesthespeedofhealthregenerationtickThisisenabledbysittinginachair">Erhöht die Geschwindigkeit des Gesundheitsregenerationsticks. Dies wird aktiviert, wenn du auf einem Stuhl sitzt.</string>
+    <string name="GUIText/WellRestedBuff">Gut ausgeruht</string>
+    <string name="GUIText/Givesplayersasmallstaminaboostinthemorningaftersleepingindoors">Gibt den Spielern einen kleinen Ausdauerschub am Morgen, nachdem sie im Haus geschlafen haben.</string>
+    <string name="GUIText/FullnessTimer">Sättigungstimer</string>
+    <string name="GUIText/Showshowlongafoodseffectwilllast">Zeigt an, wie lange die Wirkung eines Lebensmittels anhält.</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenmining">Erhöht den Schaden, den deine Werkzeuge beim Bergbau verursachen.</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourweaponswhenfighting">Erhöht den Schaden, den deine Waffen beim Kämpfen verursachen.</string>
+    <string name="GUIText/Decreasesthedamagedealtbyenemies">Verringert den von Feinden verursachten Schaden.</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanreelinfish">Erhöht die Geschwindigkeit, mit der dein Charakter Fische an Land ziehen kann</string>
+    <string name="GUIText/IncreasestheamountofXPplayersearnfromactivities">Erhöht die Anzahl der XP, die Spieler durch Aktivitäten verdienen.</string>
+    <string name="GUIText/Sickness">Krankheit</string>
+    <string name="GUIText/Causescharacterstoconsumestaminaandpreventseating">Verursacht, dass Charaktere Ausdauer verbrauchen und verhindert das Essen.</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanswim">Erhöht die Geschwindigkeit, mit der dein Charakter schwimmen kann.</string>
+    <string name="GUIText/Stopsnonpowertoolsfromtakingdurabilitywhentheyareused">Verhindert, dass Werkzeuge, die nicht mit Strom betrieben werden, eine längere Lebensdauer haben, wenn sie benutzt werden.</string>
+    <string name="GUIText/Stopspowertoolsfromtakingdurabilitywhentheyareused">Stoppt die Haltbarkeit von Elektrowerkzeugen, wenn sie benutzt werden.</string>
+    <string name="GUIText/Movecamera">Kamera bewegen</string>
+    <string name="GUIText/HoldWhilemovingmouse">(Halten) Während der Mausbewegung</string>
+    <string name="GUIText/EnterFreeCam">Freie Kamera aktivieren</string>
+    <string name="GUIText/OpenPockets">Tasche öffnen</string>
+    <string name="GUIText/OpenJournal">Journal öffnen</string>
+    <string name="GUIText/HealthTickspeedisincreasedforfasterhealthregen">Die Geschwindigkeit des Lebenspunkte-Ticks wurde erhöht, um die Lebenspunkte schneller wiederherzustellen</string>
+    <string name="GUIText/10HowmuchyourstaminabarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrentstaminabarifeatenThiswillonlylastforthefoodstotaleffecttime">10:
+\nUm wie viel wird deine Ausdauerleiste durch den Verzehr dieses Lebensmittels erhöht.
+\nSie erhöht deine aktuelle Ausdauerleiste, wenn du sie isst.
+\nDie Wirkung hält nur für die gesamte Wirkungsdauer der Nahrung an.</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenlogging">Erhöht den Schaden, den deine Werkzeuge beim Holzfällen verursachen.</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanrun">Erhöht die Geschwindigkeit, mit der dein Charakter laufen kann.</string>
+    <string name="GUIText/AllowsplayerstosavesomeenergypastLateenablinglatenightactivities">Ermöglicht es den Spielern, nach dem Ende der Spielzeit noch etwas Energie zu sparen, so dass Aktivitäten bis spät in die Nacht möglich sind.</string>
+    <string name="GUIText/Critters">Tiere</string>
+    <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Den Überblick über die Anleitung behalten</string>
+    <string name="GUIText/6HowlongacertainfoodseffectswillremainThisincludeshowlongthefoodwillkeepyoufull">6:
+\nWie lange die Wirkung eines bestimmten Lebensmittels anhält.
+\nDazu gehört auch, wie lange das Essen dich satt hält.</string>
 </resources>
