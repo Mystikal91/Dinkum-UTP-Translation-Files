@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Npc13/BugCatchingCompConvo_InCompNotStarted_Intro_000">&lt;wave&gt; Hallo, &lt;PlayerName&gt; !</string>
+    <string name="Npc13/BugCatchingCompConvo_InComp_Intro_000">&lt;wave&gt; Hallo, &lt;PlayerName&gt; !</string>
 </resources>
