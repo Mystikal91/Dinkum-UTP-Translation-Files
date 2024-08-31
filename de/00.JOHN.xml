@@ -2,4 +2,6 @@
 <resources>
     <string name="JOHN/Arvo_Greeting 0_Intro_000">Schon Nachmittag , was, &lt;PlayerName&gt; ?</string>
     <string name="JOHN/RandomConvo_024_Option_001">Sicher!</string>
+    <string name="JOHN/Low_Friendship_Greeting 0_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
+    <string name="JOHN/SkyFest_Morning_001_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
 </resources>
