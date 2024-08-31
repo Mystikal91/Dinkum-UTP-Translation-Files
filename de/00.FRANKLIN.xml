@@ -5,4 +5,6 @@
     <string name="FRANKLIN/LearntNewTech_Intro_000">&lt;thinking&gt;Hmmm...</string>
     <string name="FRANKLIN/CanMakeTechForYouNotEnoughMoney_Response_000_000">&lt;thinking&gt;Hmmm...</string>
     <string name="FRANKLIN/CrafterShopConversation_Option_002">Ich möchte chatten.</string>
+    <string name="FRANKLIN/CrafterShopConversation_Response_001_000">Ausgezeichnet.</string>
+    <string name="FRANKLIN/CrafterCurrentlyCrafting_Response_000_000">Ausgezeichnet.</string>
 </resources>
