@@ -1,3 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="Mail/LicenceUnlock">Du hast hart gearbeitet und ich sage dir, das ist nicht unbemerkt geblieben.
+\n
+\nWeil du deine Fähigkeiten verbessert hast, steht dir eine neue Ebene von &lt;licenceName&gt; zur Verfügung.
+\n
+\nKomm zu mir, um dich dafür zu bewerben!</string>
+    <string name="Mail/SoldFarmAnimalWithitem">Dein Nutztier wurde sicher untergebracht.
+\n
+\nIch habe &lt;itemAttachedName&gt; angehängt, was es bei sich hatte.</string>
+    <string name="Mail/BugCompLetter_3rd">Herzlichen Glückwunsch zum 3. Platz im Insekten-Wettbewerb!
+\n
+\n
+\nBitte nimm &lt;itemAttachedName&gt; als deinen Preis.
+\n
+\n
+\nDanke, dass du am Gewinnspiel teilgenommen hast. Ich kann es kaum erwarten, wieder zu kommen und zu spielen.
+\n
+\nBis bald!</string>
+    <string name="Mail/DeliveredChrissyAnimalLetter">Das Tier, das du uns geschickt hast, scheint beim Transport entkommen zu sein.
+\n
+\nWir haben eine leere Falle erhalten mit &lt;itemAttachedName&gt;?
+\n
+\nWir haben &lt;itemAttachedName&gt; beigefügt, falls es sich um einen Fehler handelt.</string>
+    <string name="Mail/FishingCompLetter_2nd">Herzlichen Glückwunsch zum 2. Platz beim Angelwettbewerb!
+\n
+\n
+\nBitte nimm &lt;itemAttachedName&gt; als deinen Preis.
+\n
+\n
+\nDanke, dass du an dem Gewinnspiel teilgenommen hast. Ich kann es kaum erwarten, zurückzukehren.
+\n
+\nWir sehen uns bald wieder!</string>
+    <string name="Mail/BugCompLetter_2nd">Herzlichen Glückwunsch zum 2. Platz im Insekten-Wettbewerb!
+\n
+\n
+\nBitte nimm &lt;itemAttachedName&gt; als deinen Preis.
+\n
+\n
+\nDanke, dass du am Gewinnspiel teilgenommen hast. Ich kann es kaum erwarten, wieder zu kommen und zu spielen.
+\n
+\nBis bald!</string>
+    <string name="Mail/DeliveredAnimalLetter">Wir haben das Tier erhalten, das du uns geschickt hast!
+\n
+\nDas Exemplar wird untersucht und unversehrt wieder in die Wildnis entlassen.
+\n
+\nDeine Belohnung ist beigefügt.</string>
+    <string name="Mail/Test Letter 10">Ich habe das gesehen und an dich gedacht.</string>
+    <string name="Mail/Test Letter 13">Ich habe einen Baum gefällt. Ich meine, ich habe es getan. Ich!
+\nWie auch immer, ich habe ein paar &lt;itemAttachedName&gt; gemacht. Ich dachte, du hättest eine bessere Verwendung für sie.</string>
+    <string name="Mail/Test Letter 16">Hier ist ein bisschen Taschengeld für dich. Ich weiß, es ist nicht viel, aber du tust so viel für die Stadt.
+\n
+\nIch wollte dir irgendwie danken.</string>
+    <string name="Mail/Test Letter 2">Es war schön, neulich mit dir zu reden. Danke, dass du ein toller Freund bist!</string>
+    <string name="Mail/Test Letter 23">Ich habe &lt;itemAttachedName&gt; neulich im Dreck gefunden.
+\n
+\nDie habe ich schon mal gesehen. Weißt du, was sie machen?</string>
+    <string name="Mail/Test Letter 6">Ich dachte, du magst vielleicht &lt;itemAttachedName&gt;. Wenn du es nicht magst, verkaufe es. Genau das hatte ich vor!</string>
+    <string name="Mail/Test Letter 7">Ich hoffe, du magst gebrauchte Sachen! Hier ist &lt;itemAttachedName&gt;. Ich habe es schon seit Jahren nicht mehr getragen.</string>
+    <string name="Mail/Test Letter 9">Dein Haus sieht ziemlich gut aus. Aber meinst du nicht, dass es mit &lt;itemAttachedName&gt; noch schöner aussehen würde?
+\n
+\nIch werde auf jeden Fall durch deine Fenster spähen, um sicherzugehen, dass du es aufhängst!</string>
+    <string name="Mail/Bug Tips">&lt;b&gt;Insekten-Tipps für &lt;season&gt;&lt;/b&gt;
+\n
+\nEs war &lt;timeOfDay&gt;. Es gab ein Insekt in der &lt;biomeName&gt;, das ich noch nie gesehen habe.
+\n
+\nIch dachte, das interessiert dich vielleicht.</string>
+    <string name="Mail/BugCompLetter_1st">Herzlichen Glückwunsch zum 1. Platz im Insekten-Wettbewerb!
+\n
+\n
+\nBitte nimm &lt;itemAttachedName&gt; als deinen Preis.
+\n
+\n
+\nDanke, dass du am Gewinnspiel teilgenommen hast. Ich kann es kaum erwarten, wieder zu kommen und zu spielen.
+\n
+\nBis bald!</string>
+    <string name="Mail/Fishing Tips">&lt;b&gt;Hier ist ein Angeltipp für &lt;season&gt;&lt;/b&gt;!
+\n
+\nEin unentdeckter Fisch wurde in &lt;biomeName&gt; gesichtet.
+\n
+\nWenn jemand ihn finden will, bitte &lt;timeOfDay&gt; fischen!</string>
+    <string name="Mail/DeliveredAnimalSpecialDropLetter">Das Tier, das du uns geschickt hast, scheint etwas beim Transport verloren zu haben.
+\n
+\nDa wir es nicht für unsere Forschung benötigen, haben wir &lt;itemAttachedName&gt; beigefügt und es an dich zurückgeschickt.</string>
+    <string name="Mail/DevLetter">Hallo zusammen!
+\n
+\nIch wollte mich bei allen bedanken, die Dinkum vor dem Start gezeigt und gespielt haben. Ich habe es geliebt, all die Videos und Streams anzusehen!
+\n
+\nIch habe ein Geschenk für euch! Keine Sorge, es hat mich nicht zu viele Dinks gekostet.</string>
+    <string name="Mail/FishingCompLetter_1st">Herzlichen Glückwunsch zum 1. Platz beim Angelwettbewerb!
+\n
+\n
+\nBitte nimm &lt;itemAttachedName&gt; als deinen Preis.
+\n
+\n
+\nDanke, dass du am Gewinnspiel teilgenommen hast. Ich kann es kaum erwarten, zurückzukehren!
+\n
+\nWir sehen uns bald wieder!</string>
+    <string name="Mail/FishingCompLetter_3rd">Herzlichen Glückwunsch zum 3. Platz beim Angelwettbewerb!
+\n
+\n
+\nBitte nimm &lt;itemAttachedName&gt; als deinen Preis.
+\n
+\n
+\nDanke, dass du an dem Gewinnspiel teilgenommen hast. Ich kann es kaum erwarten, zurückzukehren.
+\n
+\nWir sehen uns bald wieder!</string>
+    <string name="Mail/Franklyn_Craft_Complete_Weekend">Hier ist &lt;itemAttachedName&gt;, dass du bestellt hast.
+\n
+\nHerzlichen Dank.</string>
+    <string name="Mail/InvFullLetter">Hier ist &lt;itemAttachedName&gt;, was ich dir geben wollte.
+\n
+\nDeine Taschen waren voll, also habe ich es dir stattdessen geschickt.</string>
+    <string name="Mail/Test Letter 17">Ich glaube, du hast das neulich bei mir zu Hause vergessen.
+\n
+\nWenn nicht, sei bitte ehrlich und bring es mir zurück!</string>
+    <string name="Mail/Test Letter 18">Alles Gute zum Geldtag!
+\n
+\nIch bin mir ziemlich sicher, dass heute der Tag des Geldes ist... wie auch immer, viel Spaß!</string>
+    <string name="Mail/Test Letter 19">Ich habe einen Felsen zerschlagen und einige &lt;itemAttachedName&gt; gefunden.
+\n
+\nDu stehst doch auf solche Sachen, oder?</string>
+    <string name="Mail/Test Letter 22">Hier ist &lt;itemAttachedName&gt;. Stell es in dein Haus, wenn du willst. Es macht mir nichts aus.</string>
+    <string name="Mail/Test Letter 3">Ich war auf der Jagd nach Kängurus. Ich hoffe, es macht dir nichts aus, aber ich habe dir ein paar &lt;itemAttachedName&gt; geschickt.</string>
+    <string name="Mail/Test Letter 4">Isst du genug Obst? Für den Notfall, habe ich dir &lt;itemAttachedName&gt; geschickt.</string>
+    <string name="Mail/Test Letter 5">Ich habe &lt;itemAttachedName&gt; gesehen und dachte, es würde gut zu deinem Haus passen. Ich hoffe, es gefällt dir.</string>
+    <string name="Mail/CatalogueOrderLetter">Hier ist &lt;itemAttachedName&gt;, welches du bestellt hast.</string>
+    <string name="Mail/Test Letter 1">Hey, hier ist etwas &lt;itemAttachedName&gt;. Mach dir keine Gedanken darüber, wie lange es schon in deinem Briefkasten liegt. Iss es!
+\n
+\nEs wird gut sein!</string>
+    <string name="Mail/Test Letter 11">Ich brauche &lt;itemAttachedName&gt; nicht wirklich. (Um ehrlich zu sein, habe ich es gefunden)</string>
+    <string name="Mail/Test Letter 12">Isst du genug Gemüse? Hier nimm &lt;itemAttachedName&gt;. Iss es. Sie sind gut für dich!</string>
+    <string name="Mail/Test Letter 14">Die habe ich im Fluss gefunden.
+\nIch weiß, dass du immer auf der Suche nach solchen Sachen bist. Also habe ich sie dir geschickt!</string>
+    <string name="Mail/Test Letter 15">Ich habe &lt;itemAttachedName&gt; selbst angebaut.
+\n
+\nLass mich wissen, was du denkst.</string>
+    <string name="Mail/Test Letter 20">Ich habe einen Felsen zerschlagen und einige &lt;itemAttachedName&gt; gefunden.
+\n
+\nDu stehst doch auf solche Sachen, oder?</string>
+    <string name="Mail/Test Letter 21">&lt;itemAttachedName&gt;, &lt;itemAttachedName&gt;, &lt;itemAttachedName&gt;.
+\n
+\n Du kannst nie genug &lt;itemAttachedName&gt; haben.</string>
+    <string name="Mail/Test Letter 8">Ich wollte dir nur sagen, dass ich alles, was du für unsere Stadt machst, sehr schätze.</string>
+    <string name="Mail/Test Letter">Ich habe ein bisschen gekocht und ich hatte noch etwas &lt;itemAttachedName&gt; übrig.
+\n
+\nIch hoffe, es schmeckt euch!</string>
+    <string name="Mail/TrapReturnLetter">Wir haben &lt;itemAttachedName&gt; zurückgeschickt.</string>
+</resources>
