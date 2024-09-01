@@ -705,8 +705,7 @@
   <!-- Said by any NPC talking to Franklyn -->
   <string name="FRANKLIN/BackAndForthConvo_morningFallbacks_1_Line_1">You should take a break.</string>
   <!-- Said by Franklyn talking to any NPC -->
-  <string name="FRANKLIN/BackAndForthConvo_morningFallbacks_2_Line_0">Good morning.
-\nMorning!</string>
+  <string name="FRANKLIN/BackAndForthConvo_morningFallbacks_2_Line_0">Good morning.</string>
   <!-- Said by any NPC talking to Franklyn -->
   <string name="FRANKLIN/BackAndForthConvo_morningFallbacks_2_Line_1">Morning!</string>
   <!-- Said by Franklyn talking to any NPC -->

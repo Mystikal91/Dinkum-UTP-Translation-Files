@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="MapIcon/Docks">Docks</string>
   <string name="MapIcon/JohnsGoods">John's Goods</string>
   <string name="MapIcon/FranklynsLab">Franklyn's Lab</string>
   <string name="MapIcon/TheGreenhouse">The Greenhouse</string>
@@ -12,6 +11,7 @@
   <string name="MapIcon/IrwinsBarn">Irwin's Barn</string>
   <string name="MapIcon/TheMuseum">The Museum</string>
   <string name="MapIcon/TownHall">Town Hall</string>
+  <string name="MapIcon/Docks">Docks</string>
   <string name="MapIcon/BaseTent">Base Tent</string>
   <string name="MapIcon/TheBank">The Bank</string>
   <string name="MapIcon/GuestHouse">Guest House</string>
