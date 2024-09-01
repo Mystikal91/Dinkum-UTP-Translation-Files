@@ -226,4 +226,23 @@
     <string name="MILBURN/Buy_ATM_Convo_Option_001">Não, obrigado</string>
     <string name="MILBURN/Buy_ATM_Convo_Intro_000">Aff.</string>
     <string name="MILBURN/Buy_ATM_Convo_Intro_005">Ele pode ser seu pelo baixo preço de &lt;buyItemPrice&gt;?</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_0_Line_0">Hmmpf.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_0_Line_1">Bom dia.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_1_Line_0">Hmmpf.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_1_Line_1">O que eu disse?</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_2_Line_0">Hmmpf.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_0_Line_0">Dia ruim.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_0_Line_1">Se você diz.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_1_Line_0">Por que você está tão feliz?</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_1_Line_1">Esta conversa terminará em breve.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_2_Line_0">Hmmpf.</string>
+    <string name="MILBURN/BackAndForthConvo_dayFallbacks_2_Line_1">O que você disser.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_0_Line_0">Hmmpf.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_0_Line_1">O que você disser.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_1_Line_0">É ridículo o que eles estão cobrando.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_1_Line_1">Acho que parece bem justo.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_2_Line_0">Fora com isso. O tempo é &lt;Dinks&gt;.</string>
+    <string name="MILBURN/BackAndForthConvo_nightFallbacks_2_Line_1">Você estava falando comigo!</string>
+    <string name="MILBURN/BackAndForthConvo_rainingFallbacks_0_Line_0">Eu não pagaria por um clima como esse.</string>
+    <string name="MILBURN/BackAndForthConvo_rainingFallbacks_0_Line_1">Felizmente é grátis.</string>
 </resources>
