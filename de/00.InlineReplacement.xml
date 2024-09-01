@@ -31,4 +31,6 @@
     <string name="InlineReplacement/PetName_002">Bärchen</string>
     <string name="InlineReplacement/compBook">Fahrtenbuch</string>
     <string name="InlineReplacement/NothingHappened">...ist nichts passiert...</string>
+    <string name="InlineReplacement/bugComp">Insekten fangen Wettbewerb</string>
+    <string name="InlineReplacement/FishingComp">Anglerwettbewerb</string>
 </resources>
