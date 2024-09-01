@@ -2,4 +2,5 @@
 <resources>
     <string name="NED/CompleteBirthday_000_Intro_000">&lt;haha&gt; Du hinterhältiger &lt;animalName&gt; .</string>
     <string name="NED/Introduction_005_Intro_001">Der Name ist &lt;myName&gt; .</string>
+    <string name="NED/TotalEqualsZeroTrapper_Option_001">Ich werde sie zurückgeben, danke.</string>
 </resources>
