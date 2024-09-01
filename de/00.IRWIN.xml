@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="IRWIN/AlreadyAnimalInShop_Intro_000">&lt;shocked&gt;Oh, warte!</string>
+    <string name="IRWIN/AlreadyAnimalInShop_Intro_001">&lt;yes&gt;Wir haben hier schon ein Tier, das darauf wartet, dass du es in sein neues Zuhause bringst...</string>
 </resources>
