@@ -183,4 +183,22 @@
     <string name="THEODORE/RandomConvo_003_Option_001">Na verdade</string>
     <string name="THEODORE/RandomConvo_003_Option_000">Oh sim!</string>
     <string name="THEODORE/RandomConvo_006_Intro_003">&lt;no&gt;Não, não, não.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_0">Acho que deveríamos catalogá-los todos.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_1">Conchas do mar?</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_0_Line_2">Sim. Então eles não estão espalhados pela praia à toa.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_0">Sinto falta de ficar em pé na minha mesa.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_1">Você fez isso o dia todo.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_1_Line_2">Não o dia todo.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_0">Sinto falta de ficar em pé na minha mesa.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_1">Você fez isso o dia todo.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_2_Line_2">Não o dia todo.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_0">Você acha que O Museu ainda é bonito e organizado?</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_1">Tenho certeza de que está tudo bem.</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_2">Talvez eu deva ir verificar rapidamente?</string>
+    <string name="THEODORE/BackAndForthConvo_nightFallbacks_3_Line_3">NÃO! Fique aqui, está tudo bem.</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_0">Meus peixes estão ficando loucos!</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_1">Por que é que?</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_0_Line_2">Eles sabem que está chovendo.</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_1_Line_0">Mas e se O Museu inundar?</string>
+    <string name="THEODORE/BackAndForthConvo_rainingFallbacks_1_Line_1">Não está chovendo tanto, cara.</string>
 </resources>
