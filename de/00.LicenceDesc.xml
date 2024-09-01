@@ -52,4 +52,5 @@
     <string name="LicenceDesc/Licence_FishFarming_1_Desc">Schaltet die Anleitung für Fischteiche frei, mit denen du Fische züchten und aufziehen kannst</string>
     <string name="LicenceDesc/Licence_AnimalTrapping_2_Desc">Ermöglicht es dem Inhaber, fortgeschrittene Tierfallen herzustellen und zu benutzen.</string>
     <string name="LicenceDesc/Licence_Commerce_2_Desc">Der Inhaber erhält 10% mehr beim Verkauf von Gegenständen</string>
+    <string name="LicenceDesc/Licence_Brewing_1_Desc">Schaltet die Anleitung für das Billy Kit frei, mit dem du Getränke und Marmeladen brauen kannst.</string>
 </resources>
