@@ -1,4 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="MenuText/MainMenu_Back">Zurück</string>
+    <string name="MenuText/DEFAULT">DEFAULT</string>
+    <string name="MenuText/VehicleUseItem">Fahrzeug Item verwenden</string>
+    <string name="MenuText/OnlypeopleyouinvitewillbeabletojoinUsethesteamoverlaytoinvitepeopleoncethegameishosted">Nur Personen, die du einlädst, können teilnehmen.
+\nVerwende das Steam-Overlay, um Leute einzuladen, sobald das Spiel gehostet wird.</string>
+    <string name="MenuText/HideStaminaWheel">Ausdauer-Rad ausblenden</string>
+    <string name="MenuText/MoveRight">Nach rechts bewegen</string>
+    <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Jeder in deiner Freundesliste kann an diesem Spiel teilnehmen!
+\nVergewissere dich, dass du und deine Freunde so eingestellt sind, dass ihr online erscheint.</string>
+    <string name="MenuText/HoldMiddleMouseorShifttoMoveCamera">Halte die mittlere Maustaste oder die Umschalttaste gedrückt, um die Kamera zu bewegen</string>
+    <string name="MenuText/MouseAlwaysMoveCamera">Maus bewegt immer die Kamera</string>
+    <string name="MenuText/sprite16PublicGames">&lt;sprite=16&gt; Öffentliche Spiele</string>
+    <string name="MenuText/HIGH">HOCH</string>
+    <string name="MenuText/Sound">Sound</string>
+    <string name="MenuText/HostGame">Host Spiel</string>
+    <string name="MenuText/CameraXSpeed">Kamera X Geschwindigkeit</string>
+    <string name="MenuText/CameraYSpeed">Kamera Y Geschwindigkeit</string>
+    <string name="MenuText/InvertFreeCamera">Umgekehrte freie Kamera</string>
+    <string name="MenuText/InvertX">X invertieren</string>
+    <string name="MenuText/InvertY">Y invertieren</string>
+    <string name="MenuText/Gameplay">Gameplay</string>
+    <string name="MenuText/RumbleOn">Vibrieren An</string>
+    <string name="MenuText/SnapCursorToUIControllerOnly">Cursor auf UI einrasten (nur Controller)</string>
+    <string name="MenuText/TextSpeed">Textgeschwindigkeit</string>
+    <string name="MenuText/Credits" resizable="True">Credits</string>
+    <string name="MenuText/Multiplayer_FriendsOnly">Nur für Freunde</string>
+    <string name="MenuText/Multiplayer_InviteOnly">Nur einladen</string>
+    <string name="MenuText/UIScale">UI skalieren</string>
+    <string name="MenuText/Graphics">Grafiken</string>
+    <string name="MenuText/ChunkViewDistance">Chunk View Entfernung</string>
+    <string name="MenuText/Normal">Normal</string>
+    <string name="MenuText/Fast">Schnell</string>
+    <string name="MenuText/Super">Super</string>
+    <string name="MenuText/MiniMapAlwaysFacesNorth">Mini-Karte zeigt immer nach Norden</string>
+    <string name="MenuText/AutoDetectController">Automatisch Controller erkennen</string>
+    <string name="MenuText/OnlineNameTags">Online-Namensschilder</string>
+    <string name="MenuText/Controls">Steuerung</string>
+    <string name="MenuText/OpenChatEmotes">Chat öffnen / Emotes</string>
+    <string name="MenuText/MoveCameraButton">Kamera bewegen Taste</string>
+    <string name="MenuText/SwapCameraMode">Kamera-Modus tauschen</string>
+    <string name="MenuText/Space">Leertaste</string>
+    <string name="MenuText/Escape">Escape</string>
+    <string name="MenuText/LeftShift">Linke Umschalttaste</string>
+    <string name="MenuText/RightShift">Rechte Umschalttaste</string>
+    <string name="MenuText/LeftControl">Strg links</string>
+    <string name="MenuText/RightControl">Strg rechts</string>
+    <string name="MenuText/Backspace">Rücktaste</string>
+    <string name="MenuText/Whatsyourname">Wie ist dein Name?</string>
+    <string name="MenuText/Whatstheislandsname">Wie ist der Name deiner Insel?</string>
+    <string name="MenuText/CreateCharacter">Charakter erstellen</string>
+    <string name="MenuText/Randomise">Zufallsgenerator</string>
+    <string name="MenuText/IPAddress">IP-Adresse</string>
+    <string name="MenuText/Join">Beitreten</string>
+    <string name="MenuText/AnyonecanjointhisworldTheywillbeabletotakeyourstuffsobecareful">Jeder kann dieser Welt beitreten.
+\n&lt;color=red&gt;Sie können deine Sachen mitnehmen, also sei vorsichtig!</string>
+    <string name="MenuText/HostagameusingLANEnterthelocalIPintheLANIPConnecttabtojoin">Hoste ein Spiel über LAN. Gib die lokale IP in der Registerkarte LAN/IP-Verbindung ein, um teilzunehmen.</string>
+    <string name="MenuText/RefreshRateExperimental">Aktualisierungsrate (experimentell)</string>
+    <string name="MenuText/WIDE">BREIT</string>
+    <string name="MenuText/LOW">NIEDRIG</string>
+    <string name="MenuText/MED">MED</string>
+    <string name="MenuText/MasterVolume">Hauptlautstärke</string>
+    <string name="MenuText/UIVolume">UI Lautstärke</string>
+    <string name="MenuText/MusicVolume">Musik Lautstärke</string>
+    <string name="MenuText/NPCVoiceOn">NPC Stimme ein</string>
+    <string name="MenuText/VoiceChat">Sprachchat</string>
+    <string name="MenuText/AllowVoiceChatHostonly">Voice Chat zulassen (nur Host)</string>
+    <string name="MenuText/VoiceChatVolume">Sprachchat Lautstärke</string>
+    <string name="MenuText/CameraSettings">Kamera Einstellungen</string>
+    <string name="MenuText/JournalOpenAnimation">Journal Öffnen Animation</string>
+    <string name="MenuText/ReturntoDefault">Rückkehr zum Standard</string>
+    <string name="MenuText/Reset">Zurücksetzen</string>
+    <string name="MenuText/Primary">Primäre</string>
+    <string name="MenuText/MoveForward">Vorwärts bewegen</string>
+    <string name="MenuText/MoveBack">Rückwärts bewegen</string>
+    <string name="MenuText/MoveLeft">Nach links bewegen</string>
+    <string name="MenuText/Jump">Springen</string>
+    <string name="MenuText/UseItem">Item verwenden</string>
+    <string name="MenuText/InteractCollect">Interagieren / Sammeln</string>
+    <string name="MenuText/PickUpRotateGetUp">Aufnehmen / Drehen / Aufstehen</string>
+    <string name="MenuText/Vehicles">Fahrzeuge</string>
+    <string name="MenuText/Reverse">Umkehren</string>
+    <string name="MenuText/VehicleSwapItem">Fahrzeug Item tauschen</string>
+    <string name="MenuText/Other">Andere</string>
+    <string name="MenuText/OpenMap">Karte öffnen</string>
+    <string name="MenuText/OpenGames">Spiel öffnen</string>
+    <string name="MenuText/LANIPConnect">LAN / IP-Verbindung</string>
+    <string name="MenuText/RefreshList">Liste aktualisieren</string>
+    <string name="MenuText/MainMenu_HostWorld" resizable="True">Spiel laden</string>
+    <string name="MenuText/MainMenu_NewGame" resizable="True">Neues Spiel</string>
+    <string name="MenuText/MainMenu_Options" resizable="True">Optionen</string>
+    <string name="MenuText/Multiplayer_Public">Öffentlich</string>
+    <string name="MenuText/Multiplayer_LAN">LAN</string>
+    <string name="MenuText/Display">Anzeige</string>
+    <string name="MenuText/Fullscreen">Vollbild</string>
+    <string name="MenuText/Resolution">Auflösung</string>
+    <string name="MenuText/EffectVolume">Effekt Lautstärke</string>
+    <string name="MenuText/AltKey">Alt-Taste</string>
+    <string name="MenuText/Accelerate">Beschleunigen</string>
+    <string name="MenuText/Enter">Enter</string>
+    <string name="MenuText/sprite17FriendsGames">&lt;sprite=17&gt; Spiele von Freunden</string>
+    <string name="MenuText/sprite16FriendsGames">&lt;sprite=16&gt; Spiele von Freunden</string>
+    <string name="MenuText/sprite17PublicGames">&lt;sprite=17&gt; Öffentliche Spiele</string>
+    <string name="MenuText/OpensthedirectorywhereyourDinkumsavesarestored">Öffnet das Verzeichnis, in dem deine Dinkum-Spielstände gespeichert sind.</string>
+    <string name="MenuText/OpenSaveFileDirectory">Verzeichnis der Speicherdateien öffnen</string>
+    <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Löscht alle auf diesem Gerät gespeicherten Spieler-Voreinstellungen. Dinkum wird dann erneut geladen, um deine Einstellungen auf die Standardwerte zu setzen.
+\n
+\n&lt;color=red&gt;Dadurch werden alle Tastenbelegungen, Anzeigeeinstellungen und Lautstärkeeinstellungen auf die Standardwerte zurückgesetzt.</string>
+    <string name="MenuText/ClearPlayerPrefs" resizable="True" autoSizeTextContainer="True">Spieler-Einstellungen löschen</string>
 </resources>
