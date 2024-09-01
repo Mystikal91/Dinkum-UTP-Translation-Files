@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="RandomisedRequests/RequestAccepted_003_Option_000">Sicher!</string>
+    <string name="RandomisedRequests/AcceptHangOut_000_Intro_000">Weißt du was? Ich würde heute gerne mit dir abhängen!</string>
 </resources>
