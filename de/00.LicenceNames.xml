@@ -21,4 +21,6 @@
     <string name="LicenceNames/Licence_12">Frachtlizenz</string>
     <string name="LicenceNames/Licence_6">Metalldetektion</string>
     <string name="LicenceNames/Licence_7">Fahrzeugschein</string>
+    <string name="LicenceNames/Licence_9">Handhabungslizenz</string>
+    <string name="LicenceNames/Licence_23">Lizenz für Fischzucht</string>
 </resources>
