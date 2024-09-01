@@ -4,4 +4,20 @@
     <string name="ToolTips/Tip_Cancel">Abbrechen</string>
     <string name="ToolTips/Tip_PlaceDeed">Plazieren</string>
     <string name="ToolTips/Sell">Verkaufen</string>
+    <string name="ToolTips/AskForJob_1">Brauchst du etwas?</string>
+    <string name="ToolTips/CompleteBoardRequest_0">Ich habe deine Anfrage abgeschlossen!</string>
+    <string name="ToolTips/AskToChat_2">Lass uns reden!</string>
+    <string name="ToolTips/AskToChat_3">Was ist los?</string>
+    <string name="ToolTips/AskToHangOut_0">Lass uns abhängen!</string>
+    <string name="ToolTips/AskToChat_0">Lass uns reden!</string>
+    <string name="ToolTips/AskToChat_1">Was gibt\'s Neues?</string>
+    <string name="ToolTips/CompleteBoardRequest_1">Ich habe das für dich getan!</string>
+    <string name="ToolTips/GiveItem_0">Hier ist es!</string>
+    <string name="ToolTips/Catch">Fangen</string>
+    <string name="ToolTips/AskToHangOut_1">Willst du abhängen?</string>
+    <string name="ToolTips/AskToHangOut_2">Willst du abhängen?</string>
+    <string name="ToolTips/CancelConvo_0">Vergiss es</string>
+    <string name="ToolTips/CancelConvo_1">Bis später</string>
+    <string name="ToolTips/CancelConvo_2">Tschüss!</string>
+    <string name="ToolTips/CancelConvo_3">Ich fange dich.</string>
 </resources>
