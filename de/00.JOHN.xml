@@ -4,4 +4,5 @@
     <string name="JOHN/RandomConvo_024_Option_001">Sicher!</string>
     <string name="JOHN/Low_Friendship_Greeting 0_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
     <string name="JOHN/SkyFest_Morning_001_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
+    <string name="JOHN/Arvo_Greeting 0_Response_003_000">&lt;yes&gt;Also gut, nette Unterhaltung.</string>
 </resources>
