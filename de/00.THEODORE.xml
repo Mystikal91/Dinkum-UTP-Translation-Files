@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="THEODORE/MuseumKeeperConvo_Option_001">Ich möchte chatten.</string>
+    <string name="THEODORE/AllItemsAlreadyDonated_Intro_000">Oh je! Es scheint, als hätte unser Museum bereits &lt;donationName&gt; ausgestellt!</string>
 </resources>
