@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="Npc14/NothingToGiveFishingComp_Intro_000">Oh, non hai pesci per me?</string>
+    <string name="Npc14/NothingToGiveFishingComp_Intro_001">&lt;no&gt;Allora dovrò prenderli da solo!</string>
+</resources>
