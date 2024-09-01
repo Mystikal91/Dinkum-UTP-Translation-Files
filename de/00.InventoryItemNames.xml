@@ -938,4 +938,20 @@
     <string name="InventoryItemNames/InvItem_350">Milch</string>
     <string name="InventoryItemNames/InvItem_401">Rathaus</string>
     <string name="InventoryItemNames/InvItem_578">Palmenholzbrücke</string>
+    <string name="InventoryItemNames/InvItem_654">Heldenmaske</string>
+    <string name="InventoryItemNames/InvItem_223">Krabbentopf</string>
+    <string name="InventoryItemNames/InvItem_359">Kochtisch</string>
+    <string name="InventoryItemNames/InvItem_392">Fässchen</string>
+    <string name="InventoryItemNames/InvItem_458">Rohöl Brennofen</string>
+    <string name="InventoryItemNames/InvItem_573">Würfelboden</string>
+    <string name="InventoryItemNames/InvItem_574">Würfelwand</string>
+    <string name="InventoryItemNames/InvItem_630">Herkulesmotte</string>
+    <string name="InventoryItemNames/InvItem_638">Hochwertiger Käse</string>
+    <string name="InventoryItemNames/InvItem_774">Schubkarre</string>
+    <string name="InventoryItemNames/InvItem_1092">Schubkarren Blumenbeet</string>
+    <string name="InventoryItemNames/InvItem_1150">Helm</string>
+    <string name="InventoryItemNames/InvItem_1485">Atemberaubendes Shirt</string>
+    <string name="InventoryItemNames/InvItem_1510">Klo</string>
+    <string name="InventoryItemNames/InvItem_1644">Rohöl-Leiter</string>
+    <string name="InventoryItemNames/InvItem_684">Hubschrauber</string>
 </resources>
