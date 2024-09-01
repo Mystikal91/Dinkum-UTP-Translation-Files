@@ -84,7 +84,7 @@
     <string name="GUIText/QuitToDesktop" resizable="True">Beenden zum Desktop</string>
     <string name="GUIText/DailyMilestones" resizable="True">Tägliche Meilensteine</string>
     <string name="GUIText/Tasks">Aufgaben</string>
-    <string name="GUIText/Fish">Fische</string>
+    <string name="GUIText/Fish">Fisch</string>
     <string name="GUIText/Bugs">Käfer</string>
     <string name="GUIText/People">Personen</string>
     <string name="GUIText/Habitat">Lebensraum</string>
@@ -177,4 +177,18 @@
     <string name="GUIText/6HowlongacertainfoodseffectswillremainThisincludeshowlongthefoodwillkeepyoufull">6:
 \nWie lange die Wirkung eines bestimmten Lebensmittels anhält.
 \nDazu gehört auch, wie lange das Essen dich satt hält.</string>
+    <string name="GUIText/ExperienceBuff">Erfahrungs-Stärkung</string>
+    <string name="GUIText/MiningBuff">Bergbau Stärkung</string>
+    <string name="GUIText/LoggingBuff">Holzfäller Stärkung</string>
+    <string name="GUIText/HuntingBuff">Jagen Stärkung</string>
+    <string name="GUIText/DefenceBuff">Verteidigungs-Stärkung</string>
+    <string name="GUIText/FishingBuff">Angler Stärkung</string>
+    <string name="GUIText/SpeedBuff">Schnelligkeits-Stärkung</string>
+    <string name="GUIText/SwimmingBuff">Schwimm Stärkung</string>
+    <string name="GUIText/SleeplessBuff">Schlaflos Stärkung</string>
+    <string name="GUIText/Diligentbuff">Fleißig Stärkung</string>
+    <string name="GUIText/Chargedbuff">Aufladen Stärkung</string>
+    <string name="GUIText/HealthTickSpeedBuff">Gesundheitstick Geschwindigkeits-Stärkung</string>
+    <string name="GUIText/Teletothistower">Tele zu diesem Turm?</string>
+    <string name="GUIText/Buffs">Stärkung</string>
 </resources>
