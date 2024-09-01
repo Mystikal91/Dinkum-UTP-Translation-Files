@@ -8,4 +8,5 @@
     <string name="SellByWeightItems/Meteorite">Meteorit</string>
     <string name="SellByWeightItems/Fossil">Fossil</string>
     <string name="SellByWeightItems/Ruby">Rubin</string>
+    <string name="SellByWeightItems/AmberChunk">Bernstein Stück</string>
 </resources>
