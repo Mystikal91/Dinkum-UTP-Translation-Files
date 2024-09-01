@@ -108,4 +108,12 @@
 \n
 \n&lt;color=red&gt;Dadurch werden alle Tastenbelegungen, Anzeigeeinstellungen und Lautstärkeeinstellungen auf die Standardwerte zurückgesetzt.</string>
     <string name="MenuText/ClearPlayerPrefs" resizable="True" autoSizeTextContainer="True">Spieler-Einstellungen löschen</string>
+    <string name="MenuText/SinglePlayer" resizable="True">Einzelspieler</string>
+    <string name="MenuText/Confirm">Bestätigen</string>
+    <string name="MenuText/Drop">Fallen</string>
+    <string name="MenuText/OpenPockets">Tasche öffnen</string>
+    <string name="MenuText/OpenJournal">Journal öffnen</string>
+    <string name="MenuText/Multiplayer" resizable="True">Multiplayer</string>
+    <string name="MenuText/MainMenu_JoinWorld" resizable="True">Multiplayer</string>
+    <string name="MenuText/QuitToDesktop" resizable="True">Beenden zum Desktop</string>
 </resources>
