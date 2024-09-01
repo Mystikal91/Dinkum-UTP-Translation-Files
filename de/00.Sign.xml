@@ -49,4 +49,19 @@
     <string name="Sign/Inv_SnagOnBread_Intro_000">Wow!</string>
     <string name="Sign/WeatherStationSign_Option_001">Vergiss es</string>
     <string name="Sign/UpgradeOrCustomiseGuestHouse_Option_002">Nein</string>
+    <string name="Sign/BugCatchingCompSign_Book_Response_001_001">Je seltener das Insekt ist, desto mehr Punkte ist es wert.</string>
+    <string name="Sign/BugCatchingCompClosedSign_Book_Intro_001">Herzlichen Glückwunsch an die Gewinner:</string>
+    <string name="Sign/AcceptingDonations_Option_001">Nein danke.</string>
+    <string name="Sign/BugCatchingCompSign_Book_Option_000">Anmelden</string>
+    <string name="Sign/BarberShopSign_Intro_000">&lt;NPCName&gt;s Salon</string>
+    <string name="Sign/BugCatchingCompClosedSign_Book_Intro_000">&lt;bugComp&gt; ist jetzt geschlossen.</string>
+    <string name="Sign/BugCatchingCompRunning_Book_Sign_Intro_000">Was soll ich tun?</string>
+    <string name="Sign/BugCatchingCompRunning_Book_Sign_Option_001">Wer gewinnt?</string>
+    <string name="Sign/BugCatchingCompSign_Book_Intro_000">Soll ich mich für &lt;bugComp&gt; anmelden?</string>
+    <string name="Sign/BugCatchingCompSign_Book_Option_001">Regeln</string>
+    <string name="Sign/BugCatchingCompSign_Book_Response_000_000">Danke, dass du dich angemeldet hast!</string>
+    <string name="Sign/BugCatchingCompSign_Book_Response_000_001">Bitte vergewissere dich, dass du dein Ergebnis im &lt;compBook&gt; einträgst, bevor der Wettbewerb um &lt;bugCompEndTime&gt; endet.</string>
+    <string name="Sign/BugCatchingCompSign_Book_Response_001_000">Sobald du dich angemeldet hast und der Wettbewerb begonnen hat, fängst du so viele Insekten wie möglich.</string>
+    <string name="Sign/BugCatchingCompSign_Book_Response_001_002">Die letzte Punktzahl, die du im &lt;compBook&gt; eingibst, ist deine Endpunktzahl.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Intro_000">Ich habe mich angemeldet!</string>
 </resources>
