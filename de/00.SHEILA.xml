@@ -2,4 +2,6 @@
 <resources>
     <string name="SHEILA/CompleteBirthday_000_Intro_001">&lt;yes&gt;Du bist zu gut zu mir, &lt;PlayerName&gt; .</string>
     <string name="SHEILA/CompleteBirthday_000_Intro_000">&lt;pumped&gt;Oh, was für ein tolles &lt;birthday&gt;!</string>
+    <string name="SHEILA/TotalEqualsZeroBugComp_Option_001">Ich werde sie zurückgeben, danke.</string>
+    <string name="SHEILA/TotalEqualsZeroTuckshop_Option_001">Ich werde sie zurückgeben, danke.</string>
 </resources>
