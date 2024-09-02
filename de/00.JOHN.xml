@@ -5,4 +5,9 @@
     <string name="JOHN/Low_Friendship_Greeting 0_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
     <string name="JOHN/SkyFest_Morning_001_Intro_000">Guten Tag &lt;PlayerName&gt;.</string>
     <string name="JOHN/Arvo_Greeting 0_Response_003_000">&lt;yes&gt;Also gut, nette Unterhaltung.</string>
+    <string name="JOHN/Medium_Friendship_Greeting 0_Intro_001">Was ist los?</string>
+    <string name="JOHN/Medium_Friendship_Greeting 1_Intro_000">&lt;PlayerName&gt;!</string>
+    <string name="JOHN/SkyFest_AfterNoon_001_Intro_000">Richtig.</string>
+    <string name="JOHN/SkyFest_Night_001_Intro_000">Wow!</string>
+    <string name="JOHN/High_Friendship_Greeting 1_Intro_001">Brauchst du etwas?</string>
 </resources>

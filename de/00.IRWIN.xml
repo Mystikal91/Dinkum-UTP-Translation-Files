@@ -2,4 +2,20 @@
 <resources>
     <string name="IRWIN/AlreadyAnimalInShop_Intro_000">&lt;shocked&gt;Oh, warte!</string>
     <string name="IRWIN/AlreadyAnimalInShop_Intro_001">&lt;yes&gt;Wir haben hier schon ein Tier, das darauf wartet, dass du es in sein neues Zuhause bringst...</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Response_000_000">Na toll!&lt;pumped&gt;</string>
+    <string name="IRWIN/RandomConvo_015_Intro_001">&lt;thinking&gt;Hmmm…</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Intro_000">Oh! Das ist &lt;buyItemName&gt;.</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Intro_002">Wenn du ein gutes Zuhause für sie hast, gehört sie ganz dir: &lt;buyItemPrice&gt;.</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Intro_001">Die ist doch süß, oder?</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Option_000">Ich nehme es an!</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Intro_001">Die ist doch süß, oder?</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Option_001">Nein, danke.</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Response_000_000">Na toll!&lt;pumped&gt;</string>
+    <string name="IRWIN/WantToBuyAnimalNoCoop_Response_001_000">Das ist in Ordnung! Ich bin sicher, dass sie bald ein Zuhause finden wird! &lt;yes&gt;</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Intro_000">Oh! Das ist &lt;buyItemName&gt;.</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Intro_002">Wenn du ein gutes Zuhause für sie hast, gehört sie ganz dir: &lt;buyItemPrice&gt;.</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Option_000">Ich nehme es an!</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Option_001">Nein, danke.</string>
+    <string name="IRWIN/WantToBuyAnimalNoMoney_Response_001_000">Das ist in Ordnung! Ich bin sicher, dass sie bald ein Zuhause finden wird! &lt;yes&gt;</string>
+    <string name="IRWIN/AnimalShopIntro_Option_001">Vergiss es</string>
 </resources>

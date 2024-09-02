@@ -107,7 +107,7 @@
     <string name="InventoryItemDescriptions/InvDesc_191">So dunkel.</string>
     <string name="InventoryItemDescriptions/InvDesc_155">Ein Set von Schubladen</string>
     <string name="InventoryItemDescriptions/InvDesc_160">Ein weißer Stuhl.</string>
-    <string name="InventoryItemDescriptions/InvDesc_161">Eine weiße Ottomane</string>
+    <string name="InventoryItemDescriptions/InvDesc_161">Ein Weißer Ottomane</string>
     <string name="InventoryItemDescriptions/InvDesc_162">Ein kleiner weißer Nachttisch.</string>
     <string name="InventoryItemDescriptions/InvDesc_163">Ein kleiner weißer Nachttisch.</string>
     <string name="InventoryItemDescriptions/InvDesc_164">Weiße Schubladen</string>
@@ -180,4 +180,9 @@
     <string name="InventoryItemDescriptions/InvDesc_702">Es ist leer. Fülle es mit Wasser.</string>
     <string name="InventoryItemDescriptions/InvDesc_788">Ein Holztisch für neben dem Bett.</string>
     <string name="InventoryItemDescriptions/InvDesc_866">Ein Holztisch für neben dem Bett.</string>
+    <string name="InventoryItemDescriptions/InvDesc_541">Rattan Schrank</string>
+    <string name="InventoryItemDescriptions/InvDesc_566">Pinker Schrank.</string>
+    <string name="InventoryItemDescriptions/InvDesc_711">Rufe einen Fernmeldeturm von überall aus an.</string>
+    <string name="InventoryItemDescriptions/InvDesc_710">Es ist wie ein Fernmeldeturm, den du aufstellen kannst, wo du willst.</string>
+    <string name="InventoryItemDescriptions/InvDesc_790">Grüner Schrank</string>
 </resources>

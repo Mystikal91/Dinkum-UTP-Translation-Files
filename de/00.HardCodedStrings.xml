@@ -64,4 +64,10 @@
     <string name="HardCodedStrings/Task_Bring">Bringe</string>
     <string name="HardCodedStrings/BuildingManager_getBuildingName_002">Spieler Haus</string>
     <string name="HardCodedStrings/MailManager_getSentByName_Unknown">Unbekannt</string>
+    <string name="HardCodedStrings/mapIcon_SetUpTelePoint_TeleTower">Fernmeldeturm</string>
+    <string name="HardCodedStrings/Task_Bugs">Insekten</string>
+    <string name="HardCodedStrings/NPCDoesTasks_UserCode_RpcWave_ChatBubble_005">Schönen &lt;IslandDay&gt;!</string>
+    <string name="HardCodedStrings/NPCSchedual_getOpeningHours_Open">Öffnen</string>
+    <string name="HardCodedStrings/UseBook_plantBookRoutine_Title">Pflanze</string>
+    <string name="HardCodedStrings/BankMenu_withdrawButton_Withdraw">Zurückziehen</string>
 </resources>

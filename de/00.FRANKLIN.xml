@@ -9,4 +9,16 @@
     <string name="FRANKLIN/CrafterCurrentlyCrafting_Response_000_000">Ausgezeichnet.</string>
     <string name="FRANKLIN/BackAndForthConvo_Rayne_1_Line_1">Sicher!</string>
     <string name="FRANKLIN/Arvo_Greeting 0_Response_003_000">&lt;no&gt;Was für eine Zeitverschwendung.</string>
+    <string name="FRANKLIN/RandomConvo_036_Intro_004">Vielen Dank, &lt;PlayerName&gt;.</string>
+    <string name="FRANKLIN/IslandDayGreeting_AfterNoon_002_Intro_003">&lt;shocked&gt;Oh!</string>
+    <string name="FRANKLIN/LearntNewTech_Intro_001">&lt;shocked&gt;Oh!</string>
+    <string name="FRANKLIN/RandomConvo_028_Intro_002">Wie war noch mal dein Name?</string>
+    <string name="FRANKLIN/High_Friendship_Greeting 0_Intro_000">Ah, &lt;PlayerName&gt;.</string>
+    <string name="FRANKLIN/CrafterShopConversation_Option_000">Kannst du mir etwas herstellen?</string>
+    <string name="FRANKLIN/LookingForTechConvo_Option_001">Vergiss es.</string>
+    <string name="FRANKLIN/LookingForTechConvo_Option_000">Hier ist es.</string>
+    <string name="FRANKLIN/TechCompletedNoSpace_Intro_002">&lt;shocked&gt;Oh!</string>
+    <string name="FRANKLIN/SkyFest_Night_002_Intro_000">&lt;thinking&gt;Hmmm…</string>
+    <string name="FRANKLIN/SkyFest_Noon_002_Intro_000">Ja.</string>
+    <string name="FRANKLIN/RandomConvo_035_Intro_000">&lt;yes&gt;Ich habe kürzlich über die Fernmeldetürme nachgedacht...</string>
 </resources>

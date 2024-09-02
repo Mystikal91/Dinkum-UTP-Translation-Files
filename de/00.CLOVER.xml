@@ -63,4 +63,5 @@
     <string name="CLOVER/RandomConvo_000_Intro_001">&lt;yes&gt;Es fühlt sich einfach so an, als wären Sie eine vertrauenswürdige Person, wissen Sie?</string>
     <string name="CLOVER/LongConvo_001_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
     <string name="CLOVER/RandomConvo_010_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
+    <string name="CLOVER/BackAndForthConvo_dayFallbacks_2_Line_0">Weißt du was?</string>
 </resources>

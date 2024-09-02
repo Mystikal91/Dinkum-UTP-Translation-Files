@@ -3,4 +3,7 @@
     <string name="SALLY/CompleteBirthday_000_Intro_000">Oh, &lt;PlayerName&gt; !</string>
     <string name="SALLY/Introduction_008_Intro_000">Hallo, ich bin &lt;myName&gt;.</string>
     <string name="SALLY/RandomConvo_005_Intro_002">&lt;shocked&gt;Oh, warte!</string>
+    <string name="SALLY/IslandDayGreeting_Night_008_Intro_000">Wow!</string>
+    <string name="SALLY/SkyFest_AfterNoon_008_Intro_000">Weißt du was?</string>
+    <string name="SALLY/HairDresserConvo_Option_002">Nein, danke.</string>
 </resources>

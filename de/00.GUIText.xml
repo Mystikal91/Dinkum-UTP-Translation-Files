@@ -67,7 +67,7 @@
     <string name="GUIText/CraftedStack">Hergestellter Stapel:</string>
     <string name="GUIText/Ingredients">Zutaten</string>
     <string name="GUIText/Withdraw">Zurückziehen</string>
-    <string name="GUIText/Deposit">Einzahlung</string>
+    <string name="GUIText/Deposit">Einzahlen</string>
     <string name="GUIText/C">C</string>
     <string name="GUIText/Confirm">Bestätigen</string>
     <string name="GUIText/Feedthefishacritter">Den Fisch mit einem Tier füttern?</string>
@@ -189,6 +189,6 @@
     <string name="GUIText/Diligentbuff">Fleißig Stärkung</string>
     <string name="GUIText/Chargedbuff">Aufladen Stärkung</string>
     <string name="GUIText/HealthTickSpeedBuff">Gesundheitstick Geschwindigkeits-Stärkung</string>
-    <string name="GUIText/Teletothistower">Tele zu diesem Turm?</string>
+    <string name="GUIText/Teletothistower">Teleportieren zu diesem Turm?</string>
     <string name="GUIText/Buffs">Stärkung</string>
 </resources>

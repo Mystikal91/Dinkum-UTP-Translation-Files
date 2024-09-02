@@ -3,4 +3,8 @@
     <string name="Randomised/Afternoon_Greeting 0_Intro_000">Die Sonne steht unter.</string>
     <string name="Randomised/Greeting 9_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
     <string name="Randomised/Greeting9_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
+    <string name="Randomised/Greeting0_Intro_001">Was ist los?</string>
+    <string name="Randomised/Greeting8_Intro_000">&lt;PlayerName&gt;!</string>
+    <string name="Randomised/Greeting 0_Intro_001">Was ist los?</string>
+    <string name="Randomised/Greeting 8_Intro_000">&lt;PlayerName&gt;!</string>
 </resources>

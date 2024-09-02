@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="MILBURN/BankConversation_Intro_000">Willkommen bei der &lt;IslandName&gt; Bank.</string>
+    <string name="MILBURN/Buy_ATM_Convo_Option_000">Ich nehme es an!</string>
+    <string name="MILBURN/CompleteBirthday_000_Intro_002">Vielen Dank, &lt;PlayerName&gt;.</string>
+    <string name="MILBURN/JimmyWorkConvo_Intro_000">Willkommen zurück, &lt;PlayerName&gt;.</string>
+    <string name="MILBURN/JimmyWorkConvo_Intro_001">Bist du hier, um über Geschäfte zu reden?</string>
+    <string name="MILBURN/JimmyWorkConvo_Option_000">Willst du etwas kaufen?</string>
+    <string name="MILBURN/JimmyWorkConvo_Option_002">Vergiss es.</string>
+    <string name="MILBURN/JimmyWorkConvo_Response_000_000">&lt;yes&gt;Also gut. Denk nur daran, dass ich nur in großen Mengen kaufe.</string>
+    <string name="MILBURN/JimmyWorkConvo_Response_000_001">Ich nehme nicht weniger als 50 Stück eines Items.</string>
+    <string name="MILBURN/JimmyWorkConvo_Response_000_002">Aber ich werde das Doppelte zahlen, nur für dich, &lt;PlayerName&gt;.</string>
+    <string name="MILBURN/JimmyWorkConvo_Option_001">Hast du ein Angebot?</string>
+    <string name="MILBURN/BankConversation_Option_001">Lass uns reden.</string>
+    <string name="MILBURN/BankConversation_Option_002">Vergiss es.</string>
 </resources>

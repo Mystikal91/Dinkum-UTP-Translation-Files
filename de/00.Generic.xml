@@ -301,7 +301,7 @@
     <string name="Generic/Quest_19_Intro_Intro_001">Ich wollte dir sagen, dass &lt;IslandName&gt; die Genehmigung zum Bau von drei weiteren Gebäuden erhalten hat.</string>
     <string name="Generic/Quest_19_Intro_Intro_004">&lt;glee&gt;Ob das neue Haus als Lagerraum, Vorzeigehaus oder Gästehaus für Freunde genutzt wird, wenn diese zu Besuch kommen, überlasse ich dir.</string>
     <string name="Generic/Quest_15_BuildTeleporterRequest_Intro_001">&lt;thinking&gt;Ehrlich gesagt, hätte ich nicht geglaubt, dass du über das nötige Know-how verfügst, um überhaupt zu verstehen, wofür sie gedacht sind …</string>
-    <string name="Generic/Quest_15_BuildTeleporterRequest_Intro_003">&lt;thinking&gt;Zu viele zu bauen würde wahrscheinlich das Tele-Netzwerk stören.</string>
+    <string name="Generic/Quest_15_BuildTeleporterRequest_Intro_003">&lt;thinking&gt;Zu viele zu bauen würde wahrscheinlich das Fernmeldeturm-Netzwerk stören.</string>
     <string name="Generic/Quest_15_BuildTeleporterRequest_Intro_005">Ich habe mit &lt;NPCName&gt; gesprochen und sie hat zugestimmt, es den verfügbaren Bauunterlagen hinzuzufügen.</string>
     <string name="Generic/Quest_18_Intro_Intro_004">&lt;thinking&gt;Du könntest es wahrscheinlich verwenden, um Informationen zu den Pflanzen zu erhalten, die du anbaust.</string>
     <string name="Generic/Quest_19_Intro_Intro_000">&lt;shock&gt;Oh, &lt;PlayerName&gt;!</string>
@@ -310,4 +310,5 @@
     <string name="Generic/Quest_19_Intro_Intro_005">&lt;yes&gt;Wir dürfen insgesamt drei hier auf &lt;IslandName&gt; haben.</string>
     <string name="Generic/Quest_19_Intro_Intro_006">Also frag mich einfach nach den Bauunterlagen wenn du eins bauen willst!</string>
     <string name="Generic/Quest_15_BuildTeleporterRequest_Intro_004">&lt;yes&gt;Deshalb denke ich, dass wir nur eine bauen können.</string>
+    <string name="Generic/Quest_15_BuildTeleporterRequest_Intro_000">&lt;yes&gt;&lt;PlayerName&gt;Ich sehe, du hast die Fernmeldetürme auf der Insel repariert.</string>
 </resources>

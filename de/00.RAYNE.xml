@@ -4,4 +4,10 @@
     <string name="RAYNE/Plant Shop Convo_Option_000">Ich möchte chatten.</string>
     <string name="RAYNE/IslandDayGreeting_Noon_000_Intro_000">Oh, &lt;PlayerName&gt; !</string>
     <string name="RAYNE/Morning_Greeting 2_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
+    <string name="RAYNE/BackAndForthConvo_Melvin_2_Line_5">Richtig.</string>
+    <string name="RAYNE/Plant Shop Convo_Option_001">Vergiss es.</string>
+    <string name="RAYNE/CompleteBirthday_000_Intro_002">Vielen Dank, &lt;PlayerName&gt;.</string>
+    <string name="RAYNE/High_Friendship_Greeting 0_Intro_001">Was ist los?</string>
+    <string name="RAYNE/High_Friendship_Greeting 1_Response_003_000">Tschüss!</string>
+    <string name="RAYNE/IslandDayGreeting_Night_000_Intro_000">Wow!</string>
 </resources>

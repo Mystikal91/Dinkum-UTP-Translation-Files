@@ -17,7 +17,7 @@
     <string name="MapIcon/VisitorsSite">Zeltplatz</string>
     <string name="MapIcon/WishFountain">Wunschbrunnen</string>
     <string name="MapIcon/MelvinsPlace">Melvin\'s Haus</string>
-    <string name="MapIcon/TelePad">Tele-Plattform</string>
+    <string name="MapIcon/TelePad">Fernmeldeturm-Plattform</string>
     <string name="MapIcon/TheTuckerbox">Das Restaurant</string>
     <string name="MapIcon/Threadspace">Schneiderei</string>
 </resources>

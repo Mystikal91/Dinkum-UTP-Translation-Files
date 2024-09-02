@@ -2,4 +2,16 @@
 <resources>
     <string name="RandomisedRequests/RequestAccepted_003_Option_000">Sicher!</string>
     <string name="RandomisedRequests/AcceptHangOut_000_Intro_000">Weißt du was? Ich würde heute gerne mit dir abhängen!</string>
+    <string name="RandomisedRequests/RequestFood_003_Option_001">Nah.</string>
+    <string name="RandomisedRequests/NoRequests_001_Intro_000">Hmmm ...</string>
+    <string name="RandomisedRequests/Birthday_GiftConvo_001_Response_000_000">Wow!</string>
+    <string name="RandomisedRequests/NoRequests 0_Intro_000">Hmmm ...</string>
+    <string name="RandomisedRequests/RequestSellingItem_NotEnoughMoney_Option_001">Nein, danke.</string>
+    <string name="RandomisedRequests/RequestAccepted_003_Option_001">Noch nicht.</string>
+    <string name="RandomisedRequests/RequestAccepted_003_Response_000_000">Danke, &lt;PlayerName&gt;!</string>
+    <string name="RandomisedRequests/NoRequests_003_Intro_000">Weißt du was?</string>
+    <string name="RandomisedRequests/RequestSellingItem_NotEnoughMoney_Response_000_000">&lt;shock&gt;Oh!</string>
+    <string name="RandomisedRequests/NoRequests 2_Intro_000">Weißt du was?</string>
+    <string name="RandomisedRequests/RequestSellingItemNotEnoughMoney_001_Option_001">Nein, danke.</string>
+    <string name="RandomisedRequests/RequestSellingItem_001_Option_001">Nein, danke.</string>
 </resources>

@@ -2,4 +2,8 @@
 <resources>
     <string name="THEODORE/MuseumKeeperConvo_Option_001">Ich möchte chatten.</string>
     <string name="THEODORE/AllItemsAlreadyDonated_Intro_000">Oh je! Es scheint, als hätte unser Museum bereits &lt;donationName&gt; ausgestellt!</string>
+    <string name="THEODORE/EmptyWithPhoto_Option_001">Nein.</string>
+    <string name="THEODORE/CompleteRequest_000_Intro_000">Vielen Dank, &lt;PlayerName&gt;.</string>
+    <string name="THEODORE/FullPhotoWithPhoto_Option_001">Nein, danke.</string>
+    <string name="THEODORE/MuseumKeeperConvo_Option_002">Vergiss es.</string>
 </resources>
