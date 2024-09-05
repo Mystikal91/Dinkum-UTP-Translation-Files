@@ -21,4 +21,5 @@
     <string name="FRANKLIN/SkyFest_Night_002_Intro_000">&lt;thinking&gt;Hmmm…</string>
     <string name="FRANKLIN/SkyFest_Noon_002_Intro_000">Ja.</string>
     <string name="FRANKLIN/RandomConvo_035_Intro_000">&lt;yes&gt;Ich habe kürzlich über die Fernmeldetürme nachgedacht...</string>
+    <string name="FRANKLIN/TechCompleted_Intro_000">Ah, &lt;PlayerName&gt;!</string>
 </resources>
