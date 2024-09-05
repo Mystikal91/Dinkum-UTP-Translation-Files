@@ -64,4 +64,22 @@
     <string name="Sign/BugCatchingCompSign_Book_Response_001_000">Sobald du dich angemeldet hast und der Wettbewerb begonnen hat, fängst du so viele Insekten wie möglich.</string>
     <string name="Sign/BugCatchingCompSign_Book_Response_001_002">Die letzte Punktzahl, die du im &lt;compBook&gt; eingibst, ist deine Endpunktzahl.</string>
     <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Intro_000">Ich habe mich angemeldet!</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Option_000">Regeln</string>
+    <string name="Sign/FishingCompClosedSign_Book_Intro_001">Herzlichen Glückwunsch an die Gewinner:</string>
+    <string name="Sign/FishingCompSign_Book_Option_000">Anmelden</string>
+    <string name="Sign/FishingCompSign_Book_Option_001">Regeln</string>
+    <string name="Sign/FishingCompSign_Book_Response_000_000">Danke, dass du dich angemeldet hast!</string>
+    <string name="Sign/FishingCompSign_Book_Response_000_001">Bitte vergewissere dich, dass du dein Ergebnis im &lt;compBook&gt; einträgst, bevor der Wettbewerb um &lt;bugCompEndTime&gt; endet.</string>
+    <string name="Sign/FishingCompSign_SignedUpBeforeStart_Option_000">Regeln</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_000_000">Sobald du dich angemeldet hast und der Wettbewerb begonnen hat, fängst du so viele Insekten wie möglich.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_000_001">Je seltener das Insekt ist, desto mehr Punkte ist es wert.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_000_002">Die letzte Punktzahl, die du im &lt;compBook&gt; eingibst, ist deine Endpunktzahl.</string>
+    <string name="Sign/Sign_Option_000">Anmelden</string>
+    <string name="Sign/Sign_Option_001">Regeln</string>
+    <string name="Sign/Sign_Response_000_000">Danke, dass du dich angemeldet hast!</string>
+    <string name="Sign/Sign_Response_000_001">Bitte vergewissere dich, dass du dein Ergebnis im &lt;compBook&gt; einträgst, bevor der Wettbewerb um &lt;bugCompEndTime&gt; endet.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_000">Sobald du dich angemeldet hast und der Wettbewerb begonnen hat, fängst du so viele Insekten wie möglich.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_001">Je seltener das Insekt ist, desto mehr Punkte ist es wert.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_002">Die letzte Punktzahl, die du im &lt;compBook&gt; eingibst, ist deine Endpunktzahl.</string>
+    <string name="Sign/FishingCompSign_SignedUpBeforeStart_Intro_000">Ich habe mich angemeldet!</string>
 </resources>
