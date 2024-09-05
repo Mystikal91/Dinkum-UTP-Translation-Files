@@ -7,4 +7,9 @@
     <string name="Randomised/Greeting8_Intro_000">&lt;PlayerName&gt;!</string>
     <string name="Randomised/Greeting 0_Intro_001">Was ist los?</string>
     <string name="Randomised/Greeting 8_Intro_000">&lt;PlayerName&gt;!</string>
+    <string name="Randomised/Cold_Greeting 6_Response_003_000">&lt;wave&gt;Wir sehen uns, &lt;PlayerName&gt;.</string>
+    <string name="Randomised/Greeting 2_Intro_001">Brauchst du etwas?</string>
+    <string name="Randomised/Morning Greeting 5_Intro_001">Brauchst du etwas?</string>
+    <string name="Randomised/Windy_Greeting 3_Intro_001">Brauchst du etwas?</string>
+    <string name="Randomised/Greeting2_Intro_001">Brauchst du etwas?</string>
 </resources>
