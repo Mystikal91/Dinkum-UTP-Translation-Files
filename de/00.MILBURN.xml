@@ -13,4 +13,5 @@
     <string name="MILBURN/JimmyWorkConvo_Option_001">Hast du ein Angebot?</string>
     <string name="MILBURN/BankConversation_Option_001">Lass uns reden.</string>
     <string name="MILBURN/BankConversation_Option_002">Vergiss es.</string>
+    <string name="MILBURN/BackAndForthConvo_morningFallbacks_2_Line_1">Also gut.</string>
 </resources>
