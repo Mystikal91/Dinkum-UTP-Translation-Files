@@ -14,4 +14,6 @@
     <string name="MELVIN/Low_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;Richtig.</string>
     <string name="MELVIN/Morning_Greeting 0_Response_003_000">Richtig.</string>
     <string name="MELVIN/FurnitureShop_Convo_Option_002">Vergiss es.</string>
+    <string name="MELVIN/Medium_Friendship_Greeting 1_Response_003_000">Also gut.</string>
+    <string name="MELVIN/High_Friendship_Greeting 2_Response_003_000">Genau, Kumpel.</string>
 </resources>
