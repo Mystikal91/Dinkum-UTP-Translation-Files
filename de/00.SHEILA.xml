@@ -17,4 +17,9 @@
     <string name="SHEILA/TotalEqualsZeroBugComp_Response_001_000">Das ist in Ordnung, bitte komm zurück, wenn du etwas anderes verkaufen möchtest.</string>
     <string name="SHEILA/TotalEqualsZeroTuckshop_Intro_000">Also gut... Mal sehen...</string>
     <string name="SHEILA/TotalEqualsZeroTuckshop_Option_000">Ja, ich will sie nicht.</string>
+    <string name="SHEILA/TotalEqualsZeroBugComp_Response_000_000">Genau, Kumpel.</string>
+    <string name="SHEILA/TotalEqualsZeroTuckshop_Response_000_000">Genau, Kumpel.</string>
+    <string name="SHEILA/SomethingToSellFishingComp_Response_001_000">Genau, Kumpel.</string>
+    <string name="SHEILA/TotalEqualsZeroTuckshop_Response_000_001">Prost.</string>
+    <string name="SHEILA/TotalEqualsZeroBugComp_Response_000_001">Prost.</string>
 </resources>
