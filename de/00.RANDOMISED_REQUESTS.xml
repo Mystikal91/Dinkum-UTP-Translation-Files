@@ -14,4 +14,5 @@
     <string name="RandomisedRequests/NoRequests 2_Intro_000">Weißt du was?</string>
     <string name="RandomisedRequests/RequestSellingItemNotEnoughMoney_001_Option_001">Nein, danke.</string>
     <string name="RandomisedRequests/RequestSellingItem_001_Option_001">Nein, danke.</string>
+    <string name="RandomisedRequests/RequestItemInInv_001_Option_000">Deal.</string>
 </resources>
