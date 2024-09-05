@@ -82,4 +82,23 @@
     <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_001">Je seltener das Insekt ist, desto mehr Punkte ist es wert.</string>
     <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Response_001_002">Die letzte Punktzahl, die du im &lt;compBook&gt; eingibst, ist deine Endpunktzahl.</string>
     <string name="Sign/FishingCompSign_SignedUpBeforeStart_Intro_000">Ich habe mich angemeldet!</string>
+    <string name="Sign/ClosedSign_Intro_000">Geschlossen</string>
+    <string name="Sign/FurnitureShopSign_Intro_000">&lt;NPCName&gt;s Möbel</string>
+    <string name="Sign/GreenHouse_HourSign_Intro_000">&lt;NPCName&gt;s Gewächshaus.</string>
+    <string name="Sign/BugCatchingCompSign_SignedUpBeforeStart_Intro_001">Der &lt;bugComp&gt; beginnt um &lt;bugCompStartTime&gt;.</string>
+    <string name="Sign/ClothShopSign_Intro_000">Schneiderei.</string>
+    <string name="Sign/CompBookLoggedScoreTooLate_Sign_Intro_000">Der &lt;bugComp&gt; ist vorbei, also kann ich meinen Punktestand nicht mehr eintragen.</string>
+    <string name="Sign/CompBookLoggedScore_Sign_Intro_000">Deine neue eingetragene Punktzahl ist jetzt &lt;compScore&gt;.</string>
+    <string name="Sign/ConfirmSleepSign_Intro_000">Schlafen?</string>
+    <string name="Sign/ConfirmSleepSign_Option_001">Ich ruhe nur meine Augen aus.</string>
+    <string name="Sign/Crafters_Sign_Intro_000">Jolly Wrencher - Handwerker und Tüftler</string>
+    <string name="Sign/Fletch_Sleeping Bags_Intro_000">Das sind ein paar &lt;itemName&gt;, die ich aufbewahre. &lt;proud&gt;Ich sag dir was, sie sind sehr nützlich!</string>
+    <string name="Sign/Fletch_Sleeping Bags_Intro_001">Brauchst du einen, &lt;PlayerName&gt;?</string>
+    <string name="Sign/Fletch_Sleeping Bags_Option_000">Ja, bitte!</string>
+    <string name="Sign/Fletch_Sleeping Bags_Response_000_000">&lt;glee&gt;Na gut, dann nimm einen!</string>
+    <string name="Sign/Fletch_Sleeping Bags_Response_000_001">&lt;glee&gt;Er gehört ganz dir!</string>
+    <string name="Sign/Fletch_Sleeping Bags_Response_001_000">&lt;glee&gt;Richtig.</string>
+    <string name="Sign/HairDresserMirror_Intro_000">Soll ich &lt;NPCName&gt;s Spiegel benutzen?</string>
+    <string name="Sign/HairDresserMirror_Option_001">Im Moment nicht</string>
+    <string name="Sign/MineControl_Convo_Option_000">Geh runter!</string>
 </resources>
