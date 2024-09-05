@@ -21,4 +21,12 @@
     <string name="IRWIN/SkyFest_Night_007_Intro_000">Es ist erstaunlich, den Himmel so zu sehen!</string>
     <string name="IRWIN/AnimalShopIntro_Option_000">Ich möchte plaudern</string>
     <string name="IRWIN/SkyFest_Morning_007_Intro_000">Du Schönheit!</string>
+    <string name="IRWIN/CompleteRequest_000_Intro_001">&lt;thinking&gt;&lt;PlayerName&gt; zieht wieder durch.</string>
+    <string name="IRWIN/AlreadyAnimalInShop_Intro_002">Warum bringst du die Tiere in ihren Boxen nicht zuerst nach draußen?</string>
+    <string name="IRWIN/AlreadyAnimalInShop_Intro_003">&lt;glee&gt;Dann können wir darüber reden, ob sie einen neuen Freund bekommen.</string>
+    <string name="IRWIN/CompleteBirthday_000_Intro_000">Oh, Kumpel.</string>
+    <string name="IRWIN/CompleteBirthday_000_Intro_001">&lt;pumped&gt;Das ist verdammt tödlich!</string>
+    <string name="IRWIN/CompleteBirthday_000_Intro_002">Die beste &lt;birthday&gt; aller Zeiten, Kumpel!</string>
+    <string name="IRWIN/CompleteRequest_000_Intro_002">&lt;glee&gt;Nochmals vielen Dank, &lt;PlayerName&gt;!</string>
+    <string name="IRWIN/AnimalShopIntro_Intro_000">Willkommen bei Irwin\'s Stall. Wie kann ich helfen?</string>
 </resources>
