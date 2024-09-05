@@ -18,4 +18,7 @@
     <string name="IRWIN/WantToBuyAnimalNoMoney_Option_001">Nein, danke.</string>
     <string name="IRWIN/WantToBuyAnimalNoMoney_Response_001_000">Das ist in Ordnung! Ich bin sicher, dass sie bald ein Zuhause finden wird! &lt;yes&gt;</string>
     <string name="IRWIN/AnimalShopIntro_Option_001">Vergiss es</string>
+    <string name="IRWIN/SkyFest_Night_007_Intro_000">Es ist erstaunlich, den Himmel so zu sehen!</string>
+    <string name="IRWIN/AnimalShopIntro_Option_000">Ich möchte plaudern</string>
+    <string name="IRWIN/SkyFest_Morning_007_Intro_000">Du Schönheit!</string>
 </resources>
