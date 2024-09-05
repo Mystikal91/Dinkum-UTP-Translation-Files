@@ -22,4 +22,12 @@
     <string name="FRANKLIN/SkyFest_Noon_002_Intro_000">Ja.</string>
     <string name="FRANKLIN/RandomConvo_035_Intro_000">&lt;yes&gt;Ich habe kürzlich über die Fernmeldetürme nachgedacht...</string>
     <string name="FRANKLIN/TechCompleted_Intro_000">Ah, &lt;PlayerName&gt;!</string>
+    <string name="FRANKLIN/Arvo_Greeting 2_Response_003_000">Ich werde mich auf den Weg machen.</string>
+    <string name="FRANKLIN/BugComp_Greeting 000_Intro_001">Warum unterbrichst du mich?</string>
+    <string name="FRANKLIN/Arvo_Greeting 2_Intro_000">Du meine Güte!</string>
+    <string name="FRANKLIN/Arvo_Greeting 2_Intro_001">Es ist bereits &lt;getTime&gt;.</string>
+    <string name="FRANKLIN/Arvo_Greeting 0_Response_003_001">Leider sind heute nur noch ein paar Stunden übrig.</string>
+    <string name="FRANKLIN/Arvo_Greeting 1_Response_003_000">Auf Wiedersehen.</string>
+    <string name="FRANKLIN/BugComp_Greeting 000_Intro_000">Ich nehme derzeit an einem \"&lt;bugComp&gt;\" teil.</string>
+    <string name="FRANKLIN/Arvo_Greeting 1_Intro_000">Guten Abend.</string>
 </resources>
