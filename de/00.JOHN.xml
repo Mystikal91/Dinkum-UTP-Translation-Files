@@ -10,4 +10,7 @@
     <string name="JOHN/SkyFest_AfterNoon_001_Intro_000">Richtig.</string>
     <string name="JOHN/SkyFest_Night_001_Intro_000">Wow!</string>
     <string name="JOHN/High_Friendship_Greeting 1_Intro_001">Brauchst du etwas?</string>
+    <string name="JOHN/Highest_Friendship_Greeting 1_Intro_000">Ah, &lt;PlayerName&gt;!</string>
+    <string name="JOHN/Low_Friendship_Greeting 2_Intro_001">Brauchst du etwas?</string>
+    <string name="JOHN/Wind_Greeting 1_Intro_000">Ah, &lt;PlayerName&gt;!</string>
 </resources>
