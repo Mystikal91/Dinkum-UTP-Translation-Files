@@ -259,7 +259,7 @@
     <string name="FLETCH/BeingUpgradedConvo_Intro_000">&lt;no&gt;Oh, gedung itu sedang direnovasi.</string>
     <string name="FLETCH/BeingUpgradedConvo_Intro_001">&lt;yes&gt;Mari kita selesaikan itu sebelum kita mencoba memindahkannya!</string>
     <string name="FLETCH/CompleteBirthday_000_Intro_000">&lt;shy&gt; Oh, seharusnya kau tidak melakukan itu, &lt;PlayerName&gt;.</string>
-    <string name="FLETCH/CompleteBirthday_000_Intro_001">&lt;yes&gt;Aku akan beritahu padamu, sangat berarti bahwa kamu ingat kalau itu adalah &lt;hari ulang tahunku&gt;!</string>
+    <string name="FLETCH/CompleteBirthday_000_Intro_001">&lt;yes&gt;Aku akan beritahu padamu, sangat berarti bahwa kamu ingat kalau itu adalah &lt;birthday&gt;!</string>
     <string name="FLETCH/CompleteBirthday_000_Intro_002">&lt;glee&gt;Anda telah membuat seorang wanita tua sangat bahagia hari ini.</string>
     <string name="FLETCH/CompleteRequest_000_Intro_000">&lt;shy&gt;Terima kasih banyak, &lt;PlayerName&gt;.</string>
     <string name="FLETCH/CompleteRequest_000_Intro_001">&lt;haha&gt;Begini saja, kamu selalu membantuku!</string>
@@ -300,7 +300,8 @@
     <string name="FLETCH/Low_Friendship_Greeting 2_Response_003_000">Hore!&lt;wave&gt;</string>
     <string name="FLETCH/Medium_Friendship_Greeting 0_Intro_000">Senang bertemu Anda, &lt;PlayerName&gt;.</string>
     <string name="FLETCH/Medium_Friendship_Greeting 1_Intro_000">Apa kabar, &lt;PlayerName&gt;?</string>
-    <string name="FLETCH/Medium_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;Baiklah. Sampai jumpa nanti.</string>
+    <string name="FLETCH/Medium_Friendship_Greeting 1_Response_003_000">&lt;yes&gt;
+\nBaiklah. Sampai jumpa nanti.</string>
     <string name="FLETCH/Medium_Friendship_Greeting 2_Intro_000">&lt;haha&gt;Begini, aku baru saja memikirkanmu, &lt;PlayerName&gt;!</string>
     <string name="FLETCH/Morning_Greeting 0_Intro_000">Selamat pagi, &lt;PlayerName&gt;.</string>
     <string name="FLETCH/Morning_Greeting 1_Intro_000">&lt;proud&gt;Saya katakan padamu, pagi ini sangatlah indah.</string>
@@ -320,11 +321,11 @@
     <string name="FLETCH/Pay off town Debt_Intro_001">Saya rasa tidaklah bijaksana untuk mengajukan lebih banyak akta tanah ketika kota tersebut masih terlilit utang. &lt;no&gt;</string>
     <string name="FLETCH/Pay off town Debt_Intro_003">Pelan-pelan tapi pasti kita akan mencapai tujuan kita! &lt;pumped&gt;</string>
     <string name="FLETCH/RandomConvo_002_Intro_000">&lt;IslandName&gt; telah banyak berubah, saya beri tahu Anda!</string>
-    <string name="FLETCH/RandomConvo_006_Intro_001">&lt;no&gt;Saya beri tahu Anda, &lt;namasaya&gt; yang lama tidak selamanya tua.</string>
+    <string name="FLETCH/RandomConvo_006_Intro_001">&lt;no&gt;Saya beri tahu Anda, &lt;myName&gt; yang lama tidak selamanya tua.</string>
     <string name="FLETCH/RandomConvo_006_Intro_002">&lt;pumped&gt;Saya biasa berlarian ke sana kemari membantu orang lain, sama seperti Anda.</string>
     <string name="FLETCH/RandomConvo_006_Intro_003">&lt;yes&gt;Saya selalu melakukan sesuatu.</string>
     <string name="FLETCH/RandomConvo_007_Intro_000">&lt;IslandName&gt; memiliki banyak ekosistem yang berbeda untuk area yang begitu kecil.</string>
-    <string name="FLETCH/RandomConvo_008_Intro_000">Aku menyimpan &lt;Jurnal&gt; yang kuberikan padamu bertahun-tahun lalu di &lt;SouthCity&gt;.</string>
+    <string name="FLETCH/RandomConvo_008_Intro_000">Aku menyimpan &lt;Journal&gt; yang kuberikan padamu bertahun-tahun lalu di &lt;SouthCity&gt;.</string>
     <string name="FLETCH/RandomConvo_016_Intro_000">Hai &lt;PlayerName&gt;. Tahukah kamu, &lt;myName&gt; sebenarnya adalah nama keluarga saya, kan?</string>
     <string name="FLETCH/RandomConvo_016_Response_000_001">&lt;haha&gt;Aku akan beritahu padamu, suatu hari nanti aku mungkin akan beritahu padamu...</string>
     <string name="FLETCH/RandomConvo_016_Response_001_000">&lt;yes&gt;Semua orang memanggil Ayahku &lt;myName&gt;. Itu lebih mudah.</string>
@@ -333,7 +334,8 @@
     <string name="FLETCH/RandomConvo_017_Intro_001">&lt;glee&gt;Saya tidak bisa, saya tidak sabar untuk mendengar semuanya.</string>
     <string name="FLETCH/RandomConvo_026_Intro_002">&lt;yes&gt;Saya suka itu dari Anda, &lt;PlayerName&gt;.</string>
     <string name="FLETCH/RandomConvo_026_Intro_003">&lt;haha&gt;Saya katakan padamu, kamu sudah menyelesaikannya.</string>
-    <string name="FLETCH/RandomConvo_027_Intro_002">&lt;haha&gt;Aku ingat suatu kali aku melihat bayanganku sendiri dan berpikir, \"Siapa wanita tua di rumahku ini?\"</string>
+    <string name="FLETCH/RandomConvo_027_Intro_002">&lt;haha&gt;
+\nAku ingat suatu kali aku melihat bayanganku sendiri dan berpikir, \"Siapa wanita tua di rumahku ini?\"</string>
     <string name="FLETCH/RandomConvo_028_Intro_001">&lt;no&gt;Tapi sebenarnya Anda tidak bisa seperti itu.</string>
     <string name="FLETCH/RandomConvo_028_Intro_002">&lt;thinking&gt;Tidak, jika Anda ingin bahagia.</string>
     <string name="FLETCH/RandomConvo_028_Intro_003">&lt;proud&gt;Anda harus MEMBUAT sesuatu terjadi sendiri!</string>
@@ -472,7 +474,7 @@
     <string name="FLETCH/RandomConvo_008_Intro_003">&lt;glee&gt;Melihatmu melampaui tonggak sejarah itu membuatku hangat hati!</string>
     <string name="FLETCH/RandomConvo_008_Intro_004">&lt;yes&gt;Saya pikir itu akan menghangatkan hatinya juga.</string>
     <string name="FLETCH/RandomConvo_009_Intro_001">&lt;no&gt;Jangan khawatir, &lt;PlayerName&gt;, saya punya lebih banyak &lt;PermitPoints&gt; untuk dibagikan.</string>
-    <string name="FLETCH/RandomConvo_010_Intro_001">&lt;haha&gt;Saya beri tahu Anda, satu-satunya &lt;Licences&gt; yang saya perlukan adalah &lt;Licences&gt; untuk memberikan &lt;Licences&gt;!</string>
+    <string name="FLETCH/RandomConvo_010_Intro_001">&lt;haha&gt;Saya beri tahu Anda, satu-satunya &lt;Licence&gt; yang saya perlukan adalah &lt;Licence&gt; untuk memberikan &lt;Licences&gt;!</string>
     <string name="FLETCH/RandomConvo_012_Intro_000">&lt;thinking&gt;Saya tahu kita jauh dari &lt;SouthCity&gt; dan saya mungkin bisa langsung menyerahkan semua &lt;Licences&gt; Anda kepada Anda...</string>
     <string name="FLETCH/RandomConvo_012_Intro_001">&lt;no&gt;Tetapi percayalah, &lt;PlayerName&gt;, kamu tidak akan bisa maju dalam hidup kecuali kamu bekerja keras untuk mendapatkan apa yang kamu inginkan!</string>
     <string name="FLETCH/RandomConvo_013_Intro_000">Saya akan ceritakan, saya dulu bermimpi menjadi seorang &lt;Nomad&gt;. Anda tahu, keluar dari &lt;SouthCity&gt;, menjelajahi dunia...</string>
@@ -489,7 +491,7 @@
     <string name="FLETCH/RandomConvo_019_Intro_002">&lt;BlobFish&gt;? Lupakan saja!</string>
     <string name="FLETCH/RandomConvo_019_Intro_003">&lt;no&gt;Saya katakan padamu, benda-benda itu rasanya seperti kardus basah.</string>
     <string name="FLETCH/RandomConvo_019_Intro_004">&lt;haha&gt;Kecuali karton basah memiliki lebih banyak tekstur!</string>
-    <string name="FLETCH/RandomConvo_020_Intro_000">Terima kasih telah menjaga &lt;Jurnal&gt; Ayahku.</string>
+    <string name="FLETCH/RandomConvo_020_Intro_000">Terima kasih telah menjaga &lt;Journal&gt; Ayahku.</string>
     <string name="FLETCH/RandomConvo_020_Intro_001">&lt;proud&gt;Saya katakan pada Anda, beberapa tonggak sejarah itu akan sulit dikalahkan!</string>
     <string name="FLETCH/RandomConvo_020_Intro_002">&lt;yes&gt;Tetapi luangkan waktumu, &lt;PlayerName&gt;.</string>
     <string name="FLETCH/RandomConvo_020_Intro_003">&lt;glee&gt;Saya yakin Anda akan mencapainya pada akhirnya!</string>
