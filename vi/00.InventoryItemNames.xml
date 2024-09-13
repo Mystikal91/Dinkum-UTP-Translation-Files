@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="InventoryItemNames/InvItem_674">Thảm xanh dương</string>
+    <string name="InventoryItemNames/InvItem_377">Tường màu trắng</string>
+    <string name="InventoryItemNames/InvItem_391">Bảng Thông Báo</string>
+    <string name="InventoryItemNames/InvItem_477">Giấy dán tường xanh lá</string>
+    <string name="InventoryItemNames/InvItem_478">Giấy dán tường màu hồng</string>
+    <string name="InventoryItemNames/InvItem_479">Tường đỏ</string>
+    <string name="InventoryItemNames/InvItem_675">Thảm màu hồng</string>
+    <string name="InventoryItemNames/InvItem_676">Thảm màu tím</string>
+    <string name="InventoryItemNames/InvItem_666">Thảm đỏ</string>
+    <string name="InventoryItemNames/InvItem_1401">Big Fan Hand</string>
+    <string name="InventoryItemNames/InvItem_0">rìu thường</string>
+    <string name="InventoryItemNames/InvItem_451">Ghế dài thường</string>
+    <string name="InventoryItemNames/InvItem_476">Giấy dán tường màu xanh dương</string>
+    <string name="InventoryItemNames/InvItem_8">Cuốc chim</string>
+    <string name="InventoryItemNames/InvItem_387">Giáo thường</string>
+    <string name="InventoryItemNames/InvItem_838">Xẻng chiến đấu</string>
+    <string name="InventoryItemNames/InvItem_1408">Củ dền đỏ</string>
+    <string name="InventoryItemNames/InvItem_1166">Thanh Berkonium</string>
+    <string name="InventoryItemNames/InvItem_763">trứng rán lớn</string>
+    <string name="InventoryItemNames/InvItem_397">Hoa Billy Button</string>
+    <string name="InventoryItemNames/InvItem_665">Thảm xanh lá</string>
+    <string name="InventoryItemNames/InvItem_389">Búa thường</string>
+    <string name="InventoryItemNames/InvItem_677">Thảm da cam</string>
+    <string name="InventoryItemNames/InvItem_371">Cửa gỗ</string>
+    <string name="InventoryItemNames/InvItem_372">Tường gỗ</string>
+    <string name="InventoryItemNames/InvItem_955">Diều cánh dơi</string>
+    <string name="InventoryItemNames/InvItem_859">Cánh dơi</string>
+    <string name="InventoryItemNames/InvItem_906">Đèn dơi</string>
+    <string name="InventoryItemNames/InvItem_1561">Bồn tắm</string>
+    <string name="InventoryItemNames/InvItem_1557">Chổi chiến đấu</string>
+    <string name="InventoryItemNames/InvItem_826">Bay bug</string>
+    <string name="InventoryItemNames/InvItem_1443">Bóng bãi biển</string>
+    <string name="InventoryItemNames/InvItem_1397">Quầy bãi biển</string>
+    <string name="InventoryItemNames/InvItem_1351">Mũ rơm bãi biển</string>
+    <string name="InventoryItemNames/InvItem_742">Mỏ vịt</string>
+    <string name="InventoryItemNames/InvItem_227">Con ong</string>
+    <string name="InventoryItemNames/InvItem_1198">Mũ con ong</string>
+    <string name="InventoryItemNames/InvItem_226">Tổ ong</string>
+    <string name="InventoryItemNames/InvItem_1447">Thùng củ dền đỏ</string>
+    <string name="InventoryItemNames/InvItem_1410">Hạt dền đỏ</string>
+    <string name="InventoryItemNames/InvItem_1165">Quặng Berkonium</string>
+    <string name="InventoryItemNames/InvItem_603">Quả trứng gà lớn</string>
+    <string name="InventoryItemNames/InvItem_537">Chậu hoa Billy Button</string>
+    <string name="InventoryItemNames/InvItem_904">Bảng Thông Báo</string>
 </resources>
