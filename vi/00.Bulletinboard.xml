@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Bulletinboard/Collect">Thu thập &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/DayAgo">ngày trước</string>
+    <string name="Bulletinboard/DaysAgo">ngày trước</string>
+    <string name="Bulletinboard/BringCaptured">Mang lồng</string>
+    <string name="Bulletinboard/MonthAgo">tháng trước</string>
+    <string name="Bulletinboard/MonthsAgo">tháng trước</string>
+    <string name="Bulletinboard/Photograph">Chụp ảnh &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/Show">Cho &lt;npcName&gt; xem ảnh</string>
+    <string name="Bulletinboard/TalkTo">Nói chuyện với &lt;npcName&gt;</string>
+    <string name="Bulletinboard/ThePhotograph">bức ảnh</string>
+    <string name="Bulletinboard/Today">hôm nay</string>
+    <string name="Bulletinboard/WeekAgo">tuần trước</string>
+    <string name="Bulletinboard/WeeksAgo">tuần trước</string>
+    <string name="Bulletinboard/YearAgo">năm trước</string>
+    <string name="Bulletinboard/YearsAgo">năm trước</string>
+    <string name="Bulletinboard/Yesterday">hôm qua</string>
+    <string name="Bulletinboard/EXPIRED">HẾT HẠN</string>
+    <string name="Bulletinboard/Last_Day">Ngày Cuối Cùng</string>
+    <string name="Bulletinboard/Days_Remaining">Ngày Còn Lại</string>
+    <string name="Bulletinboard/Trade">Trao đổi</string>
+    <string name="Bulletinboard/with">với</string>
+    <string name="Bulletinboard/Speak_to">Nói với</string>
+    <string name="Bulletinboard/UsingLastLocation">bằng cách sử dụng vị trí cuối cùng của nó trên bản đồ</string>
+    <string name="Bulletinboard/VisitLocation">Hãy đến địa điểm trên bản đồ để điều tra</string>
+    <string name="Bulletinboard/Post_FirstPost_Title">Bảng Thông Báo!</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt; Phần thưởng bắt giữ</string>
+    <string name="Bulletinboard/ToADropOffPoint">đến Điểm Thả Thú để nhận phần thưởng</string>
+    <string name="Bulletinboard/Bring">Mang cho &lt;npcName&gt; &lt;itemAmount&gt; &lt;itemName&gt;</string>
+    <string name="Bulletinboard/Hunt">Săn &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
+    <string name="Bulletinboard/Capture">Mang lồng &lt;animalName&gt; đến Điểm Thả Thú để nhận phần thưởng.</string>
+    <string name="Bulletinboard/HuntDown">Hạ gục</string>
+    <string name="Bulletinboard/Post_FirstPost_Content">Thị trấn của chúng ta đã có Bảng thông báo! Hãy để lại ghi chú, thông báo hoặc yêu cầu để mọi người được có thể theo dõi!</string>
 </resources>
