@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="DescriptionDetails/Title_Bury">Chôn</string>
+    <string name="DescriptionDetails/Title_Consumable">Có thể tiêu thụ</string>
+    <string name="DescriptionDetails/Title_Consuming">Đang tiêu thụ</string>
+    <string name="DescriptionDetails/Title_ContinuesToProduce">Tiếp tục sản xuất</string>
+    <string name="DescriptionDetails/Title_Damage">Sát thương</string>
+    <string name="DescriptionDetails/Title_Plantable">Trồng được</string>
+    <string name="DescriptionDetails/Title_Produces">Sản xuất</string>
+    <string name="DescriptionDetails/Title_Restores">hồi phục</string>
+    <string name="DescriptionDetails/Title_Stamina">thể lực</string>
+    <string name="DescriptionDetails/Title_TilledSoil">Ô đất</string>
+    <string name="DescriptionDetails/Title_Weapon">Vũ khí</string>
+    <string name="DescriptionDetails/Title_days">ngày</string>
+    <string name="DescriptionDetails/Title_Health">máu</string>
+    <string name="DescriptionDetails/Title_AddsATemporary">thêm tạm thời</string>
+    <string name="DescriptionDetails/Title_GrowsOver">Mọc chùm lên</string>
 </resources>
