@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Cutscene/Narration_002">Người dân ở South City sống cuộc sống lạnh lẽo và khốn khổ.</string>
+    <string name="Cutscene/Narration_004">Hầu hết mọi người đều không muốn rời đi.</string>
+    <string name="Cutscene/Narration_005">"Nhưng  bạn thì có, hơn bất cứ thứ gì"</string>
+    <string name="Cutscene/Narration_007">"Hôm nay bạn sẽ khởi hành đến  &lt;IslandName&gt; ."</string>
+    <string name="Cutscene/Narration_008">Và bạn có thể tìm cho mình lối ra.</string>
+    <string name="Cutscene/Narration_000">Rất lâu về trước, mọi thứ trở nên tồi tệ</string>
+    <string name="Cutscene/Narration_001">Hầu hết mọi người bị bắt phải chuyển tới South City</string>
+    <string name="Cutscene/Narration_006">Tôi đang tìm một người trẻ năng động để cùng tôi trở về quê hương của mình, &lt;IslandName&gt;.
+\n
+\nTôi sẽ cung cấp chuyến đi và chỗ ở cho bạn
+\n
+\nBất kỳ ai quan tâm, hãy gặp tôi tại nhà ga Airship vào ngày 1 tháng 7.</string>
+    <string name="Cutscene/Narration_003">Bạn được sinh ra ở đây</string>
 </resources>
