@@ -1,3 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MenuText/Credits" resizable="True">Kredit</string>
+    <string name="MenuText/LANIPConnect">Koneksi LAN / IP</string>
+    <string name="MenuText/RefreshList">Perbarui Daftar</string>
+    <string name="MenuText/sprite17FriendsGames">&lt;sprite=17&gt; Permainan Teman</string>
+    <string name="MenuText/sprite16FriendsGames">&lt;sprite=16&gt; Permainan Teman</string>
+    <string name="MenuText/sprite17PublicGames">&lt;sprite=17&gt; Permainan Publik</string>
+    <string name="MenuText/sprite16PublicGames">&lt;sprite=16&gt; Permainan Publik</string>
+    <string name="MenuText/IPAddress">Alamat IP</string>
+    <string name="MenuText/Join">Bergabung</string>
+    <string name="MenuText/OnlypeopleyouinvitewillbeabletojoinUsethesteamoverlaytoinvitepeopleoncethegameishosted">Hanya orang yang Anda undang yang dapat bergabung.
+\nGunakan steam overlay untuk mengundang orang setelah permainan diselenggarakan.</string>
+    <string name="MenuText/AnyonecanjointhisworldTheywillbeabletotakeyourstuffsobecareful">Siapa pun dapat bergabung dengan dunia ini.
+\n&lt;color=red&gt;Mereka akan dapat mengambil barang-barang Anda, jadi berhati-hatilah!</string>
+    <string name="MenuText/HostagameusingLANEnterthelocalIPintheLANIPConnecttabtojoin">Selenggarakan permainan menggunakan LAN. Masukkan IP lokal di tab Sambungan LAN/IP untuk bergabung.</string>
+    <string name="MenuText/OpensthedirectorywhereyourDinkumsavesarestored">Membuka direktori tempat penyimpanan data Dinkum Anda.</string>
+    <string name="MenuText/OpenSaveFileDirectory">Buka Direktori Simpan File</string>
+    <string name="MenuText/MainMenu_JoinWorld" resizable="True">Multipemain</string>
+    <string name="MenuText/MainMenu_NewGame" resizable="True">Permainan Baru</string>
+    <string name="MenuText/MainMenu_Options" resizable="True">Pilihan</string>
+    <string name="MenuText/QuitToDesktop" resizable="True">Keluar ke Desktop</string>
+    <string name="MenuText/Multiplayer_FriendsOnly">Hanya Teman</string>
+    <string name="MenuText/Multiplayer_InviteOnly">Hanya Undangan</string>
+    <string name="MenuText/Multiplayer_Public">Publik</string>
+    <string name="MenuText/Multiplayer_LAN">Bahasa Indonesia: Bahasa Lokal</string>
+    <string name="MenuText/Display">Menampilkan</string>
+    <string name="MenuText/Fullscreen">Layar penuh</string>
+    <string name="MenuText/Resolution">Resolusi</string>
+    <string name="MenuText/UIScale">Skala UI</string>
+    <string name="MenuText/Graphics">Grafik</string>
+    <string name="MenuText/ChunkViewDistance">Jarak Tampilan Chunk</string>
+    <string name="MenuText/RefreshRateExperimental">Tingkat Penyegaran (Experimental)</string>
+    <string name="MenuText/WIDE">LEBAR</string>
+    <string name="MenuText/DEFAULT">BAWAAN</string>
+    <string name="MenuText/LOW">RENDAH</string>
+    <string name="MenuText/MED">MED</string>
+    <string name="MenuText/HIGH">TINGGI</string>
+    <string name="MenuText/Sound">Suara</string>
+    <string name="MenuText/MasterVolume">Volume Utama</string>
+    <string name="MenuText/EffectVolume">Volume Efek</string>
+    <string name="MenuText/UIVolume">Volume Antarmuka Pengguna</string>
+    <string name="MenuText/MusicVolume">Volume Musik</string>
+    <string name="MenuText/NPCVoiceOn">Suara NPC Aktif</string>
+    <string name="MenuText/VoiceChat">Obrolan Suara</string>
+    <string name="MenuText/AllowVoiceChatHostonly">Izinkan Obrolan Suara (Host only)</string>
+    <string name="MenuText/VoiceChatVolume">Volume Obrolan Suara</string>
+    <string name="MenuText/CameraSettings">Pengaturan Kamera</string>
+    <string name="MenuText/InvertFreeCamera">Kamera Gratis Invert</string>
+    <string name="MenuText/InvertX">Membalikkan X</string>
+    <string name="MenuText/InvertY">Membalikkan Y</string>
+    <string name="MenuText/LeftControl">Kontrol Kiri</string>
+    <string name="MenuText/RightControl">Kontrol yang Tepat</string>
+    <string name="MenuText/Backspace">spasi mundur</string>
+    <string name="MenuText/SinglePlayer" resizable="True">Pemain Tunggal</string>
+    <string name="MenuText/Confirm">Mengonfirmasi</string>
+    <string name="MenuText/Whatsyourname">Siapa namamu?</string>
+    <string name="MenuText/Whatstheislandsname">Apa nama pulau itu?</string>
+    <string name="MenuText/CreateCharacter">Buat Karakter</string>
+    <string name="MenuText/Randomise">Acak</string>
+    <string name="MenuText/Multiplayer" resizable="True">Multipemain</string>
+    <string name="MenuText/HostGame">Tuan Rumah Pertandingan</string>
+    <string name="MenuText/OpenGames">Pertandingan Terbuka</string>
+    <string name="MenuText/MainMenu_Back" autoSizeTextContainer="True">Kembali</string>
+    <string name="MenuText/MainMenu_HostWorld" resizable="True">Muat Game</string>
+    <string name="MenuText/HoldMiddleMouseorShifttoMoveCamera">Tahan Tombol Tengah Mouse atau Shift untuk Memindahkan Kamera</string>
+    <string name="MenuText/MouseAlwaysMoveCamera">Mouse Selalu Memindahkan Kamera</string>
+    <string name="MenuText/CameraXSpeed">Kamera X Kecepatan</string>
+    <string name="MenuText/CameraYSpeed">Kamera Y Kecepatan</string>
+    <string name="MenuText/Gameplay">Permainan</string>
+    <string name="MenuText/RumbleOn">Terus Bergemuruh</string>
+    <string name="MenuText/SnapCursorToUIControllerOnly">Jepret Kursor ke UI (Controller Only)</string>
+    <string name="MenuText/TextSpeed">Kecepatan Teks</string>
+    <string name="MenuText/Normal">Normal</string>
+    <string name="MenuText/Fast">Cepat</string>
+    <string name="MenuText/Super">Super</string>
+    <string name="MenuText/MiniMapAlwaysFacesNorth">Peta Mini Selalu Menghadap Utara</string>
+    <string name="MenuText/AutoDetectController">Pengontrol Deteksi Otomatis</string>
+    <string name="MenuText/OnlineNameTags">Label Nama Online</string>
+    <string name="MenuText/JournalOpenAnimation">Jurnal Animasi Terbuka</string>
+    <string name="MenuText/HideStaminaWheel">Sembunyikan Roda Stamina</string>
+    <string name="MenuText/Controls">Kontrol</string>
+    <string name="MenuText/ReturntoDefault">Kembali ke Default</string>
+    <string name="MenuText/Reset">Mengatur ulang</string>
+    <string name="MenuText/AltKey">Tombol Alt</string>
+    <string name="MenuText/Primary">Utama</string>
+    <string name="MenuText/MoveForward">Bergerak maju</string>
+    <string name="MenuText/MoveBack">Mundur</string>
+    <string name="MenuText/MoveLeft">Pindah ke Kiri</string>
+    <string name="MenuText/MoveRight">Pindah ke Kanan</string>
+    <string name="MenuText/Jump">Melompat</string>
+    <string name="MenuText/UseItem">Gunakan Barang</string>
+    <string name="MenuText/InteractCollect">Berinteraksi / Mengumpulkan</string>
+    <string name="MenuText/PickUpRotateGetUp">Angkat / Putar / Bangun</string>
+    <string name="MenuText/Drop">Menjatuhkan</string>
+    <string name="MenuText/Vehicles">Kendaraan</string>
+    <string name="MenuText/Accelerate">Mempercepat</string>
+    <string name="MenuText/Reverse">Balik</string>
+    <string name="MenuText/VehicleUseItem">Barang Penggunaan Kendaraan</string>
+    <string name="MenuText/VehicleSwapItem">Barang Tukar Kendaraan</string>
+    <string name="MenuText/Other">Lainnya</string>
+    <string name="MenuText/OpenPockets">Kantong Terbuka</string>
+    <string name="MenuText/OpenJournal">Jurnal Terbuka</string>
+    <string name="MenuText/OpenMap">Buka Peta</string>
+    <string name="MenuText/OpenChatEmotes">Obrolan Terbuka / Emote</string>
+    <string name="MenuText/MoveCameraButton">Tombol Gerakkan Kamera</string>
+    <string name="MenuText/SwapCameraMode">Ganti Mode Kamera</string>
+    <string name="MenuText/Enter">Memasuki</string>
+    <string name="MenuText/Space">Ruang angkasa</string>
+    <string name="MenuText/Escape">Melarikan diri</string>
+    <string name="MenuText/LeftShift">Shift Kiri</string>
+    <string name="MenuText/RightShift">Shift Kanan</string>
+    <string name="MenuText/ClearPlayerPrefs" resizable="True" autoSizeTextContainer="True">Hapus Preferensi Pemain</string>
+    <string name="MenuText/ClearsallthePlayerPrefsstoredtothisdeviceDinkumwillthenloadagaintosetyoursettingstodefaultThiswillclearallyourallkeybindingsdisplaysettingsandvolumesettingstodefault">Menghapus semua Preferensi Pemain yang tersimpan di perangkat ini. Dinkum kemudian akan memuat lagi untuk menyetel pengaturan Anda ke default.
+\n
+\n&lt;color=red&gt;Ini akan menghapus semua pengikatan tombol, pengaturan tampilan, dan pengaturan volume ke default.</string>
+    <string name="MenuText/AnyoneonyourfriendslistcanjointhisgameMakesureyouandyourfriendsaresettoappearonline">Siapa pun di daftar teman Anda dapat bergabung dalam permainan ini!
+\nPastikan Anda dan teman-teman Anda siap tampil online.</string>
 </resources>
