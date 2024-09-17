@@ -1,3 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Quest/QuestName_Q_0_FirstQuest1">Sebuah Pangkalan Operasi</string>
+    <string name="Quest/QuestName_Q_1_SetUpPlayerTent">Rumah baru Anda!</string>
+    <string name="Quest/QuestName_Q_2_SetupMarketplace">Tempat untuk Pengunjung</string>
+    <string name="Quest/QuestName_Q_3_FindSomeFood">Orang Semak Tucker</string>
+    <string name="Quest/QuestName_Q_4_WaitUntilNextDay">R dan R</string>
+    <string name="Quest/QuestName_Q_5_GetTalbeSaw">Dinks dan Gergaji Meja</string>
+    <string name="Quest/QuestDesc_Q_0_FirstQuest1">Anda telah tiba di pulau! Fletch telah memberi Anda Tenda Dasar dan meminta Anda untuk melihat-lihat dan menemukan tempat yang ingin Anda tempati.
+\n
+\nJangan ragu untuk bertanya kepada Fletch tentang pulau tersebut. Dia dapat ditemukan berkeliaran di dekat Dermaga.</string>
+    <string name="Quest/QuestDesc_Q_1_SetUpPlayerTent">Fletch telah memberikanmu Tenda milikmu sendiri! Ini akan menjadi rumahmu untuk sementara waktu, jadi luangkan waktu untuk memutuskan di mana akan mendirikannya.Base Tent.
+\n
+\n.Fletchmenyarankan untuk mendirikannya di dekat Tenda Dasar. Setelah tendamu didirikan, bicaralah dengan Fletch.</string>
+    <string name="Quest/QuestDesc_Q_2_SetupMarketplace">Fletch meminta Anda untuk mencari tempat untuk Akta Lokasi Kunjungan. Setelah akta ini dibuat, perkemahan Anda akan siap menampung wisatawan dari seluruh tempat!
+\n
+\nKembalilah ke Fletch setelah akta ini dibuat.</string>
+    <string name="Quest/QuestDesc_Q_3_FindSomeFood">Fletch meminta Anda untuk mencari beberapa buah dan memasaknya di atas api. Melakukan hal ini akan dihitung sebagai tugas harian Anda.</string>
+    <string name="Quest/QuestDesc_Q_4_WaitUntilNextDay">Fletch tidak punya kegiatan lain untuk Anda hari ini. Jalan-jalanlah di sekitar pulau, tangkap beberapa serangga, atau beristirahatlah.</string>
+    <string name="Quest/QuestDesc_Q_5_GetTalbeSaw">Fletch meminta Anda untuk membeli gergaji meja dari toko John. Cobalah menjual barang-barang yang tidak diinginkan kepada John untuk mendapatkan gergaji yang Anda butuhkan.</string>
+    <string name="Quest/QuestName_Q_6_FurnaceQuest">Bahan Bangunan</string>
+    <string name="Quest/QuestName_Q_7_BringTinBar">Peleburan Bijih</string>
+    <string name="Quest/QuestName_Q_8_GetJohnToMoveIn">Yakinkan John untuk Tetap Bertahan</string>
+    <string name="Quest/QuestDesc_Q_8_GetJohnToMoveIn">Fletch berpikir bahwa dengan memberikan bantuan kepada pengunjung dan membelanjakan uang di toko mereka, mereka mungkin dapat diyakinkan untuk tinggal secara permanen.</string>
+    <string name="Quest/QuestName_Q_9_NPCMoveInQuest1">Membangun Rumah</string>
+    <string name="Quest/QuestDesc_Q_9_NPCMoveInQuest1">Membangun rumah untuk warga baru.</string>
+    <string name="Quest/QuestName_Q_10_NPCMoveInQuest2">Membangun Rumah</string>
+    <string name="Quest/QuestDesc_Q_10_NPCMoveInQuest2">Membangun rumah untuk warga baru.</string>
+    <string name="Quest/QuestName_Q_11_NPCMoveInQuest3">Membangun Rumah</string>
+    <string name="Quest/QuestDesc_Q_11_NPCMoveInQuest3">Membangun rumah untuk warga baru.</string>
+    <string name="Quest/QuestName_Q_12_NPCMoveInQuest4">Membangun Rumah</string>
+    <string name="Quest/QuestDesc_Q_12_NPCMoveInQuest4">Membangun rumah untuk warga baru.</string>
+    <string name="Quest/QuestName_Q_13_BuildBankQuest">Membangun bank</string>
+    <string name="Quest/QuestDesc_Q_6_FurnaceQuest">Fletch meminta Anda untuk mendapatkan daftar barang. Anda harus membuat api unggun.
+\n
+\nSetelah Anda mengumpulkan barang-barang tersebut, Fletch akan mengajarkan Anda cara membuat Batangan Bijih Timah.</string>
+    <string name="Quest/QuestDesc_Q_7_BringTinBar">Buat tungku mentah, taruh 5 Bijih Timah di dalamnya dan tunggu.
+\n
+\nBawakan Fletch Batangan Timah setelah peleburan selesai.</string>
+    <string name="Quest/QuestDesc_Q_13_BuildBankQuest">Bangun bank untuk kota.</string>
+    <string name="Quest/QuestName_Q_14_JohnLevel75">John Tingkat 75</string>
+    <string name="Quest/QuestName_Q_15_FranklynTeleporterQuest">Teleportasi</string>
+    <string name="Quest/QuestName_Q_16_IrwinLevel20">Tempat Rumah Anjing</string>
+    <string name="Quest/QuestDesc_Q_16_IrwinLevel20">Letakkan rumah Anjing itu dan bicara pada Irwin.</string>
+    <string name="Quest/QuestName_Q_17_Get5Residents">Lima adalah sebuah kota</string>
+    <string name="Quest/QuestName_Q_18_RayneLevel75">Rayne Tingkat 75</string>
+    <string name="Quest/QuestName_Q_19_GuestHouseQuest">Dapatkan Akta Rumah</string>
+    <string name="Quest/QuestName_Q_20_BuildTheBandStand">Bangun Panggung Musik</string>
+    <string name="Quest/QuestDesc_Q_20_BuildTheBandStand">Bangun panggung musik</string>
+    <string name="Quest/QuestName_Q_21FindBerkonium">Temukan Berkonium</string>
+    <string name="Quest/QuestDesc_Q_21FindBerkonium">Franklyn telah meminta saya untuk menemukan lebih banyak bijih Berkonium dan mengirimkannya kepadanya.</string>
+    <string name="Quest/QuestName_Q_22UnlockAirPort">Temukan Berkonium</string>
+    <string name="Quest/QuestDesc_Q_22UnlockAirPort">Franklyn telah meminta saya untuk menemukan lebih banyak bijih Berkonium dan mengirimkannya kepadanya.</string>
+    <string name="Quest/QuestDesc_Q_17_Get5Residents">&lt;IslandName&gt; membutuhkan 5 penduduk tetap sebelum Kota Selatan mengakuinya sebagai pemukiman resmi.
+\n
+\nMemberikan bantuan dan menghabiskan Dinks di tenda-tenda Pengunjung dapat mendorong mereka untuk tinggal.</string>
 </resources>
