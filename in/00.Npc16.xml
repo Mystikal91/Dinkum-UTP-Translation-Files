@@ -1,3 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_000">&lt;haha&gt;Ha! Ha! Ha! Ha!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_001">Halo, &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Intro_002">Saya harap Anda bersikap baik hari ini!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_000">Bisakah kamu membuatkan sesuatu untukku?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_001">Bagaimana liburanmu?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Option_002">Sudahlah</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_000">Berikut daftar saya.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_000_001">Periksa dua kali!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_001">&lt;glee&gt;Aku suka di sini di &lt;IslandName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_002">&lt;shock&gt;Oh!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_003">Itu mengingatkan saya!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_004">&lt;worried&gt;Sepertinya beberapa &lt;animalName&gt; Putih saya telah hilang.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_000">&lt;haha&gt;Ho! Ho! Ho!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_005">&lt;shy&gt;Saya yakin mereka akan kembali pada akhirnya.</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_006">Namun bila Anda melihatnya, apakah Anda berbaik hati untuk menangkapnya dan menitipkannya ke &lt;itemName&gt;?</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_007">&lt;glee&gt;Terima kasih banyak &lt;PlayerName&gt;!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_008">Anda selalu sangat baik!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_001_009">&lt;haha&gt;Ha! Ha! Ha! Ha!</string>
+    <string name="Npc16/Nick_Salesman_Convo_Response_002_000">&lt;wave&gt;Selamat bersenang-senang!</string>
 </resources>
