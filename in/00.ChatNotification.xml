@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </resources>
+    <string name="ChatNotification/MailManager_takeAttachment_PocketsFull">Kantong Penuh</string>
+    <string name="ChatNotification/FarmAnimal_sendPetHomeNotification_Fainted">&lt;AnimalName&gt; fainted and returned home pingsan dan kembali ke rumah</string>
+    <string name="ChatNotification/FarmAnimal_onFarmAnimalDeath_PassedAway">&lt;AnimalName&gt; has passed away telah meninggal dunia</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_MinePassRequired">&lt;MinePass&gt; diperlukan!</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_EveryoneMustBeInLift">Semua orang harus berada di lift</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveUnderGround_CantUseThis">Anda tidak dapat menggunakan ini</string>
+    <string name="ChatNotification/NetworkMapSharer_tryAndMoveAboveGround_AllPlayersMustBeInLift">Semua pemain harus berada di lift</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcPlayTrapperSound_YouHearAWhistle">Kamu mendengar peluit</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcDeliverAnimal_PlayerDeliveredAnimal">&lt;PlayerName&gt; mengirimkan &lt;AnimalName&gt;</string>
+    <string name="ChatNotification/NetworkMapSharer_UserCode_RpcPayTownDebt_PlayerDonated">&lt;PlayerName&gt; menyumbangkan &lt;sprite=11&gt;&lt;PlayerName&gt; donated &lt;sprite=11&gt;&lt;AmountDonated&gt; towards town debt untuk melunasi hutang kota</string>
+    <string name="ChatNotification/NetworkNavMesh_onSleepingAmountChange_Sleeping">&lt;b&gt;&lt;b&gt;&lt;color=purple&gt; Sleeping &lt;/color&gt;&lt;/b&gt; Sedang tidur &lt;/color&gt;&lt;/b&gt;</string>
+    <string name="ChatNotification/NetworkNavMesh_onSleepingAmountChange_ReadyToSleep">&lt;b&gt;&lt;b&gt;&lt;color=purple&gt; Ready to Sleep &lt;/color&gt;&lt;/b&gt; [&lt;CountCharsSleeping&gt;] Siap untuk Tidur &lt;/color&gt;&lt;/b&gt; [&lt;CountCharsSleeping&gt;]</string>
+    <string name="ChatNotification/NetworkPlayersManager_saveButton_YouMustBeOutside">Anda harus berada di luar untuk menyimpan</string>
+</resources>
