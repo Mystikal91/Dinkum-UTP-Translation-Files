@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="DescriptionDetails/Title_AddsATemporary">menambahkan sementara</string>
+    <string name="DescriptionDetails/Title_Bury">Mengubur</string>
+    <string name="DescriptionDetails/Title_Consumable">Barang habis pakai</string>
+    <string name="DescriptionDetails/Title_Consuming">Mengkonsumsi</string>
+    <string name="DescriptionDetails/Title_ContinuesToProduce">Terus berproduksi</string>
+    <string name="DescriptionDetails/Title_Damage">Kerusakan</string>
+    <string name="DescriptionDetails/Title_GrowsOver">Tumbuh lebih dari</string>
+    <string name="DescriptionDetails/Title_Health">kesehatan</string>
+    <string name="DescriptionDetails/Title_Plantable">Dapat ditanam</string>
+    <string name="DescriptionDetails/Title_Produces">Menghasilkan</string>
+    <string name="DescriptionDetails/Title_Restores">mengembalikan</string>
+    <string name="DescriptionDetails/Title_Stamina">daya tahan</string>
+    <string name="DescriptionDetails/Title_TilledSoil">Tanah yang diolah</string>
+    <string name="DescriptionDetails/Title_Weapon">Senjata</string>
+    <string name="DescriptionDetails/Title_days">hari</string>
 </resources>
