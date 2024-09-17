@@ -1,3 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Mail/CatalogueOrderLetter">Berikut adalah &lt;itemAttachedName&gt; yang Anda pesan.</string>
+    <string name="Mail/BugCompLetter_2nd">Selamat karena berhasil menjadi juara ke-2 dalam Kompetisi Bug!
+\n
+\n
+\nSilakan ambil &lt;itemAttachedName&gt; ini sebagai hadiah Anda.
+\n
+\n
+\nTerima kasih telah berpartisipasi dalam kompetisi ini. Saya tidak sabar untuk kembali dan bermain lagi.
+\n
+\nSampai jumpa!</string>
+    <string name="Mail/BugCompLetter_1st">Selamat karena menjadi juara 1 di Kompetisi Bug!
+\n
+\n
+\nSilakan ambil &lt;itemAttachedName&gt; ini sebagai hadiah Anda.
+\n
+\n
+\nTerima kasih telah berpartisipasi dalam kompetisi ini. Saya tidak sabar untuk kembali dan bermain lagi.
+\n
+\nSampai jumpa!</string>
+    <string name="Mail/DeliveredAnimalLetter">Kami telah menerima hewan yang Anda kirim!
+\n
+\nSpesimen tersebut akan dipelajari dan dilepaskan kembali ke alam liar tanpa cedera.
+\n
+\nHadiah Anda terlampir.</string>
+    <string name="Mail/DeliveredAnimalSpecialDropLetter">Hewan yang Anda kirim kepada kami tampaknya menjatuhkan ini saat transit.
+\n
+\nKarena kami tidak memerlukan ini untuk penelitian kami, kami telah melampirkan &lt;itemAttachedName&gt; dan mengembalikannya kepada Anda.</string>
+    <string name="Mail/Test Letter 17">Saya pikir Anda mungkin menjatuhkannya di tempat saya tempo hari.
+\n
+\nJika tidak, mohon jujur dan kembalikan kepada saya!</string>
+    <string name="Mail/Test Letter 10">Aku melihat ini dan teringat padamu.</string>
+    <string name="Mail/Test Letter 11">Saya tidak terlalu membutuhkan &lt;itemAttachedName&gt; ini. (To be honest I found it anyway)</string>
+    <string name="Mail/Test Letter 12">Apakah Anda cukup makan sayur? Ambil &lt;itemAttachedName&gt; ini. Makanlah. Sayur-sayuran itu baik untuk Anda!</string>
+    <string name="Mail/DevLetter">Hai!
+\n
+\nSaya ingin mengucapkan terima kasih kepada semua orang yang memamerkan Dinkum dan bermain sebelum peluncuran.Saya suka menonton semua video dan streaming!
+\n
+\nSaya punya hadiah untuk Anda! Jangan khawatir, saya tidak menghabiskan terlalu banyak Dinks.</string>
+    <string name="Mail/Fishing Tips">&lt;b&gt;Berikut kiat memancing untuk &lt;season&gt;&lt;/b&gt;!
+\n
+\nSeekor ikan yang belum ditemukan telah terlihat di &lt;biomeName&gt;.
+\n
+\nJika ada yang ingin menemukannya, mereka harus memancing di &lt;timeOfDay&gt;!</string>
+    <string name="Mail/FishingCompLetter_1st">Selamat karena menjadi juara 1 dalam Kompetisi Memancing!
+\n
+\n
+\nHarap ambil &lt;itemAttachedName&gt; ini sebagai hadiah Anda.
+\n
+\n
+\nTerima kasih telah berpartisipasi dalam kompetisi ini.
+\n
+\nSaya tidak sabar untuk kembali! Sampai jumpa!</string>
+    <string name="Mail/FishingCompLetter_2nd">Selamat karena menjadi juara ke-2 dalam Kompetisi Memancing!
+\n
+\n
+\nHarap ambil &lt;itemAttachedName&gt; ini sebagai hadiah Anda.
+\n
+\n
+\nTerima kasih telah berpartisipasi dalam kompetisi ini.
+\n
+\nSaya tidak sabar untuk kembali. Sampai jumpa!</string>
+    <string name="Mail/FishingCompLetter_3rd">Selamat karena berhasil menjadi juara ke-3 dalam Kompetisi Memancing!
+\n
+\n
+\nHarap ambil &lt;itemAttachedName&gt; ini sebagai hadiah Anda,
+\n
+\n
+\nTerima kasih telah berpartisipasi dalam kompetisi ini.
+\n
+\nSaya tidak sabar untuk kembali. Sampai jumpa!</string>
+    <string name="Mail/Franklyn_Craft_Complete_Weekend">Berikut adalah &lt;itemAttachedName&gt; yang Anda pesan.
+\n
+\nTerima kasih banyak.</string>
+    <string name="Mail/InvFullLetter">Berikut &lt;itemAttachedName&gt; yang ingin saya berikan kepada Anda.
+\n
+\nKantong Anda penuh, jadi saya kirimkan saja kepada Anda.</string>
+    <string name="Mail/LicenceUnlock">Anda telah bekerja keras dan saya akan memberi tahu Anda, hal itu tidak luput dari perhatian.
+\n
+\nKarena Anda telah meningkatkan keterampilan Anda, kini ada level baru &lt;licenceName&gt; yang tersedia untuk Anda.
+\n
+\nDatang dan temui saya untuk melamarnya!</string>
+    <string name="Mail/SoldFarmAnimalWithitem">Hewan ternak Anda telah dipindahkan dengan selamat.
+\n
+\nSaya telah melampirkan &lt;itemAttachedName&gt; yang dibawanya.</string>
+    <string name="Mail/Test Letter 1">Hai, ini &lt;itemAttachedName&gt;. Jangan khawatir berapa lama sudah ada di kotak surat Anda. Makan saja!
+\n
+\nPasti baik-baik saja!</string>
+    <string name="Mail/Test Letter 13">Saya menebang pohon. Maksud saya, saya berhasil melakukannya. Saya!
+\nNgomong-ngomong, saya membuat beberapa &lt;itemAttachedName&gt;. Saya pikir Anda akan memiliki kegunaan yang lebih baik untuk itu.</string>
+    <string name="Mail/Test Letter 14">Saya menemukan benda ini mengapung di sungai.
+\nSaya tahu Anda selalu mencari benda seperti ini. Jadi saya mengirimkannya kepada Anda!</string>
+    <string name="Mail/Test Letter 15">Saya sendiri yang menanam &lt;itemAttachedName&gt; ini.
+\n
+\nBeri tahu saya pendapat Anda.</string>
+    <string name="Mail/Test Letter 16">Ini sedikit uang saku untukmu. Aku tahu jumlahnya tidak banyak, tetapi kamu telah berbuat banyak untuk kota ini.
+\n
+\nAku ingin mengucapkan terima kasih kepadamu.</string>
+    <string name="Mail/Test Letter 18">Selamat hari uang!
+\n
+\nSaya yakin ini hari uang... pokoknya, nikmatilah!</string>
+    <string name="Mail/Test Letter 2">Senang sekali bisa ngobrol dengan Anda beberapa hari lalu. Terima kasih sudah menjadi teman yang baik!</string>
+    <string name="Mail/Test Letter 22">Berikut &lt;itemAttachedName&gt;. Taruh di rumah Anda jika Anda suka. Saya tidak keberatan.</string>
+    <string name="Mail/Test Letter 3">Saya sedang berburu Jackaroo. Saya harap Anda tidak keberatan, tetapi saya mengirimi Anda beberapa &lt;itemAttachedName&gt;.</string>
+    <string name="Mail/Test Letter 4">Apakah Anda cukup makan buah? Untuk berjaga-jaga, saya mengirimi Anda &lt;itemAttachedName&gt;.</string>
+    <string name="Mail/Test Letter 5">Saya melihat &lt;itemAttachedName&gt; ini dan menurut saya ini sangat cocok untuk rumah Anda. Semoga Anda menyukainya.</string>
+    <string name="Mail/Test Letter 6">Jadi, saya pikir Anda mungkin menyukai &lt;itemAttachedName&gt;. Jika Anda tidak menyukainya, jual saja. Itulah yang akan saya lakukan!</string>
+    <string name="Mail/Test Letter 7">Saya harap Anda suka barang-barang bekas! Ini &lt;itemAttachedName&gt;. Saya sudah tidak memakainya selama bertahun-tahun.</string>
+    <string name="Mail/Test Letter 8">Sekadar memberi tahu Anda bahwa saya menghargai semua yang Anda lakukan untuk kota kami.</string>
+    <string name="Mail/TrapReturnLetter">Kami telah mengembalikan &lt;itemAttachedName&gt; Anda.</string>
+    <string name="Mail/Bug Tips">&lt;b&gt;Tips bug untuk &lt;season&gt;&lt;/b&gt;
+\n
+\nSaat itu &lt;timeOfDay&gt;. Ada bug di &lt;biomeName&gt; yang belum pernah saya lihat sebelumnya.
+\n
+\nSaya pikir Anda mungkin ingin mengetahuinya.</string>
+    <string name="Mail/BugCompLetter_3rd">Selamat karena berhasil menjadi juara ke-3 di Kompetisi Bug!
+\n
+\n
+\nSilakan ambil &lt;itemAttachedName&gt; ini sebagai hadiah Anda.
+\n
+\n
+\nTerima kasih telah berpartisipasi dalam kompetisi ini.Saya tidak sabar untuk kembali dan bermain lagi.
+\n
+\nSampai jumpa!</string>
+    <string name="Mail/DeliveredChrissyAnimalLetter">Hewan yang Anda kirim kepada kami tampaknya telah melarikan diri saat transit.
+\n
+\nKami menerima perangkap kosong dengan hanya &lt;itemAttachedName&gt; di dalamnya?
+\n
+\nKami telah melampirkan &lt;itemAttachedName&gt; yang ditemukan di dalamnya, untuk berjaga-jaga jika ini adalah kesalahan.</string>
+    <string name="Mail/Test Letter 19">Saya memecahkan batu dan menemukan &lt;itemAttachedName&gt;.
+\n
+\nAnda suka hal semacam ini, bukan?</string>
+    <string name="Mail/Test Letter 20">Saya memecahkan batu dan menemukan &lt;itemAttachedName&gt;.
+\n
+\nAnda suka hal semacam ini, bukan?</string>
+    <string name="Mail/Test Letter 21">&lt;itemAttachedName&gt;, &lt;itemAttachedName&gt;, &lt;itemAttachedName&gt;.
+\n
+\nAnda tidak akan pernah merasa cukup dengan &lt;itemAttachedName&gt;.</string>
+    <string name="Mail/Test Letter 23">Saya menemukan &lt;itemAttachedName&gt; ini di tanah tempo hari.
+\n
+\nSaya pernah melihat ini sebelumnya. Tahukah Anda apa fungsinya?</string>
+    <string name="Mail/Test Letter 9">Rumahmu terlihat cukup bagus. Tapi tidakkah menurutmu akan lebih bagus jika ada &lt;itemAttachedName&gt;?
+\n
+\nAku akan mengintip lewat jendelamu untuk memastikan kau memasangnya!</string>
+    <string name="Mail/Test Letter">Saya sudah memasak sedikit dan masih ada sisa &lt;itemAttachedName&gt;.
+\n
+\nSemoga Anda menyukainya!</string>
 </resources>
