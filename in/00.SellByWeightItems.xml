@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="SellByWeightItems/AmberChunk">Bongkahan Kuning</string>
+    <string name="SellByWeightItems/WaryMuEgg">Wary Mu Egg</string>
+    <string name="SellByWeightItems/BeeHive">Bee Hive</string>
+    <string name="SellByWeightItems/ThunderEgg">Telur Guntur</string>
+    <string name="SellByWeightItems/Emerald">Zamrud</string>
+    <string name="SellByWeightItems/Aquamarine">Aquamarine</string>
+    <string name="SellByWeightItems/Meteorite">Meteorit</string>
+    <string name="SellByWeightItems/Fossil">Fosil</string>
+    <string name="SellByWeightItems/Ruby">Ruby</string>
 </resources>
