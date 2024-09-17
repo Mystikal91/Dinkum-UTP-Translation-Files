@@ -1,3 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="GUIText/SelectImage">Pilih Gambar</string>
+    <string name="GUIText/Sitting">Duduk</string>
+    <string name="GUIText/QuitToMainMenu" resizable="True">Keluar ke Menu Utama</string>
+    <string name="GUIText/QuitToDesktop" resizable="True">Keluar ke Desktop</string>
+    <string name="GUIText/SinglePlayer" resizable="True">Pemain Tunggal</string>
+    <string name="GUIText/Pause">Berhenti sebentar</string>
+    <string name="GUIText/Paused">Dijeda</string>
+    <string name="GUIText/PressStartorEntertoreturntothegame">Tekan Mulai atau Enter untuk kembali ke permainan</string>
+    <string name="GUIText/Areyousureyouwanttoquit">Apakah Anda yakin ingin berhenti?</string>
+    <string name="GUIText/Youwillloseallprogressfromthelasttimeyouslept">Anda akan kehilangan semua kemajuan dari terakhir kali Anda tidur.</string>
+    <string name="GUIText/Cancel">Membatalkan</string>
+    <string name="GUIText/Quit">Berhenti</string>
+    <string name="GUIText/Empty">Kosong</string>
+    <string name="GUIText/Multiplayer" resizable="True">Multipemain</string>
+    <string name="GUIText/LANIP">Jaringan LAN</string>
+    <string name="GUIText/INVITE" resizable="True">MENGUNDANG</string>
+    <string name="GUIText/KICK" resizable="True">KICK</string>
+    <string name="GUIText/Open">Membuka</string>
+    <string name="GUIText/NoNewMail">Tidak Ada Email Baru</string>
+    <string name="GUIText/CollectDeleteAll">Kumpulkan &amp; Hapus Semua</string>
+    <string name="GUIText/SELECT">MEMILIH</string>
+    <string name="GUIText/CraftedStack">Tumpukan yang Dibuat:</string>
+    <string name="GUIText/Ingredients">Bahan-bahan</string>
+    <string name="GUIText/Withdraw">Menarik</string>
+    <string name="GUIText/Deposit">Deposito</string>
+    <string name="GUIText/sprite15Convert">&lt;sprite=15&gt;Konversi</string>
+    <string name="GUIText/MAX">MAKS</string>
+    <string name="GUIText/C">C</string>
+    <string name="GUIText/Confirm">Mengonfirmasi</string>
+    <string name="GUIText/ConfirmConversion">Konfirmasi Konversi</string>
+    <string name="GUIText/FishStatus">Status Ikan</string>
+    <string name="GUIText/Feedthefishacritter">Memberi makan ikan dengan makhluk?</string>
+    <string name="GUIText/FishNursery">Pembibitan Ikan</string>
+    <string name="GUIText/Nothinghere">Tidak ada apa pun di sini</string>
+    <string name="GUIText/Thefishlookhappy">Ikan-ikannya tampak gembira!</string>
+    <string name="GUIText/Map">Peta</string>
+    <string name="GUIText/ItemsRequired">Barang yang Diperlukan</string>
+    <string name="GUIText/DinksEarned" resizable="True">Dinks Diperoleh</string>
+    <string name="GUIText/Teletothistower">Telepon ke menara ini?</string>
+    <string name="GUIText/loading">memuat</string>
+    <string name="GUIText/saving">penghematan</string>
+    <string name="GUIText/Today">Hari ini</string>
+    <string name="GUIText/Tomorrow">Besok</string>
+    <string name="GUIText/Bulletins">Buletin</string>
+    <string name="GUIText/Calendar">Kalender</string>
+    <string name="GUIText/SUN">MATAHARI</string>
+    <string name="GUIText/MON">SENIN</string>
+    <string name="GUIText/TUE">SELASA</string>
+    <string name="GUIText/WED">MENIKAHI</string>
+    <string name="GUIText/THU">KAMIS</string>
+    <string name="GUIText/FRI">JUMAT</string>
+    <string name="GUIText/SAT">DUDUK</string>
+    <string name="GUIText/Reward">Hadiah</string>
+    <string name="GUIText/AcceptRequest">Terima Permintaan</string>
+    <string name="GUIText/Revive">Membangkitkan</string>
+    <string name="GUIText/Youhavepassedout">Kamu pingsan!</string>
+    <string name="GUIText/Whatsitsay">Apa katanya?</string>
+    <string name="GUIText/Done">Selesai</string>
+    <string name="GUIText/sprite16KeepingTrackofrecipeingredients">&lt;sprite=16&gt; Melacak bahan-bahan resep</string>
+    <string name="GUIText/Finishwiththemirrorandapplythesechanges">Selesai dengan cermin dan terapkan perubahan ini?</string>
+    <string name="GUIText/Apply">Menerapkan</string>
+    <string name="GUIText/CompletedLicences">Lisensi yang Selesai</string>
+    <string name="GUIText/TownDebtIncrease">Peningkatan Utang Kota</string>
+    <string name="GUIText/Buildingmaterialsrequiredoncedplaced">Bahan bangunan yang dibutuhkan sudah ditempatkan</string>
+    <string name="GUIText/GameSaved">Game Tersimpan</string>
+    <string name="GUIText/MainColour">Warna Utama</string>
+    <string name="GUIText/TrimColour">Warna Trim</string>
+    <string name="GUIText/BuildingsName">Nama Bangunan</string>
+    <string name="GUIText/Youhavebeendisconnected">Anda telah terputus.</string>
+    <string name="GUIText/Sessionhasended">Sesi telah berakhir.</string>
+    <string name="GUIText/ReturnToMenu">Kembali ke Menu</string>
+    <string name="GUIText/Whatsthename">Apa namanya?</string>
+    <string name="GUIText/Buy">Membeli</string>
+    <string name="GUIText/Order">Memesan</string>
+    <string name="GUIText/Ordercomplete">Pesanan selesai!</string>
+    <string name="GUIText/HealthTickSpeedBuff">Buff Kecepatan Centang Kesehatan</string>
+    <string name="GUIText/StaminaRegen">Regenerasi Stamina:</string>
+    <string name="GUIText/Thisistheamountofstaminayouwillrecoverpersecond">Ini adalah jumlah stamina yang akan Anda pulihkan per detik.</string>
+    <string name="GUIText/IncreasesthespeedofhealthregenerationtickThisisenabledbysittinginachair">Meningkatkan kecepatan regenerasi kesehatan. Hal ini dapat dilakukan dengan duduk di kursi.</string>
+    <string name="GUIText/WellRestedBuff">Buff yang Cukup Istirahat</string>
+    <string name="GUIText/Givesplayersasmallstaminaboostinthemorningaftersleepingindoors">Memberikan pemain sedikit dorongan stamina di pagi hari setelah tidur di dalam ruangan.</string>
+    <string name="GUIText/FullnessTimer">Pengatur Waktu Kepenuhan</string>
+    <string name="GUIText/Showshowlongafoodseffectwilllast">Menunjukkan berapa lama efek makanan akan bertahan.</string>
+    <string name="GUIText/MiningBuff">Penggemar Pertambangan</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenmining">Meningkatkan kerusakan yang ditimbulkan alat Anda saat menambang.</string>
+    <string name="GUIText/LoggingBuff">Buff Penebangan Kayu</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourtoolswhenlogging">Meningkatkan kerusakan yang ditimbulkan oleh alat Anda saat penebangan.</string>
+    <string name="GUIText/HuntingBuff">Penggemar Berburu</string>
+    <string name="GUIText/Increasesthedamagedealtbyyourweaponswhenfighting">Meningkatkan kerusakan yang ditimbulkan senjata Anda saat bertarung.</string>
+    <string name="GUIText/DefenceBuff">Buff Pertahanan</string>
+    <string name="GUIText/Decreasesthedamagedealtbyenemies">Mengurangi kerusakan yang ditimbulkan oleh musuh.</string>
+    <string name="GUIText/FishingBuff">Penggemar Memancing</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanreelinfish">Meningkatkan kecepatan karakter Anda dalam menarik ikan</string>
+    <string name="GUIText/SpeedBuff">Buff Kecepatan</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanrun">Meningkatkan kecepatan karakter Anda berlari.</string>
+    <string name="GUIText/ExperienceBuff">Pengalaman Buff</string>
+    <string name="GUIText/IncreasestheamountofXPplayersearnfromactivities">Meningkatkan jumlah XP yang diperoleh pemain dari aktivitas.</string>
+    <string name="GUIText/Sickness">Penyakit</string>
+    <string name="GUIText/Causescharacterstoconsumestaminaandpreventseating">Menyebabkan karakter menghabiskan stamina dan mencegah makan.</string>
+    <string name="GUIText/SwimmingBuff">Penggemar Renang</string>
+    <string name="GUIText/Increasesthespeedyourcharactercanswim">Meningkatkan kecepatan karakter Anda berenang.</string>
+    <string name="GUIText/SleeplessBuff">Penggemar yang tak bisa tidur</string>
+    <string name="GUIText/AllowsplayerstosavesomeenergypastLateenablinglatenightactivities">Memungkinkan pemain untuk menghemat energi setelah larut malam, sehingga memungkinkan aktivitas larut malam.</string>
+    <string name="GUIText/Diligentbuff">Penggemar yang tekun</string>
+    <string name="GUIText/Stopsnonpowertoolsfromtakingdurabilitywhentheyareused">Menghentikan perkakas non-listrik agar tidak kehilangan daya tahannya saat digunakan.</string>
+    <string name="GUIText/Chargedbuff">Buff yang terisi daya</string>
+    <string name="GUIText/Stopspowertoolsfromtakingdurabilitywhentheyareused">Menghentikan perkakas listrik menjadi tidak tahan lama saat digunakan.</string>
+    <string name="GUIText/Photos">Foto</string>
+    <string name="GUIText/Animals">Hewan</string>
+    <string name="GUIText/FarmAnimals" resizable="True">Hewan Ternak</string>
+    <string name="GUIText/All">Semua</string>
+    <string name="GUIText/Options">Pilihan</string>
+    <string name="GUIText/Settings">Pengaturan</string>
+    <string name="GUIText/Help">Membantu</string>
+    <string name="GUIText/Season">Musim</string>
+    <string name="GUIText/MyDetails">Rincian Saya</string>
+    <string name="GUIText/MyID">ID saya</string>
+    <string name="GUIText/MyLicences">Lisensi Saya</string>
+    <string name="GUIText/Farming">Pertanian</string>
+    <string name="GUIText/Foraging">Mencari Makanan</string>
+    <string name="GUIText/Mining">Pertambangan</string>
+    <string name="GUIText/Fishing">Penangkapan ikan</string>
+    <string name="GUIText/Hunting">Memburu</string>
+    <string name="GUIText/BugCatching">Menangkap Serangga</string>
+    <string name="GUIText/Back" autoSizeTextContainer="True">Kembali</string>
+    <string name="GUIText/Milestones">Milestones</string>
+    <string name="GUIText/DailyMilestones" resizable="True">Daily Milestones</string>
+    <string name="GUIText/Tasks">Tugas</string>
+    <string name="GUIText/NoTasksCurrently">Tidak Ada Tugas Saat Ini</string>
+    <string name="GUIText/Pedia">Pedia</string>
+    <string name="GUIText/Fish">Ikan</string>
+    <string name="GUIText/Bugs">Serangga</string>
+    <string name="GUIText/Critters">Hewan-hewan</string>
+    <string name="GUIText/People">People</string>
+    <string name="GUIText/NoCaught">Tidak. Tertangkap</string>
+    <string name="GUIText/Habitat">Habitat</string>
+    <string name="GUIText/TimeFound">Waktu Ditemukan</string>
+    <string name="GUIText/Youwillrecievetheiteminthemailbytomorrow">Anda akan menerima barangnya melalui pos paling lambat besok.</string>
+    <string name="GUIText/Staminaandhealth">Stamina dan kesehatan</string>
+    <string name="GUIText/Buffs">Penggemar</string>
+    <string name="GUIText/HealthRegen">Regenerasi Kesehatan:</string>
+    <string name="GUIText/Thisistheamountofhealthyouwillrecovereachhealthtick">Ini adalah jumlah kesehatan yang akan Anda pulihkan setiap tanda kesehatan.</string>
+    <string name="GUIText/2ThiscirclerepresentsyourcurrentfullnessGenerallyyoucanonlyeat3thingsYoushouldpaycloseattentiontowhatfoodsyoueatasallfoodhascertainstrengthsandweaknesses">2.
+\nLingkaran ini melambangkan rasa kenyang Anda saat ini.
+\nUmumnya Anda hanya bisa makan 3 hal.
+\nAnda harus memerhatikan makanan apa yang Anda makan, karena semua makanan memiliki kelebihan dan kekurangan tertentu.</string>
+    <string name="GUIText/3ThesearethecurrentfoodsthatyouhaveeatenThetimerbeloweachfoodshowshowlongthefoodseffectwilllastOnceitdoesafullnesswillberemovedfromyourfullnesscircle">3.
+\nIni adalah makanan yang saat ini Anda makan.
+\nPenghitung waktu di bawah setiap makanan menunjukkan berapa lama efek makanan tersebut akan bertahan.
+\nSetelah itu, rasa kenyang akan hilang dari lingkaran rasa kenyang Anda.</string>
+    <string name="GUIText/4ThisshowsthecurrentamountofhealthyouwillrecoveroneachhealthtickThisamountisdeterminedbythecurrenteffectofaneatenfoodAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">4.
+\nIni menunjukkan jumlah kesehatan yang akan Anda pulihkan pada setiap tanda kesehatan.
+\nJumlah ini ditentukan oleh efek makanan yang dimakan saat ini.
+\nTanda kesehatan biasanya berlangsung selama 20 detik, tetapi dapat dipercepat dengan duduk, dan dengan cara lain.</string>
+    <string name="GUIText/5ThisshowsthecurrentamountofstaminayouwillreceivepersecondThisamountisdeterminedbythecurrenteffectofaneatenfoodPlayersshouldmakethisnumberaslargeaspossiblewhendoingstrenuoustasks">5.
+\nIni menunjukkan jumlah stamina yang akan Anda terima per detik.
+\nJumlah ini ditentukan oleh efek makanan yang dimakan saat ini.
+\nPemain harus memaksimalkan jumlah ini saat melakukan tugas berat.</string>
+    <string name="GUIText/6HowlongacertainfoodseffectswillremainThisincludeshowlongthefoodwillkeepyoufull">6:
+\nBerapa lama efek makanan tertentu akan bertahan.
+\nIni termasuk berapa lama makanan tersebut akan membuat Anda kenyang.</string>
+    <string name="GUIText/7HowmuchhealthregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrenthealthregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">7:
+\nSeberapa banyak regen kesehatan yang akan diberikan makanan tertentu setelah dimakan.
+\nIni akan menambah jumlah regen kesehatan Anda saat ini jika dimakan.
+\nIni hanya akan berlangsung selama total waktu efek makanan.</string>
+    <string name="GUIText/8HowmuchstaminaregenacertainfoodwillgiveyouonceeatenThiswilladdtoyourcurrentstaminaregenamountifeatenThiswillonlylastforthefoodstotaleffecttime">8:
+\nBerapa banyak stamina regen yang akan diberikan makanan tertentu setelah dimakan.
+\nIni akan menambah jumlah stamina regen Anda saat ini jika dimakan.
+\nIni hanya akan bertahan selama total waktu efek makanan.</string>
+    <string name="GUIText/9HowmuchyourhealthbarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrenthealthbarifeatenThiswillonlylastforthefoodstotaleffecttime">9:
+\nSeberapa banyak bar kesehatan Anda akan meningkat dengan memakan makanan ini.
+\nIni akan menambah bar kesehatan Anda saat ini jika dimakan.
+\nIni hanya akan bertahan selama total waktu efek makanan.</string>
+    <string name="GUIText/10HowmuchyourstaminabarwillbeincreasedbyeatingthisfoodThiswilladdtoyourcurrentstaminabarifeatenThiswillonlylastforthefoodstotaleffecttime">10:
+\nSeberapa banyak stamina bar Anda akan meningkat dengan memakan makanan ini.
+\nIni akan menambah stamina bar Anda saat ini jika dimakan.
+\nIni hanya akan bertahan selama waktu efek makanan tersebut.</string>
+    <string name="GUIText/HealthTickspeedisincreasedforfasterhealthregen">Kecepatan Health Tick ditingkatkan untuk regenerasi kesehatan yang lebih cepat</string>
+    <string name="GUIText/Movearound">Bergerak</string>
+    <string name="GUIText/Movecamera">Pindahkan kamera</string>
+    <string name="GUIText/HoldWhilemovingmouse">(Tahan) Sambil menggerakkan mouse</string>
+    <string name="GUIText/EnterFreeCam">Masuk ke Kamera Gratis</string>
+    <string name="GUIText/OpenPockets">Kantong Terbuka</string>
+    <string name="GUIText/OpenJournal">Jurnal Terbuka</string>
+    <string name="GUIText/1ThiscirclerepresentsyourhealthtickEverytimethiscircleisfilledyouwillregainhealthequaltoyourhealthpertickAhealthtickisnormally20secondsbutitcanbespedupbysittingdownandbyothermeans">1.
+\nLingkaran ini mewakili tanda kesehatan Anda.
+\nSetiap kali lingkaran ini terisi, Anda akan mendapatkan kembali kesehatan yang sama dengan kesehatan Anda per tanda.
+\nTanda kesehatan biasanya berlangsung selama 20 detik, tetapi dapat dipercepat dengan duduk, dan dengan cara lain.</string>
+    <string name="GUIText/UseyourHouseCustomisationKittoapplythesechanges">Gunakan
+\n<b>House Customisation Kit</b>
+\nAnda untuk menerapkan perubahan ini?</string>
 </resources>
