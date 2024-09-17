@@ -1,3 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="BiomeNames/Beach">Pantai</string>
+    <string name="BiomeNames/InTheTropics">di daerah tropis</string>
+    <string name="BiomeNames/InThePlains">di dataran</string>
+    <string name="BiomeNames/InThePine">di hutan pinus</string>
+    <string name="BiomeNames/InTheNorthernOcean">di lautan utara</string>
+    <string name="BiomeNames/InTheBillabong">di billabong</string>
+    <string name="BiomeNames/InTheMangrove">di hutan bakau</string>
+    <string name="BiomeNames/Tropics">daerah tropis</string>
+    <string name="BiomeNames/Tropical">Tropis</string>
+    <string name="BiomeNames/TropicalIsland">Pulau Tropis</string>
+    <string name="BiomeNames/Billabong">Billabong</string>
+    <string name="BiomeNames/BillabongWater">Air Billabong</string>
+    <string name="BiomeNames/BillabongBank">Bank Billabong</string>
+    <string name="BiomeNames/Bushland">daerah semak belukar</string>
+    <string name="BiomeNames/Bushlands">Daerah semak belukar</string>
+    <string name="BiomeNames/Desert">Gurun</string>
+    <string name="BiomeNames/PineForest">Hutan Pinus</string>
+    <string name="BiomeNames/Plains">Dataran</string>
+    <string name="BiomeNames/Ocean">Laut</string>
+    <string name="BiomeNames/RoughSoil">Tanah Kasar</string>
+    <string name="BiomeNames/River">Sungai</string>
+    <string name="BiomeNames/Unknown">Tidak dikenal</string>
+    <string name="BiomeNames/Mangroves">Hutan bakau</string>
+    <string name="BiomeNames/RockyIsland">Pulau Rocky</string>
+    <string name="BiomeNames/WarmOcean">Laut Hangat</string>
+    <string name="BiomeNames/ColdOcean">Lautan Dingin</string>
+    <string name="BiomeNames/OceanShallows">Lautan Dangkal</string>
+    <string name="BiomeNames/Quary">pertambangan</string>
+    <string name="BiomeNames/CassowaryNest">Sarang Kasuari</string>
+    <string name="BiomeNames/BunyipDen">sarang bunyip</string>
+    <string name="BiomeNames/DingoDen">sarang dingo</string>
+    <string name="BiomeNames/ShellSpace">Ruang Cangkang</string>
+    <string name="BiomeNames/NorthernOceans">Lautan Utara</string>
+    <string name="BiomeNames/SouthernOceans">Samudra Selatan</string>
+    <string name="BiomeNames/Underground">Bawah tanah</string>
+    <string name="BiomeNames/IslandReef">Pulau Terumbu Karang</string>
+    <string name="BiomeNames/InTheBushland">di daerah semak belukar</string>
+    <string name="BiomeNames/InTheDesert">di padang pasir</string>
+    <string name="BiomeNames/InTheSouthernOcean">di lautan selatan</string>
+    <string name="BiomeNames/InTheRiver">di sungai</string>
 </resources>
