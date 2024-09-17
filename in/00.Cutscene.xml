@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Cutscene/Narration_000">Dahulu kala, semuanya menjadi kacau.</string>
+    <string name="Cutscene/Narration_001">Hampir semua orang terpaksa pindah ke South City.</string>
+    <string name="Cutscene/Narration_002">Warga South City menjalani kehidupan yang dingin dan menyedihkan.</string>
+    <string name="Cutscene/Narration_003">Anda lahir di sini.</string>
+    <string name="Cutscene/Narration_004">Kebanyakan orang tidak punya keinginan untuk pergi.</string>
+    <string name="Cutscene/Narration_005">Namun, Anda melakukannya lebih dari apa pun.</string>
+    <string name="Cutscene/Narration_007">Anda berangkat ke You leave for &lt;IslandName&gt; today. hari ini.</string>
+    <string name="Cutscene/Narration_008">Dan Anda mungkin telah menemukan jalan keluar.</string>
+    <string name="Cutscene/Narration_006">Mencari seorang pemuda yang bersemangat untuk menemani saya ke rumah lama saya, &lt;IslandName&gt;.
+\n
+\nBiaya perjalanan dan akomodasi akan menjadi kompensasi awal Anda.
+\n
+\nSiapa pun yang berminat, silakan temui saya di terminal Airship pada tanggal 1 Musim Panas.</string>
 </resources>
