@@ -1,3 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Time/dayName_0">Minggu</string>
+    <string name="Time/dayName_1">Senin</string>
+    <string name="Time/dayName_2">Selasa</string>
+    <string name="Time/dayName_3">Rabu</string>
+    <string name="Time/dayName_4">Kamis</string>
+    <string name="Time/dayName_5">Jumat</string>
+    <string name="Time/dayName_6">Sabtu</string>
+    <string name="Time/seasonName_0">Musim panas</string>
+    <string name="Time/seasonName_1">Musim gugur</string>
+    <string name="Time/seasonName_2">Musim dingin</string>
+    <string name="Time/Late">Terlambat</string>
+    <string name="Time/seasonName_3">Musim semi</string>
+    <string name="Time/Year">Tahun</string>
+    <string name="Time/Years">Bertahun-tahun</string>
+    <string name="Time/Month">Bulan</string>
+    <string name="Time/Months">Bulan</string>
+    <string name="Time/Day">Hari</string>
+    <string name="Time/Days">Hari</string>
+    <string name="Time/All">Semua</string>
+    <string name="Time/AllDay">sepanjang hari</string>
+    <string name="Time/DuringTheDay">pada siang hari</string>
+    <string name="Time/EarlyMornings">pagi hari</string>
+    <string name="Time/AroundNoon">sekitar tengah hari</string>
+    <string name="Time/AfterDark">setelah gelap</string>
+    <string name="Time/m">m</string>
+    <string name="Time/s">s</string>
+    <string name="Time/t">t</string>
+    <string name="Time/AllYear">sepanjang tahun</string>
+    <string name="Time/DuringSpring">selama musim semi</string>
+    <string name="Time/DuringSummer">selama musim panas</string>
+    <string name="Time/DuringAutumn">selama musim gugur</string>
+    <string name="Time/DuringWinter">selama musim dingin</string>
 </resources>
