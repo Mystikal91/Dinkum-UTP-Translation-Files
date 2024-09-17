@@ -1,3 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Bulletinboard/DayAgo">sehari yang lalu</string>
+    <string name="Bulletinboard/Days_Remaining">Hari Tersisa</string>
+    <string name="Bulletinboard/Trade">Berdagang</string>
+    <string name="Bulletinboard/with">dengan</string>
+    <string name="Bulletinboard/Speak_to">Berbicara kepada</string>
+    <string name="Bulletinboard/Last_Day">Hari terakhir</string>
+    <string name="Bulletinboard/Bring">Bawa &lt;npcName&gt; &lt;itemAmount&gt; &lt;itemName&gt;</string>
+    <string name="Bulletinboard/BringCaptured">Membawa ditangkap</string>
+    <string name="Bulletinboard/Capture">Bawa Bring captured &lt;animalName&gt; to a Drop Off Point for an increased reward. yang ditangkap ke Titik Penyerahan untuk memperoleh hadiah yang lebih besar.</string>
+    <string name="Bulletinboard/Collect">Kumpulkan &lt;itemAmount&gt; &lt;itemName&gt; &lt;amountCollected&gt;</string>
+    <string name="Bulletinboard/DaysAgo">hari yang lalu</string>
+    <string name="Bulletinboard/Hunt">Perburuan Hunt &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt; Hunt &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt; Hunt &lt;animalAmount&gt; &lt;animalName&gt; &lt;amountCompleted&gt;</string>
+    <string name="Bulletinboard/MonthAgo">bulan lalu</string>
+    <string name="Bulletinboard/MonthsAgo">bulan lalu</string>
+    <string name="Bulletinboard/Photograph">Foto &lt;animalsInPhoto&gt;</string>
+    <string name="Bulletinboard/Show">Tunjukkan foto &lt;npcName&gt;</string>
+    <string name="Bulletinboard/TalkTo">Bicaralah dengan &lt;npcName&gt;</string>
+    <string name="Bulletinboard/ThePhotograph">foto</string>
+    <string name="Bulletinboard/ToADropOffPoint">ke Titik Penurunan untuk mendapatkan hadiah yang lebih besar</string>
+    <string name="Bulletinboard/Today">Hari ini</string>
+    <string name="Bulletinboard/WeekAgo">seminggu yang lalu</string>
+    <string name="Bulletinboard/WeeksAgo">minggu lalu</string>
+    <string name="Bulletinboard/YearAgo">setahun yang lalu</string>
+    <string name="Bulletinboard/YearsAgo">tahun lalu</string>
+    <string name="Bulletinboard/Yesterday">Kemarin</string>
+    <string name="Bulletinboard/EXPIRED">KEDALUWARSA</string>
+    <string name="Bulletinboard/HuntDown">Memburu</string>
+    <string name="Bulletinboard/UsingLastLocation">menggunakan lokasi terakhir yang diketahui di peta</string>
+    <string name="Bulletinboard/VisitLocation">Kunjungi lokasi di peta untuk menyelidiki</string>
+    <string name="Bulletinboard/Post_FirstPost_Title">Papan Pengumuman!</string>
+    <string name="Bulletinboard/Post_FirstPost_Content">Kota kami sekarang memiliki papan pengumuman! Jangan ragu untuk meninggalkan pengingat, pengumuman, atau permintaan apa pun di sini agar kota ini dapat melihatnya!</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt; Hadiah Tangkapan</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Title">Permintaan Kompos</string>
+    <string name="Bulletinboard/Post_CompostRequestTemplate_Content">Saya sedang membuat kompos. Jika ada yang membawa &lt;boardRequestItem&gt;, saya akan memberikannya &lt;boardRewardItem&gt;.</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Title">Memasak beberapa &lt;boardRewardItem&gt;</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Title">Permintaan Kerajinan</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Title">&lt;boardHuntRequestAnimal&gt;</string>
+    <string name="Bulletinboard/Post_HuntingRequestTemplate_Content">&lt;boardHuntRequestAnimal&gt; telah terlihat di lokasi ini. Ini adalah hewan Alpha yang sangat berbahaya dan hanya boleh diburu oleh pemburu berpengalaman.</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Title">Permintaan Foto</string>
+    <string name="Bulletinboard/Post_PhotoRequestTemplate_Content">Saya ingin sekali melihat foto &lt;getAnimalsInPhotoList&gt;.</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Title">Permintaan Investigasi</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Title">---- Pengingat ----</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate1_Content">Ini adalah kiriman pengingat.</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Title">Permintaan Investigasi</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Title">Permintaan Pengiriman</string>
+    <string name="Bulletinboard/Post_CookingRequestTemplate_Content">Saya membuat &lt;boardRewardItem&gt; dan saya kekurangan &lt;boardRequestItem&gt;!
+\nJika ada yang dapat memberikan saya &lt;boardRequestItem&gt;, saya akan dengan senang hati membagikan beberapa &lt;boardRewardItem&gt; kepada Anda!</string>
+    <string name="Bulletinboard/Post_PresentDropBoardTemplate_Content">Anda mungkin mengira saya gila, tetapi saya bersumpah melihat Jackaroo terbang di langit tadi malam.
+\n
+\nSaya pikir mereka mungkin menjatuhkan sesuatu?
+\n
+\nSeseorang harus memeriksanya!</string>
+    <string name="Bulletinboard/Post_CraftingRequestTemplate_Content">Saya mencari perajin terampil yang dapat membuat &lt;boardRequestItem&gt; untuk saya.
+\n
+\nHadiah akan diberikan saat pengiriman!</string>
+    <string name="Bulletinboard/Post_SateliteTemplate_Content">Aku bersumpah aku melihat sesuatu jatuh dari langit malam itu.
+\n
+\nMungkin seseorang bisa memeriksanya?</string>
+    <string name="Bulletinboard/Post_ShippingRequestTemplate_Content">Saya perlu mengirim sejumlah besar &lt;boardRequestItem&gt; kembali ke rumah.
+\n
+\nJika ada yang dapat membantu saya mengisi kiriman ini, silakan datang dan temui saya dengan barang-barangnya.</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Title">Ingin berlatih peleburan.</string>
+    <string name="Bulletinboard/Post_SmeltingRequestTemplate_Content">Saya sedang melebur bijih besi dan kehabisan. Jika ada yang bisa membawakan saya &lt;boardRequestItem&gt;, saya akan memberikannya &lt;boardRewardItem&gt; yang saya miliki.</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Title">Ingin Berdagang</string>
+    <string name="Bulletinboard/Post_CaptureRequestTemplate_Content">Animal Research Centre menawarkan hadiah yang lebih besar untuk setiap &lt;boardHuntRequestAnimal&gt; yang dikirimkan selama waktu terbatas.
+\n
+\nAnda akan menerima hadiah ini untuk setiap &lt;boardHuntRequestAnimal&gt; yang dikirimkan selama periode ini.</string>
+    <string name="Bulletinboard/Post_TradeRequestTemplate_Content">Saya punya &lt;boardRewardItem&gt; yang tidak saya inginkan lagi. Saya bersedia menukarnya dengan &lt;boardRequestItem&gt;.
+\nJika ada yang berminat, silakan datang menemui saya.</string>
 </resources>
