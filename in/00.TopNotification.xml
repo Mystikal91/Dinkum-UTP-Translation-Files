@@ -1,3 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_002">Beberapa item dan objek tidak akan berfungsi dengan benar</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedTitle">Akta baru tersedia!</string>
+    <string name="TopNotification/ConversationManager_StartConversationWithAvailableNPC_NewDeedSubtitle">Bicaralah dengan Fletch untuk mengajukan akta.</string>
+    <string name="TopNotification/EquipItemToChar_OnDisable_PlayerLeft">&lt;PlayerName&gt; telah pergi</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_LocalPlayerJoin">Selamat datang di &lt;IslandName&gt;</string>
+    <string name="TopNotification/EquipItemToChar_UserCode_RpcCharacterJoinedPopup_NonLocalPlayerJoin">&lt;PlayerName&gt; telah bergabung</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompleted">Permintaan Selesai!</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowTitle">Kantong Uang Penuh</string>
+    <string name="TopNotification/BankMenu_walletOverflowIntoBank_MoneyOverflowSubtitle">Dana yang tersisa telah dipindahkan ke rekening bank Anda</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NPCIsVisiting">&lt;NPCName&gt; sedang mengunjungi pulau itu!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_SomeoneIsVisiting">Seseorang sedang mengunjungi pulau itu!</string>
+    <string name="TopNotification/CameraController_moveCameraToShowPos_NoOneIsVisiting">Tidak ada seorang pun yang berkunjung hari ini...</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasStarted">Kompetisi Memancing telah dimulai!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasStarted">Kompetisi Bug telah dimulai!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_GoodLuck">Semoga beruntung!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_OneHourRemaining">Satu Jam Tersisa!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LogYourScore">Pastikan untuk mencatat skor Anda!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_FishingCompHasEnded">Kompetisi Memancing Telah Berakhir!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_BugCompHasEnded">Kompetisi Bug Telah Berakhir!</string>
+    <string name="TopNotification/CatchingCompetitionManager_compTimerAndPointCounter_LetsSeeWhoWhon">Mari kita lihat siapa yang menang!</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_000">Host dan Anda tidak berada pada versi yang sama.</string>
+    <string name="TopNotification/CharMovement_UserCode_TargetCheckVersion_NotSameVersion_001">Pastikan semua pemain mendapatkan informasi terkini.</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedTitle">Suatu item telah dikirim ke Kotak Surat Anda</string>
+    <string name="TopNotification/GiftedItemWindow_giveItemDelay_somethingWasMailedSubtitle">Kantong Anda penuh!</string>
+    <string name="TopNotification/LicenceManager_checkForUnlocksOnLevelUp_NewLicenceIsAvailableTitle">Lisensi baru tersedia!</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcAddToMuseum_DonatedBy">Disumbangkan oleh &lt;PlayerName&gt;</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishTitle">&lt;PlayerName&gt; membuat permintaan</string>
+    <string name="TopNotification/NetworkMapSharer_UserCode_RpcMakeAWish_MadeAWishSubtitle">Apa yang akan terjadi besok?</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedTitle">Permintaan ditambahkan ke Jurnal</string>
+    <string name="TopNotification/NPCRequest_acceptRequest_RequestAddedSubtitle">Permintaan ini harus diselesaikan pada akhir hari.</string>
+    <string name="TopNotification/PostOnBoard_completeTask_RequestCompletedBy">Permintaan Selesai oleh &lt;PlayerName&gt;!</string>
+    <string name="TopNotification/PostOnBoard_completeTask_InvestigationRequestCompleted">Permintaan Investigasi Selesai</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_RequestAddedBy">Permintaan ditambahkan ke Jurnal oleh &lt;PlayerName&gt;</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_NewLocation">Sebuah lokasi telah ditambahkan ke peta Anda.</string>
+    <string name="TopNotification/PostOnBoard_acceptTask_TimeLimit">Permintaan ini memiliki batas waktu.</string>
+    <string name="TopNotification/QuestManager_completeQuest_GuestHouseDeed">Akta Rumah Tamu sudah tersedia!</string>
+    <string name="TopNotification/TownEventManager_RunIslandDay_IslandDay">Ini Hari &lt;IslandName&gt;!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SkyFest">Hari ini adalah Sky Fest!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_FlyingLantern">Acara Lentera Terbang telah dimulai!</string>
+    <string name="TopNotification/TownEventManager_RunSkyFest_SpeakToFletch">Bicaralah dengan Fletch untuk mengetahui aturannya!</string>
+    <string name="TopNotification/TownEventManager_BandStand">Semua orang, silakan bergabung dengan kami di Band Stand untuk merayakannya</string>
 </resources>
