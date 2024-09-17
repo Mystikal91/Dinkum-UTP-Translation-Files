@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Npc15/Npc15_Intro_000">Selamat siang.</string>
+    <string name="Npc15/Npc15_Intro_001">Nama saya &lt;myName&gt;.</string>
+    <string name="Npc15/Npc15_Intro_002">Aku adik laki-lakinya &lt;NPCName&gt;!</string>
+    <string name="Npc15/Npc15_Intro_003">Berbicara tentang &lt;NPCName&gt;, ia menyebutkan bahwa &lt;itemName&gt; bermigrasi sekitar waktu ini dalam setahun.</string>
+    <string name="Npc15/Npc15_Intro_004">Itu berarti hari ini adalah satu-satunya hari di mana Anda akan menemukan mereka sepanjang hari.</string>
+    <string name="Npc15/Npc15_Intro_005">&lt;haha&gt;Begitu dia menyebutkan itu, aku langsung pesan tiket!</string>
+    <string name="Npc15/Npc15_Intro_006">Kondisi ini SEMPURNA untuk &lt;FishingComp&gt;.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_000">&lt;wave&gt;Halo.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_001">Nama saya Nancy dan selamat datang di Bandara &lt;IslandName&gt;!</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_002">&lt;glee&gt;Jika Anda ingin melakukan perjalanan sehari dengan &lt;AirShip&gt;, saya akan menjadi pilot Anda.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_003">Anda dapat membeli &lt;itemName&gt; di konter ini.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_004">Anda hanya memerlukan satu &lt;itemName&gt; per perjalanan.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_005">Jadi, Anda dapat membawa serta orang sebanyak yang Anda suka.</string>
+    <string name="Npc15/15 NPC_Nancy_Introduction_Intro_006">Oh, dan harap diingat bahwa Bandara hanya akan menawarkan perjalanan sehari pada hari Minggu.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_000">Selamat datang di Bandara &lt;IslandName&gt;.</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_001">Kami menawarkan perjalanan sehari hari ini!</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_002">Jadi, jika Anda ingin melakukan perjalanan, cukup masuk melalui pintu menuju &lt;AirShip&gt;</string>
+    <string name="Npc15/AirportKeeperConvo_Intro_003">&lt;yes&gt;Oh, dan pastikan Anda telah menyiapkan &lt;itemName&gt; untuk ditunjukkan saat Anda berada di dalam.</string>
 </resources>
