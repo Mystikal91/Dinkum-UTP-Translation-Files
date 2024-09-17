@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="InventoryItemNames_Plural/InvItem_1034">Biji Kopi</string>
+    <string name="InventoryItemNames_Plural/InvItem_116">Wortel</string>
+    <string name="InventoryItemNames_Plural/InvItem_123">Jagung</string>
+    <string name="InventoryItemNames_Plural/InvItem_322">Kentang</string>
+    <string name="InventoryItemNames_Plural/InvItem_324">Gandum</string>
+    <string name="InventoryItemNames_Plural/InvItem_330">Bawang</string>
+    <string name="InventoryItemNames_Plural/InvItem_698">Sikat Botol</string>
+    <string name="InventoryItemNames_Plural/InvItem_102">Bunga Wattle Kuning</string>
+    <string name="InventoryItemNames_Plural/InvItem_799">Kelapa</string>
+    <string name="InventoryItemNames_Plural/InvItem_843">Tomat</string>
+    <string name="InventoryItemNames_Plural/InvItem_845">Kacang Hijau</string>
 </resources>
