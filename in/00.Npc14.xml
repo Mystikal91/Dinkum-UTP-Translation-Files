@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Npc14/NothingToGiveFishingComp_Intro_000">Oh, kamu tidak punya ikan untukku?</string>
+    <string name="Npc14/NothingToGiveFishingComp_Intro_001">&lt;no&gt;Aku harus menangkapnya sendiri!</string>
 </resources>
