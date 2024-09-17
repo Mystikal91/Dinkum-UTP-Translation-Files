@@ -1,3 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LoadingTips/Talkingtopeopleeverydaywillincreaseyourfriendshipwiththem">Berbicara dengan orang setiap hari akan meningkatkan persahabatan Anda dengan mereka.</string>
+    <string name="LoadingTips/Promisingtocompleteataskandnotdeliveringisntagoodidea">Berjanji untuk menyelesaikan tugas tetapi tidak menepatinya bukanlah ide yang bagus.</string>
+    <string name="LoadingTips/Thebetteryouareataskillthelessstaminayoullusedoingit">Semakin baik Anda dalam suatu keterampilan, semakin sedikit stamina yang Anda gunakan untuk melakukannya.</string>
+    <string name="LoadingTips/Swimmingfortoolongcanbehazardoustoyourhealth">Berenang terlalu lama dapat membahayakan kesehatan Anda.</string>
+    <string name="LoadingTips/Ifitsshinyitsprobablyworthsomething">Kalau berkilau, mungkin ada nilainya.</string>
+    <string name="LoadingTips/Almostanythingcanbesoldbutnoteverythingcanbebought">Hampir semua hal dapat dijual, tetapi tidak semuanya dapat dibeli.</string>
+    <string name="LoadingTips/Toolswillbreakifyouusethemtoomuch">Perkakas akan rusak bila terlalu sering digunakan.</string>
+    <string name="LoadingTips/Crafteditemstendtobemorevaluablethantheiringredients">Barang hasil kerajinan cenderung lebih berharga daripada bahan pembuatnya.</string>
+    <string name="LoadingTips/Passingoutwilldodamagetoyourtools">Pingsan akan merusak peralatan Anda.</string>
+    <string name="LoadingTips/IfyouneedabedFletchkeepssleepingbagsintheBaseTent">Jika Anda membutuhkan tempat tidur, Fletch menyediakan kantong tidur di Tenda Dasar.</string>
+    <string name="LoadingTips/DiggingisrealfunDiggingisrealfunDiggingisrealfun">Menggali itu menyenangkan. Menggali itu menyenangkan. Menggali itu menyenangkan.</string>
+    <string name="LoadingTips/Sharksareonlytoughwhentheyareinthewater">Hiu hanya tangguh saat berada di air.</string>
+    <string name="LoadingTips/Sometimestreescandropotheritems">Terkadang pohon dapat menjatuhkan benda lainnya.</string>
+    <string name="LoadingTips/Wildanimalscanbekeptinapenifyoufencethemoff">Hewan liar dapat dipelihara di kandang jika Anda memagari mereka.</string>
+    <string name="LoadingTips/Youcanburyitemsbydroppingthemonthegroundandcoveringthemwithdirt">Anda dapat mengubur barang dengan menjatuhkannya ke tanah dan menutupinya dengan tanah.</string>
+    <string name="LoadingTips/Foodmadeatacookingtablewilloffermorehealthandstamina">Makanan yang dibuat di meja masak akan menawarkan lebih banyak kesehatan dan stamina.</string>
+    <string name="LoadingTips/Youcanplacecarryableitemsonmostvehicles">Anda dapat menaruh barang bawaan di sebagian besar kendaraan.</string>
+    <string name="LoadingTips/Differentfishcanbefounddependingontheseasonbiomeandtimeofday">Ikan yang berbeda dapat ditemukan tergantung pada musim, bioma, dan waktu.</string>
+    <string name="LoadingTips/Stayingoutlatewilltireyouout">Begadang akan membuat Anda lelah.</string>
+    <string name="LoadingTips/Springiseggseason">Musim semi adalah musim telur.</string>
+    <string name="LoadingTips/Ashadyvisitormightappearonrainymornings">Pengunjung yang teduh mungkin muncul pada pagi yang hujan.</string>
+    <string name="LoadingTips/Fletchmightbeabletohelpyouupgradeyourhome">Fletch mungkin dapat membantu Anda memperbarui rumah Anda.</string>
+    <string name="LoadingTips/Animalscanbecaughtintrapseasieriftheyhavelowhealth">Hewan dapat lebih mudah terperangkap jika kesehatannya rendah.</string>
+    <string name="LoadingTips/WildAnimalswilleatyourcropsiftheyarentfencedoff">Hewan liar akan memakan tanaman Anda jika tidak dipagari.</string>
+    <string name="LoadingTips/Keepyourfarmanimalssafebyfencingthemofffrompredators">Jagalah hewan ternak Anda tetap aman dengan memagari mereka dari predator.</string>
+    <string name="LoadingTips/Trycookingallsortsoffood">Cobalah memasak semua jenis makanan.</string>
+    <string name="LoadingTips/Wheelbarrowscancarryotheritemsbesidesdirt">Gerobak dorong dapat mengangkut barang lain selain tanah.</string>
+    <string name="LoadingTips/Usethewhistleemotetocallfarmanimalstoyou">Gunakan emote peluit untuk memanggil hewan ternak ke arah Anda.</string>
+    <string name="LoadingTips/Certainflowerscanbeplacedinabilly">Bunga-bunga tertentu dapat ditempatkan di billy.</string>
+    <string name="LoadingTips/Themineslayoutshiftsandchangeseveryday">Tata letak tambang bergeser dan berubah setiap hari.</string>
+    <string name="LoadingTips/Fletchcanhelpyoumovebuildingsifyouneedto">Fletch dapat membantu Anda memindahkan bangunan jika diperlukan.</string>
+    <string name="LoadingTips/BewaryoftheWaryMu">Waspadalah terhadap Wary Mu.</string>
+    <string name="LoadingTips/Cropsthatgrowallyearareworthlessthanseasonalcrops">Tanaman yang tumbuh sepanjang tahun nilainya lebih rendah dibandingkan tanaman musiman.</string>
+    <string name="LoadingTips/Youcanpickupvehiclesbydamagingthem">Anda dapat mengambil kendaraan dengan cara merusaknya.</string>
+    <string name="LoadingTips/Batsareannoying">Kelelawar itu menyebalkan.</string>
+    <string name="LoadingTips/Dontleavestuffintheminesifyouwanttokeepit">Jangan meninggalkan barang di tambang jika Anda ingin menyimpannya.</string>
+    <string name="LoadingTips/ThetravelbagintheBaseTentcanbeaccessedfromanyisland">Tas perjalanan di Tenda Dasar dapat diakses dari pulau mana pun.</string>
+    <string name="LoadingTips/Youwillrecoverstaminaslowlyifyouarefull">Stamina Anda akan pulih secara perlahan jika Anda kenyang.</string>
+    <string name="LoadingTips/WildflowersgoawayafterSpring">Bunga liar menghilang setelah musim semi</string>
+    <string name="LoadingTips/Gemsareworthmorewholeratherthaninshards">Permata lebih berharga jika utuh daripada jika pecah</string>
+    <string name="LoadingTips/YouhavetotaketheBugCompseriously">Anda harus menganggap Bug Comp dengan serius</string>
+    <string name="LoadingTips/BillyCanKitscanmakemorethanteaandcoffee">Billy Can Kits dapat membuat lebih dari sekadar teh dan kopi</string>
+    <string name="LoadingTips/Eatbeforeyouusestamina">Makanlah sebelum menggunakan stamina</string>
+    <string name="LoadingTips/Wildmushroomswillwiltafternoon">Jamur liar akan layu setelah siang hari</string>
+    <string name="LoadingTips/Sittingwillcauseyoutorecoverhealthfaster">Duduk akan membuat kesehatan Anda pulih lebih cepat</string>
+    <string name="LoadingTips/Keepaneyeontheskyatnight">Perhatikan langit di malam hari</string>
+    <string name="LoadingTips/Youcanmoveafullcontainerusingatrolley">Anda dapat memindahkan kontainer penuh menggunakan troli</string>
+    <string name="LoadingTips/SoonTM">Segera&lt;size=3&gt;TM</string>
+    <string name="LoadingTips/CustomisationkitscanbeusedtoupgradeGuestHouses">Kit kustomisasi dapat digunakan untuk meningkatkan Guest House</string>
+    <string name="LoadingTips/Laddersarecool">Tangga itu keren</string>
+    <string name="LoadingTips/Johnsellsdifferentfruitsandvegeveryday">John menjual berbagai buah dan sayur setiap hari</string>
+    <string name="LoadingTips/Cookedfoodsareonlyasvaluableastheiringredients">Makanan yang dimasak hanya bernilai sama dengan bahan-bahannya</string>
+    <string name="LoadingTips/Onlyonewishcanbeactiveatatime">Hanya satu keinginan yang dapat aktif pada satu waktu</string>
+    <string name="LoadingTips/RareDoggosarereal">Doggos langka itu nyata</string>
 </resources>
