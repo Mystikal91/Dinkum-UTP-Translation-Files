@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MapIcon/JohnsGoods">Toko John\'s</string>
+    <string name="MapIcon/FranklynsLab">Laboratorium Franklyn</string>
+    <string name="MapIcon/TheGreenhouse">Rumah Kaca</string>
+    <string name="MapIcon/Airport">Bandara</string>
+    <string name="MapIcon/Threadspace">Ruang benang</string>
+    <string name="MapIcon/Mine">Milikku</string>
+    <string name="MapIcon/MelvinsPlace">Tempat Melvin</string>
+    <string name="MapIcon/VisitorsSite">Situs Pengunjung</string>
+    <string name="MapIcon/IrwinsBarn">Gudang Irwin</string>
+    <string name="MapIcon/TheMuseum">Museum</string>
+    <string name="MapIcon/TownHall">Balai kota</string>
+    <string name="MapIcon/Docks">Dermaga</string>
+    <string name="MapIcon/BaseTent">Tenda Dasar</string>
+    <string name="MapIcon/TheBank">Bank</string>
+    <string name="MapIcon/GuestHouse">Rumah Tamu</string>
+    <string name="MapIcon/TelePad">Papan Tele</string>
+    <string name="MapIcon/SallysSalon">Salon Sally</string>
+    <string name="MapIcon/TheTuckerbox">Kotak Makanan</string>
+    <string name="MapIcon/BandStand">panggung musik</string>
+    <string name="MapIcon/WishFountain">Air Mancur Harapan</string>
 </resources>
