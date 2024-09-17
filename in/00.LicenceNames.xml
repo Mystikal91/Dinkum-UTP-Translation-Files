@@ -1,3 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LicenceNames/Licence_2">Lisensi Penebangan Kayu</string>
+    <string name="LicenceNames/Licence_20">Lisensi Pengaspalan Air</string>
+    <string name="LicenceNames/Licence_21">Lisensi Pembuatan Bir</string>
+    <string name="LicenceNames/Licence_22">Lisensi Pengolahan Hewan</string>
+    <string name="LicenceNames/Licence_3">Lisensi Memancing</string>
+    <string name="LicenceNames/Licence_4">Lisensi Berburu</string>
+    <string name="LicenceNames/Licence_5">Lisensi Lansekap</string>
+    <string name="LicenceNames/Licence_6">Deteksi Logam</string>
+    <string name="LicenceNames/Licence_7">Lisensi Kendaraan</string>
+    <string name="LicenceNames/Licence_8">Lisensi Perdagangan</string>
+    <string name="LicenceNames/Licence_9">Lisensi Penanganan</string>
+    <string name="LicenceNames/Licence_23">Izin Budidaya Ikan</string>
+    <string name="LicenceNames/Licence_1">Izin Pertambangan</string>
+    <string name="LicenceNames/Licence_10">Izin Mendirikan Bangunan</string>
+    <string name="LicenceNames/Licence_11">Lisensi Pertanian</string>
+    <string name="LicenceNames/Licence_12">Lisensi Kargo</string>
+    <string name="LicenceNames/Licence_13">Lisensi Penambangan Dalam</string>
+    <string name="LicenceNames/Licence_14">Lisensi Toolbelt</string>
+    <string name="LicenceNames/Licence_15">Lisensi Penangkapan</string>
+    <string name="LicenceNames/Licence_16">Lisensi Penggalian</string>
+    <string name="LicenceNames/Licence_17">Lisensi Irigasi</string>
+    <string name="LicenceNames/Licence_18">Lisensi Kendaraan Pertanian</string>
+    <string name="LicenceNames/Licence_19">Lisensi Penulisan Tanda</string>
 </resources>
