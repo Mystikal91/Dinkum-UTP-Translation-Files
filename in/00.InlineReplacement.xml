@@ -1,3 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="InlineReplacement/Dinks">minuman keras</string>
+    <string name="InlineReplacement/SouthCity">Kota Selatan</string>
+    <string name="InlineReplacement/RaffleTickets">Tiket Undian</string>
+    <string name="InlineReplacement/Journal">Jurnal</string>
+    <string name="InlineReplacement/Shift">Menggeser</string>
+    <string name="InlineReplacement/Shifts">Pergeseran</string>
+    <string name="InlineReplacement/Licence">Lisensi</string>
+    <string name="InlineReplacement/Licences">Lisensi</string>
+    <string name="InlineReplacement/AirShip">Kapal Udara</string>
+    <string name="InlineReplacement/AirShips">Kapal Udara</string>
+    <string name="InlineReplacement/Nomad">Pengembara</string>
+    <string name="InlineReplacement/Nomads">Pengembara</string>
+    <string name="InlineReplacement/PermitPoints">Titik Izin</string>
+    <string name="InlineReplacement/birthday">Hari ulang tahun</string>
+    <string name="InlineReplacement/SnagSizzle">Snag Mendesis</string>
+    <string name="InlineReplacement/SnagSizzles">Snag mendesis</string>
+    <string name="InlineReplacement/Snag">Merobek</string>
+    <string name="InlineReplacement/Snags">Kendala</string>
+    <string name="InlineReplacement/IslandDay">&lt;IslandName&gt; Hari</string>
+    <string name="InlineReplacement/SkyFest">Festival Langit</string>
+    <string name="InlineReplacement/Kite">Layang-layang</string>
+    <string name="InlineReplacement/PaperLantern">Lentera Terbang</string>
+    <string name="InlineReplacement/PaperLanterns">Lentera Terbang</string>
+    <string name="InlineReplacement/KiteMakingTable">Meja Pembuatan Layang-Layang</string>
+    <string name="InlineReplacement/Aurora">Aurora</string>
+    <string name="InlineReplacement/PetName_000">sayang</string>
+    <string name="InlineReplacement/PetName_001">Cinta</string>
+    <string name="InlineReplacement/PetName_002">posum</string>
+    <string name="InlineReplacement/bugComp">Kompetisi Menangkap Serangga</string>
+    <string name="InlineReplacement/FishingComp">Kompetisi Memancing</string>
+    <string name="InlineReplacement/compBook">Buku Catatan Kompensasi</string>
+    <string name="InlineReplacement/Beginning">Awal...</string>
+    <string name="InlineReplacement/NothingHappened">...Tidak terjadi apa-apa...</string>
 </resources>
