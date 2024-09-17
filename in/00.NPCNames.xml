@@ -1,3 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="NPCNames/Jimmy">Jimmy</string>
+    <string name="NPCNames/Nick">Ilham</string>
+    <string name="NPCNames/Fletch">Ratna</string>
+    <string name="NPCNames/Milburn">Milburn</string>
+    <string name="NPCNames/Sally">Siti</string>
+    <string name="NPCNames/Nancy">Nancy</string>
+    <string name="NPCNames/Timber">Timber</string>
+    <string name="NPCNames/Cypress">Cypress</string>
+    <string name="NPCNames/Ridley">Ridley</string>
+    <string name="NPCNames/Clarke">Clarke</string>
+    <string name="NPCNames/Sheila">Sheila</string>
+    <string name="NPCNames/Ramsey">Ramsey</string>
+    <string name="NPCNames/Robin">Robin</string>
+    <string name="NPCNames/Sydney">Sydney</string>
+    <string name="NPCNames/Oakley">Oakley</string>
+    <string name="NPCNames/Clover">Clover</string>
+    <string name="NPCNames/Melvin">Agus</string>
+    <string name="NPCNames/Max">Max</string>
+    <string name="NPCNames/Ghost">Ghost</string>
+    <string name="NPCNames/Franklyn">Wahyu</string>
+    <string name="NPCNames/TedSelly">Ted Selly</string>
+    <string name="NPCNames/Theodore">Rizky</string>
+    <string name="NPCNames/John">Bambang</string>
+    <string name="NPCNames/Julia">Julia</string>
+    <string name="NPCNames/Irwin">Budi</string>
+    <string name="NPCNames/Rayne">Rayne</string>
 </resources>
