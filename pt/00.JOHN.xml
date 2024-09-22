@@ -374,4 +374,26 @@
     <string name="JOHN/Morning_Greeting 0_Intro_001">E você está acordado como sempre, &lt;PlayerName&gt;!</string>
     <string name="JOHN/RandomConvo_024_Option_001">Claro!</string>
     <string name="JOHN/SkyFest_Night_001_Intro_000">Uau!</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_0_Line_0">Ei, se você encontrar alguma coisa cavando o solo, venha até mim.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_0_Line_1">Encontrei um Disco Brilhante outro dia...</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_1_Line_1">Sim, eu sei o que você quer dizer. Eu poderia ouvir isso por horas.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_1_Line_4">Ei! Nada como um dia duro de yakka para suar. Se eu cheiro mal, tenho orgulho disso!</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_2_Line_5">Não, tipo, viajando. Agora tudo parece meio que... como se eu estivesse procurando por algum lugar o tempo todo. Isso faz sentido?</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_0_Line_2">Eu vou levar!</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_0_Line_3">Eu até que gosto disso…</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_0_Line_4">Vou te dar um preço justo, não tem como ficar melhor que isso.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_0_Line_5">Vou ficar com ele. Mas obrigado!</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_1_Line_0">Eu realmente gosto do Oceano. Há algo tão calmante nele.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_1_Line_2">Eu também. Acho que se eu não gostasse tanto de negociar, provavelmente teria sido pescador.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_1_Line_3">Isso explica seu cheiro então. Para ser honesto, eu estava tipo, seriamente indo te perguntar sobre isso.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_1_Line_5">Awwwww. Você deveria se sentir realmente orgulhoso, então.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_2_Line_0">Acho que nós dois desistimos de viajar por &lt;IslandName&gt;, hein?</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_2_Line_1">Sim. Eu realmente gosto daqui.</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_2_Line_2">Eu também. Mas você não sente falta de estar lá fora?</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_2_Line_3">Um pouco, mas é meio que esse o objetivo, certo?</string>
+    <string name="JOHN/BackAndForthConvo_Rayne_2_Line_4">Faltando coisas?</string>
+    <string name="JOHN/BackAndForthConvo_Franklyn_0_Line_0">Você está tentando roubar meus clientes, amigo?</string>
+    <string name="JOHN/BackAndForthConvo_Franklyn_0_Line_1">Essa não é minha intenção.</string>
+    <string name="JOHN/BackAndForthConvo_Franklyn_0_Line_2">Bem, eles estão todos falando sobre seus aparelhos e engenhocas sofisticados!</string>
+    <string name="JOHN/BackAndForthConvo_Franklyn_0_Line_3">Imagino que algumas pessoas só se preocupam com qualidade.</string>
 </resources>
