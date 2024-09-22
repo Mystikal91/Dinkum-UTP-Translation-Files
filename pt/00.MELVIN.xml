@@ -346,4 +346,24 @@
     <string name="MELVIN/BackAndForthConvo_Sheila_1_Line_0">Eles são necessários para o meu trabalho.</string>
     <string name="MELVIN/BackAndForthConvo_morningFallbacks_1_Line_0">Bom dia.</string>
     <string name="MELVIN/BackAndForthConvo_morningFallbacks_1_Line_1">Bom dia.</string>
+    <string name="MELVIN/BackAndForthConvo_dayFallbacks_0_Line_1">Sim, é.</string>
+    <string name="MELVIN/BackAndForthConvo_dayFallbacks_2_Line_0">Hoje está bom.</string>
+    <string name="MELVIN/BackAndForthConvo_nightFallbacks_1_Line_0">Vou para a cama em breve.</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_2_Line_0">Meus joelhos estão doendo de novo.</string>
+    <string name="MELVIN/BackAndForthConvo_dayFallbacks_1_Line_0">Como vai?</string>
+    <string name="MELVIN/BackAndForthConvo_dayFallbacks_1_Line_1">Estou bem, obrigado.</string>
+    <string name="MELVIN/BackAndForthConvo_dayFallbacks_1_Line_2">Bom.</string>
+    <string name="MELVIN/BackAndForthConvo_dayFallbacks_2_Line_1">Você sempre diz isso.</string>
+    <string name="MELVIN/BackAndForthConvo_nightFallbacks_0_Line_0">Boa noite</string>
+    <string name="MELVIN/BackAndForthConvo_nightFallbacks_0_Line_1">Olá!</string>
+    <string name="MELVIN/BackAndForthConvo_nightFallbacks_1_Line_1">Boa noite!</string>
+    <string name="MELVIN/BackAndForthConvo_nightFallbacks_2_Line_0">Está uma noite agradável.</string>
+    <string name="MELVIN/BackAndForthConvo_nightFallbacks_2_Line_1">Sim, é legal.</string>
+    <string name="MELVIN/BackAndForthConvo_nightFallbacks_2_Line_2">Muito legal.</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_0_Line_0">A chuva vence a neve.</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_0_Line_1">Exatamente.</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_1_Line_0">Chovendo de novo.</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_1_Line_1">Sim, eu consigo ver isso.</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_2_Line_1">Por que acha isso?</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_2_Line_2">Chovendo.</string>
 </resources>
