@@ -768,4 +768,7 @@
     <string name="InventoryItemDescriptions/InvDesc_845">Фасоль в коробочке.</string>
     <string name="InventoryItemDescriptions/InvDesc_847">Нужно зарядить.</string>
     <string name="InventoryItemDescriptions/InvDesc_848">Хранилище всякого.</string>
+    <string name="InventoryItemDescriptions/InvDesc_865">С виду удобная!</string>
+    <string name="InventoryItemDescriptions/InvDesc_683">Что-то напоминает...</string>
+    <string name="InventoryItemDescriptions/InvDesc_866">Чтобы кровать не скучала.</string>
 </resources>
