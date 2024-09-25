@@ -13,4 +13,5 @@
     <string name="JOHN/Highest_Friendship_Greeting 1_Intro_000">Ah, &lt;PlayerName&gt;!</string>
     <string name="JOHN/Low_Friendship_Greeting 2_Intro_001">Brauchst du etwas?</string>
     <string name="JOHN/Wind_Greeting 1_Intro_000">Ah, &lt;PlayerName&gt;!</string>
+    <string name="JOHN/Cold_Greeting 1_Intro_000">Oh, guten Tag &lt;PlayerName&gt;.</string>
 </resources>
