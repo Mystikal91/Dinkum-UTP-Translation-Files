@@ -48,4 +48,10 @@
     <string name="FLETCH/RandomConvo_016_Response_000_000">&lt;thinking&gt;Hmmm…</string>
     <string name="FLETCH/Quest_22_Intro_Intro_000">&lt;thinking&gt;Hmmm…</string>
     <string name="FLETCH/Fletch_Response_001_000">Hmmm ...</string>
+    <string name="FLETCH/Already Being Moved 1_Intro_002">Lass uns das zu Ende bringen und dann können wir darüber nachdenken, ob wir ein weiteres Exemplar verschieben, okay?</string>
+    <string name="FLETCH/Already Being Upgraded_Intro_001">Stelle sicher, dass du alle Gegenstände, die du für den Bau brauchst, in die Baukiste vor deinem Haus legst.</string>
+    <string name="FLETCH/Already Being UpgradedTent_Intro_000">Warte! Es sieht so aus, als würden wir schon an deinem Haus arbeiten!</string>
+    <string name="FLETCH/Already Being UpgradedTent_Intro_001">Lege alle Gegenstände, die du für den Bau brauchst, in die Baukiste vor deinem Zelt.</string>
+    <string name="FLETCH/Already Being Upgraded_Intro_000">Warte! Es sieht so aus, als würden wir schon an deinem Haus arbeiten!</string>
+    <string name="FLETCH/Already Being Upgraded_Intro_002">Sobald die Bauarbeiten abgeschlossen sind, werden wir sehen, was wir tun können, um dein Haus größer zu machen. &lt;glee&gt;</string>
 </resources>
