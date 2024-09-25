@@ -35,4 +35,7 @@
     <string name="FRANKLIN/High_Friendship_Greeting 1_Response_003_000">Auf Wiedersehen.</string>
     <string name="FRANKLIN/Noon_Greeting 1_Response_003_000">Auf Wiedersehen.</string>
     <string name="FRANKLIN/Morning_Greeting 0_Response_003_000">Auf Wiedersehen.</string>
+    <string name="FRANKLIN/DonateTechConvo_Response_000_000">Vielen Dank, &lt;PlayerName&gt;.</string>
+    <string name="FRANKLIN/BackAndForthConvo_nightFallbacks_0_Line_1">Warum ist das so?</string>
+    <string name="FRANKLIN/Medium_Friendship_Greeting 0_Intro_000">Grüße, &lt;PlayerName&gt;.</string>
 </resources>
