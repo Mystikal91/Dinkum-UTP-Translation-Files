@@ -71,4 +71,5 @@
     <string name="HardCodedStrings/UseBook_plantBookRoutine_Title">Pflanze</string>
     <string name="HardCodedStrings/BankMenu_withdrawButton_Withdraw">Zurückziehen</string>
     <string name="HardCodedStrings/CalendarButton_FishingComp">Anglerwettbewerb</string>
+    <string name="HardCodedStrings/NPCSchedual_getDaysClosed_Closed">Geschlossen</string>
 </resources>
