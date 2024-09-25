@@ -64,4 +64,15 @@
     <string name="CLOVER/LongConvo_001_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
     <string name="CLOVER/RandomConvo_010_Intro_000">Hallo, &lt;PlayerName&gt; .</string>
     <string name="CLOVER/BackAndForthConvo_dayFallbacks_2_Line_0">Weißt du was?</string>
+    <string name="CLOVER/RandomConvo_001_Intro_001">&lt;yes&gt;Vertrau mir, diese Quelle ist sehr zuverlässig, wenn es um Vorhersagen für die Zukunft geht.</string>
+    <string name="CLOVER/RandomConvo_003_Intro_002">Das ist eine ganz andere Ebene im Vergleich zu &lt;SouthCity&gt;.</string>
+    <string name="CLOVER/RandomConvo_001_Intro_000">Ich weiß aus zuverlässiger Quelle, dass heute ein guter Tag sein wird.</string>
+    <string name="CLOVER/RandomConvo_001_Intro_002">&lt;thinking&gt;Das heißt, wenn ich die Opferung richtig gemacht habe...</string>
+    <string name="CLOVER/RandomConvo_002_Intro_000">&lt;favouriteFood&gt; sind voll von kraftvoller Energie.</string>
+    <string name="CLOVER/RandomConvo_002_Intro_001">Wenn möglich, beginne ich meinen Tag gerne mit &lt;favouriteFood&gt;.</string>
+    <string name="CLOVER/RandomConvo_002_Intro_002">Auf diese Weise wird ein bisschen von dieser Macht an mich weitergegeben, weißt du?</string>
+    <string name="CLOVER/RandomConvo_003_Intro_000">&lt;IslandName&gt; ist ein unglaublicher Ort, weißt du?</string>
+    <string name="CLOVER/RandomConvo_003_Intro_003">Der Ort war voller Menschen, aber auf eine seltsame Art und Weise absolut leblos...</string>
+    <string name="CLOVER/RandomConvo_004_Intro_000">&lt;proud&gt;Gut auszusehen ist der erste Schritt, um sich gut zu fühlen.</string>
+    <string name="CLOVER/RandomConvo_003_Intro_001">Die ganze Insel ist voller Leben und Energie.</string>
 </resources>
