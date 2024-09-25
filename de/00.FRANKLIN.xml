@@ -30,4 +30,9 @@
     <string name="FRANKLIN/Arvo_Greeting 1_Response_003_000">Auf Wiedersehen.</string>
     <string name="FRANKLIN/BugComp_Greeting 000_Intro_000">Ich nehme derzeit an einem \"&lt;bugComp&gt;\" teil.</string>
     <string name="FRANKLIN/Arvo_Greeting 1_Intro_000">Guten Abend.</string>
+    <string name="FRANKLIN/BugComp_Greeting 000_Response_003_000">Auf Wiedersehen.</string>
+    <string name="FRANKLIN/Medium_Friendship_Greeting 2_Response_003_000">Auf Wiedersehen.</string>
+    <string name="FRANKLIN/High_Friendship_Greeting 1_Response_003_000">Auf Wiedersehen.</string>
+    <string name="FRANKLIN/Noon_Greeting 1_Response_003_000">Auf Wiedersehen.</string>
+    <string name="FRANKLIN/Morning_Greeting 0_Response_003_000">Auf Wiedersehen.</string>
 </resources>
