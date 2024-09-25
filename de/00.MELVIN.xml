@@ -16,4 +16,5 @@
     <string name="MELVIN/FurnitureShop_Convo_Option_002">Vergiss es.</string>
     <string name="MELVIN/Medium_Friendship_Greeting 1_Response_003_000">Also gut.</string>
     <string name="MELVIN/High_Friendship_Greeting 2_Response_003_000">Genau, Kumpel.</string>
+    <string name="MELVIN/BackAndForthConvo_rainingFallbacks_2_Line_1">Warum ist das so?</string>
 </resources>
