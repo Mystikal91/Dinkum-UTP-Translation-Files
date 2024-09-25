@@ -6,4 +6,23 @@
     <string name="SALLY/IslandDayGreeting_Night_008_Intro_000">Wow!</string>
     <string name="SALLY/SkyFest_AfterNoon_008_Intro_000">Weißt du was?</string>
     <string name="SALLY/HairDresserConvo_Option_002">Nein, danke.</string>
+    <string name="SALLY/Gossip_About_NPC_001_Intro_001">&lt;no&gt;Ich habe ihm angeboten, seinen Bart zu stutzen, aber am Ende bin ich mit einem Haufen Werkzeug weggegangen, das ich nicht brauche?</string>
+    <string name="SALLY/CompleteRequest_000_Intro_002">Nimm das für deine Mühe!</string>
+    <string name="SALLY/Gossip_About_NPC_000_Intro_001">&lt;yes&gt;Ich habe gehört, dass &lt;NPCName&gt; ihre Haare selbst wachsen lässt.</string>
+    <string name="SALLY/Gossip_About_NPC_001_Intro_000">&lt;pumped&gt;&lt;NPCName&gt; lässt niemanden in die NÄHE seiner Haare.</string>
+    <string name="SALLY/CompleteBirthday_000_Intro_001">&lt;shy&gt;Dies ist ein wirklich schönes &lt;birthday&gt; Geschenk.</string>
+    <string name="SALLY/CompleteBirthday_000_Intro_002">&lt;glee&gt;Vielen Dank.</string>
+    <string name="SALLY/Gossip_About_NPC_000_Intro_002">&lt;haha&gt;Vom Boden aus, meine ich.</string>
+    <string name="SALLY/Gossip_About_NPC_003_Intro_002">&lt;thinking&gt;Er hätte so lange, volle, schöne Locken, wenn ich ihm nicht so oft die Haare schneiden würde…</string>
+    <string name="SALLY/Gossip_About_NPC_001_Intro_002">&lt;boohoo&gt;...sie waren wirklich teuer.</string>
+    <string name="SALLY/CompleteRequest_000_Intro_000">&lt;pumped&gt;Du bist eine verdammte Legende, &lt;PlayerName&gt;.</string>
+    <string name="SALLY/CompleteRequest_000_Intro_001">&lt;yes&gt;Zu verdammt gut, denke ich.</string>
+    <string name="SALLY/Gossip_About_NPC_000_Intro_000">Ganz unter uns...</string>
+    <string name="SALLY/Gossip_About_NPC_002_Intro_000">&lt;NPCName&gt;Die Haare wachsen sehr langsam…</string>
+    <string name="SALLY/Gossip_About_NPC_002_Intro_001">Entweder das, oder er schneidet sie selbst, nehme ich an?</string>
+    <string name="SALLY/Gossip_About_NPC_003_Intro_000">&lt;NPCName&gt; kommt mich ab und zu besuchen.</string>
+    <string name="SALLY/Gossip_About_NPC_003_Intro_001">Ich schätze, er mag das leere Stück in der Mitte sehr?</string>
+    <string name="SALLY/Gossip_About_NPC_004_Intro_000">&lt;no&gt;&lt;NPCName&gt; bat mich einmal, ihrer Puppe die Haare zu schneiden.</string>
+    <string name="SALLY/Gossip_About_NPC_004_Intro_001">&lt;no&gt;Er sah genauso aus wie sie, aber winzig!</string>
+    <string name="SALLY/Gossip_About_NPC_003_Intro_003">Jeder wie er mag, denke ich.</string>
 </resources>
