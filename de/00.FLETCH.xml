@@ -54,4 +54,13 @@
     <string name="FLETCH/Already Being UpgradedTent_Intro_001">Lege alle Gegenstände, die du für den Bau brauchst, in die Baukiste vor deinem Zelt.</string>
     <string name="FLETCH/Already Being Upgraded_Intro_000">Warte! Es sieht so aus, als würden wir schon an deinem Haus arbeiten!</string>
     <string name="FLETCH/Already Being Upgraded_Intro_002">Sobald die Bauarbeiten abgeschlossen sind, werden wir sehen, was wir tun können, um dein Haus größer zu machen. &lt;glee&gt;</string>
+    <string name="FLETCH/NPC_006_RandomConvo_000(Clone)_Option_1">Eigentlich...</string>
+    <string name="FLETCH/RandomConvo_000_Option_001">Eigentlich...</string>
+    <string name="FLETCH/Upgrade House_Option_000">Ja!</string>
+    <string name="FLETCH/BaseTentConvo_Intro_001">Was kann ich für dich tun?</string>
+    <string name="FLETCH/Highest_Friendship_Greeting 1_Intro_001">Was kann ich für dich tun?</string>
+    <string name="FLETCH/Highest_Friendship_Greeting 2_Intro_001">Was kann ich für dich tun?</string>
+    <string name="FLETCH/Pay off town Debt_Intro_000">Hmmm ... &lt;thinking&gt;</string>
+    <string name="FLETCH/Upgrade House No Money_Option_000">Ja!</string>
+    <string name="FLETCH/RandomConvo_011_Option_001">Eigentlich...</string>
 </resources>
