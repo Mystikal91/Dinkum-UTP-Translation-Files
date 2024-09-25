@@ -75,4 +75,9 @@
     <string name="CLOVER/RandomConvo_003_Intro_003">Der Ort war voller Menschen, aber auf eine seltsame Art und Weise absolut leblos...</string>
     <string name="CLOVER/RandomConvo_004_Intro_000">&lt;proud&gt;Gut auszusehen ist der erste Schritt, um sich gut zu fühlen.</string>
     <string name="CLOVER/RandomConvo_003_Intro_001">Die ganze Insel ist voller Leben und Energie.</string>
+    <string name="CLOVER/BackAndForthConvo_Rayne_0_Line_5">Was?</string>
+    <string name="CLOVER/BackAndForthConvo_Sally_0_Line_1">Danke!</string>
+    <string name="CLOVER/BackAndForthConvo_Sally_0_Line_7">Was?</string>
+    <string name="CLOVER/BackAndForthConvo_dayFallbacks_1_Line_1">Warum ist das so?</string>
+    <string name="CLOVER/BackAndForthConvo_dayFallbacks_2_Line_1">Was?</string>
 </resources>
