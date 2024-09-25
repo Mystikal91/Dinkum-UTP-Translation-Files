@@ -87,4 +87,18 @@
     <string name="RandomisedRequests/AcceptHangOut_001_Intro_000">Willst du mit mir rumhängen?</string>
     <string name="RandomisedRequests/AcceptHangOut_001_Intro_001">Hmmm ... &lt;thinking&gt;</string>
     <string name="RandomisedRequests/AcceptHangOut_001_Intro_002">&lt;pumped&gt;Ja, ich bin dabei!</string>
+    <string name="RandomisedRequests/RequestItemInInv_001_Response_000_000">Vielen Dank dafür!</string>
+    <string name="RandomisedRequests/RequestNewClothing_001_Intro_000">Hmmm ... &lt;thinking&gt;</string>
+    <string name="RandomisedRequests/NoRequests_001_Intro_001">&lt;no&gt;Ich habe keinen Job für dich, tut mir leid!</string>
+    <string name="RandomisedRequests/NoRequests_002_Intro_000">&lt;no&gt;Nein, mir geht es jetzt gut.</string>
+    <string name="RandomisedRequests/NoRequests_002_Intro_001">&lt;yes&gt;Trotzdem danke für die Frage.</string>
+    <string name="RandomisedRequests/NoRequests_003_Intro_001">&lt;shy&gt;Ich habe nichts für dich zu tun.</string>
+    <string name="RandomisedRequests/NoRequests_004_Intro_000">&lt;no&gt;Das tue ich nicht.</string>
+    <string name="RandomisedRequests/NoRequests_004_Intro_001">Das tut mir leid, &lt;PlayerName&gt;!</string>
+    <string name="RandomisedRequests/NoRequests_005_Intro_000">&lt;no&gt;Nein!</string>
+    <string name="RandomisedRequests/NoRequests_005_Intro_001">&lt;glee&gt;Fürs Erste ist alles in Ordnung!</string>
+    <string name="RandomisedRequests/NoRequests_006_Intro_000">Eigentlich...</string>
+    <string name="RandomisedRequests/NoRequests_006_Intro_001">&lt;haha&gt;Oh, warte, das habe ich schon getan!</string>
+    <string name="RandomisedRequests/NoRequests_006_Intro_002">&lt;yes&gt;Mir geht es gut, danke, &lt;PlayerName&gt;.</string>
+    <string name="RandomisedRequests/RequestSellingItemNotEnoughMoney_001_Response_000_001">Vielleicht kommst du zu mir, wenn du genug Geld hast?</string>
 </resources>
