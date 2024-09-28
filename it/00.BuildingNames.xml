@@ -21,4 +21,5 @@
     <string name="BuildingNames/Wish Fountain">Fontana dei Desideri</string>
     <string name="BuildingNames/House">Casa</string>
     <string name="BuildingNames/Threadspace">Threadspace</string>
+    <string name="BuildingNames/Players House">Casa di {0}</string>
 </resources>
