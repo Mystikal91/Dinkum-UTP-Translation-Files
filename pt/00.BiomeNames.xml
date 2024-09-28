@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="BiomeNames/TropicalIsland">Ilha Tropical</string>
     <string name="BiomeNames/Beach">Praia</string>
-    <string name="BiomeNames/OceanShallows">Rasas do oceano</string>
     <string name="BiomeNames/Ocean">Oceano</string>
     <string name="BiomeNames/Tropics">Trópicos</string>
-    <string name="BiomeNames/Tropical">Tropical</string>
     <string name="BiomeNames/Billabong">Billabong</string>
-    <string name="BiomeNames/BillabongWater">Água Billabong</string>
-    <string name="BiomeNames/BillabongBank">Banco Billabong</string>
-    <string name="BiomeNames/Bushland">Mata nativa</string>
     <string name="BiomeNames/Bushlands">Matas nativas</string>
     <string name="BiomeNames/Desert">Deserto</string>
-    <string name="BiomeNames/PineForest">Floresta de pinheiros</string>
     <string name="BiomeNames/Plains">Planícies</string>
-    <string name="BiomeNames/RoughSoil">Solo áspero</string>
     <string name="BiomeNames/River">Rio</string>
     <string name="BiomeNames/Unknown">Desconhecido</string>
     <string name="BiomeNames/Mangroves">Manguezais</string>
-    <string name="BiomeNames/RockyIsland">Ilha Rochosa</string>
-    <string name="BiomeNames/WarmOcean">Oceano Quente</string>
-    <string name="BiomeNames/ColdOcean">Oceano Frio</string>
-    <string name="BiomeNames/Quary">Pedreira</string>
-    <string name="BiomeNames/CassowaryNest">Ninho de casuar</string>
-    <string name="BiomeNames/BunyipDen">Covil de Bunyip</string>
-    <string name="BiomeNames/DingoDen">Covil de Dingo</string>
-    <string name="BiomeNames/ShellSpace">Espaço de Concha</string>
-    <string name="BiomeNames/NorthernOceans">Oceanos do Norte</string>
-    <string name="BiomeNames/SouthernOceans">Oceanos do Sul</string>
     <string name="BiomeNames/Underground">Subterrâneo</string>
-    <string name="BiomeNames/IslandReef">Ilha de recife</string>
     <string name="BiomeNames/InTheBushland">nas Matas nativas</string>
     <string name="BiomeNames/InTheDesert">no deserto</string>
     <string name="BiomeNames/InTheTropics">nos trópicos</string>
