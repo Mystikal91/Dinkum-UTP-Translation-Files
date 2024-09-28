@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="MapIcon/TownHall">市政中心</string>
-    <string name="MapIcon/BaseTent">营地帐篷</string>
-    <string name="MapIcon/TelePad">信号传送台</string>
-    <string name="MapIcon/JohnsGoods">约翰的好货</string>
-    <string name="MapIcon/BandStand">露天舞台</string>
-</resources>
