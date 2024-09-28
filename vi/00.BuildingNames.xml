@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Airport">Sân bay</string>
+    <string name="BuildingNames/Band Stand">Sân khấu</string>
+    <string name="BuildingNames/Base Tent">Lều cơ sở</string>
+    <string name="BuildingNames/Docks">Cảng</string>
+    <string name="BuildingNames/Franklyn's Lab">Phòng thí nghiệm Franklyn</string>
+    <string name="BuildingNames/Guest House">Nhà khách</string>
+    <string name="BuildingNames/Irwin's Barn">Chuống trại của Irwin</string>
+    <string name="BuildingNames/John's Goods">Tạp hóa John</string>
+    <string name="BuildingNames/Mine">Mỏ</string>
+    <string name="BuildingNames/Sally's Salon">Hiệu tóc Sally</string>
+    <string name="BuildingNames/Tele Pad">Cổng dịch chuyển</string>
+    <string name="BuildingNames/The Bank">Ngân hàng</string>
+    <string name="BuildingNames/The Greenhouse">Nhà kính</string>
+    <string name="BuildingNames/The Museum">Viện bảo tàng</string>
+    <string name="BuildingNames/Threadspace">Hiệu may</string>
+    <string name="BuildingNames/Town Hall">Tòa thị chính</string>
+    <string name="BuildingNames/Visitor's Site">Không gian bán lẻ</string>
+    <string name="BuildingNames/Wish Fountain">Giếng ước</string>
+    <string name="BuildingNames/Melvin's Place">Thợ mộc Melvin</string>
+    <string name="BuildingNames/The Tuckerbox">Quán ăn</string>
+</resources>
