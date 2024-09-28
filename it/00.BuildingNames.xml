@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Airport">Aeroporto</string>
+    <string name="BuildingNames/Band Stand">Chiosco della Musica</string>
+    <string name="BuildingNames/Base Tent">Tenda Base</string>
+    <string name="BuildingNames/Docks">Molo</string>
+    <string name="BuildingNames/Franklyn's Lab">Laboratorio di Franklyn</string>
+    <string name="BuildingNames/Guest House">Casa degli Ospiti</string>
+    <string name="BuildingNames/Irwin's Barn">Fienile di Irwin</string>
+    <string name="BuildingNames/John's Goods">Negozio di John</string>
+    <string name="BuildingNames/Melvin's Place">Il Posto di Melvin</string>
+    <string name="BuildingNames/Mine">Miniera</string>
+    <string name="BuildingNames/Sally's Salon">Salone di Sally</string>
+    <string name="BuildingNames/Tele Pad">Telepiattaforma</string>
+    <string name="BuildingNames/The Bank">La Banca</string>
+    <string name="BuildingNames/The Greenhouse">La Serra</string>
+    <string name="BuildingNames/The Museum">Il Museo</string>
+    <string name="BuildingNames/The Tuckerbox">Il Tuckerbox</string>
+    <string name="BuildingNames/Town Hall">Municipio</string>
+    <string name="BuildingNames/Visitor's Site">Posto degli Ospiti</string>
+    <string name="BuildingNames/Wish Fountain">Fontana dei Desideri</string>
+    <string name="BuildingNames/House">Casa</string>
+    <string name="BuildingNames/Threadspace">Threadspace</string>
+</resources>
