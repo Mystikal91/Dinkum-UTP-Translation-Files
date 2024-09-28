@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Band Stand">panggung musik</string>
+    <string name="BuildingNames/Base Tent">Tenda Dasar</string>
+    <string name="BuildingNames/Docks">Dermaga</string>
+    <string name="BuildingNames/Guest House">Rumah Tamu</string>
+    <string name="BuildingNames/House">Rumah</string>
+    <string name="BuildingNames/Irwin's Barn">Gudang Irwin</string>
+    <string name="BuildingNames/John's Goods">Barang John</string>
+    <string name="BuildingNames/Mine">Milikku</string>
+    <string name="BuildingNames/Sally's Salon">Salon Sally</string>
+    <string name="BuildingNames/Tele Pad">Papan Tele</string>
+    <string name="BuildingNames/The Bank">Bank</string>
+    <string name="BuildingNames/The Greenhouse">Rumah Kaca</string>
+    <string name="BuildingNames/The Museum">Museum</string>
+    <string name="BuildingNames/The Tuckerbox">Kotak Makanan</string>
+    <string name="BuildingNames/Threadspace">Ruang benang</string>
+    <string name="BuildingNames/Town Hall">Balai kota</string>
+    <string name="BuildingNames/Visitor's Site">Situs Pengunjung</string>
+    <string name="BuildingNames/Wish Fountain">Air Mancur Harapan</string>
+    <string name="BuildingNames/Franklyn's Lab">Laboratorium Franklyn</string>
+    <string name="BuildingNames/Melvin's Place">Tempat Melvin</string>
+    <string name="BuildingNames/Airport">Bandara</string>
+</resources>
