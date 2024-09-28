@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Base Tent">Главная палатка</string>
+    <string name="BuildingNames/Docks">Доки</string>
+    <string name="BuildingNames/Franklyn's Lab">Лаборатория</string>
+    <string name="BuildingNames/Guest House">Гостевой дом</string>
+    <string name="BuildingNames/John's Goods">Товары Джона</string>
+    <string name="BuildingNames/Mine">Шахта</string>
+    <string name="BuildingNames/Sally's Salon">Салон Салли</string>
+    <string name="BuildingNames/Tele Pad">Мобильный телепортер</string>
+    <string name="BuildingNames/The Bank">Банк</string>
+    <string name="BuildingNames/The Greenhouse">Оранжерея</string>
+    <string name="BuildingNames/The Museum">Музей</string>
+    <string name="BuildingNames/The Tuckerbox">Закусочная</string>
+    <string name="BuildingNames/Threadspace">Одежда Кловер</string>
+    <string name="BuildingNames/Town Hall">Ратуша</string>
+    <string name="BuildingNames/Wish Fountain">Фонтан желаний</string>
+    <string name="BuildingNames/Band Stand">Эстрада</string>
+    <string name="BuildingNames/Melvin's Place">Мебель Милвина</string>
+    <string name="BuildingNames/Airport">Аэропорт</string>
+    <string name="BuildingNames/Irwin's Barn">Зоомагазин</string>
+    <string name="BuildingNames/Visitor's Site">Гостевая площадка</string>
+</resources>
