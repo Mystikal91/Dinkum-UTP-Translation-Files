@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="AnimalNames/Animal_5">Акула</string>
+    <string name="AnimalNames/Animal_6">Динго</string>
+    <string name="AnimalNames/Animal_8">Какаду</string>
+    <string name="AnimalNames/Animal_9">Кура</string>
+    <string name="AnimalNames/Animal_10">Курёнок</string>
+    <string name="AnimalNames/Animal_11">Вомбат</string>
+    <string name="AnimalNames/Animal_12">Детёныш вомбата</string>
+    <string name="AnimalNames/Animal_15">Лягушка</string>
+    <string name="AnimalNames/Animal_14">Кустарный дьявол</string>
+    <string name="AnimalNames/Animal_16">Вари Му</string>
+    <string name="AnimalNames/Animal_17">Овценос</string>
+    <string name="AnimalNames/Animal_18">Медуза</string>
+    <string name="AnimalNames/Animal_19">Ручной динго</string>
+    <string name="AnimalNames/Animal_22">Ехидна</string>
+    <string name="AnimalNames/Animal_34">Личинка</string>
+    <string name="AnimalNames/Animal_35">Гнездо личинки</string>
+    <string name="AnimalNames/Animal_38">Алфа-акула</string>
+    <string name="AnimalNames/Animal_1">Рыба</string>
+    <string name="AnimalNames/Animal_2">Жук</string>
+    <string name="AnimalNames/Animal_3">Крокодил</string>
+    <string name="AnimalNames/Animal_25">Альфа-крокодил</string>
+    <string name="AnimalNames/Animal_24">Альфа-джекуру</string>
+    <string name="AnimalNames/Animal_28">Плащенос</string>
+    <string name="AnimalNames/Animal_29">Белый джекуру</string>
+    <string name="AnimalNames/Animal_30">Плевун</string>
+    <string name="AnimalNames/Animal_31">Цветущий плащенос</string>
+    <string name="AnimalNames/Animal_13">Му</string>
+    <string name="AnimalNames/Animal_20">Светящийся крокодил</string>
+    <string name="AnimalNames/Animal_32">Детёныш овценоса</string>
+    <string name="AnimalNames/Animal_4">Мэгпай</string>
+    <string name="AnimalNames/Animal_7">Кустарная индейка</string>
+    <string name="AnimalNames/Animal_0">Джекуру</string>
+    <string name="AnimalNames/Animal_26">Альфа-дьявол</string>
+</resources>

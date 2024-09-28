@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="AnimalNames/Animal_17">Ornitorrinco</string>
+    <string name="AnimalNames/Animal_0">Canguru</string>
+    <string name="AnimalNames/Animal_2">Inseto</string>
+    <string name="AnimalNames/Animal_3">Crocodilo</string>
+    <string name="AnimalNames/Animal_4">Maggie</string>
+    <string name="AnimalNames/Animal_5">Tubarão</string>
+    <string name="AnimalNames/Animal_6">Cão selvagem</string>
+    <string name="AnimalNames/Animal_7">Peru</string>
+    <string name="AnimalNames/Animal_8">Cacatua</string>
+    <string name="AnimalNames/Animal_9">Galinha</string>
+    <string name="AnimalNames/Animal_10">Pintinho</string>
+    <string name="AnimalNames/Animal_11">Vombat</string>
+    <string name="AnimalNames/Animal_13">Casuar</string>
+    <string name="AnimalNames/Animal_16">Casuar cauteloso</string>
+    <string name="AnimalNames/Animal_14">Diabo-da-tasmânia</string>
+    <string name="AnimalNames/Animal_15">Sapo</string>
+    <string name="AnimalNames/Animal_29">Canguru Branco</string>
+    <string name="AnimalNames/Animal_18">Medusa</string>
+    <string name="AnimalNames/Animal_19">Cão de estimação</string>
+    <string name="AnimalNames/Animal_20">Crocodilo Brilhante</string>
+    <string name="AnimalNames/Animal_22">Ouriço</string>
+    <string name="AnimalNames/Animal_24">Canguru Alfa</string>
+    <string name="AnimalNames/Animal_25">Crocodilo Alfa</string>
+    <string name="AnimalNames/Animal_26">Diabo-da-tasmânia Alfa</string>
+    <string name="AnimalNames/Animal_28">Lagarto-de-gola</string>
+    <string name="AnimalNames/Animal_30">Planta Carnívora</string>
+    <string name="AnimalNames/Animal_31">Lagarto-de-gola Alfa</string>
+    <string name="AnimalNames/Animal_32">Ornitorrinco</string>
+    <string name="AnimalNames/Animal_34">Larva</string>
+    <string name="AnimalNames/Animal_35">Ninho de Larvas</string>
+    <string name="AnimalNames/Animal_38">Tubarão Alfa</string>
+    <string name="AnimalNames/Animal_1">Peixe</string>
+    <string name="AnimalNames/Animal_12">filhote de Vombat</string>
+</resources>

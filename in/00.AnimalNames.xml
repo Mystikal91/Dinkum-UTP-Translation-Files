@@ -1,2 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="AnimalNames/Animal_0">Burung pipit</string>
+    <string name="AnimalNames/Animal_1">Ikan</string>
+    <string name="AnimalNames/Animal_2">Serangga</string>
+    <string name="AnimalNames/Animal_3">Buaya</string>
+    <string name="AnimalNames/Animal_4">Maggie</string>
+    <string name="AnimalNames/Animal_5">Hiu</string>
+    <string name="AnimalNames/Animal_6">Diggo</string>
+    <string name="AnimalNames/Animal_7">Scrub Turkey</string>
+    <string name="AnimalNames/Animal_8">Kakatua</string>
+    <string name="AnimalNames/Animal_9">Ayam</string>
+    <string name="AnimalNames/Animal_10">Bayi Ayam</string>
+    <string name="AnimalNames/Animal_11">Vombat</string>
+    <string name="AnimalNames/Animal_12">Joey si Vombat</string>
+    <string name="AnimalNames/Animal_13">Mu</string>
+    <string name="AnimalNames/Animal_14">Bush Devil</string>
+    <string name="AnimalNames/Animal_15">Katak</string>
+    <string name="AnimalNames/Animal_16">Wary Mu</string>
+    <string name="AnimalNames/Animal_17">Pleep</string>
+    <string name="AnimalNames/Animal_18">Ubur ubur</string>
+    <string name="AnimalNames/Animal_19">Hewan Peliharaan Diggo</string>
+    <string name="AnimalNames/Animal_20">Buaya Bercahaya</string>
+    <string name="AnimalNames/Animal_21">Vombat Liar</string>
+    <string name="AnimalNames/Animal_22">Kidna</string>
+    <string name="AnimalNames/Animal_24">Alfa Jackaroo</string>
+    <string name="AnimalNames/Animal_25">Buaya Alfa</string>
+    <string name="AnimalNames/Animal_26">Alpha Bush Devil</string>
+    <string name="AnimalNames/Animal_28">Frilly</string>
+    <string name="AnimalNames/Animal_29">Boomer Putih</string>
+    <string name="AnimalNames/Animal_30">Tanaman Pincher</string>
+    <string name="AnimalNames/Animal_31">Blooming Frilly</string>
+    <string name="AnimalNames/Animal_32">Pleep Puggle</string>
+    <string name="AnimalNames/Animal_34">Belatung</string>
+    <string name="AnimalNames/Animal_35">Sarang Belatung</string>
+    <string name="AnimalNames/Animal_38">Hiu Alfa</string>
+</resources>

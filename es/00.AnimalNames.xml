@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="AnimalNames/Animal_17">Ornitorrinco</string>
+    <string name="AnimalNames/Animal_6">Dingo</string>
+    <string name="AnimalNames/Animal_32">Cría de Ornitorrinco</string>
+    <string name="AnimalNames/Animal_5">Tiburón</string>
+    <string name="AnimalNames/Animal_2">Bicho</string>
+    <string name="AnimalNames/Animal_9">Gallina</string>
+    <string name="AnimalNames/Animal_8">Cacatúa</string>
+    <string name="AnimalNames/Animal_3">Cocodrilo</string>
+    <string name="AnimalNames/Animal_1">Pez</string>
+    <string name="AnimalNames/Animal_20">Cocodrilo Luminoso</string>
+    <string name="AnimalNames/Animal_34">Larva</string>
+    <string name="AnimalNames/Animal_13">Emu</string>
+    <string name="AnimalNames/Animal_19">Dingo Mascota</string>
+    <string name="AnimalNames/Animal_7">Pavo de Matorral</string>
+    <string name="AnimalNames/Animal_15">Sapo</string>
+    <string name="AnimalNames/Animal_11">Vombat</string>
+    <string name="AnimalNames/Animal_12">Cría de Vombat</string>
+    <string name="AnimalNames/Animal_16">Casuario</string>
+    <string name="AnimalNames/Animal_28">Lagarto Volante</string>
+    <string name="AnimalNames/Animal_0">Jackaroo</string>
+    <string name="AnimalNames/Animal_18">Medusa</string>
+    <string name="AnimalNames/Animal_22">Equidna</string>
+    <string name="AnimalNames/Animal_4">Maggie</string>
+    <string name="AnimalNames/Animal_30">Planta Carnívora</string>
+</resources>

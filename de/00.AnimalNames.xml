@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="AnimalNames/Animal_2">Insekt</string>
+    <string name="AnimalNames/Animal_3">Krokodil</string>
+    <string name="AnimalNames/Animal_1">Fisch</string>
+    <string name="AnimalNames/Animal_0">Känguru</string>
+    <string name="AnimalNames/Animal_6">Diggo</string>
+    <string name="AnimalNames/Animal_5">Hai</string>
+    <string name="AnimalNames/Animal_26">Alpha Buschteufel</string>
+    <string name="AnimalNames/Animal_25">Alpha Krokodil</string>
+    <string name="AnimalNames/Animal_38">Alpha Hai</string>
+    <string name="AnimalNames/Animal_10">Baby Huhn</string>
+    <string name="AnimalNames/Animal_31">Blühende Echse</string>
+    <string name="AnimalNames/Animal_14">Buschteufel</string>
+    <string name="AnimalNames/Animal_9">Huhn</string>
+    <string name="AnimalNames/Animal_8">Kakadu</string>
+    <string name="AnimalNames/Animal_28">Echse</string>
+    <string name="AnimalNames/Animal_20">Leuchtendes Krokodil</string>
+    <string name="AnimalNames/Animal_34">Made</string>
+    <string name="AnimalNames/Animal_35">Madennest</string>
+    <string name="AnimalNames/Animal_22">Kidna</string>
+    <string name="AnimalNames/Animal_11">Wombat</string>
+    <string name="AnimalNames/Animal_24">Alpha Känguru</string>
+    <string name="AnimalNames/Animal_18">Qualle</string>
+    <string name="AnimalNames/Animal_4">Elster</string>
+    <string name="AnimalNames/Animal_13">Mu</string>
+    <string name="AnimalNames/Animal_19">Hund</string>
+    <string name="AnimalNames/Animal_17">Schnabeltier</string>
+    <string name="AnimalNames/Animal_32">Schnabeltier-Junges</string>
+    <string name="AnimalNames/Animal_7">Truthahn</string>
+    <string name="AnimalNames/Animal_15">Kröte</string>
+    <string name="AnimalNames/Animal_12">Wombat-Junges</string>
+    <string name="AnimalNames/Animal_29">Weißes Känguru</string>
+    <string name="AnimalNames/Animal_16">Krawall-Mu</string>
+    <string name="AnimalNames/Animal_30">Kneifpflanze</string>
+</resources>

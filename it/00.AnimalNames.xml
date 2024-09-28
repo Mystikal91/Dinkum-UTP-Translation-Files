@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="AnimalNames/Animal_26">Diavolo dei Cespugli Alfa</string>
+    <string name="AnimalNames/Animal_25">Coccodrillo Alfa</string>
+    <string name="AnimalNames/Animal_38">Squalo Alfa</string>
+    <string name="AnimalNames/Animal_10">Pulcino</string>
+    <string name="AnimalNames/Animal_31">Frilly Fiorito</string>
+    <string name="AnimalNames/Animal_2">Insetto</string>
+    <string name="AnimalNames/Animal_14">Diavolo del Deserto</string>
+    <string name="AnimalNames/Animal_9">Gallina</string>
+    <string name="AnimalNames/Animal_3">Coccodrillo</string>
+    <string name="AnimalNames/Animal_6">Dingo</string>
+    <string name="AnimalNames/Animal_1">Pesce</string>
+    <string name="AnimalNames/Animal_28">Frilly</string>
+    <string name="AnimalNames/Animal_20">Coccodrillo Luminoso</string>
+    <string name="AnimalNames/Animal_34">Grub</string>
+    <string name="AnimalNames/Animal_35">Tana di Grub</string>
+    <string name="AnimalNames/Animal_18">Medusa</string>
+    <string name="AnimalNames/Animal_22">Echidna</string>
+    <string name="AnimalNames/Animal_4">Gazza</string>
+    <string name="AnimalNames/Animal_13">Emu</string>
+    <string name="AnimalNames/Animal_19">Dingo da Compagnia</string>
+    <string name="AnimalNames/Animal_17">Platipo</string>
+    <string name="AnimalNames/Animal_32">Cucciolo di Platipo</string>
+    <string name="AnimalNames/Animal_7">Tacchino di Boscaglia</string>
+    <string name="AnimalNames/Animal_5">Squalo</string>
+    <string name="AnimalNames/Animal_15">Rospo</string>
+    <string name="AnimalNames/Animal_11">Vombato</string>
+    <string name="AnimalNames/Animal_12">Cucciolo di Vombato</string>
+    <string name="AnimalNames/Animal_16">Emu Aggressivo</string>
+    <string name="AnimalNames/Animal_29">Cervanguro Bianco</string>
+    <string name="AnimalNames/Animal_24">Cervanguro Alfa</string>
+    <string name="AnimalNames/Animal_8">Cacatua</string>
+    <string name="AnimalNames/Animal_30">Pianta Carnivora</string>
+    <string name="AnimalNames/Animal_0">Cervanguro</string>
+</resources>
