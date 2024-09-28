@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Base Tent">营地帐篷</string>
+    <string name="BuildingNames/John's Goods">约翰的好货</string>
+    <string name="BuildingNames/Tele Pad">信号传送台</string>
+    <string name="BuildingNames/Town Hall">市政中心</string>
+    <string name="BuildingNames/Band Stand">露天舞台</string>
+</resources>
