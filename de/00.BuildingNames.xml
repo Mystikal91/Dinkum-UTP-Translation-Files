@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Airport">Flughafen</string>
+    <string name="BuildingNames/Band Stand">Musikpavillon</string>
+    <string name="BuildingNames/Base Tent">Basiszelt</string>
+    <string name="BuildingNames/Docks">Steg</string>
+    <string name="BuildingNames/Franklyn's Lab">Franklyn\'s Labor</string>
+    <string name="BuildingNames/House">Haus</string>
+    <string name="BuildingNames/Irwin's Barn">Irwin\'s Stall</string>
+    <string name="BuildingNames/John's Goods">John\'s Laden</string>
+    <string name="BuildingNames/Melvin's Place">Melvin\'s Haus</string>
+    <string name="BuildingNames/Mine">Mine</string>
+    <string name="BuildingNames/Sally's Salon">Sally\'s Salon</string>
+    <string name="BuildingNames/Tele Pad">Fernmeldeturm-Plattform</string>
+    <string name="BuildingNames/The Bank">Die Bank</string>
+    <string name="BuildingNames/The Greenhouse">Das Gewächshaus</string>
+    <string name="BuildingNames/The Museum">Das Museum</string>
+    <string name="BuildingNames/The Tuckerbox">Das Restaurant</string>
+    <string name="BuildingNames/Threadspace">Schneiderei</string>
+    <string name="BuildingNames/Town Hall">Rathaus</string>
+    <string name="BuildingNames/Wish Fountain">Wunschbrunnen</string>
+    <string name="BuildingNames/Guest House">Gästehaus</string>
+    <string name="BuildingNames/Visitor's Site">Zeltplatz</string>
+</resources>
