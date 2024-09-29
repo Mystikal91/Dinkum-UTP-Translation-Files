@@ -40,4 +40,5 @@
     <string name="ConversationTagReplacements/Spotless_Wish">Desiderio Pulito</string>
     <string name="ConversationTagReplacements/Year">Anno</string>
     <string name="ConversationTagReplacements/Johns Anniversary">Anniversario del Negozio di John</string>
+    <string name="ConversationTagReplacements/NPC Birthday">Compleanno di {0}</string>
 </resources>
