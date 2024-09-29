@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="ConversationTagReplacements/Island Day">&lt;IslandName&gt; Day</string>
+  <string name="ConversationTagReplacements/Airship">Airship</string>
+  <string name="ConversationTagReplacements/Airships">Airships</string>
+  <string name="ConversationTagReplacements/Aurora">Aurora</string>
+  <string name="ConversationTagReplacements/Birthday">Birthday</string>
+  <string name="ConversationTagReplacements/Bountiful_Wish">Bountiful Wish</string>
+  <string name="ConversationTagReplacements/Bug Catching Comp">Bug Catching Comp</string>
+  <string name="ConversationTagReplacements/Comp Log Book">Comp Log Book</string>
+  <string name="ConversationTagReplacements/Dangerous_Wish">Dangerous Wish</string>
+  <string name="ConversationTagReplacements/Day">Day</string>
+  <string name="ConversationTagReplacements/Dink">Dink</string>
+  <string name="ConversationTagReplacements/Dinks">Dinks</string>
+  <string name="ConversationTagReplacements/Fishing Comp">Fishing Comp</string>
+  <string name="ConversationTagReplacements/Flying Lantern">Flying Lantern</string>
+  <string name="ConversationTagReplacements/Flying Lanterns">Flying Lanterns</string>
+  <string name="ConversationTagReplacements/Fortuitous_Wish">Fortuitous Wish</string>
+  <string name="ConversationTagReplacements/Journal">Journal</string>
+  <string name="ConversationTagReplacements/Kite">Kite</string>
+  <string name="ConversationTagReplacements/Licence">Licence</string>
+  <string name="ConversationTagReplacements/Licences">Licences</string>
+  <string name="ConversationTagReplacements/No_Wish">No wish has been made...</string>
+  <string name="ConversationTagReplacements/Nomad">Nomad</string>
+  <string name="ConversationTagReplacements/Nomads">Nomads</string>
+  <string name="ConversationTagReplacements/Peaceful_Wish">Peaceful Wish</string>
+  <string name="ConversationTagReplacements/Permit Points">Permit Points</string>
+  <string name="ConversationTagReplacements/PetName1">darl</string>
+  <string name="ConversationTagReplacements/PetName2">love</string>
+  <string name="ConversationTagReplacements/PetName3">possum</string>
+  <string name="ConversationTagReplacements/Regretful_Wish">Regretful Wish</string>
+  <string name="ConversationTagReplacements/Shift">Shift</string>
+  <string name="ConversationTagReplacements/Shifts">Shifts</string>
+  <string name="ConversationTagReplacements/Sky Fest">Sky Fest</string>
+  <string name="ConversationTagReplacements/Snag">Snag</string>
+  <string name="ConversationTagReplacements/Snag Sizzle">Snag Sizzle</string>
+  <string name="ConversationTagReplacements/Snag Sizzles">Snag Sizzles</string>
+  <string name="ConversationTagReplacements/Snags">Snags</string>
+  <string name="ConversationTagReplacements/SouthCity">South City</string>
+  <string name="ConversationTagReplacements/Spotless_Wish">Spotless Wish</string>
+  <string name="ConversationTagReplacements/Year">Year</string>
+  <string name="ConversationTagReplacements/NPC Birthday">{0}'s Birthday</string>
+  <string name="ConversationTagReplacements/Johns Anniversary">John's Goods Anniversary</string>
+</resources>
