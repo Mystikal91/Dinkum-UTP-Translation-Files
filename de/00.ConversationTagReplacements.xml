@@ -1,2 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="ConversationTagReplacements/Island Day">&lt;IslandName&gt; Tag</string>
+    <string name="ConversationTagReplacements/Flying Lantern">Fliegende Laterne</string>
+    <string name="ConversationTagReplacements/Snag Sizzles">Bratwürste brutzeln</string>
+    <string name="ConversationTagReplacements/Airship">Luftschiff</string>
+    <string name="ConversationTagReplacements/Airships">Luftschiffe</string>
+    <string name="ConversationTagReplacements/Birthday">Geburtstag</string>
+    <string name="ConversationTagReplacements/Bountiful_Wish">Großzügiger Wunsch</string>
+    <string name="ConversationTagReplacements/Bug Catching Comp">Insekten fangen Wettbewerb</string>
+    <string name="ConversationTagReplacements/Comp Log Book">Fahrtenbuch</string>
+    <string name="ConversationTagReplacements/Dangerous_Wish">Gefährlicher Wunsch</string>
+    <string name="ConversationTagReplacements/Day">Tag</string>
+    <string name="ConversationTagReplacements/Dink">Dink</string>
+    <string name="ConversationTagReplacements/Dinks">Dinks</string>
+    <string name="ConversationTagReplacements/Fishing Comp">Anglerwettbewerb</string>
+    <string name="ConversationTagReplacements/Flying Lanterns">Fliegende Laternen</string>
+    <string name="ConversationTagReplacements/Fortuitous_Wish">Zufälliger Wunsch</string>
+    <string name="ConversationTagReplacements/Journal">Journal</string>
+    <string name="ConversationTagReplacements/Kite">Drachen</string>
+    <string name="ConversationTagReplacements/Licence">Lizenz</string>
+    <string name="ConversationTagReplacements/Licences">Lizenzen</string>
+    <string name="ConversationTagReplacements/Nomad">Nomade</string>
+    <string name="ConversationTagReplacements/Nomads">Nomaden</string>
+    <string name="ConversationTagReplacements/Peaceful_Wish">Friedlicher Wunsch</string>
+    <string name="ConversationTagReplacements/Permit Points">Erlaubnispunkte</string>
+    <string name="ConversationTagReplacements/PetName1">Schatz</string>
+    <string name="ConversationTagReplacements/PetName2">Liebling</string>
+    <string name="ConversationTagReplacements/PetName3">Bärchen</string>
+    <string name="ConversationTagReplacements/Regretful_Wish">Bedauernder Wunsch</string>
+    <string name="ConversationTagReplacements/Shift">Schicht</string>
+    <string name="ConversationTagReplacements/Shifts">Schichten</string>
+    <string name="ConversationTagReplacements/Sky Fest">Himmelsfest</string>
+    <string name="ConversationTagReplacements/Snag">Bratwurst</string>
+    <string name="ConversationTagReplacements/Snag Sizzle">Bratwurst brutzeln</string>
+    <string name="ConversationTagReplacements/Snags">Bratwürste</string>
+    <string name="ConversationTagReplacements/SouthCity">Südstadt</string>
+    <string name="ConversationTagReplacements/Spotless_Wish">Makelloser Wunsch</string>
+    <string name="ConversationTagReplacements/Year">Jahr</string>
+    <string name="ConversationTagReplacements/Aurora">Polarlicht</string>
+</resources>
