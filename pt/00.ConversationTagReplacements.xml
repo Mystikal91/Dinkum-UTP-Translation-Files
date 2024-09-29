@@ -1,2 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="ConversationTagReplacements/Comp Log Book">Livro de Registro de Competição</string>
+    <string name="ConversationTagReplacements/Island Day">Dia da &lt;IslandName&gt;</string>
+    <string name="ConversationTagReplacements/No_Wish">Nenhum desejo foi feito...</string>
+    <string name="ConversationTagReplacements/SouthCity">South City</string>
+    <string name="ConversationTagReplacements/Airship">Dirigível</string>
+    <string name="ConversationTagReplacements/Airships">Dirigíveis</string>
+    <string name="ConversationTagReplacements/Aurora">Aurora</string>
+    <string name="ConversationTagReplacements/Birthday">Aniversário</string>
+    <string name="ConversationTagReplacements/Bountiful_Wish">Desejo abundante</string>
+    <string name="ConversationTagReplacements/Bug Catching Comp">Compilação de captura de bugs</string>
+    <string name="ConversationTagReplacements/Dangerous_Wish">Desejo Perigoso</string>
+    <string name="ConversationTagReplacements/Day">Dia</string>
+    <string name="ConversationTagReplacements/Dink">Dink</string>
+    <string name="ConversationTagReplacements/Dinks">Dinks</string>
+    <string name="ConversationTagReplacements/Fishing Comp">Compilação de Pesca</string>
+    <string name="ConversationTagReplacements/Flying Lantern">Lanterna Voadora</string>
+    <string name="ConversationTagReplacements/Flying Lanterns">Lanternas Voadoras</string>
+    <string name="ConversationTagReplacements/Fortuitous_Wish">Desejo Fortuito</string>
+    <string name="ConversationTagReplacements/Journal">Diário</string>
+    <string name="ConversationTagReplacements/Kite">Pipa</string>
+    <string name="ConversationTagReplacements/Licence">Licença</string>
+    <string name="ConversationTagReplacements/Licences">Licenças</string>
+    <string name="ConversationTagReplacements/Nomad">Nômade</string>
+    <string name="ConversationTagReplacements/Nomads">Nômades</string>
+    <string name="ConversationTagReplacements/Peaceful_Wish">Desejo Pacífico</string>
+    <string name="ConversationTagReplacements/Permit Points">Autorizações</string>
+    <string name="ConversationTagReplacements/PetName1">meu bem</string>
+    <string name="ConversationTagReplacements/PetName2">amor</string>
+    <string name="ConversationTagReplacements/PetName3">cuíca</string>
+    <string name="ConversationTagReplacements/Regretful_Wish">Desejo arrependido</string>
+    <string name="ConversationTagReplacements/Shift">Turno</string>
+    <string name="ConversationTagReplacements/Shifts">Turnos</string>
+    <string name="ConversationTagReplacements/Sky Fest">Festival do Céu</string>
+    <string name="ConversationTagReplacements/Snag">Salsicha</string>
+    <string name="ConversationTagReplacements/Snag Sizzle">Salsicha de Churrasco</string>
+    <string name="ConversationTagReplacements/Snag Sizzles">Salsichas de Churrasco</string>
+    <string name="ConversationTagReplacements/Snags">Salsichas</string>
+    <string name="ConversationTagReplacements/Spotless_Wish">Desejo impecável</string>
+    <string name="ConversationTagReplacements/Year">Ano</string>
+    <string name="ConversationTagReplacements/Johns Anniversary">Aniversário de bens de John</string>
+</resources>
