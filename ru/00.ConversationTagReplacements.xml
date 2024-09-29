@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="ConversationTagReplacements/Fishing Comp">День рыбака</string>
+    <string name="ConversationTagReplacements/Nomads">Странники</string>
+    <string name="ConversationTagReplacements/Aurora">Северное сияние</string>
+    <string name="ConversationTagReplacements/Snag Sizzle">Колбаска на гриле</string>
+    <string name="ConversationTagReplacements/Island Day">День &lt;IslandName&gt;</string>
+    <string name="ConversationTagReplacements/Airship">Дирижабль</string>
+    <string name="ConversationTagReplacements/Airships">Дирижабли</string>
+    <string name="ConversationTagReplacements/Birthday">День рождения</string>
+    <string name="ConversationTagReplacements/Bug Catching Comp">День энтомолога</string>
+    <string name="ConversationTagReplacements/Comp Log Book">Дневник конкурса</string>
+    <string name="ConversationTagReplacements/Day">день</string>
+    <string name="ConversationTagReplacements/Dink">Динк</string>
+    <string name="ConversationTagReplacements/Flying Lantern">Небесный фонарик</string>
+    <string name="ConversationTagReplacements/Flying Lanterns">Небесные фонарики</string>
+    <string name="ConversationTagReplacements/Journal">Дневник</string>
+    <string name="ConversationTagReplacements/Kite">Воздушный змей</string>
+    <string name="ConversationTagReplacements/Licence">Лицензия</string>
+    <string name="ConversationTagReplacements/Licences">Лицензии</string>
+    <string name="ConversationTagReplacements/Nomad">Странник</string>
+    <string name="ConversationTagReplacements/Permit Points">Пропускные баллы</string>
+    <string name="ConversationTagReplacements/PetName1">Дарл</string>
+    <string name="ConversationTagReplacements/PetName2">Любимчик</string>
+    <string name="ConversationTagReplacements/PetName3">Поссум</string>
+    <string name="ConversationTagReplacements/Shift">Смена</string>
+    <string name="ConversationTagReplacements/Shifts">Смены</string>
+    <string name="ConversationTagReplacements/Sky Fest">День неба</string>
+    <string name="ConversationTagReplacements/Snag">Колбаска</string>
+    <string name="ConversationTagReplacements/Snag Sizzles">Колбаски на гриле</string>
+    <string name="ConversationTagReplacements/Snags">Колбаски</string>
+    <string name="ConversationTagReplacements/SouthCity">Южный город</string>
+    <string name="ConversationTagReplacements/Year">год</string>
+</resources>
