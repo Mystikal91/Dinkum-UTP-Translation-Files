@@ -1,2 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="ConversationTagReplacements/No_Wish">Tidak ada keinginan yang dibuat...</string>
+    <string name="ConversationTagReplacements/Island Day">&lt;IslandName&gt; Hari</string>
+    <string name="ConversationTagReplacements/Bug Catching Comp">Kompetisi Menangkap Serangga</string>
+    <string name="ConversationTagReplacements/Shift">Menggeser</string>
+    <string name="ConversationTagReplacements/Johns Anniversary">Ulang Tahun Barang John</string>
+    <string name="ConversationTagReplacements/Airship">Kapal Udara</string>
+    <string name="ConversationTagReplacements/Airships">Kapal Udara</string>
+    <string name="ConversationTagReplacements/Aurora">Aurora</string>
+    <string name="ConversationTagReplacements/Birthday">Hari ulang tahun</string>
+    <string name="ConversationTagReplacements/Bountiful_Wish">Harapan yang Berlimpah</string>
+    <string name="ConversationTagReplacements/Comp Log Book">Buku Catatan Kompensasi</string>
+    <string name="ConversationTagReplacements/Dangerous_Wish">Keinginan Berbahaya</string>
+    <string name="ConversationTagReplacements/Day">Hari</string>
+    <string name="ConversationTagReplacements/Dink">Minum</string>
+    <string name="ConversationTagReplacements/Dinks">minuman keras</string>
+    <string name="ConversationTagReplacements/Fishing Comp">Kompetisi Memancing</string>
+    <string name="ConversationTagReplacements/Flying Lantern">Lentera Terbang</string>
+    <string name="ConversationTagReplacements/Flying Lanterns">Lentera Terbang</string>
+    <string name="ConversationTagReplacements/Fortuitous_Wish">Keinginan yang Beruntung</string>
+    <string name="ConversationTagReplacements/Journal">Jurnal</string>
+    <string name="ConversationTagReplacements/Kite">Layang-layang</string>
+    <string name="ConversationTagReplacements/Licence">Lisensi</string>
+    <string name="ConversationTagReplacements/Licences">Lisensi</string>
+    <string name="ConversationTagReplacements/Nomad">Pengembara</string>
+    <string name="ConversationTagReplacements/Nomads">Pengembara</string>
+    <string name="ConversationTagReplacements/Peaceful_Wish">Harapan Damai</string>
+    <string name="ConversationTagReplacements/Permit Points">Titik Izin</string>
+    <string name="ConversationTagReplacements/PetName1">sayang</string>
+    <string name="ConversationTagReplacements/PetName2">Cinta</string>
+    <string name="ConversationTagReplacements/PetName3">posum</string>
+    <string name="ConversationTagReplacements/Regretful_Wish">Keinginan yang Menyesalkan</string>
+    <string name="ConversationTagReplacements/Shifts">Pergeseran</string>
+    <string name="ConversationTagReplacements/Sky Fest">Festival Langit</string>
+    <string name="ConversationTagReplacements/Snag">Merobek</string>
+    <string name="ConversationTagReplacements/Snag Sizzle">Snag Mendesis</string>
+    <string name="ConversationTagReplacements/Snag Sizzles">Snag mendesis</string>
+    <string name="ConversationTagReplacements/Snags">Kendala</string>
+    <string name="ConversationTagReplacements/SouthCity">Kota Selatan</string>
+    <string name="ConversationTagReplacements/Spotless_Wish">Harapan Tanpa Noda</string>
+    <string name="ConversationTagReplacements/Year">Tahun</string>
+</resources>
