@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="ConversationTagReplacements/Dink">金币</string>
+    <string name="ConversationTagReplacements/Snag">香肠</string>
+</resources>
