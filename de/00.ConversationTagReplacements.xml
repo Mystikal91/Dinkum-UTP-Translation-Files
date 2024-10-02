@@ -38,4 +38,7 @@
     <string name="ConversationTagReplacements/Spotless_Wish">Makelloser Wunsch</string>
     <string name="ConversationTagReplacements/Year">Jahr</string>
     <string name="ConversationTagReplacements/Aurora">Polarlicht</string>
+    <string name="ConversationTagReplacements/No_Wish">Es wurde kein Wunsch ausgesprochen...</string>
+    <string name="ConversationTagReplacements/NPC Birthday">{0}s Geburtstag</string>
+    <string name="ConversationTagReplacements/Johns Anniversary">John\'s Laden Jubiläum</string>
 </resources>
