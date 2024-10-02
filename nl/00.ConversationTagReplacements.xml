@@ -1,4 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ConversationTagReplacements/Dink">Dink</string>
+    <string name="ConversationTagReplacements/Flying Lanterns">Vliegende Lantaarns</string>
+    <string name="ConversationTagReplacements/Island Day">&lt;IslandName&gt;Dag</string>
+    <string name="ConversationTagReplacements/Airship">Luchtschip</string>
+    <string name="ConversationTagReplacements/Airships">Luchtschepen</string>
+    <string name="ConversationTagReplacements/Aurora">Aurora</string>
+    <string name="ConversationTagReplacements/Birthday">Verjaardag</string>
+    <string name="ConversationTagReplacements/Bountiful_Wish">Royale Wens</string>
+    <string name="ConversationTagReplacements/Dangerous_Wish">Gevaarlijke Wens</string>
+    <string name="ConversationTagReplacements/Day">Dag</string>
+    <string name="ConversationTagReplacements/Journal">Notitieboekje</string>
+    <string name="ConversationTagReplacements/Kite">Vlieger</string>
+    <string name="ConversationTagReplacements/Licence">Licentie</string>
+    <string name="ConversationTagReplacements/Licences">Licenties</string>
+    <string name="ConversationTagReplacements/Nomad">Nomade</string>
+    <string name="ConversationTagReplacements/Nomads">Nomaden</string>
+    <string name="ConversationTagReplacements/Peaceful_Wish">Vreedzame Wens</string>
+    <string name="ConversationTagReplacements/PetName2">Liefde</string>
+    <string name="ConversationTagReplacements/PetName3">Buidelrat</string>
+    <string name="ConversationTagReplacements/Regretful_Wish">Spijtige Wens</string>
+    <string name="ConversationTagReplacements/Snag">Haak</string>
+    <string name="ConversationTagReplacements/SouthCity">Zuidstadt</string>
+    <string name="ConversationTagReplacements/Spotless_Wish">Onberispelijk Verlangen</string>
+    <string name="ConversationTagReplacements/Year">Jaar</string>
+    <string name="ConversationTagReplacements/NPC Birthday">{0}s Verjaardag</string>
+    <string name="ConversationTagReplacements/Johns Anniversary">John\'s Goederen Jubileum</string>
+    <string name="ConversationTagReplacements/Dinks">Dinks</string>
+    <string name="ConversationTagReplacements/Flying Lantern">Vliegende Lantaarn</string>
+    <string name="ConversationTagReplacements/Fortuitous_Wish">Willekeurige Wens</string>
+    <string name="ConversationTagReplacements/No_Wish">Er is geen wens gedaan...</string>
 </resources>
