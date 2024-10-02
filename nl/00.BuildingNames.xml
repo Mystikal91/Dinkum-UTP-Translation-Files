@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Airport">Luchthaven</string>
+    <string name="BuildingNames/Band Stand">Muziektent</string>
+    <string name="BuildingNames/Base Tent">Basis Tentje</string>
+    <string name="BuildingNames/Franklyn's Lab">Franklins Laboratorium</string>
+    <string name="BuildingNames/Guest House">Pension</string>
+    <string name="BuildingNames/House">Huis</string>
+    <string name="BuildingNames/Irwin's Barn">Irwins Schuur</string>
+    <string name="BuildingNames/John's Goods">John\'s Goederen</string>
+    <string name="BuildingNames/Melvin's Place">Melvins Plek</string>
+    <string name="BuildingNames/Mine">Mijne</string>
+    <string name="BuildingNames/Sally's Salon">Sallys Salon</string>
+    <string name="BuildingNames/The Bank">Bank</string>
+    <string name="BuildingNames/The Greenhouse">De Kas</string>
+    <string name="BuildingNames/The Museum">Het Museum</string>
+    <string name="BuildingNames/Town Hall">Stadhuis</string>
+    <string name="BuildingNames/Visitor's Site">Bezoekersplaats</string>
+    <string name="BuildingNames/Wish Fountain">Het beste gewenst</string>
+    <string name="BuildingNames/Players House">{0}s Huis</string>
+    <string name="BuildingNames/Tele Pad">Telecommunicatietorenplatform</string>
+    <string name="BuildingNames/The Tuckerbox">Restaurant</string>
+    <string name="BuildingNames/Threadspace">Maatwerk</string>
+    <string name="BuildingNames/Docks">Steiger</string>
+</resources>
