@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="BuildingNames/Band Stand">Kiosque à musique</string>
+    <string name="BuildingNames/Base Tent">Tente de base</string>
+    <string name="BuildingNames/Docks">Jetée</string>
+    <string name="BuildingNames/Franklyn's Lab">Le laboratoire de Franklyn</string>
+    <string name="BuildingNames/Guest House">Maison d\'hôtes</string>
+    <string name="BuildingNames/House">Maison</string>
+    <string name="BuildingNames/Irwin's Barn">La grange d\'Irwin</string>
+    <string name="BuildingNames/John's Goods">Commerce de détail de John</string>
+    <string name="BuildingNames/Melvin's Place">La place de Melvin</string>
+    <string name="BuildingNames/Mine">Le mien</string>
+    <string name="BuildingNames/Sally's Salon">Le salon de Sally</string>
+    <string name="BuildingNames/The Bank">La Banque</string>
+    <string name="BuildingNames/The Greenhouse">La serre</string>
+    <string name="BuildingNames/The Museum">Le Musée</string>
+    <string name="BuildingNames/Town Hall">La Mairie</string>
+    <string name="BuildingNames/Visitor's Site">Lieu de visite</string>
+    <string name="BuildingNames/Wish Fountain">Je souhaite bonne chance</string>
+    <string name="BuildingNames/Tele Pad">Plateforme de tour de télécommunication</string>
+    <string name="BuildingNames/The Tuckerbox">Restaurant</string>
+    <string name="BuildingNames/Threadspace">Adaptation</string>
+    <string name="BuildingNames/Airport">Aéroport</string>
+</resources>
